@@ -1,0 +1,1555 @@
+panel_id,panel_name,canal,n_genes_panel,n_nodes,n_edges,density
+1141,Acute rhabdomyolysis,textmining,59,59,821,0.4798363530099357
+1141,Acute rhabdomyolysis,coexpression,59,59,684,0.39976621858562245
+1141,Acute rhabdomyolysis,experiments,59,59,174,0.1016949152542373
+1141,Acute rhabdomyolysis,database,59,59,73,0.04266510812390415
+1141,Acute rhabdomyolysis,combined_score,59,59,248,0.14494447691408535
+1141,Acute rhabdomyolysis,phenotypeHPOext,59,50,133,0.10857142857142858
+1141,Acute rhabdomyolysis,physicalBIOGRID,59,57,27,0.016917293233082706
+399,Additional findings health related,textmining,13,13,52,0.6666666666666666
+399,Additional findings health related,coexpression,13,13,38,0.48717948717948717
+399,Additional findings health related,experiments,13,13,17,0.21794871794871795
+399,Additional findings health related,database,13,13,13,0.16666666666666666
+399,Additional findings health related,combined_score,13,13,34,0.4358974358974359
+399,Additional findings health related,phenotypeHPOext,13,13,9,0.11538461538461538
+399,Additional findings health related,physicalBIOGRID,13,13,10,0.12820512820512822
+540,"Adult onset dystonia, chorea or related movement disorder",textmining,84,84,1293,0.37091222030981064
+540,"Adult onset dystonia, chorea or related movement disorder",coexpression,84,84,783,0.22461273666092943
+540,"Adult onset dystonia, chorea or related movement disorder",experiments,84,84,385,0.11044176706827309
+540,"Adult onset dystonia, chorea or related movement disorder",database,84,84,36,0.010327022375215145
+540,"Adult onset dystonia, chorea or related movement disorder",combined_score,84,84,441,0.12650602409638553
+540,"Adult onset dystonia, chorea or related movement disorder",phenotypeHPOext,84,69,454,0.19352088661551578
+540,"Adult onset dystonia, chorea or related movement disorder",physicalBIOGRID,84,82,43,0.012947907256850346
+567,Adult onset hereditary spastic paraplegia,textmining,96,96,2162,0.47412280701754383
+567,Adult onset hereditary spastic paraplegia,coexpression,96,96,1413,0.30986842105263157
+567,Adult onset hereditary spastic paraplegia,experiments,96,96,266,0.058333333333333334
+567,Adult onset hereditary spastic paraplegia,database,96,96,36,0.007894736842105263
+567,Adult onset hereditary spastic paraplegia,combined_score,96,96,767,0.1682017543859649
+567,Adult onset hereditary spastic paraplegia,phenotypeHPOext,96,81,1149,0.35462962962962963
+567,Adult onset hereditary spastic paraplegia,physicalBIOGRID,96,89,28,0.0071501532175689475
+579,Adult onset leukodystrophy,textmining,94,93,1065,0.24894810659186534
+579,Adult onset leukodystrophy,coexpression,94,93,847,0.19798971482000935
+579,Adult onset leukodystrophy,experiments,94,93,322,0.07526881720430108
+579,Adult onset leukodystrophy,database,94,93,170,0.039738195418419824
+579,Adult onset leukodystrophy,combined_score,94,93,345,0.08064516129032258
+579,Adult onset leukodystrophy,phenotypeHPOext,94,86,848,0.2320109439124487
+579,Adult onset leukodystrophy,physicalBIOGRID,94,90,72,0.017977528089887642
+474,Adult onset neurodegenerative disorder,textmining,149,149,3483,0.3158897152185743
+474,Adult onset neurodegenerative disorder,coexpression,149,149,2438,0.22111373118084526
+474,Adult onset neurodegenerative disorder,experiments,149,149,1077,0.09767821512787955
+474,Adult onset neurodegenerative disorder,database,149,149,119,0.010792671866497369
+474,Adult onset neurodegenerative disorder,combined_score,149,149,1069,0.09695265735534192
+474,Adult onset neurodegenerative disorder,phenotypeHPOext,149,124,1211,0.15879884605297664
+474,Adult onset neurodegenerative disorder,physicalBIOGRID,149,146,218,0.02059518186112423
+245,Adult solid tumours cancer susceptibility,textmining,99,98,3001,0.631390700610141
+245,Adult solid tumours cancer susceptibility,coexpression,99,98,2171,0.4567641489585525
+245,Adult solid tumours cancer susceptibility,experiments,99,98,1130,0.2377445823690301
+245,Adult solid tumours cancer susceptibility,database,99,98,412,0.08668209551861981
+245,Adult solid tumours cancer susceptibility,combined_score,99,98,1443,0.30359772775089416
+245,Adult solid tumours cancer susceptibility,phenotypeHPOext,99,95,1258,0.28174692049272115
+245,Adult solid tumours cancer susceptibility,physicalBIOGRID,99,99,284,0.058544629973201395
+391,Adult solid tumours for rare disease,textmining,57,57,1315,0.8239348370927317
+391,Adult solid tumours for rare disease,coexpression,57,57,847,0.5307017543859649
+391,Adult solid tumours for rare disease,experiments,57,57,419,0.262531328320802
+391,Adult solid tumours for rare disease,database,57,57,123,0.07706766917293233
+391,Adult solid tumours for rare disease,combined_score,57,57,660,0.4135338345864662
+391,Adult solid tumours for rare disease,phenotypeHPOext,57,54,206,0.14395527603074773
+391,Adult solid tumours for rare disease,physicalBIOGRID,57,57,108,0.06766917293233082
+511,Albinism or congenital nystagmus,textmining,40,40,351,0.45
+511,Albinism or congenital nystagmus,coexpression,40,40,187,0.23974358974358972
+511,Albinism or congenital nystagmus,experiments,40,40,64,0.08205128205128205
+511,Albinism or congenital nystagmus,database,40,40,44,0.05641025641025642
+511,Albinism or congenital nystagmus,combined_score,40,40,205,0.26282051282051283
+511,Albinism or congenital nystagmus,phenotypeHPOext,40,33,134,0.2537878787878788
+511,Albinism or congenital nystagmus,physicalBIOGRID,40,37,16,0.024024024024024024
+269,Amelogenesis imperfecta,textmining,43,43,442,0.4894795127353267
+269,Amelogenesis imperfecta,coexpression,43,43,220,0.24363233665559247
+269,Amelogenesis imperfecta,experiments,43,43,89,0.09856035437430787
+269,Amelogenesis imperfecta,database,43,43,33,0.036544850498338874
+269,Amelogenesis imperfecta,combined_score,43,43,210,0.23255813953488372
+269,Amelogenesis imperfecta,phenotypeHPOext,43,34,95,0.16934046345811052
+269,Amelogenesis imperfecta,physicalBIOGRID,43,35,5,0.008403361344537815
+263,Amyotrophic lateral sclerosis/motor neuron disease,textmining,23,23,225,0.8893280632411067
+263,Amyotrophic lateral sclerosis/motor neuron disease,coexpression,23,23,160,0.6324110671936759
+263,Amyotrophic lateral sclerosis/motor neuron disease,experiments,23,23,94,0.3715415019762846
+263,Amyotrophic lateral sclerosis/motor neuron disease,database,23,23,9,0.03557312252964427
+263,Amyotrophic lateral sclerosis/motor neuron disease,combined_score,23,23,176,0.6956521739130435
+263,Amyotrophic lateral sclerosis/motor neuron disease,phenotypeHPOext,23,22,68,0.29437229437229434
+263,Amyotrophic lateral sclerosis/motor neuron disease,physicalBIOGRID,23,22,20,0.08658008658008658
+34,Anophthalmia or microphthalmia,textmining,40,40,277,0.35512820512820514
+34,Anophthalmia or microphthalmia,coexpression,40,40,173,0.2217948717948718
+34,Anophthalmia or microphthalmia,experiments,40,40,90,0.11538461538461539
+34,Anophthalmia or microphthalmia,database,40,40,9,0.011538461538461539
+34,Anophthalmia or microphthalmia,combined_score,40,40,91,0.11666666666666667
+34,Anophthalmia or microphthalmia,phenotypeHPOext,40,36,186,0.29523809523809524
+34,Anophthalmia or microphthalmia,physicalBIOGRID,40,37,10,0.015015015015015017
+134,Arrhythmogenic right ventricular cardiomyopathy,textmining,12,12,56,0.8484848484848485
+134,Arrhythmogenic right ventricular cardiomyopathy,coexpression,12,12,37,0.5606060606060607
+134,Arrhythmogenic right ventricular cardiomyopathy,experiments,12,12,25,0.37878787878787884
+134,Arrhythmogenic right ventricular cardiomyopathy,database,12,12,11,0.16666666666666666
+134,Arrhythmogenic right ventricular cardiomyopathy,combined_score,12,12,38,0.5757575757575757
+134,Arrhythmogenic right ventricular cardiomyopathy,phenotypeHPOext,12,11,12,0.21818181818181817
+134,Arrhythmogenic right ventricular cardiomyopathy,physicalBIOGRID,12,12,12,0.18181818181818182
+258,Arthrogryposis,textmining,178,178,3098,0.19666095346918044
+258,Arthrogryposis,coexpression,178,178,2007,0.12740430394210628
+258,Arthrogryposis,experiments,178,178,1037,0.06582873103535834
+258,Arthrogryposis,database,178,178,227,0.01440995365962039
+258,Arthrogryposis,combined_score,178,178,813,0.05160921729194439
+258,Arthrogryposis,phenotypeHPOext,178,150,2105,0.1883668903803132
+258,Arthrogryposis,physicalBIOGRID,178,170,145,0.010093978419770274
+477,Ataxia and cerebellar anomalies - narrow panel,textmining,278,277,5060,0.13237063778580024
+477,Ataxia and cerebellar anomalies - narrow panel,coexpression,278,277,4035,0.10555642756239209
+477,Ataxia and cerebellar anomalies - narrow panel,experiments,278,277,1370,0.0358394809815309
+477,Ataxia and cerebellar anomalies - narrow panel,database,278,277,245,0.006409250248521949
+477,Ataxia and cerebellar anomalies - narrow panel,combined_score,278,277,1018,0.026631088787736096
+477,Ataxia and cerebellar anomalies - narrow panel,phenotypeHPOext,278,193,4364,0.23553540587219343
+477,Ataxia and cerebellar anomalies - narrow panel,physicalBIOGRID,278,269,189,0.0052433002274871006
+139,Atypical haemolytic uraemic syndrome,textmining,11,11,55,1
+139,Atypical haemolytic uraemic syndrome,coexpression,11,11,33,0.6
+139,Atypical haemolytic uraemic syndrome,experiments,11,11,26,0.4727272727272728
+139,Atypical haemolytic uraemic syndrome,database,11,11,18,0.32727272727272727
+139,Atypical haemolytic uraemic syndrome,combined_score,11,11,52,0.9454545454545455
+139,Atypical haemolytic uraemic syndrome,phenotypeHPOext,11,8,9,0.32142857142857145
+139,Atypical haemolytic uraemic syndrome,physicalBIOGRID,11,10,6,0.13333333333333333
+1075,Autoinflammatory disorders,textmining,40,40,435,0.5576923076923077
+1075,Autoinflammatory disorders,coexpression,40,40,359,0.46025641025641023
+1075,Autoinflammatory disorders,experiments,40,40,123,0.15769230769230771
+1075,Autoinflammatory disorders,database,40,40,55,0.07051282051282051
+1075,Autoinflammatory disorders,combined_score,40,40,146,0.18717948717948718
+1075,Autoinflammatory disorders,phenotypeHPOext,40,25,52,0.17333333333333334
+1075,Autoinflammatory disorders,physicalBIOGRID,40,39,49,0.06612685560053981
+282,Autosomal recessive congenital ichthyosis,textmining,14,14,76,0.8351648351648352
+282,Autosomal recessive congenital ichthyosis,coexpression,14,14,65,0.7142857142857143
+282,Autosomal recessive congenital ichthyosis,experiments,14,14,20,0.21978021978021978
+282,Autosomal recessive congenital ichthyosis,database,14,14,2,0.021978021978021976
+282,Autosomal recessive congenital ichthyosis,combined_score,14,14,56,0.6153846153846154
+282,Autosomal recessive congenital ichthyosis,phenotypeHPOext,14,12,29,0.4393939393939394
+282,Autosomal recessive congenital ichthyosis,physicalBIOGRID,14,13,0,0
+543,Bardet Biedl syndrome,textmining,21,21,202,0.9619047619047618
+543,Bardet Biedl syndrome,coexpression,21,21,178,0.8476190476190476
+543,Bardet Biedl syndrome,experiments,21,21,86,0.4095238095238095
+543,Bardet Biedl syndrome,database,21,21,76,0.3619047619047619
+543,Bardet Biedl syndrome,combined_score,21,21,182,0.8666666666666666
+543,Bardet Biedl syndrome,phenotypeHPOext,21,18,146,0.9542483660130718
+543,Bardet Biedl syndrome,physicalBIOGRID,21,20,35,0.18421052631578946
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,textmining,26,24,157,0.5688405797101449
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,coexpression,26,24,113,0.40942028985507245
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,experiments,26,24,102,0.3695652173913043
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,database,26,24,18,0.06521739130434782
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,combined_score,26,24,56,0.2028985507246377
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,phenotypeHPOext,26,18,50,0.32679738562091504
+38,Beckwith-Wiedemann syndrome (BWS) and other congenital overgrowth disorders,physicalBIOGRID,26,24,12,0.043478260869565216
+230,Bilateral congenital or childhood onset cataracts,textmining,133,132,1481,0.17129308350682396
+230,Bilateral congenital or childhood onset cataracts,coexpression,133,132,992,0.114735137635901
+230,Bilateral congenital or childhood onset cataracts,experiments,133,132,420,0.04857737682165163
+230,Bilateral congenital or childhood onset cataracts,database,133,132,178,0.020587554938699976
+230,Bilateral congenital or childhood onset cataracts,combined_score,133,132,581,0.06719870460328475
+230,Bilateral congenital or childhood onset cataracts,phenotypeHPOext,133,105,1025,0.18772893772893776
+230,Bilateral congenital or childhood onset cataracts,physicalBIOGRID,133,129,100,0.012112403100775194
+545,Bleeding and platelet disorders,textmining,112,111,1991,0.3261261261261261
+545,Bleeding and platelet disorders,coexpression,112,111,1368,0.22407862407862408
+545,Bleeding and platelet disorders,experiments,112,111,737,0.12072072072072072
+545,Bleeding and platelet disorders,database,112,111,276,0.04520884520884521
+545,Bleeding and platelet disorders,combined_score,112,111,686,0.11236691236691236
+545,Bleeding and platelet disorders,phenotypeHPOext,112,92,497,0.11872909698996656
+545,Bleeding and platelet disorders,physicalBIOGRID,112,109,81,0.013761467889908256
+90,Brain channelopathy,textmining,22,22,159,0.6883116883116883
+90,Brain channelopathy,coexpression,22,22,133,0.5757575757575758
+90,Brain channelopathy,experiments,22,22,64,0.27705627705627706
+90,Brain channelopathy,database,22,22,14,0.06060606060606061
+90,Brain channelopathy,combined_score,22,22,71,0.30735930735930733
+90,Brain channelopathy,phenotypeHPOext,22,21,53,0.2523809523809524
+90,Brain channelopathy,physicalBIOGRID,22,21,2,0.009523809523809523
+234,CAKUT,textmining,66,66,565,0.2634032634032634
+234,CAKUT,coexpression,66,66,401,0.18694638694638696
+234,CAKUT,experiments,66,66,242,0.11282051282051282
+234,CAKUT,database,66,66,26,0.012121212121212121
+234,CAKUT,combined_score,66,66,108,0.05034965034965035
+234,CAKUT,phenotypeHPOext,66,45,188,0.1898989898989899
+234,CAKUT,physicalBIOGRID,66,64,7,0.003472222222222222
+286,Cerebellar hypoplasia,textmining,61,61,426,0.23278688524590166
+286,Cerebellar hypoplasia,coexpression,61,61,289,0.15792349726775956
+286,Cerebellar hypoplasia,experiments,61,61,85,0.04644808743169399
+286,Cerebellar hypoplasia,database,61,61,39,0.021311475409836068
+286,Cerebellar hypoplasia,combined_score,61,61,153,0.08360655737704918
+286,Cerebellar hypoplasia,phenotypeHPOext,61,50,467,0.3812244897959184
+286,Cerebellar hypoplasia,physicalBIOGRID,61,58,22,0.013309134906231094
+147,Cerebral vascular malformations,textmining,42,42,227,0.26364692218350755
+147,Cerebral vascular malformations,coexpression,42,42,165,0.19163763066202089
+147,Cerebral vascular malformations,experiments,42,42,113,0.13124274099883856
+147,Cerebral vascular malformations,database,42,42,9,0.010452961672473867
+147,Cerebral vascular malformations,combined_score,42,42,64,0.0743321718931475
+147,Cerebral vascular malformations,phenotypeHPOext,42,28,49,0.12962962962962962
+147,Cerebral vascular malformations,physicalBIOGRID,42,38,11,0.015647226173541962
+1638,Childhood interstitial lung disease,textmining,36,35,164,0.27563025210084036
+1638,Childhood interstitial lung disease,coexpression,36,35,114,0.19159663865546217
+1638,Childhood interstitial lung disease,experiments,36,35,46,0.0773109243697479
+1638,Childhood interstitial lung disease,database,36,35,29,0.04873949579831933
+1638,Childhood interstitial lung disease,combined_score,36,35,78,0.13109243697478992
+1638,Childhood interstitial lung disease,phenotypeHPOext,36,23,25,0.09881422924901186
+1638,Childhood interstitial lung disease,physicalBIOGRID,36,33,5,0.00946969696969697
+847,"Childhood onset dystonia, chorea or related movement disorder",textmining,239,237,5047,0.18046914109990703
+847,"Childhood onset dystonia, chorea or related movement disorder",coexpression,239,237,3926,0.14038475291425304
+847,"Childhood onset dystonia, chorea or related movement disorder",experiments,239,237,1483,0.05302867768004005
+847,"Childhood onset dystonia, chorea or related movement disorder",database,239,237,371,0.01326610884645641
+847,"Childhood onset dystonia, chorea or related movement disorder",combined_score,239,237,1223,0.043731674175784885
+847,"Childhood onset dystonia, chorea or related movement disorder",phenotypeHPOext,239,186,4071,0.23661726242371403
+847,"Childhood onset dystonia, chorea or related movement disorder",physicalBIOGRID,239,230,249,0.009455097778621606
+568,Childhood onset hereditary spastic paraplegia,textmining,155,153,2624,0.22566219470244236
+568,Childhood onset hereditary spastic paraplegia,coexpression,155,153,1832,0.15755073959408325
+568,Childhood onset hereditary spastic paraplegia,experiments,155,153,456,0.0392156862745098
+568,Childhood onset hereditary spastic paraplegia,database,155,153,84,0.007223942208462333
+568,Childhood onset hereditary spastic paraplegia,combined_score,155,153,830,0.07137942896456828
+568,Childhood onset hereditary spastic paraplegia,phenotypeHPOext,155,99,1427,0.2941661513090084
+568,Childhood onset hereditary spastic paraplegia,physicalBIOGRID,155,146,53,0.005007085498346717
+243,Childhood solid tumours,textmining,103,102,2869,0.5569792273344982
+243,Childhood solid tumours,coexpression,103,102,2146,0.41661813240147544
+243,Childhood solid tumours,experiments,103,102,1241,0.24092409240924093
+243,Childhood solid tumours,database,103,102,405,0.07862550960978451
+243,Childhood solid tumours,combined_score,103,102,1313,0.2549019607843137
+243,Childhood solid tumours,phenotypeHPOext,103,95,1410,0.31578947368421056
+243,Childhood solid tumours,physicalBIOGRID,103,103,342,0.06510565391205025
+259,Childhood solid tumours cancer susceptibility,textmining,84,84,2248,0.644865174985657
+259,Childhood solid tumours cancer susceptibility,coexpression,84,84,1699,0.4873780837636259
+259,Childhood solid tumours cancer susceptibility,experiments,84,84,981,0.28141135972461273
+259,Childhood solid tumours cancer susceptibility,database,84,84,352,0.10097532989099255
+259,Childhood solid tumours cancer susceptibility,combined_score,84,84,1115,0.3198508318990247
+259,Childhood solid tumours cancer susceptibility,phenotypeHPOext,84,82,1096,0.3300210779885577
+259,Childhood solid tumours cancer susceptibility,physicalBIOGRID,84,84,278,0.07974756167527251
+221,Choanal atresia,textmining,10,10,11,0.24444444444444446
+221,Choanal atresia,coexpression,10,10,10,0.2222222222222222
+221,Choanal atresia,experiments,10,10,11,0.24444444444444446
+221,Choanal atresia,database,10,10,2,0.044444444444444446
+221,Choanal atresia,combined_score,10,10,7,0.15555555555555556
+221,Choanal atresia,phenotypeHPOext,10,9,6,0.16666666666666666
+221,Choanal atresia,physicalBIOGRID,10,10,3,0.06666666666666667
+544,Cholestasis,textmining,74,74,746,0.27619400222139945
+544,Cholestasis,coexpression,74,74,558,0.20659015179563125
+544,Cholestasis,experiments,74,74,180,0.06664198445020363
+544,Cholestasis,database,74,74,64,0.023694927804516847
+544,Cholestasis,combined_score,74,74,180,0.06664198445020363
+544,Cholestasis,phenotypeHPOext,74,58,245,0.14821536600120994
+544,Cholestasis,physicalBIOGRID,74,72,14,0.005477308294209703
+81,Clefting,textmining,225,225,4581,0.18178571428571427
+81,Clefting,coexpression,225,225,3329,0.1321031746031746
+81,Clefting,experiments,225,225,2579,0.10234126984126983
+81,Clefting,database,225,225,233,0.009246031746031747
+81,Clefting,combined_score,225,225,1242,0.04928571428571428
+81,Clefting,phenotypeHPOext,225,184,5149,0.3058327393680209
+81,Clefting,physicalBIOGRID,225,214,321,0.014084507042253521
+244,Colorectal cancer pertinent cancer susceptibility,textmining,13,13,77,0.9871794871794872
+244,Colorectal cancer pertinent cancer susceptibility,coexpression,13,13,64,0.8205128205128206
+244,Colorectal cancer pertinent cancer susceptibility,experiments,13,13,40,0.5128205128205129
+244,Colorectal cancer pertinent cancer susceptibility,database,13,13,12,0.15384615384615385
+244,Colorectal cancer pertinent cancer susceptibility,combined_score,13,13,68,0.8717948717948718
+244,Colorectal cancer pertinent cancer susceptibility,phenotypeHPOext,13,13,17,0.21794871794871795
+244,Colorectal cancer pertinent cancer susceptibility,physicalBIOGRID,13,13,10,0.12820512820512822
+508,Confirmed Fanconi anaemia or Bloom syndrome,textmining,23,23,253,1
+508,Confirmed Fanconi anaemia or Bloom syndrome,coexpression,23,23,218,0.8616600790513833
+508,Confirmed Fanconi anaemia or Bloom syndrome,experiments,23,23,135,0.5335968379446641
+508,Confirmed Fanconi anaemia or Bloom syndrome,database,23,23,136,0.5375494071146245
+508,Confirmed Fanconi anaemia or Bloom syndrome,combined_score,23,23,248,0.9802371541501976
+508,Confirmed Fanconi anaemia or Bloom syndrome,phenotypeHPOext,23,19,134,0.783625730994152
+508,Confirmed Fanconi anaemia or Bloom syndrome,physicalBIOGRID,23,23,92,0.36363636363636365
+145,Congenital adrenal hypoplasia,textmining,18,18,95,0.6209150326797386
+145,Congenital adrenal hypoplasia,coexpression,18,18,51,0.33333333333333337
+145,Congenital adrenal hypoplasia,experiments,18,18,28,0.18300653594771243
+145,Congenital adrenal hypoplasia,database,18,18,5,0.032679738562091505
+145,Congenital adrenal hypoplasia,combined_score,18,18,24,0.1568627450980392
+145,Congenital adrenal hypoplasia,phenotypeHPOext,18,17,8,0.058823529411764705
+145,Congenital adrenal hypoplasia,physicalBIOGRID,18,17,2,0.014705882352941176
+25,Congenital disorders of glycosylation,textmining,106,106,2323,0.41743036837376457
+25,Congenital disorders of glycosylation,coexpression,106,106,1780,0.3198562443845463
+25,Congenital disorders of glycosylation,experiments,106,106,392,0.07044025157232704
+25,Congenital disorders of glycosylation,database,106,106,180,0.03234501347708895
+25,Congenital disorders of glycosylation,combined_score,106,106,766,0.1376460017969452
+25,Congenital disorders of glycosylation,phenotypeHPOext,106,86,597,0.1633378932968536
+25,Congenital disorders of glycosylation,physicalBIOGRID,106,103,51,0.00970873786407767
+308,Congenital hyperinsulinism,textmining,21,21,122,0.5809523809523809
+308,Congenital hyperinsulinism,coexpression,21,21,83,0.3952380952380953
+308,Congenital hyperinsulinism,experiments,21,21,42,0.2
+308,Congenital hyperinsulinism,database,21,21,7,0.03333333333333333
+308,Congenital hyperinsulinism,combined_score,21,21,45,0.21428571428571427
+308,Congenital hyperinsulinism,phenotypeHPOext,21,20,40,0.21052631578947367
+308,Congenital hyperinsulinism,physicalBIOGRID,21,21,2,0.009523809523809523
+31,Congenital hypothyroidism,textmining,33,33,386,0.7310606060606061
+31,Congenital hypothyroidism,coexpression,33,33,176,0.3333333333333333
+31,Congenital hypothyroidism,experiments,33,33,122,0.23106060606060605
+31,Congenital hypothyroidism,database,33,33,7,0.013257575757575758
+31,Congenital hypothyroidism,combined_score,33,33,157,0.29734848484848486
+31,Congenital hypothyroidism,phenotypeHPOext,33,28,172,0.45502645502645506
+31,Congenital hypothyroidism,physicalBIOGRID,33,28,4,0.010582010582010581
+207,Congenital muscular dystrophy,textmining,55,55,678,0.4565656565656566
+207,Congenital muscular dystrophy,coexpression,55,55,396,0.26666666666666666
+207,Congenital muscular dystrophy,experiments,55,55,164,0.11043771043771045
+207,Congenital muscular dystrophy,database,55,55,51,0.03434343434343434
+207,Congenital muscular dystrophy,combined_score,55,55,303,0.20404040404040402
+207,Congenital muscular dystrophy,phenotypeHPOext,55,42,189,0.21951219512195122
+207,Congenital muscular dystrophy,physicalBIOGRID,55,53,25,0.018142235123367198
+232,Congenital myaesthenic syndrome,textmining,29,29,328,0.8078817733990148
+232,Congenital myaesthenic syndrome,coexpression,29,29,152,0.37438423645320196
+232,Congenital myaesthenic syndrome,experiments,29,29,59,0.14532019704433496
+232,Congenital myaesthenic syndrome,database,29,29,19,0.046798029556650245
+232,Congenital myaesthenic syndrome,combined_score,29,29,144,0.35467980295566504
+232,Congenital myaesthenic syndrome,phenotypeHPOext,29,24,75,0.2717391304347826
+232,Congenital myaesthenic syndrome,physicalBIOGRID,29,28,3,0.007936507936507936
+225,Congenital myopathy,textmining,107,104,2066,0.3857356235997013
+225,Congenital myopathy,coexpression,107,104,1431,0.26717699775952203
+225,Congenital myopathy,experiments,107,104,701,0.13088125466766243
+225,Congenital myopathy,database,107,104,129,0.024085138162808068
+225,Congenital myopathy,combined_score,107,104,567,0.10586258401792382
+225,Congenital myopathy,phenotypeHPOext,107,73,465,0.1769406392694064
+225,Congenital myopathy,physicalBIOGRID,107,101,56,0.01108910891089109
+250,Corneal abnormalities,textmining,33,32,182,0.36693548387096775
+250,Corneal abnormalities,coexpression,33,32,91,0.18346774193548387
+250,Corneal abnormalities,experiments,33,32,48,0.0967741935483871
+250,Corneal abnormalities,database,33,32,8,0.016129032258064516
+250,Corneal abnormalities,combined_score,33,32,67,0.1350806451612903
+250,Corneal abnormalities,phenotypeHPOext,33,32,99,0.19959677419354838
+250,Corneal abnormalities,physicalBIOGRID,33,29,2,0.0049261083743842365
+658,Corneal dystrophy,textmining,25,25,120,0.39999999999999997
+658,Corneal dystrophy,coexpression,25,25,63,0.21
+658,Corneal dystrophy,experiments,25,25,42,0.13999999999999999
+658,Corneal dystrophy,database,25,25,4,0.013333333333333334
+658,Corneal dystrophy,combined_score,25,25,51,0.17
+658,Corneal dystrophy,phenotypeHPOext,25,22,63,0.27272727272727276
+658,Corneal dystrophy,physicalBIOGRID,25,24,1,0.003623188405797101
+111,COVID-19 research,textmining,525,517,37305,0.27967702757410823
+111,COVID-19 research,coexpression,525,517,29901,0.22416895326346092
+111,COVID-19 research,experiments,525,517,11612,0.08705561303285202
+111,COVID-19 research,database,525,517,2293,0.017190709669680476
+111,COVID-19 research,combined_score,525,517,11669,0.08748294423702638
+111,COVID-19 research,phenotypeHPOext,525,345,5630,0.09487698011459386
+111,COVID-19 research,physicalBIOGRID,525,518,1473,0.01100050036220249
+560,Cutaneous photosensitivity with a likely genetic cause,textmining,12,12,37,0.5606060606060607
+560,Cutaneous photosensitivity with a likely genetic cause,coexpression,12,12,36,0.5454545454545454
+560,Cutaneous photosensitivity with a likely genetic cause,experiments,12,12,9,0.13636363636363635
+560,Cutaneous photosensitivity with a likely genetic cause,database,12,12,10,0.15151515151515152
+560,Cutaneous photosensitivity with a likely genetic cause,combined_score,12,12,34,0.5151515151515151
+560,Cutaneous photosensitivity with a likely genetic cause,phenotypeHPOext,12,11,12,0.21818181818181817
+560,Cutaneous photosensitivity with a likely genetic cause,physicalBIOGRID,12,12,2,0.0303030303030303
+283,Cystic kidney disease,textmining,48,48,428,0.37943262411347517
+283,Cystic kidney disease,coexpression,48,48,270,0.2393617021276596
+283,Cystic kidney disease,experiments,48,48,176,0.15602836879432624
+283,Cystic kidney disease,database,48,48,21,0.018617021276595744
+283,Cystic kidney disease,combined_score,48,48,210,0.18617021276595744
+283,Cystic kidney disease,phenotypeHPOext,48,37,79,0.11861861861861861
+283,Cystic kidney disease,physicalBIOGRID,48,47,32,0.029602220166512486
+519,Cytopenia - NOT Fanconi anaemia,textmining,108,106,1628,0.29254267744833784
+519,Cytopenia - NOT Fanconi anaemia,coexpression,108,106,1300,0.23360287511230907
+519,Cytopenia - NOT Fanconi anaemia,experiments,108,106,891,0.1601078167115903
+519,Cytopenia - NOT Fanconi anaemia,database,108,106,135,0.02425876010781671
+519,Cytopenia - NOT Fanconi anaemia,combined_score,108,106,728,0.13081761006289308
+519,Cytopenia - NOT Fanconi anaemia,phenotypeHPOext,108,83,431,0.1266529532765207
+519,Cytopenia - NOT Fanconi anaemia,physicalBIOGRID,108,106,216,0.03881401617250674
+159,Cytopenias and congenital anaemias,textmining,117,115,1861,0.28390541571319605
+159,Cytopenias and congenital anaemias,coexpression,117,115,1383,0.21098398169336385
+159,Cytopenias and congenital anaemias,experiments,117,115,619,0.09443173150266972
+159,Cytopenias and congenital anaemias,database,117,115,212,0.03234172387490465
+159,Cytopenias and congenital anaemias,combined_score,117,115,661,0.10083905415713196
+159,Cytopenias and congenital anaemias,phenotypeHPOext,117,112,920,0.148005148005148
+159,Cytopenias and congenital anaemias,physicalBIOGRID,117,115,167,0.02547673531655225
+484,DDG2P,textmining,2195,2182,213034,0.0895299837652991
+484,DDG2P,coexpression,2195,2182,171364,0.07201768796509812
+484,DDG2P,experiments,2195,2182,95715,0.040225327394198124
+484,DDG2P,database,2195,2182,12762,0.005363376985893083
+484,DDG2P,combined_score,2195,2182,40123,0.01686215129329166
+484,DDG2P,phenotypeHPOext,2195,1505,90023,0.07954248250512476
+484,DDG2P,physicalBIOGRID,2195,2094,13550,0.006183343669328471
+251,Deafness and congenital structural abnormalities,textmining,45,45,298,0.301010101010101
+251,Deafness and congenital structural abnormalities,coexpression,45,45,241,0.24343434343434342
+251,Deafness and congenital structural abnormalities,experiments,45,45,162,0.16363636363636364
+251,Deafness and congenital structural abnormalities,database,45,45,29,0.029292929292929294
+251,Deafness and congenital structural abnormalities,combined_score,45,45,96,0.09696969696969697
+251,Deafness and congenital structural abnormalities,phenotypeHPOext,45,42,251,0.29152148664343785
+251,Deafness and congenital structural abnormalities,physicalBIOGRID,45,41,27,0.032926829268292684
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,textmining,45,44,524,0.5539112050739957
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,coexpression,45,44,265,0.28012684989429176
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,experiments,45,44,147,0.15539112050739956
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,database,45,44,21,0.022198731501057084
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,combined_score,45,44,253,0.26744186046511625
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,phenotypeHPOext,45,43,97,0.10741971207087486
+26,Diabetes with additional phenotypes suggestive of a monogenic aetiology,physicalBIOGRID,45,42,7,0.008130081300813007
+9,Differences in sex development,textmining,53,53,715,0.5188679245283019
+9,Differences in sex development,coexpression,53,53,415,0.3011611030478955
+9,Differences in sex development,experiments,53,53,388,0.28156748911465895
+9,Differences in sex development,database,53,53,61,0.04426705370101596
+9,Differences in sex development,combined_score,53,53,279,0.20246734397677796
+9,Differences in sex development,phenotypeHPOext,53,44,165,0.1744186046511628
+9,Differences in sex development,physicalBIOGRID,53,49,23,0.0195578231292517
+652,Dilated and arrhythmogenic cardiomyopathy,textmining,60,60,1053,0.5949152542372882
+652,Dilated and arrhythmogenic cardiomyopathy,coexpression,60,60,718,0.4056497175141243
+652,Dilated and arrhythmogenic cardiomyopathy,experiments,60,60,440,0.2485875706214689
+652,Dilated and arrhythmogenic cardiomyopathy,database,60,60,54,0.030508474576271188
+652,Dilated and arrhythmogenic cardiomyopathy,combined_score,60,60,563,0.31807909604519774
+652,Dilated and arrhythmogenic cardiomyopathy,phenotypeHPOext,60,49,412,0.35034013605442177
+652,Dilated and arrhythmogenic cardiomyopathy,physicalBIOGRID,60,59,45,0.02630040911747516
+47,Dilated Cardiomyopathy and conduction defects,textmining,46,46,649,0.6270531400966183
+47,Dilated Cardiomyopathy and conduction defects,coexpression,46,46,471,0.45507246376811594
+47,Dilated Cardiomyopathy and conduction defects,experiments,46,46,229,0.221256038647343
+47,Dilated Cardiomyopathy and conduction defects,database,46,46,43,0.04154589371980676
+47,Dilated Cardiomyopathy and conduction defects,combined_score,46,46,372,0.35942028985507246
+47,Dilated Cardiomyopathy and conduction defects,phenotypeHPOext,46,44,392,0.4143763213530655
+47,Dilated Cardiomyopathy and conduction defects,physicalBIOGRID,46,44,27,0.02854122621564482
+235,Distal myopathies,textmining,27,27,245,0.698005698005698
+235,Distal myopathies,coexpression,27,27,181,0.5156695156695157
+235,Distal myopathies,experiments,27,27,116,0.3304843304843305
+235,Distal myopathies,database,27,27,4,0.011396011396011395
+235,Distal myopathies,combined_score,27,27,107,0.30484330484330485
+235,Distal myopathies,phenotypeHPOext,27,24,86,0.3115942028985507
+235,Distal myopathies,physicalBIOGRID,27,26,34,0.10461538461538461
+209,Ductal plate malformation,textmining,20,19,76,0.4444444444444444
+209,Ductal plate malformation,coexpression,20,19,47,0.2748538011695907
+209,Ductal plate malformation,experiments,20,19,17,0.09941520467836257
+209,Ductal plate malformation,database,20,19,8,0.04678362573099415
+209,Ductal plate malformation,combined_score,20,19,50,0.2923976608187135
+209,Ductal plate malformation,phenotypeHPOext,20,16,20,0.16666666666666666
+209,Ductal plate malformation,physicalBIOGRID,20,20,6,0.031578947368421054
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),textmining,20,20,129,0.6789473684210526
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),coexpression,20,20,90,0.47368421052631576
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),experiments,20,20,61,0.32105263157894737
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),database,20,20,6,0.031578947368421054
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),combined_score,20,20,67,0.3526315789473684
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),phenotypeHPOext,20,19,44,0.2573099415204678
+265,Early onset dementia (encompassing fronto-temporal dementia and prion disease),physicalBIOGRID,20,20,13,0.06842105263157895
+192,Early onset dystonia,textmining,61,61,703,0.3841530054644809
+192,Early onset dystonia,coexpression,61,61,404,0.22076502732240438
+192,Early onset dystonia,experiments,61,61,180,0.09836065573770493
+192,Early onset dystonia,database,61,61,23,0.01256830601092896
+192,Early onset dystonia,combined_score,61,61,228,0.12459016393442623
+192,Early onset dystonia,phenotypeHPOext,61,50,278,0.22693877551020405
+192,Early onset dystonia,physicalBIOGRID,61,59,12,0.00701344243132671
+402,Early onset or syndromic epilepsy,textmining,828,821,37231,0.11060574552152343
+402,Early onset or syndromic epilepsy,coexpression,828,821,32616,0.09689551706722914
+402,Early onset or syndromic epilepsy,experiments,828,821,13782,0.04094352514779715
+402,Early onset or syndromic epilepsy,database,828,821,2559,0.0076022696889575464
+402,Early onset or syndromic epilepsy,combined_score,828,821,7158,0.021264965390214195
+402,Early onset or syndromic epilepsy,phenotypeHPOext,828,457,16885,0.16205036661676073
+402,Early onset or syndromic epilepsy,physicalBIOGRID,828,795,1987,0.006295645010534988
+553,Ectodermal dysplasia,textmining,55,54,380,0.2655485674353599
+553,Ectodermal dysplasia,coexpression,55,54,255,0.17819706498951782
+553,Ectodermal dysplasia,experiments,55,54,113,0.07896575821104122
+553,Ectodermal dysplasia,database,55,54,32,0.02236198462613557
+553,Ectodermal dysplasia,combined_score,55,54,115,0.08036338225017471
+553,Ectodermal dysplasia,phenotypeHPOext,55,44,202,0.2135306553911205
+553,Ectodermal dysplasia,physicalBIOGRID,55,52,11,0.008295625942684766
+136,Ectodermal dysplasia without a known gene mutation,textmining,22,21,92,0.43809523809523815
+136,Ectodermal dysplasia without a known gene mutation,coexpression,22,21,57,0.27142857142857146
+136,Ectodermal dysplasia without a known gene mutation,experiments,22,21,21,0.1
+136,Ectodermal dysplasia without a known gene mutation,database,22,21,9,0.04285714285714286
+136,Ectodermal dysplasia without a known gene mutation,combined_score,22,21,32,0.15238095238095237
+136,Ectodermal dysplasia without a known gene mutation,phenotypeHPOext,22,21,52,0.24761904761904763
+136,Ectodermal dysplasia without a known gene mutation,physicalBIOGRID,22,21,7,0.03333333333333333
+53,Ehlers Danlos syndrome with a likely monogenic cause,textmining,61,61,1149,0.6278688524590164
+53,Ehlers Danlos syndrome with a likely monogenic cause,coexpression,61,61,927,0.5065573770491804
+53,Ehlers Danlos syndrome with a likely monogenic cause,experiments,61,61,646,0.35300546448087433
+53,Ehlers Danlos syndrome with a likely monogenic cause,database,61,61,92,0.05027322404371584
+53,Ehlers Danlos syndrome with a likely monogenic cause,combined_score,61,61,524,0.2863387978142076
+53,Ehlers Danlos syndrome with a likely monogenic cause,phenotypeHPOext,61,53,451,0.32728592162554426
+53,Ehlers Danlos syndrome with a likely monogenic cause,physicalBIOGRID,61,61,25,0.01366120218579235
+1636,Embryonal tumour of possible germline origin,textmining,26,26,200,0.6153846153846154
+1636,Embryonal tumour of possible germline origin,coexpression,26,26,136,0.41846153846153844
+1636,Embryonal tumour of possible germline origin,experiments,26,26,113,0.3476923076923077
+1636,Embryonal tumour of possible germline origin,database,26,26,15,0.04615384615384615
+1636,Embryonal tumour of possible germline origin,combined_score,26,26,84,0.25846153846153846
+1636,Embryonal tumour of possible germline origin,phenotypeHPOext,26,23,70,0.2766798418972332
+1636,Embryonal tumour of possible germline origin,physicalBIOGRID,26,26,26,0.08
+648,Endocrine neoplasia,textmining,15,15,86,0.819047619047619
+648,Endocrine neoplasia,coexpression,15,15,56,0.5333333333333333
+648,Endocrine neoplasia,experiments,15,15,36,0.34285714285714286
+648,Endocrine neoplasia,database,15,15,11,0.10476190476190475
+648,Endocrine neoplasia,combined_score,15,15,61,0.5809523809523809
+648,Endocrine neoplasia,phenotypeHPOext,15,15,21,0.19999999999999998
+648,Endocrine neoplasia,physicalBIOGRID,15,15,17,0.1619047619047619
+119,Epidermolysis bullosa,textmining,19,19,170,0.9941520467836258
+119,Epidermolysis bullosa,coexpression,19,19,154,0.9005847953216374
+119,Epidermolysis bullosa,experiments,19,19,75,0.43859649122807015
+119,Epidermolysis bullosa,database,19,19,40,0.23391812865497075
+119,Epidermolysis bullosa,combined_score,19,19,104,0.6081871345029239
+119,Epidermolysis bullosa,phenotypeHPOext,19,18,72,0.47058823529411764
+119,Epidermolysis bullosa,physicalBIOGRID,19,19,13,0.07602339181286549
+554,Epidermolysis bullosa and congenital skin fragility,textmining,37,37,354,0.5315315315315315
+554,Epidermolysis bullosa and congenital skin fragility,coexpression,37,37,310,0.4654654654654655
+554,Epidermolysis bullosa and congenital skin fragility,experiments,37,37,156,0.2342342342342342
+554,Epidermolysis bullosa and congenital skin fragility,database,37,37,66,0.0990990990990991
+554,Epidermolysis bullosa and congenital skin fragility,combined_score,37,37,180,0.2702702702702703
+554,Epidermolysis bullosa and congenital skin fragility,phenotypeHPOext,37,30,102,0.23448275862068965
+554,Epidermolysis bullosa and congenital skin fragility,physicalBIOGRID,37,37,24,0.036036036036036036
+314,Extreme early-onset hypertension,textmining,16,16,83,0.6916666666666667
+314,Extreme early-onset hypertension,coexpression,16,16,39,0.325
+314,Extreme early-onset hypertension,experiments,16,16,23,0.19166666666666668
+314,Extreme early-onset hypertension,database,16,16,14,0.11666666666666667
+314,Extreme early-onset hypertension,combined_score,16,16,46,0.38333333333333336
+314,Extreme early-onset hypertension,phenotypeHPOext,16,14,26,0.2857142857142857
+314,Extreme early-onset hypertension,physicalBIOGRID,16,15,6,0.05714285714285715
+158,Familial breast cancer,textmining,13,13,76,0.9743589743589743
+158,Familial breast cancer,coexpression,13,13,55,0.7051282051282052
+158,Familial breast cancer,experiments,13,13,48,0.6153846153846154
+158,Familial breast cancer,database,13,13,37,0.4743589743589744
+158,Familial breast cancer,combined_score,13,13,69,0.8846153846153846
+158,Familial breast cancer,phenotypeHPOext,13,11,8,0.14545454545454545
+158,Familial breast cancer,physicalBIOGRID,13,13,24,0.3076923076923077
+50,Familial cerebral small vessel disease,textmining,13,13,49,0.6282051282051282
+50,Familial cerebral small vessel disease,coexpression,13,13,37,0.4743589743589744
+50,Familial cerebral small vessel disease,experiments,13,13,24,0.3076923076923077
+50,Familial cerebral small vessel disease,database,13,13,6,0.07692307692307693
+50,Familial cerebral small vessel disease,combined_score,13,13,14,0.1794871794871795
+50,Familial cerebral small vessel disease,phenotypeHPOext,13,12,6,0.09090909090909091
+50,Familial cerebral small vessel disease,physicalBIOGRID,13,13,1,0.012820512820512822
+152,Familial diabetes,textmining,49,48,652,0.5780141843971631
+152,Familial diabetes,coexpression,49,48,340,0.30141843971631205
+152,Familial diabetes,experiments,49,48,210,0.18617021276595744
+152,Familial diabetes,database,49,48,22,0.01950354609929078
+152,Familial diabetes,combined_score,49,48,287,0.25443262411347517
+152,Familial diabetes,phenotypeHPOext,49,46,89,0.08599033816425121
+152,Familial diabetes,physicalBIOGRID,49,48,15,0.013297872340425532
+7,Familial dysautonomia,textmining,16,16,73,0.6083333333333333
+7,Familial dysautonomia,coexpression,16,16,29,0.24166666666666667
+7,Familial dysautonomia,experiments,16,16,18,0.15
+7,Familial dysautonomia,database,16,16,3,0.025
+7,Familial dysautonomia,combined_score,16,16,24,0.2
+7,Familial dysautonomia,phenotypeHPOext,16,16,22,0.18333333333333332
+7,Familial dysautonomia,physicalBIOGRID,16,14,6,0.06593406593406594
+63,Familial Hirschsprung Disease,textmining,23,23,143,0.5652173913043478
+63,Familial Hirschsprung Disease,coexpression,23,23,64,0.25296442687747034
+63,Familial Hirschsprung Disease,experiments,23,23,17,0.06719367588932806
+63,Familial Hirschsprung Disease,database,23,23,5,0.019762845849802372
+63,Familial Hirschsprung Disease,combined_score,23,23,50,0.1976284584980237
+63,Familial Hirschsprung Disease,phenotypeHPOext,23,14,30,0.32967032967032966
+63,Familial Hirschsprung Disease,physicalBIOGRID,23,20,4,0.021052631578947368
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,textmining,11,11,55,1
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,coexpression,11,11,24,0.43636363636363634
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,experiments,11,11,17,0.3090909090909091
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,database,11,11,7,0.12727272727272726
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,combined_score,11,11,31,0.5636363636363637
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,phenotypeHPOext,11,11,16,0.2909090909090909
+480,Familial hyperparathyroidism or hypocalciuric hypercalcaemia,physicalBIOGRID,11,11,2,0.03636363636363636
+522,Familial melanoma,textmining,10,10,42,0.9333333333333333
+522,Familial melanoma,coexpression,10,10,22,0.48888888888888893
+522,Familial melanoma,experiments,10,10,22,0.48888888888888893
+522,Familial melanoma,database,10,10,8,0.17777777777777778
+522,Familial melanoma,combined_score,10,10,27,0.6000000000000001
+522,Familial melanoma,phenotypeHPOext,10,10,29,0.6444444444444444
+522,Familial melanoma,physicalBIOGRID,10,10,9,0.2
+212,Familial non syndromic congenital heart disease,textmining,32,32,258,0.5201612903225806
+212,Familial non syndromic congenital heart disease,coexpression,32,32,149,0.3004032258064516
+212,Familial non syndromic congenital heart disease,experiments,32,32,168,0.3387096774193548
+212,Familial non syndromic congenital heart disease,database,32,32,15,0.03024193548387097
+212,Familial non syndromic congenital heart disease,combined_score,32,32,89,0.17943548387096775
+212,Familial non syndromic congenital heart disease,phenotypeHPOext,32,23,42,0.1660079051383399
+212,Familial non syndromic congenital heart disease,physicalBIOGRID,32,29,8,0.019704433497536946
+200,Familial pulmonary fibrosis,textmining,28,27,111,0.3162393162393162
+200,Familial pulmonary fibrosis,coexpression,28,27,67,0.1908831908831909
+200,Familial pulmonary fibrosis,experiments,28,27,22,0.06267806267806267
+200,Familial pulmonary fibrosis,database,28,27,25,0.07122507122507123
+200,Familial pulmonary fibrosis,combined_score,28,27,57,0.1623931623931624
+200,Familial pulmonary fibrosis,phenotypeHPOext,28,24,44,0.15942028985507245
+200,Familial pulmonary fibrosis,physicalBIOGRID,28,27,6,0.017094017094017092
+290,Familial rhabdomyosarcoma,textmining,11,11,49,0.8909090909090909
+290,Familial rhabdomyosarcoma,coexpression,11,11,38,0.6909090909090909
+290,Familial rhabdomyosarcoma,experiments,11,11,23,0.41818181818181815
+290,Familial rhabdomyosarcoma,database,11,11,12,0.21818181818181817
+290,Familial rhabdomyosarcoma,combined_score,11,11,31,0.5636363636363637
+290,Familial rhabdomyosarcoma,phenotypeHPOext,11,11,19,0.34545454545454546
+290,Familial rhabdomyosarcoma,physicalBIOGRID,11,11,16,0.2909090909090909
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,textmining,15,15,92,0.8761904761904763
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,coexpression,15,15,71,0.6761904761904762
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,experiments,15,15,30,0.2857142857142857
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,database,15,15,11,0.10476190476190475
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,combined_score,15,15,54,0.5142857142857143
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,phenotypeHPOext,15,15,28,0.26666666666666666
+167,Familial Tumours Syndromes of the central & peripheral Nervous system,physicalBIOGRID,15,15,14,0.13333333333333333
+478,Fetal anomalies,textmining,2118,2101,193129,0.08754515990118085
+478,Fetal anomalies,coexpression,2118,2101,152152,0.06897033158813264
+478,Fetal anomalies,experiments,2118,2101,92313,0.04184537975113891
+478,Fetal anomalies,database,2118,2101,11184,0.0050696947032025565
+478,Fetal anomalies,combined_score,2118,2101,38263,0.017344575145622265
+478,Fetal anomalies,phenotypeHPOext,2118,1423,85902,0.08490412185582845
+478,Fetal anomalies,physicalBIOGRID,2118,2024,12201,0.0059596263522846945
+144,Fetal hydrops,textmining,75,75,599,0.21585585585585584
+144,Fetal hydrops,coexpression,75,75,506,0.18234234234234234
+144,Fetal hydrops,experiments,75,75,319,0.11495495495495495
+144,Fetal hydrops,database,75,75,137,0.04936936936936937
+144,Fetal hydrops,combined_score,75,75,280,0.1009009009009009
+144,Fetal hydrops,phenotypeHPOext,75,67,669,0.30257801899592945
+144,Fetal hydrops,physicalBIOGRID,75,74,86,0.03184005923731951
+33,Gastrointestinal epithelial barrier disorders,textmining,55,55,742,0.49966329966329964
+33,Gastrointestinal epithelial barrier disorders,coexpression,55,55,540,0.36363636363636365
+33,Gastrointestinal epithelial barrier disorders,experiments,55,55,118,0.07946127946127947
+33,Gastrointestinal epithelial barrier disorders,database,55,55,60,0.0404040404040404
+33,Gastrointestinal epithelial barrier disorders,combined_score,55,55,272,0.18316498316498317
+33,Gastrointestinal epithelial barrier disorders,phenotypeHPOext,55,53,291,0.2111756168359942
+33,Gastrointestinal epithelial barrier disorders,physicalBIOGRID,55,55,27,0.01818181818181818
+61,Gastrointestinal neuromuscular disorders,textmining,21,21,72,0.34285714285714286
+61,Gastrointestinal neuromuscular disorders,coexpression,21,21,56,0.26666666666666666
+61,Gastrointestinal neuromuscular disorders,experiments,21,21,27,0.1285714285714286
+61,Gastrointestinal neuromuscular disorders,database,21,21,5,0.023809523809523808
+61,Gastrointestinal neuromuscular disorders,combined_score,21,21,23,0.10952380952380954
+61,Gastrointestinal neuromuscular disorders,phenotypeHPOext,21,20,23,0.12105263157894736
+61,Gastrointestinal neuromuscular disorders,physicalBIOGRID,21,20,3,0.015789473684210527
+254,GI tract tumours,textmining,16,16,112,0.9333333333333333
+254,GI tract tumours,coexpression,16,16,77,0.6416666666666667
+254,GI tract tumours,experiments,16,16,47,0.39166666666666666
+254,GI tract tumours,database,16,16,13,0.10833333333333334
+254,GI tract tumours,combined_score,16,16,91,0.7583333333333333
+254,GI tract tumours,phenotypeHPOext,16,15,19,0.18095238095238095
+254,GI tract tumours,physicalBIOGRID,16,16,12,0.1
+249,Glaucoma (developmental),textmining,19,19,79,0.4619883040935673
+249,Glaucoma (developmental),coexpression,19,19,47,0.2748538011695907
+249,Glaucoma (developmental),experiments,19,19,32,0.1871345029239766
+249,Glaucoma (developmental),database,19,19,2,0.011695906432748537
+249,Glaucoma (developmental),combined_score,19,19,27,0.15789473684210525
+249,Glaucoma (developmental),phenotypeHPOext,19,18,13,0.08496732026143791
+249,Glaucoma (developmental),physicalBIOGRID,19,18,0,0
+528,Glycogen storage disease,textmining,29,29,335,0.8251231527093595
+528,Glycogen storage disease,coexpression,29,29,280,0.689655172413793
+528,Glycogen storage disease,experiments,29,29,85,0.20935960591133004
+528,Glycogen storage disease,database,29,29,76,0.18719211822660098
+528,Glycogen storage disease,combined_score,29,29,209,0.5147783251231527
+528,Glycogen storage disease,phenotypeHPOext,29,28,35,0.09259259259259259
+528,Glycogen storage disease,physicalBIOGRID,29,29,22,0.0541871921182266
+59,Haematological malignancies cancer susceptibility,textmining,103,101,2046,0.4051485148514851
+59,Haematological malignancies cancer susceptibility,coexpression,103,101,1601,0.31702970297029703
+59,Haematological malignancies cancer susceptibility,experiments,103,101,838,0.16594059405940595
+59,Haematological malignancies cancer susceptibility,database,103,101,400,0.07920792079207921
+59,Haematological malignancies cancer susceptibility,combined_score,103,101,1047,0.20732673267326732
+59,Haematological malignancies cancer susceptibility,phenotypeHPOext,103,84,821,0.2355134825014343
+59,Haematological malignancies cancer susceptibility,physicalBIOGRID,103,103,359,0.06834189986674281
+407,Haematological malignancies for rare disease,textmining,87,87,1764,0.4715316760224539
+407,Haematological malignancies for rare disease,coexpression,87,87,1386,0.37048917401764236
+407,Haematological malignancies for rare disease,experiments,87,87,751,0.20074846297781343
+407,Haematological malignancies for rare disease,database,87,87,376,0.10050788559208768
+407,Haematological malignancies for rare disease,combined_score,87,87,1000,0.2673082063619353
+407,Haematological malignancies for rare disease,phenotypeHPOext,87,74,707,0.26175490559052206
+407,Haematological malignancies for rare disease,physicalBIOGRID,87,87,356,0.09516172146484897
+115,Head and neck cancer pertinent cancer susceptibility,textmining,12,12,66,1
+115,Head and neck cancer pertinent cancer susceptibility,coexpression,12,12,58,0.8787878787878788
+115,Head and neck cancer pertinent cancer susceptibility,experiments,12,12,48,0.7272727272727273
+115,Head and neck cancer pertinent cancer susceptibility,database,12,12,56,0.8484848484848485
+115,Head and neck cancer pertinent cancer susceptibility,combined_score,12,12,66,1
+115,Head and neck cancer pertinent cancer susceptibility,phenotypeHPOext,12,12,66,1
+115,Head and neck cancer pertinent cancer susceptibility,physicalBIOGRID,12,12,37,0.5606060606060607
+20,Hereditary ataxia,textmining,131,131,1807,0.21221374045801528
+20,Hereditary ataxia,coexpression,131,131,1299,0.15255431591309454
+20,Hereditary ataxia,experiments,131,131,396,0.04650616559013506
+20,Hereditary ataxia,database,131,131,66,0.007751027598355842
+20,Hereditary ataxia,combined_score,131,131,395,0.04638872577803875
+20,Hereditary ataxia,phenotypeHPOext,131,117,2120,0.3124078986147952
+20,Hereditary ataxia,physicalBIOGRID,131,127,41,0.005124359455068116
+466,Hereditary ataxia with onset in adulthood,textmining,198,198,3221,0.16515407885966263
+466,Hereditary ataxia with onset in adulthood,coexpression,198,198,2525,0.1294672614469569
+466,Hereditary ataxia with onset in adulthood,experiments,198,198,867,0.044454699277034306
+466,Hereditary ataxia with onset in adulthood,database,198,198,139,0.007127108649951289
+466,Hereditary ataxia with onset in adulthood,combined_score,198,198,645,0.03307183510229196
+466,Hereditary ataxia with onset in adulthood,phenotypeHPOext,198,163,3361,0.2545633568128456
+466,Hereditary ataxia with onset in adulthood,physicalBIOGRID,198,191,100,0.005511160099200882
+157,Hereditary Erythrocytosis,textmining,13,13,58,0.7435897435897436
+157,Hereditary Erythrocytosis,coexpression,13,13,40,0.5128205128205129
+157,Hereditary Erythrocytosis,experiments,13,13,17,0.21794871794871795
+157,Hereditary Erythrocytosis,database,13,13,11,0.14102564102564102
+157,Hereditary Erythrocytosis,combined_score,13,13,27,0.3461538461538462
+157,Hereditary Erythrocytosis,phenotypeHPOext,13,12,9,0.13636363636363635
+157,Hereditary Erythrocytosis,physicalBIOGRID,13,13,9,0.11538461538461538
+85,Hereditary neuropathy,textmining,183,180,3997,0.24810676598386094
+85,Hereditary neuropathy,coexpression,183,180,2649,0.16443202979515828
+85,Hereditary neuropathy,experiments,183,180,930,0.05772811918063315
+85,Hereditary neuropathy,database,183,180,99,0.006145251396648045
+85,Hereditary neuropathy,combined_score,183,180,843,0.05232774674115456
+85,Hereditary neuropathy,phenotypeHPOext,183,155,1933,0.16196062002513614
+85,Hereditary neuropathy,physicalBIOGRID,183,169,192,0.01352493660185968
+846,Hereditary neuropathy or pain disorder,textmining,261,258,6491,0.19578921967846047
+846,Hereditary neuropathy or pain disorder,coexpression,261,258,4746,0.14315446565921636
+846,Hereditary neuropathy or pain disorder,experiments,261,258,1727,0.052091816728501196
+846,Hereditary neuropathy or pain disorder,database,261,258,220,0.006635900220191234
+846,Hereditary neuropathy or pain disorder,combined_score,261,258,1411,0.04256025095768105
+846,Hereditary neuropathy or pain disorder,phenotypeHPOext,261,202,2821,0.13895867198660164
+846,Hereditary neuropathy or pain disorder,physicalBIOGRID,261,242,328,0.011247899591920716
+165,Hereditary spastic paraplegia,textmining,79,79,1417,0.45991561181434604
+165,Hereditary spastic paraplegia,coexpression,79,79,936,0.30379746835443033
+165,Hereditary spastic paraplegia,experiments,79,79,159,0.05160662122687439
+165,Hereditary spastic paraplegia,database,79,79,23,0.007465108730931516
+165,Hereditary spastic paraplegia,combined_score,79,79,587,0.19052255761116518
+165,Hereditary spastic paraplegia,phenotypeHPOext,79,63,865,0.4429083461341526
+165,Hereditary spastic paraplegia,physicalBIOGRID,79,73,21,0.007990867579908675
+502,Hereditary systemic amyloidosis,textmining,12,12,60,0.9090909090909091
+502,Hereditary systemic amyloidosis,coexpression,12,12,43,0.6515151515151515
+502,Hereditary systemic amyloidosis,experiments,12,12,9,0.13636363636363635
+502,Hereditary systemic amyloidosis,database,12,12,37,0.5606060606060607
+502,Hereditary systemic amyloidosis,combined_score,12,12,44,0.6666666666666666
+502,Hereditary systemic amyloidosis,phenotypeHPOext,12,10,10,0.2222222222222222
+502,Hereditary systemic amyloidosis,physicalBIOGRID,12,12,4,0.0606060606060606
+78,Holoprosencephaly,textmining,21,21,99,0.4714285714285714
+78,Holoprosencephaly,coexpression,21,21,55,0.2619047619047619
+78,Holoprosencephaly,experiments,21,21,52,0.24761904761904763
+78,Holoprosencephaly,database,21,21,8,0.03809523809523809
+78,Holoprosencephaly,combined_score,21,21,47,0.22380952380952382
+78,Holoprosencephaly,phenotypeHPOext,21,14,38,0.4175824175824176
+78,Holoprosencephaly,physicalBIOGRID,21,21,6,0.02857142857142857
+179,Hydrocephalus,textmining,94,94,702,0.16060398078242963
+179,Hydrocephalus,coexpression,94,94,476,0.10889956531686112
+179,Hydrocephalus,experiments,94,94,269,0.061541981239990856
+179,Hydrocephalus,database,94,94,59,0.013498055364905056
+179,Hydrocephalus,combined_score,94,94,226,0.05170441546556852
+179,Hydrocephalus,phenotypeHPOext,94,77,622,0.21257689678742311
+179,Hydrocephalus,physicalBIOGRID,94,90,44,0.010986267166042446
+267,Hyperammonaemia,textmining,42,42,597,0.6933797909407665
+267,Hyperammonaemia,coexpression,42,42,520,0.6039488966318235
+267,Hyperammonaemia,experiments,42,42,133,0.15447154471544713
+267,Hyperammonaemia,database,42,42,119,0.13821138211382114
+267,Hyperammonaemia,combined_score,42,42,251,0.29152148664343785
+267,Hyperammonaemia,phenotypeHPOext,42,41,304,0.37073170731707317
+267,Hyperammonaemia,physicalBIOGRID,42,40,28,0.035897435897435895
+49,Hypertrophic cardiomyopathy,textmining,32,31,277,0.5956989247311828
+49,Hypertrophic cardiomyopathy,coexpression,32,31,236,0.5075268817204301
+49,Hypertrophic cardiomyopathy,experiments,32,31,111,0.23870967741935484
+49,Hypertrophic cardiomyopathy,database,32,31,30,0.06451612903225806
+49,Hypertrophic cardiomyopathy,combined_score,32,31,165,0.3548387096774193
+49,Hypertrophic cardiomyopathy,phenotypeHPOext,32,24,51,0.18478260869565216
+49,Hypertrophic cardiomyopathy,physicalBIOGRID,32,31,13,0.02795698924731183
+92,Hypogonadotropic hypogonadism,textmining,33,33,280,0.5303030303030303
+92,Hypogonadotropic hypogonadism,coexpression,33,33,118,0.22348484848484848
+92,Hypogonadotropic hypogonadism,experiments,33,33,61,0.11553030303030302
+92,Hypogonadotropic hypogonadism,database,33,33,13,0.02462121212121212
+92,Hypogonadotropic hypogonadism,combined_score,33,33,145,0.2746212121212121
+92,Hypogonadotropic hypogonadism,phenotypeHPOext,33,31,252,0.5419354838709677
+92,Hypogonadotropic hypogonadism,physicalBIOGRID,33,30,9,0.020689655172413793
+650,Hypogonadotropic hypogonadism (GMS),textmining,39,39,378,0.5101214574898785
+650,Hypogonadotropic hypogonadism (GMS),coexpression,39,39,145,0.19568151147098517
+650,Hypogonadotropic hypogonadism (GMS),experiments,39,39,66,0.08906882591093117
+650,Hypogonadotropic hypogonadism (GMS),database,39,39,17,0.022941970310391364
+650,Hypogonadotropic hypogonadism (GMS),combined_score,39,39,150,0.20242914979757085
+650,Hypogonadotropic hypogonadism (GMS),phenotypeHPOext,39,31,254,0.546236559139785
+650,Hypogonadotropic hypogonadism (GMS),physicalBIOGRID,39,37,11,0.01651651651651652
+482,Hypophosphataemia or rickets,textmining,15,14,71,0.7802197802197802
+482,Hypophosphataemia or rickets,coexpression,15,14,46,0.5054945054945055
+482,Hypophosphataemia or rickets,experiments,15,14,17,0.1868131868131868
+482,Hypophosphataemia or rickets,database,15,14,13,0.14285714285714285
+482,Hypophosphataemia or rickets,combined_score,15,14,43,0.47252747252747257
+482,Hypophosphataemia or rickets,phenotypeHPOext,15,14,30,0.32967032967032966
+482,Hypophosphataemia or rickets,physicalBIOGRID,15,13,0,0
+555,Ichthyosis and erythrokeratoderma,textmining,71,71,936,0.3766599597585513
+555,Ichthyosis and erythrokeratoderma,coexpression,71,71,811,0.3263581488933602
+555,Ichthyosis and erythrokeratoderma,experiments,71,71,331,0.13319919517102616
+555,Ichthyosis and erythrokeratoderma,database,71,71,80,0.03219315895372234
+555,Ichthyosis and erythrokeratoderma,combined_score,71,71,329,0.1323943661971831
+555,Ichthyosis and erythrokeratoderma,phenotypeHPOext,71,56,260,0.16883116883116883
+555,Ichthyosis and erythrokeratoderma,physicalBIOGRID,71,69,28,0.011935208866155159
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,textmining,62,62,883,0.46694870438921204
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,coexpression,62,62,656,0.34690639873083023
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,experiments,62,62,164,0.08672659968270756
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,database,62,62,72,0.03807509254362771
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,combined_score,62,62,320,0.16922263352723427
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,phenotypeHPOext,62,59,332,0.1940385739333723
+176,Infantile enterocolitis & monogenic inflammatory bowel disease,physicalBIOGRID,62,62,29,0.015335801163405605
+246,Infantile nystagmus,textmining,11,11,38,0.6909090909090909
+246,Infantile nystagmus,coexpression,11,11,25,0.4545454545454546
+246,Infantile nystagmus,experiments,11,11,8,0.14545454545454545
+246,Infantile nystagmus,database,11,11,0,0
+246,Infantile nystagmus,combined_score,11,11,30,0.5454545454545454
+246,Infantile nystagmus,phenotypeHPOext,11,10,21,0.4666666666666667
+246,Infantile nystagmus,physicalBIOGRID,11,10,0,0
+175,Inherited bleeding disorders,textmining,107,106,1902,0.3417789757412399
+175,Inherited bleeding disorders,coexpression,107,106,1279,0.2298292902066487
+175,Inherited bleeding disorders,experiments,107,106,707,0.1270440251572327
+175,Inherited bleeding disorders,database,107,106,309,0.055525606469002696
+175,Inherited bleeding disorders,combined_score,107,106,728,0.13081761006289308
+175,Inherited bleeding disorders,phenotypeHPOext,107,92,471,0.11251791686574296
+175,Inherited bleeding disorders,physicalBIOGRID,107,105,85,0.015567765567765568
+143,Inherited ovarian cancer (without breast cancer),textmining,11,11,45,0.8181818181818181
+143,Inherited ovarian cancer (without breast cancer),coexpression,11,11,45,0.8181818181818181
+143,Inherited ovarian cancer (without breast cancer),experiments,11,11,37,0.6727272727272727
+143,Inherited ovarian cancer (without breast cancer),database,11,11,35,0.6363636363636364
+143,Inherited ovarian cancer (without breast cancer),combined_score,11,11,45,0.8181818181818181
+143,Inherited ovarian cancer (without breast cancer),phenotypeHPOext,11,9,12,0.3333333333333333
+143,Inherited ovarian cancer (without breast cancer),physicalBIOGRID,11,11,23,0.41818181818181815
+524,Inherited pancreatic cancer,textmining,12,12,66,1
+524,Inherited pancreatic cancer,coexpression,12,12,54,0.8181818181818182
+524,Inherited pancreatic cancer,experiments,12,12,39,0.5909090909090909
+524,Inherited pancreatic cancer,database,12,12,34,0.5151515151515151
+524,Inherited pancreatic cancer,combined_score,12,12,65,0.9848484848484849
+524,Inherited pancreatic cancer,phenotypeHPOext,12,12,15,0.22727272727272727
+524,Inherited pancreatic cancer,physicalBIOGRID,12,12,25,0.37878787878787884
+97,Inherited phaeochromocytoma and paraganglioma,textmining,13,13,76,0.9743589743589743
+97,Inherited phaeochromocytoma and paraganglioma,coexpression,13,13,51,0.6538461538461539
+97,Inherited phaeochromocytoma and paraganglioma,experiments,13,13,17,0.21794871794871795
+97,Inherited phaeochromocytoma and paraganglioma,database,13,13,14,0.1794871794871795
+97,Inherited phaeochromocytoma and paraganglioma,combined_score,13,13,60,0.7692307692307692
+97,Inherited phaeochromocytoma and paraganglioma,phenotypeHPOext,13,11,22,0.4
+97,Inherited phaeochromocytoma and paraganglioma,physicalBIOGRID,13,13,5,0.06410256410256411
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,textmining,13,13,75,0.9615384615384616
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,coexpression,13,13,44,0.5641025641025641
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,experiments,13,13,18,0.23076923076923075
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,database,13,13,15,0.1923076923076923
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,combined_score,13,13,60,0.7692307692307692
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,phenotypeHPOext,13,11,20,0.36363636363636365
+649,Inherited phaeochromocytoma and paraganglioma excluding NF1,physicalBIOGRID,13,13,7,0.08974358974358974
+504,Inherited polyposis and early onset colorectal cancer - germline testing,textmining,19,19,163,0.9532163742690059
+504,Inherited polyposis and early onset colorectal cancer - germline testing,coexpression,19,19,100,0.584795321637427
+504,Inherited polyposis and early onset colorectal cancer - germline testing,experiments,19,19,57,0.3333333333333333
+504,Inherited polyposis and early onset colorectal cancer - germline testing,database,19,19,18,0.10526315789473684
+504,Inherited polyposis and early onset colorectal cancer - germline testing,combined_score,19,19,133,0.7777777777777778
+504,Inherited polyposis and early onset colorectal cancer - germline testing,phenotypeHPOext,19,16,20,0.16666666666666666
+504,Inherited polyposis and early onset colorectal cancer - germline testing,physicalBIOGRID,19,19,17,0.09941520467836257
+525,Inherited predisposition to acute myeloid leukaemia (AML),textmining,16,15,77,0.7333333333333334
+525,Inherited predisposition to acute myeloid leukaemia (AML),coexpression,16,15,38,0.3619047619047619
+525,Inherited predisposition to acute myeloid leukaemia (AML),experiments,16,15,31,0.29523809523809524
+525,Inherited predisposition to acute myeloid leukaemia (AML),database,16,15,7,0.06666666666666667
+525,Inherited predisposition to acute myeloid leukaemia (AML),combined_score,16,15,42,0.39999999999999997
+525,Inherited predisposition to acute myeloid leukaemia (AML),phenotypeHPOext,16,14,12,0.13186813186813187
+525,Inherited predisposition to acute myeloid leukaemia (AML),physicalBIOGRID,16,16,3,0.025
+521,Inherited renal cancer,textmining,12,12,59,0.893939393939394
+521,Inherited renal cancer,coexpression,12,12,30,0.45454545454545453
+521,Inherited renal cancer,experiments,12,12,16,0.2424242424242424
+521,Inherited renal cancer,database,12,12,9,0.13636363636363635
+521,Inherited renal cancer,combined_score,12,12,29,0.4393939393939394
+521,Inherited renal cancer,phenotypeHPOext,12,11,13,0.2363636363636364
+521,Inherited renal cancer,physicalBIOGRID,12,12,3,0.045454545454545456
+42,Inherited white matter disorders,textmining,138,137,2190,0.23507943323314726
+42,Inherited white matter disorders,coexpression,138,137,1999,0.21457707170459425
+42,Inherited white matter disorders,experiments,138,137,633,0.06794761700300558
+42,Inherited white matter disorders,database,138,137,268,0.028767711464147704
+42,Inherited white matter disorders,combined_score,138,137,766,0.08222413052812365
+42,Inherited white matter disorders,phenotypeHPOext,138,121,2380,0.3278236914600551
+42,Inherited white matter disorders,physicalBIOGRID,138,134,190,0.021321961620469086
+174,Insulin resistance (including lipodystrophy),textmining,16,16,88,0.7333333333333333
+174,Insulin resistance (including lipodystrophy),coexpression,16,16,60,0.5
+174,Insulin resistance (including lipodystrophy),experiments,16,16,28,0.23333333333333334
+174,Insulin resistance (including lipodystrophy),database,16,16,7,0.058333333333333334
+174,Insulin resistance (including lipodystrophy),combined_score,16,16,38,0.31666666666666665
+174,Insulin resistance (including lipodystrophy),phenotypeHPOext,16,16,24,0.2
+174,Insulin resistance (including lipodystrophy),physicalBIOGRID,16,16,6,0.05
+285,Intellectual disability,textmining,1898,1887,161560,0.09079255788756133
+285,Intellectual disability,coexpression,1898,1887,143417,0.08059665928794492
+285,Intellectual disability,experiments,1898,1887,71800,0.04034975028674735
+285,Intellectual disability,database,1898,1887,10859,0.006102478250192054
+285,Intellectual disability,combined_score,1898,1887,30417,0.017093570396545882
+285,Intellectual disability,phenotypeHPOext,1898,1080,73279,0.1257663131157107
+285,Intellectual disability,physicalBIOGRID,1898,1826,10976,0.006587345646596348
+514,Intestinal failure or congenital diarrhoea,textmining,48,48,271,0.2402482269503546
+514,Intestinal failure or congenital diarrhoea,coexpression,48,48,177,0.15691489361702127
+514,Intestinal failure or congenital diarrhoea,experiments,48,48,48,0.0425531914893617
+514,Intestinal failure or congenital diarrhoea,database,48,48,7,0.0062056737588652485
+514,Intestinal failure or congenital diarrhoea,combined_score,48,48,85,0.07535460992907801
+514,Intestinal failure or congenital diarrhoea,phenotypeHPOext,48,38,71,0.10099573257467995
+514,Intestinal failure or congenital diarrhoea,physicalBIOGRID,48,47,18,0.016651248843663275
+315,Intracerebral calcification disorders,textmining,26,26,84,0.25846153846153846
+315,Intracerebral calcification disorders,coexpression,26,26,58,0.17846153846153848
+315,Intracerebral calcification disorders,experiments,26,26,16,0.04923076923076923
+315,Intracerebral calcification disorders,database,26,26,9,0.027692307692307693
+315,Intracerebral calcification disorders,combined_score,26,26,44,0.13538461538461538
+315,Intracerebral calcification disorders,phenotypeHPOext,26,20,78,0.4105263157894737
+315,Intracerebral calcification disorders,physicalBIOGRID,26,24,8,0.02898550724637681
+515,Iron metabolism disorders - NOT common HFE mutations,textmining,21,21,157,0.7476190476190476
+515,Iron metabolism disorders - NOT common HFE mutations,coexpression,21,21,91,0.4333333333333333
+515,Iron metabolism disorders - NOT common HFE mutations,experiments,21,21,21,0.1
+515,Iron metabolism disorders - NOT common HFE mutations,database,21,21,10,0.047619047619047616
+515,Iron metabolism disorders - NOT common HFE mutations,combined_score,21,21,96,0.45714285714285713
+515,Iron metabolism disorders - NOT common HFE mutations,phenotypeHPOext,21,18,25,0.16339869281045752
+515,Iron metabolism disorders - NOT common HFE mutations,physicalBIOGRID,21,19,3,0.017543859649122806
+131,IUGR and IGF abnormalities,textmining,93,92,1284,0.3067367415193502
+131,IUGR and IGF abnormalities,coexpression,93,92,954,0.22790253225035834
+131,IUGR and IGF abnormalities,experiments,93,92,713,0.17032967032967034
+131,IUGR and IGF abnormalities,database,93,92,179,0.04276158623984711
+131,IUGR and IGF abnormalities,combined_score,93,92,503,0.12016244624940277
+131,IUGR and IGF abnormalities,phenotypeHPOext,93,90,1559,0.3892634207240949
+131,IUGR and IGF abnormalities,physicalBIOGRID,93,92,171,0.04085045389393215
+248,Ketotic hypoglycaemia,textmining,27,27,239,0.6809116809116809
+248,Ketotic hypoglycaemia,coexpression,27,27,214,0.6096866096866097
+248,Ketotic hypoglycaemia,experiments,27,27,45,0.12820512820512822
+248,Ketotic hypoglycaemia,database,27,27,47,0.1339031339031339
+248,Ketotic hypoglycaemia,combined_score,27,27,114,0.3247863247863248
+248,Ketotic hypoglycaemia,phenotypeHPOext,27,24,42,0.15217391304347827
+248,Ketotic hypoglycaemia,physicalBIOGRID,27,26,7,0.021538461538461538
+549,Laterality disorders and isomerism,textmining,52,52,749,0.5648567119155354
+549,Laterality disorders and isomerism,coexpression,52,52,572,0.43137254901960786
+549,Laterality disorders and isomerism,experiments,52,52,344,0.25942684766214175
+549,Laterality disorders and isomerism,database,52,52,63,0.04751131221719457
+549,Laterality disorders and isomerism,combined_score,52,52,473,0.35671191553544496
+549,Laterality disorders and isomerism,phenotypeHPOext,52,34,203,0.36185383244206776
+549,Laterality disorders and isomerism,physicalBIOGRID,52,44,3,0.003171247357293869
+467,Likely inborn error of metabolism,textmining,846,822,66203,0.1961971484540543
+467,Likely inborn error of metabolism,coexpression,846,822,60045,0.1779474914871485
+467,Likely inborn error of metabolism,experiments,846,822,16738,0.04960421538032961
+467,Likely inborn error of metabolism,database,846,822,6908,0.0204723336030181
+467,Likely inborn error of metabolism,combined_score,846,822,16375,0.048528439888451264
+467,Likely inborn error of metabolism,phenotypeHPOext,846,671,21711,0.09658562626509777
+467,Likely inborn error of metabolism,physicalBIOGRID,846,779,2981,0.009837277374262038
+384,Limb disorders,textmining,195,193,3541,0.19111614853195166
+384,Limb disorders,coexpression,195,193,2484,0.13406735751295337
+384,Limb disorders,experiments,195,193,1730,0.09337219343696028
+384,Limb disorders,database,195,193,349,0.01883635578583765
+384,Limb disorders,combined_score,195,193,1093,0.05899179620034542
+384,Limb disorders,phenotypeHPOext,195,162,3395,0.2603327965646806
+384,Limb disorders,physicalBIOGRID,195,185,313,0.018390129259694476
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",textmining,85,85,1569,0.43949579831932767
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",coexpression,85,85,959,0.2686274509803922
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",experiments,85,85,418,0.11708683473389356
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",database,85,85,68,0.01904761904761905
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",combined_score,85,85,560,0.1568627450980392
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",phenotypeHPOext,85,69,431,0.18371696504688834
+185,"Limb girdle muscular dystrophies, myofibrillar myopathies and distal myopathies",physicalBIOGRID,85,84,56,0.01606425702811245
+76,Long QT syndrome,textmining,12,12,66,1
+76,Long QT syndrome,coexpression,12,12,28,0.42424242424242425
+76,Long QT syndrome,experiments,12,12,33,0.5
+76,Long QT syndrome,database,12,12,6,0.09090909090909091
+76,Long QT syndrome,combined_score,12,12,56,0.8484848484848485
+76,Long QT syndrome,phenotypeHPOext,12,12,33,0.5
+76,Long QT syndrome,physicalBIOGRID,12,12,7,0.10606060606060606
+529,Lysosomal storage disorder,textmining,56,56,1254,0.8142857142857143
+529,Lysosomal storage disorder,coexpression,56,56,1127,0.7318181818181818
+529,Lysosomal storage disorder,experiments,56,56,291,0.18896103896103894
+529,Lysosomal storage disorder,database,56,56,56,0.03636363636363636
+529,Lysosomal storage disorder,combined_score,56,56,432,0.2805194805194805
+529,Lysosomal storage disorder,phenotypeHPOext,56,52,287,0.21644042232277527
+529,Lysosomal storage disorder,physicalBIOGRID,56,54,22,0.015373864430468204
+96,Malformations of cortical development,textmining,133,133,1990,0.22670312143996355
+96,Malformations of cortical development,coexpression,133,133,1411,0.1607427660059239
+96,Malformations of cortical development,experiments,133,133,870,0.0991114149008886
+96,Malformations of cortical development,database,133,133,211,0.0240373661426293
+96,Malformations of cortical development,combined_score,133,133,519,0.059125085440874914
+96,Malformations of cortical development,phenotypeHPOext,133,88,1139,0.29754440961337514
+96,Malformations of cortical development,physicalBIOGRID,133,129,150,0.018168604651162792
+112,Mitochondrial disorders,textmining,343,319,22078,0.43528321602492065
+112,Mitochondrial disorders,coexpression,343,319,21296,0.4198655389286489
+112,Mitochondrial disorders,experiments,343,319,7307,0.14406261706196644
+112,Mitochondrial disorders,database,343,319,2420,0.04771199306007374
+112,Mitochondrial disorders,combined_score,343,319,7840,0.15457108495494962
+112,Mitochondrial disorders,phenotypeHPOext,343,227,6306,0.2458383688745078
+112,Mitochondrial disorders,physicalBIOGRID,343,298,1617,0.036539895600298286
+534,Mitochondrial disorder with complex I deficiency,textmining,49,49,1164,0.9897959183673469
+534,Mitochondrial disorder with complex I deficiency,coexpression,49,49,1123,0.9549319727891157
+534,Mitochondrial disorder with complex I deficiency,experiments,49,49,819,0.6964285714285715
+534,Mitochondrial disorder with complex I deficiency,database,49,49,1079,0.9175170068027211
+534,Mitochondrial disorder with complex I deficiency,combined_score,49,49,1121,0.9532312925170068
+534,Mitochondrial disorder with complex I deficiency,phenotypeHPOext,49,28,344,0.9100529100529101
+534,Mitochondrial disorder with complex I deficiency,physicalBIOGRID,49,49,404,0.3435374149659864
+536,Mitochondrial disorder with complex III deficiency,textmining,12,12,66,1
+536,Mitochondrial disorder with complex III deficiency,coexpression,12,12,65,0.9848484848484849
+536,Mitochondrial disorder with complex III deficiency,experiments,12,12,27,0.4090909090909091
+536,Mitochondrial disorder with complex III deficiency,database,12,12,28,0.42424242424242425
+536,Mitochondrial disorder with complex III deficiency,combined_score,12,12,63,0.9545454545454546
+536,Mitochondrial disorder with complex III deficiency,phenotypeHPOext,12,9,7,0.19444444444444445
+536,Mitochondrial disorder with complex III deficiency,physicalBIOGRID,12,12,20,0.30303030303030304
+537,Mitochondrial disorder with complex IV deficiency,textmining,36,36,545,0.8650793650793651
+537,Mitochondrial disorder with complex IV deficiency,coexpression,36,36,450,0.7142857142857143
+537,Mitochondrial disorder with complex IV deficiency,experiments,36,36,195,0.30952380952380953
+537,Mitochondrial disorder with complex IV deficiency,database,36,36,122,0.19365079365079366
+537,Mitochondrial disorder with complex IV deficiency,combined_score,36,36,402,0.638095238095238
+537,Mitochondrial disorder with complex IV deficiency,phenotypeHPOext,36,16,66,0.55
+537,Mitochondrial disorder with complex IV deficiency,physicalBIOGRID,36,32,66,0.13306451612903225
+538,Mitochondrial disorder with complex V deficiency,textmining,14,14,91,1
+538,Mitochondrial disorder with complex V deficiency,coexpression,14,14,91,1
+538,Mitochondrial disorder with complex V deficiency,experiments,14,14,72,0.7912087912087913
+538,Mitochondrial disorder with complex V deficiency,database,14,14,66,0.7252747252747253
+538,Mitochondrial disorder with complex V deficiency,combined_score,14,14,80,0.8791208791208791
+538,Mitochondrial disorder with complex V deficiency,phenotypeHPOext,14,2,1,1
+538,Mitochondrial disorder with complex V deficiency,physicalBIOGRID,14,2,0,0
+533,Mitochondrial DNA maintenance disorder,textmining,25,25,243,0.81
+533,Mitochondrial DNA maintenance disorder,coexpression,25,25,204,0.68
+533,Mitochondrial DNA maintenance disorder,experiments,25,25,59,0.19666666666666666
+533,Mitochondrial DNA maintenance disorder,database,25,25,7,0.023333333333333334
+533,Mitochondrial DNA maintenance disorder,combined_score,25,25,145,0.48333333333333334
+533,Mitochondrial DNA maintenance disorder,phenotypeHPOext,25,21,72,0.34285714285714286
+533,Mitochondrial DNA maintenance disorder,physicalBIOGRID,25,25,5,0.016666666666666666
+472,Monogenic diabetes,textmining,43,42,337,0.3914053426248548
+472,Monogenic diabetes,coexpression,43,42,186,0.21602787456445993
+472,Monogenic diabetes,experiments,43,42,121,0.140534262485482
+472,Monogenic diabetes,database,43,42,14,0.016260162601626015
+472,Monogenic diabetes,combined_score,43,42,139,0.1614401858304297
+472,Monogenic diabetes,phenotypeHPOext,43,34,52,0.0926916221033868
+472,Monogenic diabetes,physicalBIOGRID,43,42,16,0.018583042973286876
+126,Monogenic hearing loss,textmining,221,215,5070,0.22038687241903934
+126,Monogenic hearing loss,coexpression,221,215,2397,0.1041947402738535
+126,Monogenic hearing loss,experiments,221,215,1468,0.06381221473592698
+126,Monogenic hearing loss,database,221,215,257,0.011171484459900023
+126,Monogenic hearing loss,combined_score,221,215,1530,0.06650728102586395
+126,Monogenic hearing loss,phenotypeHPOext,221,154,1865,0.15830574654104065
+126,Monogenic hearing loss,physicalBIOGRID,221,192,74,0.004035776614310646
+1471,Monogenic short stature,textmining,91,91,988,0.24126984126984127
+1471,Monogenic short stature,coexpression,91,91,740,0.1807081807081807
+1471,Monogenic short stature,experiments,91,91,573,0.13992673992673993
+1471,Monogenic short stature,database,91,91,246,0.060073260073260075
+1471,Monogenic short stature,combined_score,91,91,502,0.12258852258852258
+1471,Monogenic short stature,phenotypeHPOext,91,65,915,0.43990384615384615
+1471,Monogenic short stature,physicalBIOGRID,91,88,156,0.04075235109717868
+564,Mosaic skin disorders - deep sequencing,textmining,50,50,767,0.6261224489795918
+564,Mosaic skin disorders - deep sequencing,coexpression,50,50,564,0.4604081632653061
+564,Mosaic skin disorders - deep sequencing,experiments,50,50,419,0.34204081632653066
+564,Mosaic skin disorders - deep sequencing,database,50,50,146,0.11918367346938775
+564,Mosaic skin disorders - deep sequencing,combined_score,50,50,429,0.35020408163265304
+564,Mosaic skin disorders - deep sequencing,phenotypeHPOext,50,42,161,0.1869918699186992
+564,Mosaic skin disorders - deep sequencing,physicalBIOGRID,50,50,116,0.0946938775510204
+75,"Mucopolysaccharideosis, Gaucher, Fabry",textmining,17,17,133,0.9779411764705882
+75,"Mucopolysaccharideosis, Gaucher, Fabry",coexpression,17,17,117,0.8602941176470589
+75,"Mucopolysaccharideosis, Gaucher, Fabry",experiments,17,17,33,0.2426470588235294
+75,"Mucopolysaccharideosis, Gaucher, Fabry",database,17,17,14,0.10294117647058823
+75,"Mucopolysaccharideosis, Gaucher, Fabry",combined_score,17,17,77,0.5661764705882353
+75,"Mucopolysaccharideosis, Gaucher, Fabry",phenotypeHPOext,17,17,73,0.5367647058823529
+75,"Mucopolysaccharideosis, Gaucher, Fabry",physicalBIOGRID,17,16,6,0.05
+36,Multiple endocrine tumours,textmining,14,14,84,0.9230769230769231
+36,Multiple endocrine tumours,coexpression,14,14,55,0.6043956043956044
+36,Multiple endocrine tumours,experiments,14,14,18,0.19780219780219782
+36,Multiple endocrine tumours,database,14,14,6,0.06593406593406594
+36,Multiple endocrine tumours,combined_score,14,14,54,0.5934065934065934
+36,Multiple endocrine tumours,phenotypeHPOext,14,12,25,0.37878787878787884
+36,Multiple endocrine tumours,physicalBIOGRID,14,14,5,0.054945054945054944
+385,Neonatal cholestasis,textmining,69,69,745,0.3175618073316283
+385,Neonatal cholestasis,coexpression,69,69,551,0.2348678601875533
+385,Neonatal cholestasis,experiments,69,69,195,0.08312020460358056
+385,Neonatal cholestasis,database,69,69,109,0.046462063086104004
+385,Neonatal cholestasis,combined_score,69,69,225,0.0959079283887468
+385,Neonatal cholestasis,phenotypeHPOext,69,65,357,0.17163461538461539
+385,Neonatal cholestasis,physicalBIOGRID,69,67,26,0.011759384893713252
+293,Neonatal diabetes,textmining,40,38,384,0.546230440967283
+293,Neonatal diabetes,coexpression,40,38,206,0.2930298719772404
+293,Neonatal diabetes,experiments,40,38,115,0.16358463726884778
+293,Neonatal diabetes,database,40,38,18,0.025604551920341393
+293,Neonatal diabetes,combined_score,40,38,214,0.30440967283072545
+293,Neonatal diabetes,phenotypeHPOext,40,30,60,0.13793103448275862
+293,Neonatal diabetes,physicalBIOGRID,40,40,1,0.001282051282051282
+149,Nephrocalcinosis or nephrolithiasis,textmining,36,36,354,0.5619047619047619
+149,Nephrocalcinosis or nephrolithiasis,coexpression,36,36,245,0.3888888888888889
+149,Nephrocalcinosis or nephrolithiasis,experiments,36,36,69,0.10952380952380952
+149,Nephrocalcinosis or nephrolithiasis,database,36,36,25,0.03968253968253968
+149,Nephrocalcinosis or nephrolithiasis,combined_score,36,36,120,0.1904761904761905
+149,Nephrocalcinosis or nephrolithiasis,phenotypeHPOext,36,34,73,0.13012477718360071
+149,Nephrocalcinosis or nephrolithiasis,physicalBIOGRID,36,33,6,0.011363636363636364
+183,Neuroendocrine cancer pertinent cancer susceptibility,textmining,12,12,65,0.9848484848484849
+183,Neuroendocrine cancer pertinent cancer susceptibility,coexpression,12,12,42,0.6363636363636364
+183,Neuroendocrine cancer pertinent cancer susceptibility,experiments,12,12,17,0.25757575757575757
+183,Neuroendocrine cancer pertinent cancer susceptibility,database,12,12,14,0.21212121212121213
+183,Neuroendocrine cancer pertinent cancer susceptibility,combined_score,12,12,48,0.7272727272727273
+183,Neuroendocrine cancer pertinent cancer susceptibility,phenotypeHPOext,12,10,16,0.35555555555555557
+183,Neuroendocrine cancer pertinent cancer susceptibility,physicalBIOGRID,12,12,4,0.0606060606060606
+255,Neurofibromatosis Type 1,textmining,26,26,240,0.7384615384615384
+255,Neurofibromatosis Type 1,coexpression,26,26,201,0.6184615384615385
+255,Neurofibromatosis Type 1,experiments,26,26,103,0.3169230769230769
+255,Neurofibromatosis Type 1,database,26,26,86,0.2646153846153846
+255,Neurofibromatosis Type 1,combined_score,26,26,186,0.5723076923076923
+255,Neurofibromatosis Type 1,phenotypeHPOext,26,26,169,0.52
+255,Neurofibromatosis Type 1,physicalBIOGRID,26,26,57,0.1753846153846154
+724,Neurological ciliopathies,textmining,60,60,971,0.5485875706214689
+724,Neurological ciliopathies,coexpression,60,60,646,0.3649717514124294
+724,Neurological ciliopathies,experiments,60,60,281,0.15875706214689267
+724,Neurological ciliopathies,database,60,60,98,0.05536723163841808
+724,Neurological ciliopathies,combined_score,60,60,460,0.2598870056497175
+724,Neurological ciliopathies,phenotypeHPOext,60,40,476,0.6102564102564103
+724,Neurological ciliopathies,physicalBIOGRID,60,57,64,0.040100250626566414
+526,Neuronal ceroid lipofuscinosis,textmining,14,14,90,0.989010989010989
+526,Neuronal ceroid lipofuscinosis,coexpression,14,14,63,0.6923076923076923
+526,Neuronal ceroid lipofuscinosis,experiments,14,14,21,0.23076923076923078
+526,Neuronal ceroid lipofuscinosis,database,14,14,0,0
+526,Neuronal ceroid lipofuscinosis,combined_score,14,14,79,0.8681318681318682
+526,Neuronal ceroid lipofuscinosis,phenotypeHPOext,14,12,52,0.7878787878787878
+526,Neuronal ceroid lipofuscinosis,physicalBIOGRID,14,14,1,0.010989010989010988
+219,Neurotransmitter disorders,textmining,14,14,69,0.7582417582417583
+219,Neurotransmitter disorders,coexpression,14,14,41,0.4505494505494505
+219,Neurotransmitter disorders,experiments,14,14,17,0.1868131868131868
+219,Neurotransmitter disorders,database,14,14,17,0.1868131868131868
+219,Neurotransmitter disorders,combined_score,14,14,43,0.47252747252747257
+219,Neurotransmitter disorders,phenotypeHPOext,14,12,26,0.3939393939393939
+219,Neurotransmitter disorders,physicalBIOGRID,14,14,2,0.021978021978021976
+253,Non-syndromic familial congenital anorectal malformations,textmining,15,15,36,0.34285714285714286
+253,Non-syndromic familial congenital anorectal malformations,coexpression,15,15,26,0.24761904761904763
+253,Non-syndromic familial congenital anorectal malformations,experiments,15,15,20,0.19047619047619047
+253,Non-syndromic familial congenital anorectal malformations,database,15,15,0,0
+253,Non-syndromic familial congenital anorectal malformations,combined_score,15,15,10,0.09523809523809523
+253,Non-syndromic familial congenital anorectal malformations,phenotypeHPOext,15,12,15,0.22727272727272727
+253,Non-syndromic familial congenital anorectal malformations,physicalBIOGRID,15,14,2,0.021978021978021976
+189,Non-syndromic hypotrichosis,textmining,10,10,24,0.5333333333333333
+189,Non-syndromic hypotrichosis,coexpression,10,10,10,0.2222222222222222
+189,Non-syndromic hypotrichosis,experiments,10,10,4,0.08888888888888889
+189,Non-syndromic hypotrichosis,database,10,10,0,0
+189,Non-syndromic hypotrichosis,combined_score,10,10,16,0.35555555555555557
+189,Non-syndromic hypotrichosis,phenotypeHPOext,10,9,21,0.5833333333333334
+189,Non-syndromic hypotrichosis,physicalBIOGRID,10,9,0,0
+128,Ocular and oculo-cutaneous albinism,textmining,12,12,65,0.9848484848484849
+128,Ocular and oculo-cutaneous albinism,coexpression,12,12,30,0.45454545454545453
+128,Ocular and oculo-cutaneous albinism,experiments,12,12,10,0.15151515151515152
+128,Ocular and oculo-cutaneous albinism,database,12,12,6,0.09090909090909091
+128,Ocular and oculo-cutaneous albinism,combined_score,12,12,57,0.8636363636363636
+128,Ocular and oculo-cutaneous albinism,phenotypeHPOext,12,12,36,0.5454545454545454
+128,Ocular and oculo-cutaneous albinism,physicalBIOGRID,12,11,0,0
+294,Ocular coloboma,textmining,35,35,228,0.38319327731092434
+294,Ocular coloboma,coexpression,35,35,129,0.2168067226890756
+294,Ocular coloboma,experiments,35,35,75,0.12605042016806722
+294,Ocular coloboma,database,35,35,5,0.008403361344537815
+294,Ocular coloboma,combined_score,35,35,70,0.11764705882352941
+294,Ocular coloboma,phenotypeHPOext,35,32,129,0.2600806451612903
+294,Ocular coloboma,physicalBIOGRID,35,31,6,0.012903225806451613
+722,Ophthalmological ciliopathies,textmining,74,74,1749,0.647537948907812
+722,Ophthalmological ciliopathies,coexpression,74,74,1298,0.4805627545353573
+722,Ophthalmological ciliopathies,experiments,74,74,576,0.21325435024065162
+722,Ophthalmological ciliopathies,database,74,74,172,0.06368011847463902
+722,Ophthalmological ciliopathies,combined_score,74,74,924,0.34209552017771194
+722,Ophthalmological ciliopathies,phenotypeHPOext,74,57,1074,0.6729323308270676
+722,Ophthalmological ciliopathies,physicalBIOGRID,74,70,100,0.041407867494824016
+186,Optic neuropathy,textmining,80,77,904,0.30895420369104576
+186,Optic neuropathy,coexpression,80,77,782,0.2672590567327409
+186,Optic neuropathy,experiments,80,77,318,0.10868079289131921
+186,Optic neuropathy,database,80,77,185,0.06322624743677376
+186,Optic neuropathy,combined_score,80,77,387,0.13226247436773753
+186,Optic neuropathy,phenotypeHPOext,80,49,395,0.3358843537414966
+186,Optic neuropathy,physicalBIOGRID,80,73,60,0.0228310502283105
+196,Osteogenesis imperfecta,textmining,40,40,417,0.5346153846153846
+196,Osteogenesis imperfecta,coexpression,40,40,256,0.3282051282051282
+196,Osteogenesis imperfecta,experiments,40,40,84,0.1076923076923077
+196,Osteogenesis imperfecta,database,40,40,34,0.04358974358974359
+196,Osteogenesis imperfecta,combined_score,40,40,223,0.2858974358974359
+196,Osteogenesis imperfecta,phenotypeHPOext,40,27,115,0.32763532763532766
+196,Osteogenesis imperfecta,physicalBIOGRID,40,38,11,0.015647226173541962
+943,Osteopetrosis,textmining,19,19,133,0.7777777777777778
+943,Osteopetrosis,coexpression,19,19,72,0.42105263157894735
+943,Osteopetrosis,experiments,19,19,8,0.04678362573099415
+943,Osteopetrosis,database,19,19,4,0.023391812865497075
+943,Osteopetrosis,combined_score,19,19,55,0.32163742690058483
+943,Osteopetrosis,phenotypeHPOext,19,18,60,0.39215686274509803
+943,Osteopetrosis,physicalBIOGRID,19,19,1,0.005847953216374269
+479,Paediatric disorders - additional genes,textmining,76,76,348,0.12210526315789473
+479,Paediatric disorders - additional genes,coexpression,76,76,243,0.08526315789473683
+479,Paediatric disorders - additional genes,experiments,76,76,190,0.06666666666666667
+479,Paediatric disorders - additional genes,database,76,76,16,0.005614035087719298
+479,Paediatric disorders - additional genes,combined_score,76,76,66,0.023157894736842106
+479,Paediatric disorders - additional genes,phenotypeHPOext,76,37,34,0.05105105105105105
+479,Paediatric disorders - additional genes,physicalBIOGRID,76,71,13,0.005231388329979879
+79,Paediatric motor neuronopathies,textmining,22,22,138,0.5974025974025974
+79,Paediatric motor neuronopathies,coexpression,22,22,84,0.36363636363636365
+79,Paediatric motor neuronopathies,experiments,22,22,23,0.09956709956709957
+79,Paediatric motor neuronopathies,database,22,22,2,0.008658008658008658
+79,Paediatric motor neuronopathies,combined_score,22,22,34,0.14718614718614717
+79,Paediatric motor neuronopathies,phenotypeHPOext,22,21,73,0.3476190476190476
+79,Paediatric motor neuronopathies,physicalBIOGRID,22,21,6,0.02857142857142857
+749,Paediatric or syndromic cardiomyopathy,textmining,210,207,5316,0.24933164485718307
+749,Paediatric or syndromic cardiomyopathy,coexpression,210,207,4298,0.2015852914966465
+749,Paediatric or syndromic cardiomyopathy,experiments,210,207,2031,0.09525819614464612
+749,Paediatric or syndromic cardiomyopathy,database,210,207,637,0.029876647436799398
+749,Paediatric or syndromic cardiomyopathy,combined_score,210,207,2023,0.09488297922236293
+749,Paediatric or syndromic cardiomyopathy,phenotypeHPOext,210,167,2081,0.15013346800375155
+749,Paediatric or syndromic cardiomyopathy,physicalBIOGRID,210,200,444,0.022311557788944725
+1217,Paediatric pseudo-obstruction syndrome,textmining,28,28,144,0.380952380952381
+1217,Paediatric pseudo-obstruction syndrome,coexpression,28,28,85,0.22486772486772486
+1217,Paediatric pseudo-obstruction syndrome,experiments,28,28,34,0.08994708994708994
+1217,Paediatric pseudo-obstruction syndrome,database,28,28,26,0.06878306878306878
+1217,Paediatric pseudo-obstruction syndrome,combined_score,28,28,66,0.17460317460317462
+1217,Paediatric pseudo-obstruction syndrome,phenotypeHPOext,28,21,34,0.1619047619047619
+1217,Paediatric pseudo-obstruction syndrome,physicalBIOGRID,28,26,7,0.021538461538461538
+288,Pain syndromes,textmining,22,22,122,0.5281385281385281
+288,Pain syndromes,coexpression,22,22,66,0.2857142857142857
+288,Pain syndromes,experiments,22,22,37,0.1601731601731602
+288,Pain syndromes,database,22,22,5,0.021645021645021644
+288,Pain syndromes,combined_score,22,22,37,0.1601731601731602
+288,Pain syndromes,phenotypeHPOext,22,20,28,0.14736842105263157
+288,Pain syndromes,physicalBIOGRID,22,19,7,0.04093567251461988
+215,Palmoplantar keratoderma and erythrokeratodermas,textmining,37,37,251,0.3768768768768769
+215,Palmoplantar keratoderma and erythrokeratodermas,coexpression,37,37,228,0.34234234234234234
+215,Palmoplantar keratoderma and erythrokeratodermas,experiments,37,37,106,0.15915915915915915
+215,Palmoplantar keratoderma and erythrokeratodermas,database,37,37,33,0.04954954954954955
+215,Palmoplantar keratoderma and erythrokeratodermas,combined_score,37,37,84,0.12612612612612611
+215,Palmoplantar keratoderma and erythrokeratodermas,phenotypeHPOext,37,35,125,0.21008403361344538
+215,Palmoplantar keratoderma and erythrokeratodermas,physicalBIOGRID,37,37,20,0.030030030030030033
+556,Palmoplantar keratodermas,textmining,62,62,726,0.38392384981491273
+556,Palmoplantar keratodermas,coexpression,62,62,603,0.3188789000528821
+556,Palmoplantar keratodermas,experiments,62,62,244,0.12903225806451613
+556,Palmoplantar keratodermas,database,62,62,85,0.0449497620306716
+556,Palmoplantar keratodermas,combined_score,62,62,287,0.15177154944473822
+556,Palmoplantar keratodermas,phenotypeHPOext,62,51,201,0.15764705882352942
+556,Palmoplantar keratodermas,physicalBIOGRID,62,58,20,0.012099213551119177
+39,Parkinson Disease and Complex Parkinsonism,textmining,40,40,535,0.6858974358974359
+39,Parkinson Disease and Complex Parkinsonism,coexpression,40,40,288,0.36923076923076925
+39,Parkinson Disease and Complex Parkinsonism,experiments,40,40,117,0.15
+39,Parkinson Disease and Complex Parkinsonism,database,40,40,9,0.011538461538461539
+39,Parkinson Disease and Complex Parkinsonism,combined_score,40,40,219,0.28076923076923077
+39,Parkinson Disease and Complex Parkinsonism,phenotypeHPOext,40,33,167,0.3162878787878788
+39,Parkinson Disease and Complex Parkinsonism,physicalBIOGRID,40,39,26,0.03508771929824561
+541,Paroxysmal central nervous system disorders,textmining,26,26,179,0.5507692307692308
+541,Paroxysmal central nervous system disorders,coexpression,26,26,150,0.4615384615384615
+541,Paroxysmal central nervous system disorders,experiments,26,26,75,0.23076923076923075
+541,Paroxysmal central nervous system disorders,database,26,26,9,0.027692307692307693
+541,Paroxysmal central nervous system disorders,combined_score,26,26,67,0.20615384615384616
+541,Paroxysmal central nervous system disorders,phenotypeHPOext,26,19,41,0.23976608187134504
+541,Paroxysmal central nervous system disorders,physicalBIOGRID,26,25,1,0.0033333333333333335
+60,Periodic fever syndromes,textmining,23,23,137,0.541501976284585
+60,Periodic fever syndromes,coexpression,23,23,102,0.4031620553359684
+60,Periodic fever syndromes,experiments,23,23,22,0.08695652173913043
+60,Periodic fever syndromes,database,23,23,20,0.07905138339920949
+60,Periodic fever syndromes,combined_score,23,23,72,0.2845849802371542
+60,Periodic fever syndromes,phenotypeHPOext,23,20,39,0.20526315789473684
+60,Periodic fever syndromes,physicalBIOGRID,23,23,9,0.03557312252964427
+114,Peroxisomal disorders,textmining,35,35,390,0.6554621848739496
+114,Peroxisomal disorders,coexpression,35,35,314,0.5277310924369748
+114,Peroxisomal disorders,experiments,35,35,156,0.26218487394957984
+114,Peroxisomal disorders,database,35,35,175,0.29411764705882354
+114,Peroxisomal disorders,combined_score,35,35,282,0.47394957983193275
+114,Peroxisomal disorders,phenotypeHPOext,35,33,195,0.3693181818181818
+114,Peroxisomal disorders,physicalBIOGRID,35,34,61,0.10873440285204991
+559,Pigmentary skin disorders,textmining,119,118,2160,0.31290743155149936
+559,Pigmentary skin disorders,coexpression,119,118,1579,0.22874112704621177
+559,Pigmentary skin disorders,experiments,119,118,974,0.14109807330146312
+559,Pigmentary skin disorders,database,119,118,275,0.03983775170215848
+559,Pigmentary skin disorders,combined_score,119,118,987,0.1429813124728379
+559,Pigmentary skin disorders,phenotypeHPOext,119,106,1069,0.19209344115004492
+559,Pigmentary skin disorders,physicalBIOGRID,119,118,251,0.03636100246269738
+483,Pituitary hormone deficiency,textmining,42,42,403,0.46806039488966317
+483,Pituitary hormone deficiency,coexpression,42,42,247,0.2868757259001162
+483,Pituitary hormone deficiency,experiments,42,42,186,0.21602787456445993
+483,Pituitary hormone deficiency,database,42,42,12,0.013937282229965157
+483,Pituitary hormone deficiency,combined_score,42,42,163,0.18931475029036005
+483,Pituitary hormone deficiency,phenotypeHPOext,42,31,140,0.3010752688172043
+483,Pituitary hormone deficiency,physicalBIOGRID,42,40,6,0.007692307692307692
+105,Pneumothorax - familial,textmining,12,12,47,0.712121212121212
+105,Pneumothorax - familial,coexpression,12,12,33,0.5
+105,Pneumothorax - familial,experiments,12,12,39,0.5909090909090909
+105,Pneumothorax - familial,database,12,12,10,0.15151515151515152
+105,Pneumothorax - familial,combined_score,12,12,37,0.5606060606060607
+105,Pneumothorax - familial,phenotypeHPOext,12,11,22,0.4
+105,Pneumothorax - familial,physicalBIOGRID,12,12,9,0.13636363636363635
+653,Polycystic liver disease,textmining,16,15,52,0.49523809523809526
+653,Polycystic liver disease,coexpression,16,15,28,0.26666666666666666
+653,Polycystic liver disease,experiments,16,15,16,0.15238095238095237
+653,Polycystic liver disease,database,16,15,5,0.047619047619047616
+653,Polycystic liver disease,combined_score,16,15,37,0.3523809523809524
+653,Polycystic liver disease,phenotypeHPOext,16,13,11,0.14102564102564102
+653,Polycystic liver disease,physicalBIOGRID,16,16,3,0.025
+539,Possible mitochondrial disorder - nuclear genes,textmining,314,314,22449,0.4568283103721943
+539,Possible mitochondrial disorder - nuclear genes,coexpression,314,314,22452,0.4568893591908997
+539,Possible mitochondrial disorder - nuclear genes,experiments,314,314,8008,0.16295964673083574
+539,Possible mitochondrial disorder - nuclear genes,database,314,314,2641,0.053743310066950205
+539,Possible mitochondrial disorder - nuclear genes,combined_score,314,314,8706,0.17716367188294904
+539,Possible mitochondrial disorder - nuclear genes,phenotypeHPOext,314,195,5350,0.28284430346286016
+539,Possible mitochondrial disorder - nuclear genes,physicalBIOGRID,314,289,1811,0.04351691657054979
+178,Primary ciliary disorders,textmining,37,37,613,0.9204204204204205
+178,Primary ciliary disorders,coexpression,37,37,489,0.7342342342342342
+178,Primary ciliary disorders,experiments,37,37,253,0.37987987987987987
+178,Primary ciliary disorders,database,37,37,38,0.057057057057057055
+178,Primary ciliary disorders,combined_score,37,37,522,0.7837837837837838
+178,Primary ciliary disorders,phenotypeHPOext,37,31,354,0.7612903225806452
+178,Primary ciliary disorders,physicalBIOGRID,37,33,3,0.005681818181818182
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,textmining,448,439,24401,0.2538043082555829
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,coexpression,448,439,20733,0.21565201110868412
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,experiments,448,439,8963,0.0932276552147367
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,database,448,439,1624,0.016891856752062076
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,combined_score,448,439,7068,0.07351702187412237
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,phenotypeHPOext,448,297,4260,0.09691509691509692
+398,Primary immunodeficiency or monogenic inflammatory bowel disease,physicalBIOGRID,448,440,1057,0.010944294885069372
+65,Primary lymphoedema,textmining,49,49,517,0.43962585034013607
+65,Primary lymphoedema,coexpression,49,49,380,0.32312925170068024
+65,Primary lymphoedema,experiments,49,49,319,0.27125850340136054
+65,Primary lymphoedema,database,49,49,71,0.06037414965986395
+65,Primary lymphoedema,combined_score,49,49,214,0.18197278911564627
+65,Primary lymphoedema,phenotypeHPOext,49,37,195,0.2927927927927928
+65,Primary lymphoedema,physicalBIOGRID,49,49,55,0.046768707482993194
+155,Primary ovarian insufficiency,textmining,51,51,626,0.4909803921568628
+155,Primary ovarian insufficiency,coexpression,51,51,344,0.2698039215686274
+155,Primary ovarian insufficiency,experiments,51,51,113,0.08862745098039217
+155,Primary ovarian insufficiency,database,51,51,16,0.012549019607843137
+155,Primary ovarian insufficiency,combined_score,51,51,208,0.16313725490196077
+155,Primary ovarian insufficiency,phenotypeHPOext,51,34,102,0.18181818181818182
+155,Primary ovarian insufficiency,physicalBIOGRID,51,47,5,0.004625346901017576
+506,Progressive cardiac conduction disease,textmining,16,16,65,0.5416666666666666
+506,Progressive cardiac conduction disease,coexpression,16,16,38,0.31666666666666665
+506,Progressive cardiac conduction disease,experiments,16,16,17,0.14166666666666666
+506,Progressive cardiac conduction disease,database,16,16,4,0.03333333333333333
+506,Progressive cardiac conduction disease,combined_score,16,16,20,0.16666666666666666
+506,Progressive cardiac conduction disease,phenotypeHPOext,16,14,7,0.07692307692307693
+506,Progressive cardiac conduction disease,physicalBIOGRID,16,16,2,0.016666666666666666
+106,Proteinuric renal disease,textmining,69,69,1056,0.4501278772378517
+106,Proteinuric renal disease,coexpression,69,69,608,0.2591645353793691
+106,Proteinuric renal disease,experiments,69,69,310,0.13213981244671782
+106,Proteinuric renal disease,database,69,69,47,0.020034100596760446
+106,Proteinuric renal disease,combined_score,69,69,334,0.14236999147485083
+106,Proteinuric renal disease,phenotypeHPOext,69,44,182,0.19238900634249473
+106,Proteinuric renal disease,physicalBIOGRID,69,69,35,0.014919011082693948
+193,Pulmonary arterial hypertension,textmining,19,19,105,0.6140350877192983
+193,Pulmonary arterial hypertension,coexpression,19,19,75,0.43859649122807015
+193,Pulmonary arterial hypertension,experiments,19,19,47,0.2748538011695907
+193,Pulmonary arterial hypertension,database,19,19,5,0.029239766081871343
+193,Pulmonary arterial hypertension,combined_score,19,19,56,0.32748538011695905
+193,Pulmonary arterial hypertension,phenotypeHPOext,19,16,14,0.11666666666666667
+193,Pulmonary arterial hypertension,physicalBIOGRID,19,19,8,0.04678362573099415
+1174,Pulmonary fibrosis familial,textmining,26,25,154,0.5133333333333333
+1174,Pulmonary fibrosis familial,coexpression,26,25,96,0.32
+1174,Pulmonary fibrosis familial,experiments,26,25,38,0.12666666666666668
+1174,Pulmonary fibrosis familial,database,26,25,45,0.15
+1174,Pulmonary fibrosis familial,combined_score,26,25,92,0.3066666666666667
+1174,Pulmonary fibrosis familial,phenotypeHPOext,26,19,61,0.35672514619883045
+1174,Pulmonary fibrosis familial,physicalBIOGRID,26,24,15,0.05434782608695652
+531,Pyruvate dehydrogenase (PDH) deficiency,textmining,24,24,213,0.7717391304347826
+531,Pyruvate dehydrogenase (PDH) deficiency,coexpression,24,24,169,0.6123188405797102
+531,Pyruvate dehydrogenase (PDH) deficiency,experiments,24,24,47,0.17028985507246377
+531,Pyruvate dehydrogenase (PDH) deficiency,database,24,24,32,0.11594202898550723
+531,Pyruvate dehydrogenase (PDH) deficiency,combined_score,24,24,102,0.3695652173913043
+531,Pyruvate dehydrogenase (PDH) deficiency,phenotypeHPOext,24,21,75,0.35714285714285715
+531,Pyruvate dehydrogenase (PDH) deficiency,physicalBIOGRID,24,22,15,0.06493506493506493
+247,Radial dysplasia,textmining,53,53,529,0.38388969521044997
+247,Radial dysplasia,coexpression,53,53,453,0.32873730043541366
+247,Radial dysplasia,experiments,53,53,297,0.2155297532656023
+247,Radial dysplasia,database,53,53,123,0.08925979680696662
+247,Radial dysplasia,combined_score,53,53,273,0.19811320754716982
+247,Radial dysplasia,phenotypeHPOext,53,53,676,0.49056603773584906
+247,Radial dysplasia,physicalBIOGRID,53,52,137,0.1033182503770739
+518,Rare anaemia,textmining,93,93,1498,0.35016362786348765
+518,Rare anaemia,coexpression,93,93,1195,0.2793361383824217
+518,Rare anaemia,experiments,93,93,541,0.12646096306685367
+518,Rare anaemia,database,93,93,135,0.03155680224403927
+518,Rare anaemia,combined_score,93,93,567,0.13253856942496495
+518,Rare anaemia,phenotypeHPOext,93,77,476,0.16267942583732056
+518,Rare anaemia,physicalBIOGRID,93,91,157,0.03833943833943834
+565,Rare genetic inflammatory skin disorders,textmining,60,59,385,0.22501461133839862
+565,Rare genetic inflammatory skin disorders,coexpression,60,59,288,0.16832261835184104
+565,Rare genetic inflammatory skin disorders,experiments,60,59,104,0.06078316773816481
+565,Rare genetic inflammatory skin disorders,database,60,59,30,0.017533606078316773
+565,Rare genetic inflammatory skin disorders,combined_score,60,59,112,0.06545879602571596
+565,Rare genetic inflammatory skin disorders,phenotypeHPOext,60,55,99,0.06666666666666667
+565,Rare genetic inflammatory skin disorders,physicalBIOGRID,60,59,18,0.010520163646990065
+150,Rare multisystem ciliopathy disorders,textmining,105,105,3243,0.593956043956044
+150,Rare multisystem ciliopathy disorders,coexpression,105,105,2348,0.43003663003663
+150,Rare multisystem ciliopathy disorders,experiments,105,105,948,0.17362637362637362
+150,Rare multisystem ciliopathy disorders,database,105,105,267,0.0489010989010989
+150,Rare multisystem ciliopathy disorders,combined_score,105,105,1527,0.2796703296703297
+150,Rare multisystem ciliopathy disorders,phenotypeHPOext,105,84,1516,0.4348823866896156
+150,Rare multisystem ciliopathy disorders,physicalBIOGRID,105,100,162,0.03272727272727273
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,textmining,104,103,1366,0.2600418808300019
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,coexpression,104,103,963,0.18332381496287836
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,experiments,104,103,701,0.13344755377879308
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,database,104,103,77,0.014658290500666285
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,combined_score,104,103,385,0.07329145250333143
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,phenotypeHPOext,104,83,766,0.22509550396708786
+168,Rare syndromic craniosynostosis or isolated multisuture synostosis,physicalBIOGRID,104,101,88,0.017425742574257427
+48,RASopathies,textmining,24,24,226,0.8188405797101449
+48,RASopathies,coexpression,24,24,181,0.6557971014492754
+48,RASopathies,experiments,24,24,187,0.677536231884058
+48,RASopathies,database,24,24,87,0.31521739130434784
+48,RASopathies,combined_score,24,24,172,0.6231884057971014
+48,RASopathies,phenotypeHPOext,24,18,139,0.9084967320261438
+48,RASopathies,physicalBIOGRID,24,24,53,0.1920289855072464
+154,Renal cancer pertinent cancer susceptibility,textmining,10,10,42,0.9333333333333333
+154,Renal cancer pertinent cancer susceptibility,coexpression,10,10,26,0.5777777777777778
+154,Renal cancer pertinent cancer susceptibility,experiments,10,10,15,0.3333333333333333
+154,Renal cancer pertinent cancer susceptibility,database,10,10,8,0.17777777777777778
+154,Renal cancer pertinent cancer susceptibility,combined_score,10,10,21,0.4666666666666667
+154,Renal cancer pertinent cancer susceptibility,phenotypeHPOext,10,10,12,0.26666666666666666
+154,Renal cancer pertinent cancer susceptibility,physicalBIOGRID,10,10,6,0.13333333333333333
+725,Renal ciliopathies,textmining,90,90,2379,0.5940074906367041
+725,Renal ciliopathies,coexpression,90,90,1724,0.43046192259675403
+725,Renal ciliopathies,experiments,90,90,688,0.1717852684144819
+725,Renal ciliopathies,database,90,90,215,0.05368289637952559
+725,Renal ciliopathies,combined_score,90,90,1193,0.2978776529338327
+725,Renal ciliopathies,phenotypeHPOext,90,73,1268,0.482496194824962
+725,Renal ciliopathies,physicalBIOGRID,90,86,136,0.037209302325581395
+292,Renal tubulopathies,textmining,58,58,696,0.42105263157894735
+292,Renal tubulopathies,coexpression,58,58,489,0.2958257713248639
+292,Renal tubulopathies,experiments,58,58,137,0.08287961282516637
+292,Renal tubulopathies,database,58,58,24,0.014519056261343012
+292,Renal tubulopathies,combined_score,58,58,263,0.15910465819721717
+292,Renal tubulopathies,phenotypeHPOext,58,52,123,0.09276018099547512
+292,Renal tubulopathies,physicalBIOGRID,58,53,22,0.015965166908563137
+550,Respiratory ciliopathies including non-CF bronchiectasis,textmining,64,64,1164,0.5773809523809523
+550,Respiratory ciliopathies including non-CF bronchiectasis,coexpression,64,64,949,0.470734126984127
+550,Respiratory ciliopathies including non-CF bronchiectasis,experiments,64,64,554,0.2748015873015873
+550,Respiratory ciliopathies including non-CF bronchiectasis,database,64,64,54,0.026785714285714284
+550,Respiratory ciliopathies including non-CF bronchiectasis,combined_score,64,64,748,0.37103174603174605
+550,Respiratory ciliopathies including non-CF bronchiectasis,phenotypeHPOext,64,43,397,0.43964562569213733
+550,Respiratory ciliopathies including non-CF bronchiectasis,physicalBIOGRID,64,56,14,0.00909090909090909
+307,Retinal disorders,textmining,353,342,12131,0.20803964946579548
+307,Retinal disorders,coexpression,353,342,6791,0.11646173106274973
+307,Retinal disorders,experiments,353,342,3330,0.057107578329989195
+307,Retinal disorders,database,353,342,486,0.008334619540052476
+307,Retinal disorders,combined_score,353,342,3601,0.061755071941829165
+307,Retinal disorders,phenotypeHPOext,353,273,6982,0.18805214393449687
+307,Retinal disorders,physicalBIOGRID,353,318,305,0.00605122710949745
+66,Rhabdomyolysis and metabolic muscle disorders,textmining,66,66,935,0.4358974358974359
+66,Rhabdomyolysis and metabolic muscle disorders,coexpression,66,66,785,0.365967365967366
+66,Rhabdomyolysis and metabolic muscle disorders,experiments,66,66,201,0.0937062937062937
+66,Rhabdomyolysis and metabolic muscle disorders,database,66,66,83,0.0386946386946387
+66,Rhabdomyolysis and metabolic muscle disorders,combined_score,66,66,275,0.12820512820512822
+66,Rhabdomyolysis and metabolic muscle disorders,phenotypeHPOext,66,55,154,0.1037037037037037
+66,Rhabdomyolysis and metabolic muscle disorders,physicalBIOGRID,66,64,29,0.014384920634920634
+217,Sarcoma cancer susceptibility,textmining,25,25,199,0.6633333333333333
+217,Sarcoma cancer susceptibility,coexpression,25,25,134,0.4466666666666667
+217,Sarcoma cancer susceptibility,experiments,25,25,65,0.21666666666666667
+217,Sarcoma cancer susceptibility,database,25,25,27,0.09000000000000001
+217,Sarcoma cancer susceptibility,combined_score,25,25,90,0.3
+217,Sarcoma cancer susceptibility,phenotypeHPOext,25,23,53,0.20948616600790515
+217,Sarcoma cancer susceptibility,physicalBIOGRID,25,24,33,0.11956521739130435
+1637,Sarcoma of possible germline origin,textmining,13,13,55,0.7051282051282052
+1637,Sarcoma of possible germline origin,coexpression,13,13,43,0.5512820512820512
+1637,Sarcoma of possible germline origin,experiments,13,13,28,0.358974358974359
+1637,Sarcoma of possible germline origin,database,13,13,9,0.11538461538461538
+1637,Sarcoma of possible germline origin,combined_score,13,13,30,0.3846153846153846
+1637,Sarcoma of possible germline origin,phenotypeHPOext,13,12,27,0.4090909090909091
+1637,Sarcoma of possible germline origin,physicalBIOGRID,13,12,11,0.16666666666666666
+734,Sarcoma susceptibility,textmining,34,34,390,0.6951871657754011
+734,Sarcoma susceptibility,coexpression,34,34,298,0.5311942959001783
+734,Sarcoma susceptibility,experiments,34,34,140,0.249554367201426
+734,Sarcoma susceptibility,database,34,34,63,0.11229946524064172
+734,Sarcoma susceptibility,combined_score,34,34,202,0.36007130124777187
+734,Sarcoma susceptibility,phenotypeHPOext,34,32,138,0.2782258064516129
+734,Sarcoma susceptibility,physicalBIOGRID,34,33,67,0.1268939393939394
+98,Segmental overgrowth disorders - Deep sequencing,textmining,14,14,63,0.6923076923076923
+98,Segmental overgrowth disorders - Deep sequencing,coexpression,14,14,44,0.4835164835164835
+98,Segmental overgrowth disorders - Deep sequencing,experiments,14,14,39,0.42857142857142855
+98,Segmental overgrowth disorders - Deep sequencing,database,14,14,19,0.2087912087912088
+98,Segmental overgrowth disorders - Deep sequencing,combined_score,14,14,41,0.4505494505494505
+98,Segmental overgrowth disorders - Deep sequencing,phenotypeHPOext,14,10,6,0.13333333333333333
+98,Segmental overgrowth disorders - Deep sequencing,physicalBIOGRID,14,14,19,0.2087912087912088
+130,Severe early-onset obesity,textmining,40,40,362,0.4641025641025641
+130,Severe early-onset obesity,coexpression,40,40,212,0.2717948717948718
+130,Severe early-onset obesity,experiments,40,40,129,0.16538461538461538
+130,Severe early-onset obesity,database,40,40,68,0.08717948717948718
+130,Severe early-onset obesity,combined_score,40,40,168,0.2153846153846154
+130,Severe early-onset obesity,phenotypeHPOext,40,33,187,0.3541666666666667
+130,Severe early-onset obesity,physicalBIOGRID,40,40,29,0.03717948717948718
+546,Severe insulin resistance and lipodystrophy syndromes,textmining,31,31,216,0.4645161290322581
+546,Severe insulin resistance and lipodystrophy syndromes,coexpression,31,31,159,0.3419354838709677
+546,Severe insulin resistance and lipodystrophy syndromes,experiments,31,31,87,0.1870967741935484
+546,Severe insulin resistance and lipodystrophy syndromes,database,31,31,16,0.034408602150537634
+546,Severe insulin resistance and lipodystrophy syndromes,combined_score,31,31,76,0.16344086021505377
+546,Severe insulin resistance and lipodystrophy syndromes,phenotypeHPOext,31,25,44,0.14666666666666667
+546,Severe insulin resistance and lipodystrophy syndromes,physicalBIOGRID,31,30,14,0.03218390804597701
+162,Severe microcephaly,textmining,262,259,5025,0.15039956900422016
+162,Severe microcephaly,coexpression,262,259,5087,0.1522552452785011
+162,Severe microcephaly,experiments,262,259,2232,0.06680434587411332
+162,Severe microcephaly,database,262,259,399,0.011942174732872407
+162,Severe microcephaly,combined_score,262,259,1606,0.04806800155637365
+162,Severe microcephaly,phenotypeHPOext,262,130,2377,0.2834824090638044
+162,Severe microcephaly,physicalBIOGRID,262,250,466,0.014971887550200805
+726,Skeletal ciliopathies,textmining,41,41,421,0.5134146341463415
+726,Skeletal ciliopathies,coexpression,41,41,299,0.3646341463414634
+726,Skeletal ciliopathies,experiments,41,41,128,0.15609756097560976
+726,Skeletal ciliopathies,database,41,41,92,0.11219512195121953
+726,Skeletal ciliopathies,combined_score,41,41,272,0.3317073170731707
+726,Skeletal ciliopathies,phenotypeHPOext,41,25,154,0.5133333333333333
+726,Skeletal ciliopathies,physicalBIOGRID,41,36,31,0.04920634920634921
+309,Skeletal dysplasia,textmining,479,475,15469,0.13741061514545858
+309,Skeletal dysplasia,coexpression,479,475,10940,0.09717965800577393
+309,Skeletal dysplasia,experiments,479,475,6111,0.054283810792804796
+309,Skeletal dysplasia,database,479,475,903,0.008021319120586276
+309,Skeletal dysplasia,combined_score,479,475,3895,0.03459915611814346
+309,Skeletal dysplasia,phenotypeHPOext,479,387,11736,0.15712736474274008
+309,Skeletal dysplasia,physicalBIOGRID,479,452,761,0.007466200969330691
+229,Skeletal Muscle Channelopathies,textmining,16,16,68,0.5666666666666667
+229,Skeletal Muscle Channelopathies,coexpression,16,16,56,0.4666666666666667
+229,Skeletal Muscle Channelopathies,experiments,16,16,32,0.26666666666666666
+229,Skeletal Muscle Channelopathies,database,16,16,5,0.041666666666666664
+229,Skeletal Muscle Channelopathies,combined_score,16,16,30,0.25
+229,Skeletal Muscle Channelopathies,phenotypeHPOext,16,16,10,0.08333333333333333
+229,Skeletal Muscle Channelopathies,physicalBIOGRID,16,16,0,0
+542,Skeletal muscle channelopathy,textmining,10,10,27,0.6000000000000001
+542,Skeletal muscle channelopathy,coexpression,10,10,23,0.5111111111111111
+542,Skeletal muscle channelopathy,experiments,10,10,13,0.2888888888888889
+542,Skeletal muscle channelopathy,database,10,10,2,0.044444444444444446
+542,Skeletal muscle channelopathy,combined_score,10,10,17,0.37777777777777777
+542,Skeletal muscle channelopathy,phenotypeHPOext,10,10,2,0.044444444444444446
+542,Skeletal muscle channelopathy,physicalBIOGRID,10,10,0,0
+3,Stickler syndrome,textmining,10,10,35,0.7777777777777778
+3,Stickler syndrome,coexpression,10,10,25,0.5555555555555556
+3,Stickler syndrome,experiments,10,10,26,0.5777777777777778
+3,Stickler syndrome,database,10,10,15,0.3333333333333333
+3,Stickler syndrome,combined_score,10,10,23,0.5111111111111111
+3,Stickler syndrome,phenotypeHPOext,10,8,14,0.5
+3,Stickler syndrome,physicalBIOGRID,10,10,1,0.022222222222222223
+180,Structural basal ganglia disorders,textmining,65,65,667,0.32067307692307695
+180,Structural basal ganglia disorders,coexpression,65,65,512,0.24615384615384617
+180,Structural basal ganglia disorders,experiments,65,65,185,0.0889423076923077
+180,Structural basal ganglia disorders,database,65,65,106,0.05096153846153846
+180,Structural basal ganglia disorders,combined_score,65,65,286,0.1375
+180,Structural basal ganglia disorders,phenotypeHPOext,65,55,512,0.34478114478114474
+180,Structural basal ganglia disorders,physicalBIOGRID,65,61,34,0.018579234972677595
+509,Structural eye disease,textmining,203,202,3674,0.18097630658588248
+509,Structural eye disease,coexpression,203,202,2321,0.11432934338209941
+509,Structural eye disease,experiments,203,202,1551,0.07640017733116596
+509,Structural eye disease,database,203,202,121,0.005960297522289542
+509,Structural eye disease,combined_score,203,202,792,0.03901285650953155
+509,Structural eye disease,phenotypeHPOext,203,163,2281,0.17276376581080058
+509,Structural eye disease,physicalBIOGRID,203,190,127,0.00707323865218602
+1,Thoracic aortic aneurysm or dissection,textmining,34,34,427,0.7611408199643493
+1,Thoracic aortic aneurysm or dissection,coexpression,34,34,341,0.6078431372549019
+1,Thoracic aortic aneurysm or dissection,experiments,34,34,307,0.5472370766488414
+1,Thoracic aortic aneurysm or dissection,database,34,34,44,0.0784313725490196
+1,Thoracic aortic aneurysm or dissection,combined_score,34,34,279,0.4973262032085561
+1,Thoracic aortic aneurysm or dissection,phenotypeHPOext,34,30,235,0.5402298850574713
+1,Thoracic aortic aneurysm or dissection,physicalBIOGRID,34,34,27,0.0481283422459893
+700,Thoracic aortic aneurysm or dissection (GMS),textmining,39,39,517,0.6977058029689609
+700,Thoracic aortic aneurysm or dissection (GMS),coexpression,39,39,397,0.5357624831309041
+700,Thoracic aortic aneurysm or dissection (GMS),experiments,39,39,347,0.46828609986504727
+700,Thoracic aortic aneurysm or dissection (GMS),database,39,39,47,0.06342780026990553
+700,Thoracic aortic aneurysm or dissection (GMS),combined_score,39,39,298,0.40215924426450744
+700,Thoracic aortic aneurysm or dissection (GMS),phenotypeHPOext,39,33,243,0.4602272727272727
+700,Thoracic aortic aneurysm or dissection (GMS),physicalBIOGRID,39,37,26,0.03903903903903904
+122,Thoracic dystrophies,textmining,31,31,376,0.8086021505376344
+122,Thoracic dystrophies,coexpression,31,31,275,0.5913978494623656
+122,Thoracic dystrophies,experiments,31,31,112,0.24086021505376343
+122,Thoracic dystrophies,database,31,31,56,0.12043010752688171
+122,Thoracic dystrophies,combined_score,31,31,257,0.5526881720430108
+122,Thoracic dystrophies,phenotypeHPOext,31,22,164,0.7099567099567099
+122,Thoracic dystrophies,physicalBIOGRID,31,27,28,0.07977207977207977
+516,Thrombophilia with a likely monogenic cause,textmining,20,20,171,0.9
+516,Thrombophilia with a likely monogenic cause,coexpression,20,20,127,0.6684210526315789
+516,Thrombophilia with a likely monogenic cause,experiments,20,20,78,0.4105263157894737
+516,Thrombophilia with a likely monogenic cause,database,20,20,48,0.25263157894736843
+516,Thrombophilia with a likely monogenic cause,combined_score,20,20,134,0.7052631578947368
+516,Thrombophilia with a likely monogenic cause,phenotypeHPOext,20,16,23,0.19166666666666668
+516,Thrombophilia with a likely monogenic cause,physicalBIOGRID,20,19,17,0.09941520467836257
+548,Tubulointerstitial kidney disease,textmining,27,26,135,0.4153846153846154
+548,Tubulointerstitial kidney disease,coexpression,27,26,90,0.27692307692307694
+548,Tubulointerstitial kidney disease,experiments,27,26,70,0.2153846153846154
+548,Tubulointerstitial kidney disease,database,27,26,3,0.009230769230769232
+548,Tubulointerstitial kidney disease,combined_score,27,26,69,0.2123076923076923
+548,Tubulointerstitial kidney disease,phenotypeHPOext,27,21,46,0.21904761904761907
+548,Tubulointerstitial kidney disease,physicalBIOGRID,27,25,10,0.03333333333333333
+302,Undiagnosed metabolic disorders,textmining,675,653,44193,0.20759777900957357
+302,Undiagnosed metabolic disorders,coexpression,675,653,38601,0.18132921203694136
+302,Undiagnosed metabolic disorders,experiments,675,653,10094,0.04741683029716551
+302,Undiagnosed metabolic disorders,database,675,653,4615,0.02167908379447383
+302,Undiagnosed metabolic disorders,combined_score,675,653,10664,0.050094420278281454
+302,Undiagnosed metabolic disorders,phenotypeHPOext,675,618,19037,0.09985156278684311
+302,Undiagnosed metabolic disorders,physicalBIOGRID,675,625,1793,0.009194871794871794
+156,Unexplained kidney failure in young people,textmining,86,86,1108,0.30314637482900136
+156,Unexplained kidney failure in young people,coexpression,86,86,649,0.17756497948016417
+156,Unexplained kidney failure in young people,experiments,86,86,392,0.10725034199726402
+156,Unexplained kidney failure in young people,database,86,86,54,0.014774281805745554
+156,Unexplained kidney failure in young people,combined_score,86,86,345,0.09439124487004104
+156,Unexplained kidney failure in young people,phenotypeHPOext,86,80,326,0.10316455696202532
+156,Unexplained kidney failure in young people,physicalBIOGRID,86,84,40,0.011474469305794606
+1537,Unexplained young onset end-stage renal disease - additional genes,textmining,34,34,134,0.23885918003565063
+1537,Unexplained young onset end-stage renal disease - additional genes,coexpression,34,34,102,0.18181818181818182
+1537,Unexplained young onset end-stage renal disease - additional genes,experiments,34,34,49,0.0873440285204991
+1537,Unexplained young onset end-stage renal disease - additional genes,database,34,34,13,0.0231729055258467
+1537,Unexplained young onset end-stage renal disease - additional genes,combined_score,34,34,29,0.0516934046345811
+1537,Unexplained young onset end-stage renal disease - additional genes,phenotypeHPOext,34,26,32,0.09846153846153846
+1537,Unexplained young onset end-stage renal disease - additional genes,physicalBIOGRID,34,32,4,0.008064516129032258
+101,VACTERL-like phenotypes,textmining,21,20,64,0.3368421052631579
+101,VACTERL-like phenotypes,coexpression,21,20,49,0.2578947368421053
+101,VACTERL-like phenotypes,experiments,21,20,45,0.23684210526315788
+101,VACTERL-like phenotypes,database,21,20,3,0.015789473684210527
+101,VACTERL-like phenotypes,combined_score,21,20,25,0.13157894736842105
+101,VACTERL-like phenotypes,phenotypeHPOext,21,14,19,0.2087912087912088
+101,VACTERL-like phenotypes,physicalBIOGRID,21,21,5,0.023809523809523808
+563,Vascular skin disorders,textmining,25,25,119,0.39666666666666667
+563,Vascular skin disorders,coexpression,25,25,74,0.24666666666666667
+563,Vascular skin disorders,experiments,25,25,57,0.18999999999999997
+563,Vascular skin disorders,database,25,25,11,0.03666666666666667
+563,Vascular skin disorders,combined_score,25,25,47,0.15666666666666665
+563,Vascular skin disorders,phenotypeHPOext,25,23,17,0.06719367588932806
+563,Vascular skin disorders,physicalBIOGRID,25,22,6,0.025974025974025972
+222,Vici Syndrome and other autophagy disorders,textmining,12,12,28,0.42424242424242425
+222,Vici Syndrome and other autophagy disorders,coexpression,12,12,24,0.36363636363636365
+222,Vici Syndrome and other autophagy disorders,experiments,12,12,11,0.16666666666666666
+222,Vici Syndrome and other autophagy disorders,database,12,12,2,0.0303030303030303
+222,Vici Syndrome and other autophagy disorders,combined_score,12,12,17,0.25757575757575757
+222,Vici Syndrome and other autophagy disorders,phenotypeHPOext,12,12,15,0.22727272727272727
+222,Vici Syndrome and other autophagy disorders,physicalBIOGRID,12,12,3,0.045454545454545456
+476,White matter disorders and cerebral calcification - narrow panel,textmining,215,213,3783,0.1675524847196386
+476,White matter disorders and cerebral calcification - narrow panel,coexpression,215,213,3386,0.14996899636814598
+476,White matter disorders and cerebral calcification - narrow panel,experiments,215,213,1096,0.04854282930286119
+476,White matter disorders and cerebral calcification - narrow panel,database,215,213,385,0.017051997519709452
+476,White matter disorders and cerebral calcification - narrow panel,combined_score,215,213,1210,0.05359199220480113
+476,White matter disorders and cerebral calcification - narrow panel,phenotypeHPOext,215,160,3429,0.2695754716981132
+476,White matter disorders and cerebral calcification - narrow panel,physicalBIOGRID,215,203,269,0.013120031214944155
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",textmining,19,19,117,0.6842105263157895
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",coexpression,19,19,103,0.6023391812865497
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",experiments,19,19,50,0.2923976608187135
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",database,19,19,57,0.3333333333333333
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",combined_score,19,19,82,0.4795321637426901
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",phenotypeHPOext,19,15,59,0.5619047619047619
+77,"Xeroderma pigmentosum, Trichothiodystrophy or Cockayne syndrome",physicalBIOGRID,19,16,23,0.19166666666666668

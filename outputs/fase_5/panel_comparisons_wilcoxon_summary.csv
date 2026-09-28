@@ -1,0 +1,41 @@
+disease_group,n_paneles,n_esperado_pat,n_contrario_pat,n_no_significativo_pat,n_esperado_inc,n_contrario_inc,n_no_significativo_inc,n_esperado_ben,n_contrario_ben,n_no_significativo_ben
+Total,151,10,0,141,10,0,141,0,5,146
+Cardiovascular disorders,3,0,0,3,0,0,3,0,0,3
+Endocrinology,9,1,0,8,1,0,8,0,0,9
+Neurology and neurodevelopmental disorders,11,0,0,11,0,0,11,0,0,11
+Metabolic,4,0,0,4,0,0,4,0,0,4
+Endocrine disorders,5,0,0,5,0,0,5,0,0,5
+Gastroenterological disorders,3,0,0,3,0,0,3,0,0,3
+Ophthalmological disorders,3,0,0,3,0,0,3,0,0,3
+Growth disorders,1,0,0,1,0,0,1,0,0,1
+Dysmorphic and congenital abnormality syndromes,3,0,0,3,0,0,3,0,0,3
+Cardiology,5,0,0,5,0,0,5,0,0,5
+Musculoskeletal,8,1,0,7,0,0,8,0,0,8
+Cancer susceptibility,4,1,0,3,0,0,4,0,0,4
+Rheumatological disorders,1,0,0,1,0,0,1,0,0,1
+Neurology,25,1,0,24,5,0,20,0,3,22
+Renal,7,0,0,7,0,0,7,0,0,7
+Viral research,1,0,0,1,0,0,1,0,0,1
+Mitochondrial,6,0,0,6,0,0,6,0,0,6
+Metabolic disorders,4,0,0,4,0,0,4,0,0,4
+Skeletal disorders,1,0,0,1,0,0,1,0,0,1
+Audiology,1,1,0,0,1,0,0,0,0,1
+Ciliopathies,2,0,0,2,0,0,2,0,0,2
+Renal and urinary tract disorders,2,0,0,2,0,0,2,0,0,2
+Haematological disorders,1,0,0,1,0,0,1,0,0,1
+Haematological and immunological disorders,1,0,0,1,0,0,1,0,0,1
+Ophthalmology,7,1,0,6,0,0,7,0,0,7
+Respiratory disorders,1,0,0,1,0,0,1,0,0,1
+Dermatological disorders,1,0,0,1,0,0,1,0,0,1
+Cancer Programme,2,1,0,1,0,0,2,0,0,2
+Hearing and ear disorders,1,0,0,1,0,0,1,0,0,1
+Tumour syndromes,3,0,0,3,0,0,3,0,0,3
+Developmental disorders,2,1,0,1,1,0,1,0,1,1
+Immunology,2,0,0,2,0,0,2,0,0,2
+Fetal (including NIPD),1,1,0,0,1,0,0,0,1,0
+Sin clasificar,1,1,0,0,1,0,0,0,0,1
+Haematology,4,0,0,4,0,0,4,0,0,4
+Gastrohepatology,3,0,0,3,0,0,3,0,0,3
+Respiratory,4,0,0,4,0,0,4,0,0,4
+Dermatology,7,0,0,7,0,0,7,0,0,7
+Inherited cancer,1,0,0,1,0,0,1,0,0,1

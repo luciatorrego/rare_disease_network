@@ -1,0 +1,4 @@
+type_group,resolution_method,n_variantes
+CNV_estructural,clinvar_name,9516
+SNV,clinvar_name,3466
+otro,clinvar_name,185

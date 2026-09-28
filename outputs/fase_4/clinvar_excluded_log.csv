@@ -1,0 +1,27 @@
+clinical_significance_raw,n_variantes
+-,245032
+Affects,137
+Established risk allele,2
+Established risk allele; association,1
+Likely risk allele,91
+VUS-high,51
+VUS-low,19
+VUS-mid,43
+association,340
+association not found,4
+association; drug response; risk factor,1
+association; protective,1
+association; risk factor,1
+confers sensitivity,10
+confers sensitivity; other,1
+drug response,1894
+drug response; other,1
+drug response; risk factor,2
+no classification for the single variant,685
+no classifications from unflagged records,143
+not provided,7206
+other,1523
+other; risk factor,1
+protective,39
+protective; risk factor,4
+risk factor,358

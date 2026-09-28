@@ -1,0 +1,41 @@
+disease_group,n_paneles,n_esperado_significativo,n_contrario_significativo,n_no_significativo,n_esperado_significativo_fdr,n_contrario_significativo_fdr,n_no_significativo_fdr
+Total,151,106,40,5,106,40,5
+Cardiovascular disorders,3,1,2,0,1,2,0
+Endocrinology,9,8,1,0,8,1,0
+Neurology and neurodevelopmental disorders,11,3,7,1,3,7,1
+Metabolic,4,3,1,0,3,1,0
+Endocrine disorders,5,4,1,0,4,1,0
+Gastroenterological disorders,3,2,1,0,2,1,0
+Ophthalmological disorders,3,2,1,0,2,1,0
+Growth disorders,1,1,0,0,1,0,0
+Dysmorphic and congenital abnormality syndromes,3,2,1,0,2,1,0
+Cardiology,5,3,2,0,3,2,0
+Musculoskeletal,8,6,2,0,6,2,0
+Cancer susceptibility,4,4,0,0,4,0,0
+Rheumatological disorders,1,0,0,1,0,0,1
+Neurology,25,21,3,1,21,3,1
+Renal,7,2,5,0,2,5,0
+Viral research,1,1,0,0,1,0,0
+Mitochondrial,6,4,1,1,4,1,1
+Metabolic disorders,4,2,2,0,2,2,0
+Skeletal disorders,1,1,0,0,1,0,0
+Audiology,1,1,0,0,1,0,0
+Ciliopathies,2,2,0,0,2,0,0
+Renal and urinary tract disorders,2,2,0,0,2,0,0
+Haematological disorders,1,1,0,0,1,0,0
+Haematological and immunological disorders,1,1,0,0,1,0,0
+Ophthalmology,7,6,0,1,6,0,1
+Respiratory disorders,1,0,1,0,0,1,0
+Dermatological disorders,1,1,0,0,1,0,0
+Cancer Programme,2,2,0,0,2,0,0
+Hearing and ear disorders,1,1,0,0,1,0,0
+Tumour syndromes,3,3,0,0,3,0,0
+Developmental disorders,2,1,1,0,1,1,0
+Immunology,2,2,0,0,2,0,0
+Fetal (including NIPD),1,1,0,0,1,0,0
+Sin clasificar,1,1,0,0,1,0,0
+Haematology,4,3,1,0,3,1,0
+Gastrohepatology,3,2,1,0,2,1,0
+Respiratory,4,2,2,0,2,2,0
+Dermatology,7,4,3,0,4,3,0
+Inherited cancer,1,0,1,0,0,1,0

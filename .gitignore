@@ -1,0 +1,9 @@
+# Artefactos de sesion de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Datos descargados y resultados generados (se reproducen ejecutando el pipeline)
+data/
+results/
