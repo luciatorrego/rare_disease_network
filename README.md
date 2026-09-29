@@ -83,11 +83,9 @@ testthat::test_file("tests/testthat/test_analisis_estadistico.R", reporter = "si
 
 ## Figuras
 
-Los cuatro scripts de `R/figuras/` regeneran las figuras de la memoria en `results/figures/`. Se ejecutan desde la raíz del proyecto y leen los CSV de `data/processed/`: se pueden copiar allí los de `outputs/fase_N/` en lugar de repetir el pipeline.
+Los dos scripts de `R/figuras/` regeneran las figuras de la memoria en `results/figures/`. Se ejecutan desde la raíz del proyecto y leen los CSV de `data/processed/`: se pueden copiar allí los de `outputs/fase_N/` en lugar de repetir el pipeline.
 
 - `plot_density_boxplot.R` necesita `fase_2/panel_network_summary.csv`.
-- `plot_roles_por_canal.R` necesita `fase_3/string_networks_long.csv`.
-- `plot_unmapped_composition.R` necesita `fase_2/genes_no_mapeados.csv`.
 - `plot_panel_network.R` necesita además `data/raw/string/edges/1141_combined_score.tsv`, que sale de la caché de la Fase 2 y no se publica.
 
 ## Resultados publicados
