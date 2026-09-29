@@ -1,6 +1,6 @@
 df <- read.csv("data/processed/fase_2/panel_network_summary.csv", stringsAsFactors = FALSE)
 
-# Orden por densidad mediana descendente (igual que en la prosa de 5.2)
+# Orden por densidad mediana descendente 
 med_order <- sort(tapply(df$density, df$canal, median), decreasing = TRUE)
 df$canal <- factor(df$canal, levels = names(med_order))
 
