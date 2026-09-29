@@ -302,8 +302,7 @@ fetch_string_edges <- function(string_ids, canal, panel_id, cache_dir) {
 
 # ── Pipeline ──────────────────────────────────────────────────────────────────
 
-# Procesa una combinación panel × canal: mapeo, construcción del grafo y métricas
-# por nodo (SIN clasificar central/intermedio/periférico — eso lo hace la Fase 3).
+# Procesa una combinación panel × canal: mapeo, construcción del grafo y métricas por nodo.
 # Devuelve list(metrics = df, summary = df, unmapped = vector de caracteres).
 process_panel_channel <- function(panel_row, canal, genes_df, cache_dir) {
   panel_id   <- panel_row$panel_id
