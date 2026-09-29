@@ -13,9 +13,7 @@ clinvar_cache_path <- function(cache_dir) {
 
 # ── Categorización clínica ────────────────────────────────────────────────────
 
-# Jerarquía por subcadena (primera coincidencia gana). Decisión posterior a una
-# primera versión por coincidencia exacta: recupera cadenas compuestas
-# razonables ("Pathogenic, low penetrance") sin enumerarlas una a una.
+# Jerarquía por subcadena (primera coincidencia gana). 
 classify_clinical_significance <- function(x) {
   low <- tolower(x)
   dplyr::case_when(
@@ -70,7 +68,7 @@ parse_gene_symbols <- function(x) {
 # HGNC_ID es el HGNC ID que da la propia ClinVar para variantes de un solo gen
 # ("-" en las multigénicas); se usa como vía de cruce preferente en
 # filter_to_project_genes() porque es más estable que GeneSymbol frente a
-# renombrados de HGNC (ver docs/decisiones_metodologicas.md, Fase 4).
+# renombrados de HGNC.
 read_clinvar_variants <- function(path) {
   raw <- readr::read_tsv(
     path,
