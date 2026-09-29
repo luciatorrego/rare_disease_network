@@ -143,7 +143,7 @@ call_string_mapping_api <- function(hgnc_ids) {
 }
 
 # Parsea la respuesta cruda del mapeo STRING en una tabla limpia hgnc_id → string_id.
-# Los genes no encontrados en STRING se excluyen (el llamador los gestiona por separado).
+# Los genes no encontrados en STRING se excluyen.
 parse_string_mapping <- function(raw_df) {
   if (nrow(raw_df) == 0) {
     return(data.frame(hgnc_id = character(), string_id = character(),
@@ -160,8 +160,7 @@ parse_string_mapping <- function(raw_df) {
 # Valida un match de STRING obtenido por símbolo de gen (no por HGNC ID): el
 # preferredName devuelto debe coincidir exactamente (case-insensitive) con el símbolo
 # consultado. Evita aceptar falsos positivos por coincidencia de texto libre, cuando
-# STRING encuentra el símbolo mencionado en la descripción funcional de OTRA proteína
-# (confirmado 2026-09-16 para VDR->CYP27B1, TRAC->NCOR2, MAPK10->DUSP16).
+# STRING encuentra el símbolo mencionado en la descripción funcional de OTRA proteína.
 validate_symbol_match <- function(query_symbol, preferred_name) {
   toupper(trimws(query_symbol)) == toupper(trimws(preferred_name))
 }
