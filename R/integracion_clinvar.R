@@ -136,14 +136,8 @@ resolve_multigenic_genes <- function(variants_df) {
 # ── Filtrado a genes del proyecto y agregación ────────────────────────────────
 
 # Cruza cada fila (variante, gen) contra el conjunto de genes del proyecto.
-# Vía preferente: hgnc_id_clinvar (el HGNC ID que da la propia ClinVar), más
-# estable frente a renombrados de HGNC que GeneSymbol -verificado sobre datos
-# reales: 125 de los 4.889 genes del proyecto usan en PanelApp un símbolo
-# HGNC ya obsoleto (p. ej. GBA/GBA1, MRVI1/IRAG1 -el mismo caso del fallback
-# de STRING en la Fase 2-, la familia AARS/DARS/HARS/IARS/MARS -> *1) que
-# ClinVar sí reconoce por HGNC_ID aunque el símbolo no coincida; ningún gen
-# se pierde por preferir esta vía (ver docs/decisiones_metodologicas.md,
-# Fase 4). No aplica a las multigénicas, para las que ClinVar no da
+# Vía preferente: hgnc_id_clinvar, más estable frente a renombrados de HGNC 
+# que GeneSymbol. No aplica a las multigénicas, para las que ClinVar no da
 # hgnc_id_clinvar ("-"): esas se resuelven como antes, por gene_symbol.
 filter_to_project_genes <- function(exploded_df, project_genes_df) {
   project_by_symbol <- unique(project_genes_df[, c("gene_symbol", "hgnc_id")])
@@ -208,8 +202,8 @@ aggregate_gene_summary <- function(df) {
 }
 
 # Cuenta variantes multigénicas (no filas gen-explotadas) por Type agrupado x
-# método de resolución. Puramente descriptivo: el agrupado por Type NO
-# condiciona el tratamiento (que depende solo de si hay nombre de gen).
+# método de resolución. Descriptivo: el agrupado por Type NO condiciona el
+# tratamiento (que depende solo de si hay nombre de gen).
 summarize_multigenic <- function(exploded_df) {
   multigenic <- exploded_df[exploded_df$resolution_method == "clinvar_name", , drop = FALSE]
   multigenic <- unique(multigenic[, c("variation_id", "type", "resolution_method")])
@@ -222,8 +216,8 @@ summarize_multigenic <- function(exploded_df) {
   as.data.frame(result)
 }
 
-# Cuenta (no explota) las variantes multigénicas sin nombrar ("covers N
-# genes...") que resolve_multigenic_genes() excluye del pipeline. Documenta
+# Cuenta las variantes multigénicas sin nombrar ("covers N genes...")
+# que resolve_multigenic_genes() excluye del pipeline. Documenta
 # con cifras reales la limitación de no anotarlas por coordenadas.
 summarize_unresolved_multigenic <- function(variants_df) {
   unresolved <- variants_df[variants_df$kind == "unnamed_multi", , drop = FALSE]
@@ -236,8 +230,7 @@ summarize_unresolved_multigenic <- function(variants_df) {
   as.data.frame(result)
 }
 
-# Recuento por valor crudo de ClinicalSignificance entre las variantes
-# excluidas — insumo para la sección de limitaciones de la memoria.
+# Recuento por valor crudo de ClinicalSignificance entre las variantes excluidas
 summarize_excluded <- function(variants_df) {
   excluded <- variants_df[variants_df$categoria == "excluida", , drop = FALSE]
 
@@ -250,11 +243,8 @@ summarize_excluded <- function(variants_df) {
 # ── Descarga con caché ─────────────────────────────────────────────────────────
 
 # Descarga url -> path si path no existe todavía; si ya existe, no vuelve a
-# descargar (igual que la caché de construccion_redes.R). Registra la fecha
-# de la descarga real en un fichero sidecar (".downloaded_at"), porque ClinVar
-# se actualiza periódicamente y la versión usada importa para la
-# reproducibilidad (ver docs/decisiones_metodologicas.md, Fase 4).
-#
+# descargar. Registra la fecha de la descarga real en un fichero sidecar
+# (".downloaded_at").
 # Escritura atómica: req_perform(path = ...) transmite el cuerpo de la
 # respuesta directamente al archivo de destino, sin paso intermedio. Si
 # req_retry agota los reintentos a mitad de una descarga de varios GB (p. ej.
