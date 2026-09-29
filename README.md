@@ -2,9 +2,7 @@
 
 Código y resultados del Trabajo Fin de Máster de **Lucía Torrego Santos** sobre redes génicas de enfermedades raras y reclasificación de variantes de significado incierto (VUS).
 
-**Hipótesis.** Los genes con alta centralidad en la red de su enfermedad presentan una mayor carga de variantes patogénicas que los genes periféricos, que concentrarían una mayor proporción de VUS o benignas, y esta asociación se mantiene al controlar por la longitud del gen, su restricción a la pérdida de función y el grado en que ha sido estudiado.
-
-La interpretación de los resultados, la justificación metodológica y la bibliografía están en la memoria del TFM; este repositorio contiene el código que produce los resultados y los propios resultados.
+Este repositorio contiene el código que produce los resultados y los propios resultados.
 
 ## Qué hace el pipeline
 
