@@ -4,13 +4,13 @@ Código y resultados del Trabajo Fin de Máster de **Lucía Torrego Santos** sob
 
 Este repositorio contiene el código que produce los resultados y los propios resultados.
 
-## Qué hace el pipeline
+## Pipeline
 
 Cinco scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee la salida de la fase anterior.
 
 | Fase | Script | Qué hace | Salida (`outputs/`) |
 |---|---|---|---|
-| 1 | `obtencion_curacion_genes.R` | Descarga los paneles de PanelApp (Genomics England, API v1) y cura los genes (confianza ámbar o verde, HGNC válido, sin duplicados). Resultado: 411 paneles, 4.889 genes únicos. | `fase_1/` |
+| 1 | `obtencion_curacion_genes.R` | Descarga los paneles de PanelApp (Genomics England, API v1) y cura los genes (confianza ámbar o verde, HGNC válido, sin duplicados).| `fase_1/` |
 | 2 | `construccion_redes.R` | Para cada panel con al menos 10 genes (222) construye 7 redes (5 canales de STRING v12 y 2 redes de GLOWgenes) y calcula grado, intermediación y cercanía de cada gen. | `fase_2/` |
 | 3 | `clasificacion_topologica.R` | Clasifica cada gen como central, intermedio o periférico dentro de cada red (percentiles 80 y 20 de una puntuación compuesta). | `fase_3/` |
 | 4 | `integracion_clinvar.R` | Cuenta las variantes patogénicas, benignas y VUS de cada gen a partir de ClinVar. | `fase_4/` |
@@ -25,11 +25,9 @@ tests/testthat/          un fichero de tests por fase
 outputs/fase_1 ... fase_5/   CSV generados por cada fase
 ```
 
-Algunos comentarios del código remiten a `docs/decisiones_metodologicas.md`, el registro interno de decisiones del TFM, que no forma parte de este repositorio; esas decisiones se explican en la memoria.
-
 ## Reproducirlo
 
-**Requisitos.** R 4.5.2 y estos paquetes (versiones con las que se ejecutó):
+**Versión y paquetes.** R 4.5.2 y estos paquetes (versiones con las que se ejecutó):
 
 | Paquete | Versión |
 |---|---|
