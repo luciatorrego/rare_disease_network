@@ -342,8 +342,7 @@ process_panel_channel <- function(panel_row, canal, genes_df, cache_dir) {
   result$disease_sub_group <- panel_row$disease_sub_group
   result$canal             <- canal
 
-  # Resumen para este panel × canal (tamaño y densidad; los recuentos de roles
-  # central/intermedio/periférico los añade la Fase 3)
+  # Resumen para este panel × canal (tamaño y densidad)
   summary_row <- data.frame(
     panel_id      = panel_row$panel_id,
     panel_name    = panel_row$panel_name,
