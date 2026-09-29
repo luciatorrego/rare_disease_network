@@ -7,9 +7,7 @@ library(dplyr)
 # Fase 2 — Construcción de redes (STRING + GLOWgenes)
 # Mapea los genes curados sobre 7 redes (5 canales STRING + 2 redes GLOWgenes)
 # por panel elegible, construye el grafo de cada una y calcula sus métricas de
-# nodo (grado, betweenness, closeness). No clasifica central/intermedio/
-# periférico — eso es responsabilidad de la Fase 3 (clasificacion_topologica.R),
-# que consume los outputs de este script.
+# nodo (grado, betweenness, closeness).
 # ══════════════════════════════════════════════════════════════════════════
 
 STRING_BASE_URL        <- "https://string-db.org/api/tsv"
