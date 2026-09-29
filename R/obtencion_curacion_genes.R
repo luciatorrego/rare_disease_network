@@ -5,8 +5,7 @@ library(readr)
 BASE_URL <- "https://panelapp.genomicsengland.co.uk/api/v1"
 
 # Devuelve TRUE si el panel debe incluirse: se incluyen TODOS los paneles
-# EXCEPTO los superpaneles (agregaciones de otros paneles). Ya no se exige
-# ningún slug de enfermedad rara.
+# EXCEPTO los superpaneles (agregaciones de otros paneles). 
 is_included_panel <- function(types) {
   slugs <- vapply(types, function(t) t$slug, character(1))
   !("superpanel" %in% slugs)
