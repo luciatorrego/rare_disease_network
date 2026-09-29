@@ -116,9 +116,7 @@ filter_grch38 <- function(variants_df) {
 # expanden directamente desde el texto de ClinVar (rápido, vectorizado). Las
 # "unnamed_multi" ("covers N genes...") se EXCLUYEN: sin nombre de gen no hay
 # forma de atribuirlas a un gen concreto del proyecto sin recurrir a anotación
-# por coordenadas, que se retiró del pipeline (decisión acordada con el tutor,
-# ver docs/decisiones_metodologicas.md, Fase 4). Se cuentan aparte con
-# summarize_unresolved_multigenic() para documentarlo como limitación.
+# por coordenadas. Se cuentan aparte con summarize_unresolved_multigenic().
 resolve_multigenic_genes <- function(variants_df) {
   single_rows <- variants_df[variants_df$kind == "single", , drop = FALSE]
   single_rows$gene_symbol      <- .safe_unlist(single_rows$genes)
