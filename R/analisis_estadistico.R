@@ -57,14 +57,12 @@ eligible_panel_ids <- function(panel_counts, min_per_group) {
 
 # ── Test de Fisher por panel ────────────────────────────────────────────────────
 
-# Suma los recuentos de variantes (no de genes) de los genes centrales y de
-# los periféricos, monta la tabla 2x3 (grupo x categoria clinica) y aplica
-# la regla híbrida de Cochran: chi-cuadrado si los 6 recuentos esperados son
-# >= 5 (aproximación asintótica válida), Fisher exacto en el resto. Necesario
-# porque el algoritmo exacto de red de fisher.test() para tablas no-2x2 no
-# escala a los recuentos de variantes de paneles grandes (verificado: 134/150
-# paneles reales fallaban con "Out of workspace" usando solo Fisher). Calcula
-# además el odds ratio patogenica-vs-resto, central-vs-periferico, como
+# Suma los recuentos de variantes de los genes centrales y de los periféricos,
+# monta la tabla 2x3 (grupo x categoria clinica) y aplica la regla híbrida 
+# de Cochran: chi-cuadrado si los 6 recuentos esperados son >= 5, Fisher exacto 
+# en el resto. Necesario porque el algoritmo exacto de red de fisher.test()
+# para tablas no-2x2 no escala a los recuentos de variantes de paneles grandes. 
+# Calcula además el odds ratio patogenica-vs-resto, central-vs-periferico, como
 # medida de tamaño y dirección del efecto (independiente de qué test se usó
 # para el p-valor).
 panel_fisher_test <- function(panel_genes) {
@@ -226,8 +224,7 @@ summarize_panel_results <- function(panel_results_df, alpha = 0.05) {
 
 # Compara centrales vs. periféricos dentro de un panel usando UNA observación
 # por gen: la proporción de sus variantes clasificadas que son patogénicas (y,
-# aparte, con incertidumbre y benignas; las benignas se añadieron el 2026-09-20
-# para cubrir la parte de la hipótesis "periféricos concentran VUS o benignas"). Así un gen muy estudiado en ClinVar (p. ej. BRCA1)
+# aparte, con incertidumbre y benignas). Así un gen muy estudiado en ClinVar 
 # pesa igual que uno con pocas variantes, a diferencia de panel_fisher_test(),
 # que suma variantes. Test de Wilcoxon/Mann-Whitney con exact = FALSE (los
 # empates en 0/1 son frecuentes y el cálculo exacto avisaría en cada panel).
@@ -486,10 +483,8 @@ parse_gtf_attribute <- function(attribute, key) {
 # Lee el GTF cacheado, filtra a lineas de exon, y extrae
 # gene_name/gene_id/hgnc_id/start/end. Las lineas de exon SI llevan gene_id
 # (Ensembl) siempre, y hgnc_id cuando GENCODE conoce el gen (no todas: solo
-# los genes con nombre oficial HGNC, que es justo el perfil de los genes de
-# PanelApp) — verificado directamente sobre el GTF real, revision 2026-09-18.
-# gene_id viene con sufijo de version (".11"); se elimina para que coincida
-# con el formato sin version que usa gnomAD.
+# los genes con nombre oficial HGNC) gene_id viene con sufijo de version (".11");
+# se elimina para que coincida con el formato sin version que usa gnomAD.
 read_gencode_exons <- function(cache_path = GENCODE_GTF_CACHE) {
   raw <- readr::read_tsv(
     cache_path,
@@ -518,9 +513,7 @@ read_gencode_exons <- function(cache_path = GENCODE_GTF_CACHE) {
 
 # Suma la longitud de la UNION de un conjunto de intervalos [start, end]
 # (1-based, inclusivos, como las coordenadas GTF) — fusiona solapamientos en
-# vez de sumarlos dos veces. Instruccion directa del tutor: "la longitud del
-# gen como la suma de la longitud de sus exones" fusionando lo compartido
-# entre transcritos.
+# vez de sumarlos dos veces. 
 merge_exon_length <- function(starts, ends) {
   if (length(starts) == 0) return(0L)
   ord <- order(starts)
@@ -544,8 +537,7 @@ merge_exon_length <- function(starts, ends) {
 
 # Primer valor no-NA de un vector, o NA_character_ si todos son NA. hgnc_id
 # es una propiedad a nivel de gen que GENCODE repite en cada linea de exon
-# del mismo gen — deberian coincidir todas, pero se usa first-non-NA en vez
-# de first() a secas por si alguna linea individual no lo llevara.
+# del mismo gen — deberian coincidir todas.
 first_non_na <- function(x) {
   non_na <- x[!is.na(x)]
   if (length(non_na) == 0) return(NA_character_)
@@ -554,9 +546,9 @@ first_non_na <- function(x) {
 
 # Calcula la longitud exonica (union fusionada) por gen a partir de la tabla
 # de exones (todas las lineas de exon de todos los transcritos del gen), y
-# conserva ademas hgnc_id/ensembl_gene_id por gen (revision 2026-09-18) para
+# conserva ademas hgnc_id/ensembl_gene_id por gen para
 # poder cruzar con los genes del proyecto por identificador estable en vez
-# de por gene_symbol — ver build_pooled_dataset().
+# de por gene_symbol.
 compute_gene_lengths <- function(exons_df) {
   result <- exons_df |>
     dplyr::group_by(gene_symbol) |>
@@ -624,11 +616,11 @@ select_canonical_constraint_rows <- function(raw_df) {
 }
 
 # Extrae gene_symbol/ensembl_gene_id/pLI/LOEUF de las filas ya reducidas a
-# una por gen. ensembl_gene_id (revision 2026-09-18) permite cruzar con los
-# genes del proyecto por identificador estable en vez de por gene_symbol —
-# ver build_pooled_dataset(). select_canonical_constraint_rows() ya filtra a
-# filas ENST antes de llegar aqui, con lo que gene_id es siempre un ENSG
-# valido (las filas RefSeq NM_ descartadas traian valores no-Ensembl en esta
+# una por gen. ensembl_gene_id permite cruzar con los genes del proyecto
+# por identificador estable en vez de por gene_symbol — build_pooled_dataset()
+# select_canonical_constraint_rows() ya filtra a filas ENST antes de
+# llegar aqui, con lo que gene_id es siempre un ENSG valido 
+# (las filas RefSeq NM_ descartadas traian valores no-Ensembl en esta
 # columna, p. ej. "1").
 parse_gnomad_constraint <- function(canonical_df) {
   data.frame(
@@ -685,9 +677,8 @@ download_gnomad_v211_constraint <- function(cache_path = GNOMAD_V211_CONSTRAINT_
 
 # El fichero de v2.1.1 trae casi una fila por gen, salvo un puñado de
 # simbolos duplicados (genes con dos ENSG distintos que comparten el mismo
-# simbolo HGNC en esta anotacion, p. ej. AQP1) — se conserva la primera
-# fila de cada simbolo; criterio arbitrario pero irrelevante al ser una
-# fuente de respaldo, no la principal.
+# simbolo HGNC en esta anotacion) — se conserva la primera
+# fila de cada simbolo.
 parse_gnomad_v211_constraint <- function(raw_df) {
   result <- data.frame(
     gene_symbol     = raw_df$gene,
@@ -735,15 +726,11 @@ fetch_gnomad_constraint_with_fallback <- function(primary = fetch_gnomad_constra
 
 # Left-join de `df` contra `lookup`, prefiriendo `id_col` (identificador
 # estable: hgnc_id o ensembl_gene_id) y usando `symbol_col` (gene_symbol)
-# como respaldo solo para las filas sin coincidencia por id. Revision
-# 2026-09-18: GENCODE y gnomAD no siempre reconocen el gene_symbol que usa
+# como respaldo solo para las filas sin coincidencia por id. 
+# GENCODE y gnomAD no siempre reconocen el gene_symbol que usa
 # PanelApp cuando esta desactualizado frente al nombre HGNC vigente (mismo
-# problema, y misma solucion, que el cruce con ClinVar de la Fase 4) — un
-# cruce solo por simbolo perdia 97 genes mas de los esperados en la
-# reejecucion del 2026-09-18 (familia de aminoacil-ARNt sintetasas,
-# subunidades de ATP sintasa mitocondrial, genes "Cxxorfxx" ya renombrados).
-# Conserva todas las filas de `df` (no descarta ninguna, a diferencia de
-# filter_to_project_genes() de la Fase 4): las que no encuentran
+# problema, y misma solucion, que el cruce con ClinVar de la Fase 4) —
+# Conserva todas las filas de `df` las que no encuentran
 # coincidencia por ninguna via quedan con `value_cols` a NA, y se excluyen
 # mas adelante en build_pooled_dataset() con el motivo ya documentado.
 left_join_id_then_symbol <- function(df, lookup, id_col, symbol_col, value_cols) {
@@ -813,10 +800,10 @@ build_pooled_dataset <- function(networks_df, clinvar_df, gene_lengths_df, const
 }
 
 # Cuenta cuantos genes distintos se excluyeron de build_pooled_dataset() por
-# falta de longitud o de pLI/LOEUF, con el motivo — para documentar la
-# limitacion con cifras reales en la memoria. Una fila por gen (no por
-# gen-panel): un gen ausente de GENCODE/gnomAD lo esta en todos los paneles
-# donde aparece, no tiene sentido contarlo varias veces.
+# falta de longitud o de pLI/LOEUF, con el motivo — para documentar.
+# Una fila por gen (no por gen-panel): un gen ausente de GENCODE/gnomAD
+# lo esta en todos los paneles  donde aparece, no tiene sentido contarlo 
+# varias veces.
 summarize_excluded_genes <- function(build_result) {
   excluded <- build_result$excluded
   if (nrow(excluded) == 0) {
@@ -850,16 +837,15 @@ summarize_excluded_genes <- function(build_result) {
 # y n_total entran en logaritmo por su distribucion muy asimetrica (unos
 # pocos genes dominan en tamaño/numero de variantes).
 #
-# family = quasibinomial, no binomial (revision 2026-09-18, aprobada por el
-# tutor): el modelo esta sobredisperso (deviance/df ~ 70), por lo que los
-# errores estandar y p-valores de una binomial estandar son artificialmente
-# optimistas. quasibinomial estima el parametro de sobredispersion y lo
+# family = quasibinomial, no binomial: el modelo esta sobredisperso 
+# (deviance/df ~ 70), por lo que los  errores estandar y p-valores
+# de una binomial estandar son artificialmente optimistas.
+# quasibinomial estima el parametro de sobredispersion y lo
 # propaga a errores estandar/p-valores; el odds ratio (exp(estimate)) no
-# cambia frente a binomial, solo su margen de error. Ver
-# docs/decisiones_metodologicas.md, Fase 5 Seccion C.
+# cambia frente a binomial, solo su margen de error. 
 fit_confounder_model <- function(pooled_df) {
-  # panel_id como factor (revision 2026-09-20): la centralidad se calcula dentro
-  # de cada panel, asi que el modelo compara centrales con perifericos DENTRO
+  # panel_id como factor: la centralidad se calcula dentro de cada panel,
+  # asi que el modelo compara centrales con perifericos DENTRO
   # del mismo panel. Sustituye a disease_group, que dejaba los paneles sin grupo
   # en un nivel heterogeneo ("Sin clasificar") y tenia menos poder de control.
   pooled_df$panel_id <- factor(pooled_df$panel_id)
@@ -872,7 +858,7 @@ fit_confounder_model <- function(pooled_df) {
 }
 
 # Extrae coeficiente/error estandar/p-valor por termino del modelo, mas el
-# odds ratio (exp(estimate)) para poder citarlo directamente en la memoria.
+# odds ratio (exp(estimate)).
 # La columna de p-valor se busca por nombre en vez de fijarla a "Pr(>|z|)":
 # bajo quasibinomial (dispersion estimada) summary.glm() usa un test t y la
 # llama "Pr(>|t|)"; bajo binomial (dispersion fija = 1) usa z y la llama
