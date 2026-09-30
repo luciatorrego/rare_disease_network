@@ -76,8 +76,8 @@ Los tests localizan la raíz del proyecto buscando la carpeta `.git`, por lo que
 
 Los dos scripts de `R/figuras/` regeneran las figuras de la memoria en `results/figures/`. Se ejecutan desde la raíz del proyecto y leen los CSV de `data/processed/`.
 
-- `plot_density_boxplot.R` necesita `fase_2/panel_network_summary.csv`.
-- `plot_panel_network.R` necesita además `data/raw/string/edges/1141_combined_score.tsv`, que sale de la caché de la Fase 2 y no se publica.
+- `plot_density_boxplot.R`.
+- `plot_panel_network.R`.
 
 ## Resultados publicados
 
