@@ -24,7 +24,6 @@ Seis scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee 
 ```
 R/                       un script por fase
 R/figuras/               scripts de las figuras de la memoria
-tests/testthat/          un fichero de tests por fase
 outputs/fase_1 ... fase_6/   CSV generados por cada fase
 ```
 
@@ -38,7 +37,6 @@ outputs/fase_1 ... fase_6/   CSV generados por cada fase
 | dplyr | 1.2.1 |
 | httr2 | 1.2.2 |
 | igraph | 2.3.3 |
-| testthat | 3.3.2 |
 
 
 
@@ -57,22 +55,6 @@ source("R/priorizacion_vus.R");         main()   # Fase 6
 Los resultados se escriben en `data/processed/fase_N/` y las descargas en `data/raw/`; ninguna de las dos carpetas forma parte del repositorio. Los CSV publicados en `outputs/` son los de la ejecución usada en la memoria.
 
 Para la **ejecución de la Fase 2**, se deben descargar manualmente las dos redes de GLOWgenes, pues el script no las descarga. Se encuentran en figshare (*GLOWgenesNets*, versión 1, DOI [10.6084/m9.figshare.21408393.v1](https://doi.org/10.6084/m9.figshare.21408393.v1)); guardar `phenotypeHPOext_HGNCnets.txt` y `physicalBIOGRID_HGNCnets.txt` en `data/raw/glowgenes/`.
-
-
-## Tests
-
-Hay 209 bloques `test_that()` (442 comprobaciones), repartidos de la siguiente manera:
-
-| Fichero | Bloques |
-|---|---|
-| `test_obtencion_curacion_genes.R` | 18 |
-| `test_construccion_redes.R` | 39 |
-| `test_clasificacion_topologica.R` | 11 |
-| `test_integracion_clinvar.R` | 42 |
-| `test_analisis_estadistico.R` | 69 |
-| `test_priorizacion_vus.R` | 30 |
-
-Los tests localizan la raíz del proyecto buscando la carpeta `.git`, por lo que se deben ejecutar desde un **clon** del repositorio (`git clone`).
 
 
 ## Figuras
