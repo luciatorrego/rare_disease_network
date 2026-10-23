@@ -156,248 +156,6 @@ test_that("eligible_panel_ids: umbral que nadie cumple -> vector vacio", {
   expect_equal(length(ids), 0L)
 })
 
-# ── panel_fisher_test ──────────────────────────────────────────────────────────
-
-.make_panel_genes <- function() {
-  data.frame(
-    centrality_role = c("central", "central", "periferico", "periferico"),
-    n_patogenica     = c(10L, 8L, 1L, 2L),
-    n_benigna        = c(1L, 2L, 5L, 4L),
-    n_incertidumbre  = c(1L, 1L, 3L, 2L),
-    stringsAsFactors = FALSE
-  )
-}
-
-test_that("panel_fisher_test: suma los recuentos de variantes por grupo", {
-  res <- panel_fisher_test(.make_panel_genes())
-  expect_equal(res$n_patogenica_central, 18L)
-  expect_equal(res$n_benigna_central, 3L)
-  expect_equal(res$n_incertidumbre_central, 2L)
-  expect_equal(res$n_patogenica_periferico, 3L)
-  expect_equal(res$n_benigna_periferico, 9L)
-  expect_equal(res$n_incertidumbre_periferico, 5L)
-})
-
-test_that("panel_fisher_test: devuelve un p_value numerico entre 0 y 1", {
-  res <- panel_fisher_test(.make_panel_genes())
-  expect_true(is.numeric(res$p_value))
-  expect_true(res$p_value >= 0 && res$p_value <= 1)
-})
-
-test_that("panel_fisher_test: odds_ratio > 1 cuando central tiene mas patogenicas proporcionalmente", {
-  res <- panel_fisher_test(.make_panel_genes())
-  # central: 18 patog / 5 no-patog; periferico: 3 patog / 14 no-patog -> central mas patogenico
-  expect_true(res$odds_ratio > 1)
-})
-
-test_that("panel_fisher_test: caso simetrico (mismo reparto en ambos grupos) da odds_ratio cercano a 1", {
-  simetrico <- data.frame(
-    centrality_role = c("central", "periferico"),
-    n_patogenica     = c(5L, 5L),
-    n_benigna        = c(5L, 5L),
-    n_incertidumbre  = c(5L, 5L),
-    stringsAsFactors = FALSE
-  )
-  res <- panel_fisher_test(simetrico)
-  expect_equal(res$odds_ratio, 1, tolerance = 1e-6)
-})
-
-test_that("panel_fisher_test: celda en cero no produce error (odds_ratio Inf o 0 permitido)", {
-  con_ceros <- data.frame(
-    centrality_role = c("central", "periferico"),
-    n_patogenica     = c(5L, 0L),
-    n_benigna        = c(0L, 5L),
-    n_incertidumbre  = c(0L, 0L),
-    stringsAsFactors = FALSE
-  )
-  res <- NULL
-  expect_error(res <- panel_fisher_test(con_ceros), NA)
-  expect_true(is.infinite(res$odds_ratio) || is.numeric(res$odds_ratio))
-})
-
-test_that("panel_fisher_test: recuentos pequenos (expected < 5) usan Fisher exacto", {
-  res <- panel_fisher_test(.make_panel_genes())
-  expect_equal(res$metodo_test, "fisher")
-})
-
-test_that("panel_fisher_test: recuentos grandes (expected >= 5 en las 6 celdas) usan chi-cuadrado", {
-  grande <- data.frame(
-    centrality_role = c("central", "periferico"),
-    n_patogenica     = c(100000L, 20000L),
-    n_benigna        = c(50000L, 80000L),
-    n_incertidumbre  = c(60000L, 90000L),
-    stringsAsFactors = FALSE
-  )
-  res <- panel_fisher_test(grande)
-  expect_equal(res$metodo_test, "chi2")
-  expect_true(is.numeric(res$p_value))
-  expect_true(res$p_value >= 0 && res$p_value <= 1)
-  expect_true(is.finite(res$odds_ratio))
-})
-
-test_that("panel_fisher_test: no falla en el caso extremo real que rompia Fisher exacto", {
-  extremo <- data.frame(
-    centrality_role = c("central", "periferico"),
-    n_patogenica     = c(91515L, 15012L),
-    n_benigna        = c(230597L, 63747L),
-    n_incertidumbre  = c(296363L, 79574L),
-    stringsAsFactors = FALSE
-  )
-  res <- NULL
-  expect_error(res <- panel_fisher_test(extremo), NA)
-  expect_equal(res$metodo_test, "chi2")
-  expect_true(is.finite(res$odds_ratio))
-})
-
-# ── run_panel_comparisons ──────────────────────────────────────────────────────
-
-.make_gene_dataset_for_run <- function() {
-  # Panel 1: 6 central, 6 periferico (cumple min=5 y robusto min=10... no, 6<10)
-  # Panel 2: 2 central, 2 periferico (no cumple min=5)
-  panel1 <- data.frame(
-    panel_id = 1L, panel_name = "P1", disease_group = "Neurology",
-    hgnc_id = paste0("HGNC:", 1:12),
-    centrality_role = rep(c("central", "periferico"), each = 6),
-    n_patogenica = c(rep(5L, 6), rep(1L, 6)),
-    n_benigna = 1L, n_incertidumbre = 1L,
-    stringsAsFactors = FALSE
-  )
-  panel2 <- data.frame(
-    panel_id = 2L, panel_name = "P2", disease_group = "Cancer",
-    hgnc_id = paste0("HGNC:", 13:16),
-    centrality_role = rep(c("central", "periferico"), each = 2),
-    n_patogenica = 1L, n_benigna = 1L, n_incertidumbre = 1L,
-    stringsAsFactors = FALSE
-  )
-  rbind(panel1, panel2)
-}
-
-test_that("run_panel_comparisons: solo incluye paneles elegibles (min_per_group)", {
-  res <- run_panel_comparisons(.make_gene_dataset_for_run(), min_per_group = 5, min_per_group_robusto = 10)
-  expect_equal(res$panel_id, 1L)  # panel 2 (2 y 2) no cumple min=5
-})
-
-test_that("run_panel_comparisons: marca 'robusto' segun el umbral mas estricto", {
-  res <- run_panel_comparisons(.make_gene_dataset_for_run(), min_per_group = 5, min_per_group_robusto = 10)
-  p1 <- res[res$panel_id == 1L, , drop = FALSE]
-  expect_false(p1$robusto)  # 6 central, 6 periferico: cumple min=5 pero no min=10
-})
-
-test_that("run_panel_comparisons: incluye panel_name, disease_group y los resultados de Fisher", {
-  res <- run_panel_comparisons(.make_gene_dataset_for_run(), min_per_group = 5, min_per_group_robusto = 10)
-  p1 <- res[res$panel_id == 1L, , drop = FALSE]
-  expect_equal(p1$panel_name, "P1")
-  expect_equal(p1$disease_group, "Neurology")
-  expect_true(is.numeric(p1$p_value))
-  expect_true(is.numeric(p1$odds_ratio))
-  expect_equal(p1$n_genes_central, 6L)
-  expect_equal(p1$n_genes_periferico, 6L)
-})
-
-test_that("run_panel_comparisons: sin paneles elegibles -> 0 filas, no falla", {
-  res <- NULL
-  expect_error(res <- run_panel_comparisons(.make_gene_dataset_for_run(), min_per_group = 1000, min_per_group_robusto = 10000), NA)
-  expect_equal(nrow(res), 0L)
-})
-
-# ── summarize_panel_results ────────────────────────────────────────────────────
-
-.make_panel_results <- function() {
-  data.frame(
-    panel_id      = 1:5,
-    disease_group = c("Neurology", "Neurology", "Cancer", "Cancer", "Cancer"),
-    p_value       = c(0.01, 0.20, 0.02, 0.30, 0.04),
-    p_fdr         = c(0.03, 0.30, 0.04, 0.35, 0.06),
-    odds_ratio    = c(2.0,  1.5,  0.3,  1.1,  3.0),
-    stringsAsFactors = FALSE
-  )
-}
-
-test_that("summarize_panel_results: clasifica cada panel en esperado/contrario/no significativo", {
-  res <- summarize_panel_results(.make_panel_results(), alpha = 0.05)
-  total <- res[res$disease_group == "Total", , drop = FALSE]
-  # esperado: p<0.05 y OR>1 -> panel 1 (0.01, 2.0) y panel 5 (0.04, 3.0) = 2
-  # contrario: p<0.05 y OR<1 -> panel 3 (0.02, 0.3) = 1
-  # no significativo: panel 2 (0.20), panel 4 (0.30) = 2
-  expect_equal(total$n_esperado_significativo, 2L)
-  expect_equal(total$n_contrario_significativo, 1L)
-  expect_equal(total$n_no_significativo, 2L)
-  expect_equal(total$n_paneles, 5L)
-})
-
-test_that("summarize_panel_results: una fila 'Total' y una por disease_group", {
-  res <- summarize_panel_results(.make_panel_results(), alpha = 0.05)
-  expect_setequal(res$disease_group, c("Total", "Neurology", "Cancer"))
-})
-
-test_that("summarize_panel_results: los recuentos por disease_group son correctos", {
-  res <- summarize_panel_results(.make_panel_results(), alpha = 0.05)
-  cancer <- res[res$disease_group == "Cancer", , drop = FALSE]
-  expect_equal(cancer$n_paneles, 3L)
-  expect_equal(cancer$n_esperado_significativo, 1L)  # panel 5
-  expect_equal(cancer$n_contrario_significativo, 1L)  # panel 3
-})
-
-test_that("summarize_panel_results: dataset vacio -> solo fila Total con ceros, no falla", {
-  vacio <- .make_panel_results()[0, ]
-  res <- NULL
-  expect_error(res <- summarize_panel_results(vacio, alpha = 0.05), NA)
-  expect_equal(nrow(res), 1L)
-  expect_equal(res$disease_group, "Total")
-  expect_equal(res$n_paneles, 0L)
-})
-
-test_that("summarize_panel_results: la suma de las filas por disease_group coincide con el Total, incluso con disease_group NA", {
-  con_na <- data.frame(
-    panel_id      = 1:4,
-    disease_group = c("Neurology", NA, "Cancer", "Cancer"),
-    p_value       = c(0.01, 0.02, 0.30, 0.04),
-    p_fdr         = c(0.03, 0.04, 0.30, 0.06),
-    odds_ratio    = c(2.0, 3.0, 1.1, 3.0),
-    stringsAsFactors = FALSE
-  )
-  res <- summarize_panel_results(con_na, alpha = 0.05)
-  total <- res[res$disease_group == "Total", , drop = FALSE]
-  sin_total <- res[res$disease_group != "Total", , drop = FALSE]
-  expect_equal(sum(sin_total$n_paneles), total$n_paneles)
-  expect_true("Sin clasificar" %in% res$disease_group)
-  sin_clasificar <- res[res$disease_group == "Sin clasificar", , drop = FALSE]
-  expect_equal(sin_clasificar$n_paneles, 1L)
-})
-
-test_that("summarize_panel_results: clasifica tambien con p_fdr (columnas *_fdr), sin tocar las de p_value", {
-  res <- summarize_panel_results(.make_panel_results(), alpha = 0.05)
-  total <- res[res$disease_group == "Total", , drop = FALSE]
-  # con p_fdr: esperado = panel 1 (0.03, OR 2.0); contrario = panel 3 (0.04, OR 0.3);
-  # panel 5 (0.06) deja de ser significativo tras la correccion
-  expect_equal(total$n_esperado_significativo_fdr, 1L)
-  expect_equal(total$n_contrario_significativo_fdr, 1L)
-  expect_equal(total$n_no_significativo_fdr, 3L)
-  # las columnas sin corregir siguen igual que antes
-  expect_equal(total$n_esperado_significativo, 2L)
-})
-
-# ── run_panel_comparisons: corrección FDR ──────────────────────────────────────
-
-test_that("run_panel_comparisons: anade p_fdr = Benjamini-Hochberg sobre los p_value de todos los paneles", {
-  panel_extra <- .make_gene_dataset_for_run()
-  panel_extra <- rbind(
-    panel_extra[panel_extra$panel_id == 1L, ],
-    transform(panel_extra[panel_extra$panel_id == 1L, ],
-              panel_id = 3L, panel_name = "P3", hgnc_id = paste0("HGNC:", 101:112),
-              n_patogenica = c(rep(3L, 6), rep(2L, 6)))
-  )
-  res <- run_panel_comparisons(panel_extra, min_per_group = 5, min_per_group_robusto = 10)
-  expect_equal(nrow(res), 2L)
-  expect_equal(res$p_fdr, stats::p.adjust(res$p_value, method = "BH"))
-  expect_true(all(res$p_fdr >= res$p_value))
-})
-
-test_that("run_panel_comparisons: sin paneles elegibles devuelve columna p_fdr vacia", {
-  res <- run_panel_comparisons(.make_gene_dataset_for_run(), min_per_group = 1000, min_per_group_robusto = 10000)
-  expect_true("p_fdr" %in% names(res))
-})
-
 # ── panel_wilcoxon_tests ───────────────────────────────────────────────────────
 
 .make_wilcox_panel_genes <- function(pat_c, pat_p, ben = 1L, inc = 1L) {
@@ -440,7 +198,8 @@ test_that("panel_wilcoxon_tests: valores identicos en todos los genes -> p=1 fin
 
 test_that("panel_wilcoxon_tests: pondera por gen, no por variante (un gen enorme no domina)", {
   # 5 genes centrales con 20% patogenicas y UN gen central gigante (10000 patogenicas);
-  # los periféricos tienen 60% patogenicas. Por variantes, central parece mas patogenico;
+  # los periféricos tienen 60% patogenicas en todos sus genes. Si se ponderara por
+  # variante, el gen gigante arrastraria el resultado hacia "central mas patogenico";
   # por gen, los periféricos tienen mayor proporcion en casi todos los genes.
   central <- data.frame(
     centrality_role = "central",
@@ -457,9 +216,7 @@ test_that("panel_wilcoxon_tests: pondera por gen, no por variante (un gen enorme
     stringsAsFactors = FALSE
   )
   genes <- rbind(central, periferico)
-  fisher_res  <- panel_fisher_test(genes)
-  wilcox_res  <- panel_wilcoxon_tests(genes)
-  expect_gt(fisher_res$odds_ratio, 1)  # por variantes: central "mas patogenico"
+  wilcox_res <- panel_wilcoxon_tests(genes)
   expect_lt(wilcox_res$auc_pat, 0.5)   # por gen: periferico tiene mayor proporcion en 5 de 6 genes
 })
 
@@ -478,7 +235,28 @@ test_that("panel_wilcoxon_tests: calcula tambien la proporcion con incertidumbre
 
 # ── run_panel_wilcoxon ─────────────────────────────────────────────────────────
 
-test_that("run_panel_wilcoxon: solo incluye paneles elegibles y marca 'robusto', igual que run_panel_comparisons", {
+.make_gene_dataset_for_run <- function() {
+  # Panel 1: 6 central, 6 periferico (cumple min=5 y robusto min=10... no, 6<10)
+  # Panel 2: 2 central, 2 periferico (no cumple min=5)
+  panel1 <- data.frame(
+    panel_id = 1L, panel_name = "P1", disease_group = "Neurology",
+    hgnc_id = paste0("HGNC:", 1:12),
+    centrality_role = rep(c("central", "periferico"), each = 6),
+    n_patogenica = c(rep(5L, 6), rep(1L, 6)),
+    n_benigna = 1L, n_incertidumbre = 1L,
+    stringsAsFactors = FALSE
+  )
+  panel2 <- data.frame(
+    panel_id = 2L, panel_name = "P2", disease_group = "Cancer",
+    hgnc_id = paste0("HGNC:", 13:16),
+    centrality_role = rep(c("central", "periferico"), each = 2),
+    n_patogenica = 1L, n_benigna = 1L, n_incertidumbre = 1L,
+    stringsAsFactors = FALSE
+  )
+  rbind(panel1, panel2)
+}
+
+test_that("run_panel_wilcoxon: solo incluye paneles elegibles y marca 'robusto'", {
   res <- run_panel_wilcoxon(.make_gene_dataset_for_run(), min_per_group = 5, min_per_group_robusto = 10)
   expect_equal(res$panel_id, 1L)
   expect_false(res$robusto)
@@ -623,7 +401,7 @@ test_that("summarize_wilcoxon_results: benignas -> esperado si q<alpha y AUC<0.5
 
 # ── Pipeline completo (misma secuencia que main_panel(), sobre datos sintéticos) ────
 
-test_that("pipeline completo: build_gene_dataset -> run_panel_comparisons -> summarize_panel_results", {
+test_that("pipeline completo: build_gene_dataset -> run_panel_wilcoxon -> summarize_wilcoxon_results", {
   networks <- rbind(
     data.frame(
       hgnc_id = paste0("HGNC:", 1:12), string_id = paste0("9606.", 1:12),
@@ -659,11 +437,11 @@ test_that("pipeline completo: build_gene_dataset -> run_panel_comparisons -> sum
   expect_false(any(gene_dataset$hgnc_id == "" ))
   expect_true(all(gene_dataset$centrality_role %in% c("central", "periferico")))
 
-  panel_results <- run_panel_comparisons(gene_dataset, min_per_group = 5, min_per_group_robusto = 10)
-  expect_equal(nrow(panel_results), 1L)
-  expect_true(panel_results$odds_ratio > 1)  # central tiene mas patogenicas
+  wilcoxon_results <- run_panel_wilcoxon(gene_dataset, min_per_group = 5, min_per_group_robusto = 10)
+  expect_equal(nrow(wilcoxon_results), 1L)
+  expect_true(wilcoxon_results$auc_pat > 0.5)  # central tiene mas proporcion patogenica
 
-  summary <- summarize_panel_results(panel_results, alpha = 0.05)
+  summary <- summarize_wilcoxon_results(wilcoxon_results, alpha = 0.05)
   expect_true("Total" %in% summary$disease_group)
 })
 

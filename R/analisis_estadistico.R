@@ -55,178 +55,13 @@ eligible_panel_ids <- function(panel_counts, min_per_group) {
   panel_counts$panel_id[idx]
 }
 
-# ── Test de Fisher por panel ────────────────────────────────────────────────────
-
-# Suma los recuentos de variantes de los genes centrales y de los periféricos,
-# monta la tabla 2x3 (grupo x categoria clinica) y aplica la regla híbrida 
-# de Cochran: chi-cuadrado si los 6 recuentos esperados son >= 5, Fisher exacto 
-# en el resto. Necesario porque el algoritmo exacto de red de fisher.test()
-# para tablas no-2x2 no escala a los recuentos de variantes de paneles grandes. 
-# Calcula además el odds ratio patogenica-vs-resto, central-vs-periferico, como
-# medida de tamaño y dirección del efecto (independiente de qué test se usó
-# para el p-valor).
-panel_fisher_test <- function(panel_genes) {
-  central    <- panel_genes[which(panel_genes$centrality_role == "central"), , drop = FALSE]
-  periferico <- panel_genes[which(panel_genes$centrality_role == "periferico"), , drop = FALSE]
-
-  n_pat_c <- sum(central$n_patogenica)
-  n_ben_c <- sum(central$n_benigna)
-  n_inc_c <- sum(central$n_incertidumbre)
-  n_pat_p <- sum(periferico$n_patogenica)
-  n_ben_p <- sum(periferico$n_benigna)
-  n_inc_p <- sum(periferico$n_incertidumbre)
-
-  tabla <- matrix(
-    c(n_pat_c, n_ben_c, n_inc_c,
-      n_pat_p, n_ben_p, n_inc_p),
-    nrow = 2, byrow = TRUE
-  )
-
-  row_totals  <- rowSums(tabla)
-  col_totals  <- colSums(tabla)
-  grand_total <- sum(tabla)
-  expected    <- outer(row_totals, col_totals) / grand_total
-
-  if (all(expected >= 5)) {
-    metodo_test <- "chi2"
-    p_value <- stats::chisq.test(tabla)$p.value
-  } else {
-    metodo_test <- "fisher"
-    p_value <- stats::fisher.test(tabla)$p.value
-  }
-
-  no_pat_c <- n_ben_c + n_inc_c
-  no_pat_p <- n_ben_p + n_inc_p
-  odds_ratio <- (as.numeric(n_pat_c) * no_pat_p) / (as.numeric(no_pat_c) * n_pat_p)
-
-  data.frame(
-    n_patogenica_central       = n_pat_c,
-    n_benigna_central          = n_ben_c,
-    n_incertidumbre_central    = n_inc_c,
-    n_patogenica_periferico    = n_pat_p,
-    n_benigna_periferico       = n_ben_p,
-    n_incertidumbre_periferico = n_inc_p,
-    p_value                    = p_value,
-    odds_ratio                 = odds_ratio,
-    metodo_test                = metodo_test,
-    stringsAsFactors           = FALSE
-  )
-}
-
-# ── Orquestación de la Sección A ────────────────────────────────────────────────
-
-# Para cada panel elegible (>= min_per_group genes en cada grupo), calcula el
-# test de Fisher (panel_fisher_test) y marca si además supera el umbral de
-# robustez (min_per_group_robusto). Un panel puede ser elegible para el
-# análisis principal sin ser "robusto".
-run_panel_comparisons <- function(gene_dataset, min_per_group = 5, min_per_group_robusto = 10) {
-  counts <- panel_group_counts(gene_dataset)
-  ids_principal <- eligible_panel_ids(counts, min_per_group)
-  ids_robusto   <- eligible_panel_ids(counts, min_per_group_robusto)
-
-  rows <- vector("list", length(ids_principal))
-  for (i in seq_along(ids_principal)) {
-    pid <- ids_principal[i]
-    panel_genes <- gene_dataset[which(gene_dataset$panel_id == pid), , drop = FALSE]
-    panel_count <- counts[which(counts$panel_id == pid), , drop = FALSE]
-    fisher_res  <- panel_fisher_test(panel_genes)
-
-    rows[[i]] <- data.frame(
-      panel_id           = pid,
-      panel_name          = panel_count$panel_name,
-      disease_group       = panel_count$disease_group,
-      n_genes_central     = panel_count$n_genes_central,
-      n_genes_periferico  = panel_count$n_genes_periferico,
-      fisher_res,
-      robusto             = pid %in% ids_robusto
-    )
-  }
-
-  if (length(rows) == 0) {
-    return(data.frame(
-      panel_id = integer(0), panel_name = character(0), disease_group = character(0),
-      n_genes_central = integer(0), n_genes_periferico = integer(0),
-      n_patogenica_central = integer(0), n_benigna_central = integer(0), n_incertidumbre_central = integer(0),
-      n_patogenica_periferico = integer(0), n_benigna_periferico = integer(0), n_incertidumbre_periferico = integer(0),
-      p_value = numeric(0), p_fdr = numeric(0), odds_ratio = numeric(0), robusto = logical(0)
-    ))
-  }
-
-  result <- do.call(rbind, rows)
-  rownames(result) <- NULL
-
-  # Corrección por comparaciones múltiples (Benjamini-Hochberg) sobre la
-  # familia completa de tests por panel; p_value (sin corregir) se conserva.
-  idx_p <- which(names(result) == "p_value")
-  result <- cbind(
-    result[, seq_len(idx_p), drop = FALSE],
-    p_fdr = stats::p.adjust(result$p_value, method = "BH"),
-    result[, -seq_len(idx_p), drop = FALSE]
-  )
-  result
-}
-
-# ── Orquestación de la Sección B ────────────────────────────────────────────────
-
-# Clasifica cada panel como "esperado" (significativo, mas patogenicas en
-# centrales), "contrario" (significativo, en la direccion opuesta) o "no
-# significativo", y cuenta cuantos hay en total y por disease_group.
-.classify_panel_results <- function(panel_results_df, alpha, p_col = "p_value") {
-  p <- panel_results_df[[p_col]]
-  dplyr::case_when(
-    p < alpha & panel_results_df$odds_ratio > 1 ~ "esperado",
-    p < alpha & panel_results_df$odds_ratio < 1 ~ "contrario",
-    TRUE ~ "no_significativo"
-  )
-}
-
-# clasificacion: según p_value sin corregir; clasificacion_fdr: según p_fdr.
-.summarize_group <- function(clasificacion, clasificacion_fdr, disease_group_label) {
-  data.frame(
-    disease_group                 = disease_group_label,
-    n_paneles                     = length(clasificacion),
-    n_esperado_significativo      = sum(clasificacion == "esperado"),
-    n_contrario_significativo     = sum(clasificacion == "contrario"),
-    n_no_significativo            = sum(clasificacion == "no_significativo"),
-    n_esperado_significativo_fdr  = sum(clasificacion_fdr == "esperado"),
-    n_contrario_significativo_fdr = sum(clasificacion_fdr == "contrario"),
-    n_no_significativo_fdr        = sum(clasificacion_fdr == "no_significativo")
-  )
-}
-
-summarize_panel_results <- function(panel_results_df, alpha = 0.05) {
-  clasificacion     <- .classify_panel_results(panel_results_df, alpha)
-  clasificacion_fdr <- .classify_panel_results(panel_results_df, alpha, p_col = "p_fdr")
-  total_row <- .summarize_group(clasificacion, clasificacion_fdr, "Total")
-
-  if (nrow(panel_results_df) == 0) {
-    return(total_row)
-  }
-
-  grupos <- unique(panel_results_df$disease_group)
-  group_rows <- lapply(grupos, function(g) {
-    if (is.na(g)) {
-      idx   <- which(is.na(panel_results_df$disease_group))
-      label <- "Sin clasificar"
-    } else {
-      idx   <- which(panel_results_df$disease_group == g)
-      label <- g
-    }
-    .summarize_group(clasificacion[idx], clasificacion_fdr[idx], label)
-  })
-
-  result <- rbind(total_row, do.call(rbind, group_rows))
-  rownames(result) <- NULL
-  result
-}
-
-# ── Wilcoxon gen a gen (alternativa a la ponderación por variante) ──────────────
+# ── Wilcoxon gen a gen (contraste por panel) ────────────────────────────────────
 
 # Compara centrales vs. periféricos dentro de un panel usando UNA observación
 # por gen: la proporción de sus variantes clasificadas que son patogénicas (y,
-# aparte, con incertidumbre y benignas). Así un gen muy estudiado en ClinVar 
-# pesa igual que uno con pocas variantes, a diferencia de panel_fisher_test(),
-# que suma variantes. Test de Wilcoxon/Mann-Whitney con exact = FALSE (los
+# aparte, con incertidumbre y benignas). Así un gen muy estudiado en ClinVar
+# (p. ej. BRCA1) pesa igual que uno con pocas variantes, en vez de que su volumen de variantes
+# domine el contraste. Test de Wilcoxon/Mann-Whitney con exact = FALSE (los
 # empates en 0/1 son frecuentes y el cálculo exacto avisaría en cada panel).
 # auc = probabilidad de que un gen central tenga mayor proporción que uno
 # periférico (0,5 = sin diferencia); si todos los valores son idénticos el
@@ -277,9 +112,10 @@ panel_wilcoxon_tests <- function(panel_genes) {
   "robusto"
 )
 
-# Igual que run_panel_comparisons(), pero con panel_wilcoxon_tests(). Mismos
-# paneles elegibles y misma marca 'robusto'. p_fdr_pat / p_fdr_inc: Benjamini-
-# Hochberg sobre la familia de tests de cada variable.
+# Orquesta panel_wilcoxon_tests() sobre los paneles elegibles (mismo criterio
+# de elegibilidad y de marca 'robusto' en todas las Secciones A/B).
+# p_fdr_pat / p_fdr_inc: Benjamini-Hochberg sobre la familia de tests de cada
+# variable.
 run_panel_wilcoxon <- function(gene_dataset, min_per_group = 5, min_per_group_robusto = 10) {
   counts <- panel_group_counts(gene_dataset)
   ids_principal <- eligible_panel_ids(counts, min_per_group)
@@ -362,7 +198,7 @@ run_panel_wilcoxon <- function(gene_dataset, min_per_group = 5, min_per_group_ro
 }
 
 # Resumen del Wilcoxon (con p_fdr): fila "Total" + una por disease_group
-# (NA -> "Sin clasificar"), igual que summarize_panel_results().
+# (NA -> "Sin clasificar").
 summarize_wilcoxon_results <- function(wilcoxon_results_df, alpha = 0.05) {
   total_row <- .summarize_wilcoxon_group(wilcoxon_results_df, "Total", alpha)
   if (nrow(wilcoxon_results_df) == 0) {
@@ -403,33 +239,18 @@ main_panel <- function() {
   gene_dataset <- build_gene_dataset(networks, clinvar, min_variants = 5)
   message("Genes tras los filtros: ", nrow(gene_dataset))
 
-  message("Comparando central vs. periférico por panel (Fisher exacto)...")
-  panel_results <- run_panel_comparisons(gene_dataset, min_per_group = 5, min_per_group_robusto = 10)
-  message("Paneles analizados: ", nrow(panel_results),
-          " (robustos: ", sum(panel_results$robusto), ")")
-
-  message("Agregando resultados entre paneles y por tipo de enfermedad...")
-  summary_results <- summarize_panel_results(panel_results, alpha = 0.05)
-
   message("Comparando central vs. periférico por panel, gen a gen (Wilcoxon)...")
   wilcoxon_results <- run_panel_wilcoxon(gene_dataset, min_per_group = 5, min_per_group_robusto = 10)
+  message("Paneles analizados: ", nrow(wilcoxon_results),
+          " (robustos: ", sum(wilcoxon_results$robusto), ")")
   wilcoxon_summary <- summarize_wilcoxon_results(wilcoxon_results, alpha = 0.05)
 
   message("Escribiendo outputs...")
   dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
-  readr::write_csv(panel_results, file.path(out_dir, "panel_comparisons.csv"))
-  readr::write_csv(summary_results, file.path(out_dir, "panel_comparisons_summary.csv"))
   readr::write_csv(wilcoxon_results, file.path(out_dir, "panel_comparisons_wilcoxon.csv"))
   readr::write_csv(wilcoxon_summary, file.path(out_dir, "panel_comparisons_wilcoxon_summary.csv"))
 
   message("=== Completado (Secciones A+B) ===")
-  total <- summary_results[which(summary_results$disease_group == "Total"), , drop = FALSE]
-  message("[chi-cuadrado] sin corregir: esperado ", total$n_esperado_significativo,
-          " / contrario ", total$n_contrario_significativo,
-          " / no significativo ", total$n_no_significativo)
-  message("[chi-cuadrado] con FDR: esperado ", total$n_esperado_significativo_fdr,
-          " / contrario ", total$n_contrario_significativo_fdr,
-          " / no significativo ", total$n_no_significativo_fdr)
   wtotal <- wilcoxon_summary[which(wilcoxon_summary$disease_group == "Total"), , drop = FALSE]
   message("[Wilcoxon, % patogénica, FDR] esperado ", wtotal$n_esperado_pat,
           " / contrario ", wtotal$n_contrario_pat,
@@ -770,7 +591,7 @@ build_pooled_dataset <- function(networks_df, clinvar_df, gene_lengths_df, const
   # na.action = na.omit lo descartaria en silencio junto con toda la fila,
   # violando la regla del proyecto de nunca perder filas sin registrarlo.
   # Se recodifica a una etiqueta explicita ANTES de dividir en dataset/excluded
-  # (misma etiqueta que summarize_panel_results() para el mismo caso).
+  # (misma etiqueta que el desglose por disease_group de las Secciones A/B).
   merged$disease_group[is.na(merged$disease_group)] <- "Sin clasificar"
 
   merged <- left_join_id_then_symbol(

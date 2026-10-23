@@ -37,7 +37,7 @@ label <- ifelse(role == "central", symbol, NA)
 out_path <- file.path(project_root, "results/figures/red_panel1141_combined_score.png")
 dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 
-png(out_path, width = 2400, height = 2000, res = 300)
+png(out_path, width = 4800, height = 4000, res = 600, type = "cairo")
 par(mar = c(0, 0, 0, 0))
 vertex_size <- 5 + degree(g) * 0.35 + ifelse(role == "central", 4, 0)
 

@@ -1,0 +1,11 @@
+nivel_prioridad,categoria_actual,n_variantes
+Alta,benigna,2617
+Baja,benigna,3302
+Media,benigna,4039
+Sin datos de topologia,benigna,25
+Sin evidencia topologica,benigna,3073
+Alta,patogenica,1687
+Baja,patogenica,1477
+Media,patogenica,1467
+Sin datos de topologia,patogenica,1
+Sin evidencia topologica,patogenica,966

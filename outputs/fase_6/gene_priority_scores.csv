@@ -1,0 +1,4835 @@
+hgnc_id,voto_centralidad,voto_hpo,voto_conectividad,votos,nivel_prioridad,gene_symbol
+HGNC:10004,0,0,0,0,Sin evidencia topologica,RGS9
+HGNC:10006,0,0,0,0,Sin evidencia topologica,RHAG
+HGNC:10011,0,0,0,0,Sin evidencia topologica,RHEB
+HGNC:10012,1,0,1,2,Media,RHO
+HGNC:10013,0,0,0,0,Sin evidencia topologica,GRK1
+HGNC:10019,0,0,0,0,Sin evidencia topologica,RIPK1
+HGNC:10023,0,1,0,1,Baja,RIT1
+HGNC:10024,1,0,0,1,Baja,RLBP1
+HGNC:10031,0,1,0,1,Baja,RMRP
+HGNC:10050,0,0,0,0,Sin evidencia topologica,RNASEL
+HGNC:10057,0,0,0,0,Sin evidencia topologica,RNF13
+HGNC:10061,1,0,0,1,Baja,RNF2
+HGNC:10074,0,0,0,0,Sin evidencia topologica,RNH1
+HGNC:1012,0,0,0,0,Sin evidencia topologica,OPN1SW
+HGNC:1020,1,1,1,3,Alta,BCS1L
+HGNC:10249,0,0,0,0,Sin evidencia topologica,ROBO1
+HGNC:10250,0,0,0,0,Sin evidencia topologica,ROBO2
+HGNC:10254,1,0,0,1,Baja,ROM1
+HGNC:10256,0,0,0,0,Sin evidencia topologica,ROR1
+HGNC:10257,0,1,0,1,Baja,ROR2
+HGNC:10258,0,0,0,0,Sin evidencia topologica,RORA
+HGNC:10259,0,0,0,0,Sin evidencia topologica,RORB
+HGNC:10260,0,0,0,0,Sin evidencia topologica,RORC
+HGNC:10263,0,0,0,0,Sin evidencia topologica,RP1
+HGNC:10274,0,0,0,0,Sin evidencia topologica,RP2
+HGNC:10288,0,0,0,0,Sin evidencia topologica,RP9
+HGNC:10289,0,0,1,1,Baja,RPA1
+HGNC:10294,1,1,0,2,Media,RPE65
+HGNC:10295,1,1,1,3,Alta,RPGR
+HGNC:10297,1,1,0,2,Media,RPIA
+HGNC:10298,1,0,1,2,Media,RPL10
+HGNC:103,0,0,0,0,Sin evidencia topologica,CNNM2
+HGNC:10301,1,0,1,2,Media,RPL11
+HGNC:10303,1,0,1,2,Media,RPL13
+HGNC:10306,0,0,1,1,Baja,RPL15
+HGNC:10307,0,0,1,1,Baja,RPL17
+HGNC:10310,0,0,1,1,Baja,RPL18
+HGNC:10316,0,0,1,1,Baja,RPL23
+HGNC:10327,1,1,1,3,Alta,RPL26
+HGNC:10328,0,0,1,1,Baja,RPL27
+HGNC:10334,0,0,1,1,Baja,RPL31
+HGNC:1034,0,0,1,1,Baja,BECN1
+HGNC:10345,1,0,1,2,Media,RPL35A
+HGNC:10351,0,0,1,1,Baja,RPL3L
+HGNC:10360,1,0,1,2,Media,RPL5
+HGNC:10369,1,0,1,2,Media,RPL9
+HGNC:1037,0,1,0,1,Baja,CFB
+HGNC:10378,0,0,1,1,Baja,MRPL12
+HGNC:10379,0,0,1,1,Baja,MRPL3
+HGNC:10383,0,0,1,1,Baja,RPS10
+HGNC:10388,0,0,1,1,Baja,RPS15
+HGNC:10397,1,0,1,2,Media,RPS17
+HGNC:1040,1,0,0,1,Baja,BFSP1
+HGNC:10402,1,1,1,3,Alta,RPS19
+HGNC:10405,1,0,1,2,Media,RPS20
+HGNC:1041,1,0,0,1,Baja,BFSP2
+HGNC:10410,1,0,1,2,Media,RPS23
+HGNC:10411,1,0,1,2,Media,RPS24
+HGNC:10414,1,0,1,2,Media,RPS26
+HGNC:10416,0,0,1,1,Baja,RPS27
+HGNC:10417,1,0,1,2,Media,RPS27A
+HGNC:10418,0,0,1,1,Baja,RPS28
+HGNC:10419,1,0,1,2,Media,RPS29
+HGNC:10432,0,1,0,1,Baja,RPS6KA3
+HGNC:10436,0,0,1,1,Baja,RPS6KB1
+HGNC:10439,0,0,0,0,Sin evidencia topologica,RPS6KC1
+HGNC:1044,1,0,1,2,Media,BGN
+HGNC:10440,0,0,1,1,Baja,RPS7
+HGNC:10445,0,0,0,0,Sin evidencia topologica,CNOT9
+HGNC:10447,0,0,0,0,Sin evidencia topologica,RRAS
+HGNC:10449,0,1,0,1,Baja,RREB1
+HGNC:10457,0,0,0,0,Sin evidencia topologica,RS1
+HGNC:10468,1,0,0,1,Baja,RTN2
+HGNC:10471,0,0,1,1,Baja,RUNX1
+HGNC:10472,1,0,1,2,Media,RUNX2
+HGNC:10480,0,0,1,1,Baja,RYBP
+HGNC:10483,1,0,1,2,Media,RYR1
+HGNC:10484,1,0,1,2,Media,RYR2
+HGNC:10485,0,0,0,0,Sin evidencia topologica,RYR3
+HGNC:105,1,1,0,2,Media,CNNM4
+HGNC:10519,0,1,0,1,Baja,SACS
+HGNC:1052,1,1,0,2,Media,BIN1
+HGNC:10521,0,1,0,1,Baja,SAG
+HGNC:10524,1,1,0,2,Media,SALL1
+HGNC:10526,0,0,0,0,Sin evidencia topologica,SALL2
+HGNC:10535,0,0,0,0,Sin evidencia topologica,SAR1B
+HGNC:10537,0,0,0,0,Sin evidencia topologica,SARS
+HGNC:10541,0,0,0,0,Sin evidencia topologica,SATB1
+HGNC:10542,0,0,0,0,Sin evidencia topologica,SBF1
+HGNC:10545,0,0,0,0,Sin evidencia topologica,MSMO1
+HGNC:10547,0,0,0,0,Sin evidencia topologica,SC5D
+HGNC:1057,0,0,0,0,Sin evidencia topologica,BLK
+HGNC:1058,1,1,1,3,Alta,BLM
+HGNC:10582,0,1,0,1,Baja,SCN10A
+HGNC:10583,0,1,0,1,Baja,SCN11A
+HGNC:10585,1,1,1,3,Alta,SCN1A
+HGNC:10586,1,0,0,1,Baja,SCN1B
+HGNC:10588,1,1,1,3,Alta,SCN2A
+HGNC:10590,0,0,0,0,Sin evidencia topologica,SCN3A
+HGNC:10591,1,1,0,2,Media,SCN4A
+HGNC:10593,1,1,1,3,Alta,SCN5A
+HGNC:10596,1,1,0,2,Media,SCN8A
+HGNC:10597,1,0,0,1,Baja,SCN9A
+HGNC:10599,0,1,0,1,Baja,SCNN1A
+HGNC:10600,0,1,0,1,Baja,SCNN1B
+HGNC:10602,1,0,0,1,Baja,SCNN1G
+HGNC:10603,1,1,0,2,Media,SCO1
+HGNC:10604,0,1,0,1,Baja,SCO2
+HGNC:10606,1,0,0,1,Baja,SCP2
+HGNC:10618,1,0,1,2,Media,CCL2
+HGNC:10632,1,0,1,2,Media,CCL5
+HGNC:10648,0,1,0,1,Baja,AIMP1
+HGNC:10663,0,0,0,0,Sin evidencia topologica,NEMF
+HGNC:10664,0,0,0,0,Sin evidencia topologica,CWC27
+HGNC:1067,1,1,0,2,Media,BMP1
+HGNC:10671,0,1,0,1,Baja,SDCCAG8
+HGNC:1068,1,1,0,2,Media,BMP15
+HGNC:10680,1,1,1,3,Alta,SDHA
+HGNC:10681,1,1,1,3,Alta,SDHB
+HGNC:10682,1,1,1,3,Alta,SDHC
+HGNC:10683,1,1,1,3,Alta,SDHD
+HGNC:1069,1,0,1,2,Media,BMP2
+HGNC:10701,0,0,0,0,Sin evidencia topologica,SEC23A
+HGNC:10702,0,0,0,0,Sin evidencia topologica,SEC23B
+HGNC:10706,1,1,0,2,Media,SEC24D
+HGNC:1071,1,1,1,3,Alta,BMP4
+HGNC:10717,0,0,0,0,Sin evidencia topologica,SEL1L
+HGNC:10723,0,0,0,0,Sin evidencia topologica,SEMA3A
+HGNC:10725,0,0,0,0,Sin evidencia topologica,SEMA3C
+HGNC:10726,0,0,0,0,Sin evidencia topologica,SEMA3D
+HGNC:10727,0,0,0,0,Sin evidencia topologica,SEMA3E
+HGNC:10728,0,0,0,0,Sin evidencia topologica,SEMA3F
+HGNC:10729,0,0,0,0,Sin evidencia topologica,SEMA4A
+HGNC:1073,0,0,0,0,Sin evidencia topologica,BMP6
+HGNC:10739,0,0,0,0,Sin evidencia topologica,SEMA6B
+HGNC:1074,1,0,1,2,Media,BMP7
+HGNC:1076,1,1,0,2,Media,BMPR1A
+HGNC:10760,0,0,0,0,Sin evidencia topologica,SET
+HGNC:10768,1,0,1,2,Media,SF3B1
+HGNC:10769,0,0,1,1,Baja,SF3B2
+HGNC:1077,0,0,0,0,Sin evidencia topologica,BMPR1B
+HGNC:10771,0,1,1,2,Media,SF3B4
+HGNC:10778,0,0,0,0,Sin evidencia topologica,SFRP4
+HGNC:1078,0,0,0,0,Sin evidencia topologica,BMPR2
+HGNC:10780,1,0,1,2,Media,SRSF1
+HGNC:10781,0,0,0,0,Sin evidencia topologica,TRA2B
+HGNC:10798,0,0,0,0,Sin evidencia topologica,SFTPA1
+HGNC:10799,1,0,0,1,Baja,SFTPA2
+HGNC:10801,0,0,0,0,Sin evidencia topologica,SFTPB
+HGNC:10802,1,0,0,1,Baja,SFTPC
+HGNC:10805,0,1,0,1,Baja,SGCA
+HGNC:10806,0,0,0,0,Sin evidencia topologica,SGCB
+HGNC:10807,1,0,0,1,Baja,SGCD
+HGNC:10808,0,0,0,0,Sin evidencia topologica,SGCE
+HGNC:10809,0,0,0,0,Sin evidencia topologica,SGCG
+HGNC:10817,0,0,0,0,Sin evidencia topologica,SGPL1
+HGNC:10818,1,0,0,1,Baja,SGSH
+HGNC:1082,0,0,0,0,Sin evidencia topologica,BNIP1
+HGNC:10820,0,1,0,1,Baja,SH2D1A
+HGNC:10825,0,0,0,0,Sin evidencia topologica,SH3BP2
+HGNC:10847,0,0,0,0,Sin evidencia topologica,FBXW4
+HGNC:10848,1,1,1,3,Alta,SHH
+HGNC:10852,1,0,1,2,Media,SHMT2
+HGNC:10853,0,0,0,0,Sin evidencia topologica,SHOX
+HGNC:10856,0,0,0,0,Sin evidencia topologica,SI
+HGNC:10857,0,0,0,0,Sin evidencia topologica,SIAH1
+HGNC:10866,0,0,0,0,Sin evidencia topologica,ST3GAL3
+HGNC:10872,0,1,0,1,Baja,ST3GAL5
+HGNC:10879,0,0,0,0,Sin evidencia topologica,STIL
+HGNC:10882,0,1,0,1,Baja,SIM1
+HGNC:10887,1,0,0,1,Baja,SIX1
+HGNC:10888,0,0,0,0,Sin evidencia topologica,SIX2
+HGNC:10889,1,1,0,2,Media,SIX3
+HGNC:10891,0,0,0,0,Sin evidencia topologica,SIX5
+HGNC:10892,1,1,0,2,Media,SIX6
+HGNC:10896,0,1,0,1,Baja,SKI
+HGNC:10898,1,1,0,2,Media,SKIV2L
+HGNC:1090,0,0,0,0,Sin evidencia topologica,DST
+HGNC:10906,0,1,0,1,Baja,SLC10A2
+HGNC:10908,1,0,0,1,Baja,SLC11A2
+HGNC:10909,0,0,0,0,Sin evidencia topologica,SLC40A1
+HGNC:10910,1,1,0,2,Media,SLC12A1
+HGNC:10911,0,0,0,0,Sin evidencia topologica,SLC12A2
+HGNC:10912,1,1,0,2,Media,SLC12A3
+HGNC:10914,0,1,0,1,Baja,SLC12A6
+HGNC:10916,0,0,0,0,Sin evidencia topologica,SLC13A1
+HGNC:1092,1,0,0,1,Baja,FOXL2
+HGNC:10922,0,0,0,0,Sin evidencia topologica,SLC16A1
+HGNC:10923,1,1,0,2,Media,SLC16A2
+HGNC:1093,1,0,0,1,Baja,BPGM
+HGNC:10933,1,1,0,2,Media,SLC17A5
+HGNC:10935,0,0,0,0,Sin evidencia topologica,SLC18A2
+HGNC:10936,0,0,0,0,Sin evidencia topologica,SLC18A3
+HGNC:10937,0,0,0,0,Sin evidencia topologica,SLC19A1
+HGNC:10938,1,0,0,1,Baja,SLC19A2
+HGNC:10939,0,0,0,0,Sin evidencia topologica,SLC1A1
+HGNC:10940,1,0,0,1,Baja,SLC1A2
+HGNC:10941,1,0,0,1,Baja,SLC1A3
+HGNC:10942,1,0,0,1,Baja,SLC1A4
+HGNC:10946,0,0,0,0,Sin evidencia topologica,SLC20A1
+HGNC:10947,0,0,0,0,Sin evidencia topologica,SLC20A2
+HGNC:10955,0,0,0,0,Sin evidencia topologica,SLCO2A1
+HGNC:10969,0,0,0,0,Sin evidencia topologica,SLC22A5
+HGNC:1097,1,1,1,3,Alta,BRAF
+HGNC:10975,0,0,0,0,Sin evidencia topologica,SLC24A1
+HGNC:10978,1,0,0,1,Baja,SLC24A4
+HGNC:10979,1,1,0,2,Media,SLC25A1
+HGNC:10982,0,0,0,0,Sin evidencia topologica,SLC25A12
+HGNC:10983,0,0,0,0,Sin evidencia topologica,SLC25A13
+HGNC:10985,0,0,0,0,Sin evidencia topologica,SLC25A15
+HGNC:10989,0,0,1,1,Baja,SLC25A3
+HGNC:10990,1,0,1,2,Media,SLC25A4
+HGNC:10994,1,1,0,2,Media,SLC26A2
+HGNC:10998,0,0,0,0,Sin evidencia topologica,SLC27A4
+HGNC:1100,1,1,1,3,Alta,BRCA1
+HGNC:11005,1,1,1,3,Alta,SLC2A1
+HGNC:11006,1,0,0,1,Baja,SLC2A2
+HGNC:1101,1,1,1,3,Alta,BRCA2
+HGNC:11013,0,0,0,0,Sin evidencia topologica,SLC30A2
+HGNC:11016,0,0,0,0,Sin evidencia topologica,SLC31A1
+HGNC:11018,1,0,0,1,Baja,SLC32A1
+HGNC:11019,1,0,0,1,Baja,SLC34A1
+HGNC:11020,0,0,0,0,Sin evidencia topologica,SLC34A2
+HGNC:11021,0,1,0,1,Baja,SLC35A1
+HGNC:11022,0,1,0,1,Baja,SLC35A2
+HGNC:11023,0,1,0,1,Baja,SLC35A3
+HGNC:11025,0,0,0,0,Sin evidencia topologica,SLC3A1
+HGNC:11027,1,1,0,2,Media,SLC4A1
+HGNC:11030,0,0,0,0,Sin evidencia topologica,SLC4A4
+HGNC:11036,1,0,0,1,Baja,SLC5A1
+HGNC:11037,0,0,0,0,Sin evidencia topologica,SLC5A2
+HGNC:11040,0,0,0,0,Sin evidencia topologica,SLC5A5
+HGNC:11041,0,0,0,0,Sin evidencia topologica,SLC5A6
+HGNC:11042,1,0,0,1,Baja,SLC6A1
+HGNC:11049,1,1,0,2,Media,SLC6A3
+HGNC:11051,0,0,0,0,Sin evidencia topologica,SLC6A5
+HGNC:11052,0,0,0,0,Sin evidencia topologica,SLC6A6
+HGNC:11055,0,0,0,0,Sin evidencia topologica,SLC6A8
+HGNC:11056,0,0,0,0,Sin evidencia topologica,SLC6A9
+HGNC:11065,0,0,0,0,Sin evidencia topologica,SLC7A7
+HGNC:11067,0,1,0,1,Baja,SLC7A9
+HGNC:11071,0,0,0,0,Sin evidencia topologica,SLC9A1
+HGNC:11073,0,0,0,0,Sin evidencia topologica,SLC9A3
+HGNC:11075,0,0,0,0,Sin evidencia topologica,SLC9A3R1
+HGNC:11079,0,1,0,1,Baja,SLC9A6
+HGNC:11086,0,0,0,0,Sin evidencia topologica,SLIT2
+HGNC:11094,1,0,1,2,Media,SNAI2
+HGNC:11097,0,0,0,0,Sin evidencia topologica,SMARCA1
+HGNC:11098,1,1,1,3,Alta,SMARCA2
+HGNC:11100,1,1,1,3,Alta,SMARCA4
+HGNC:11101,1,0,1,2,Media,SMARCA5
+HGNC:11102,1,0,0,1,Baja,SMARCAL1
+HGNC:11103,1,1,1,3,Alta,SMARCB1
+HGNC:11104,1,0,1,2,Media,SMARCC1
+HGNC:11105,1,0,1,2,Media,SMARCC2
+HGNC:11106,0,0,0,0,Sin evidencia topologica,SMARCD1
+HGNC:11107,0,0,0,0,Sin evidencia topologica,SMARCD2
+HGNC:11109,0,1,0,1,Baja,SMARCE1
+HGNC:11110,1,1,1,3,Alta,ARID1A
+HGNC:11111,1,1,1,3,Alta,SMC1A
+HGNC:11114,1,1,1,3,Alta,KDM5C
+HGNC:11117,1,0,0,1,Baja,SMN1
+HGNC:11119,1,0,1,2,Media,SMO
+HGNC:11120,0,1,0,1,Baja,SMPD1
+HGNC:11122,0,0,0,0,Sin evidencia topologica,SMPX
+HGNC:11123,0,0,0,0,Sin evidencia topologica,SMS
+HGNC:11132,1,0,1,2,Media,SNAP25
+HGNC:11133,0,1,0,1,Baja,SNAP29
+HGNC:11137,0,0,0,0,Sin evidencia topologica,SNAPC4
+HGNC:11138,1,0,1,2,Media,SNCA
+HGNC:11140,0,0,0,0,Sin evidencia topologica,SNCB
+HGNC:11142,0,0,0,0,Sin evidencia topologica,SIK1
+HGNC:11153,0,1,1,2,Media,SNRPB
+HGNC:11161,1,0,1,2,Media,SNRPE
+HGNC:1117,0,0,0,0,Sin evidencia topologica,BSN
+HGNC:11179,1,0,1,2,Media,SOD1
+HGNC:11182,0,0,0,0,Sin evidencia topologica,CAPN15
+HGNC:11183,0,0,0,0,Sin evidencia topologica,SON
+HGNC:11184,0,0,0,0,Sin evidencia topologica,SORD
+HGNC:11185,0,0,0,0,Sin evidencia topologica,SORL1
+HGNC:11187,1,1,1,3,Alta,SOS1
+HGNC:11188,1,1,0,2,Media,SOS2
+HGNC:11190,1,1,1,3,Alta,SOX10
+HGNC:11191,0,1,0,1,Baja,SOX11
+HGNC:11194,0,0,0,0,Sin evidencia topologica,SOX18
+HGNC:11195,1,1,1,3,Alta,SOX2
+HGNC:11199,0,0,0,0,Sin evidencia topologica,SOX3
+HGNC:11200,0,0,0,0,Sin evidencia topologica,SOX4
+HGNC:11201,0,0,0,0,Sin evidencia topologica,SOX5
+HGNC:11204,1,1,1,3,Alta,SOX9
+HGNC:11212,0,0,0,0,Sin evidencia topologica,SPAG1
+HGNC:11219,1,0,1,2,Media,SPARC
+HGNC:1122,0,1,0,1,Baja,BTD
+HGNC:11226,1,1,0,2,Media,SPG11
+HGNC:11231,0,0,0,0,Sin evidencia topologica,ATL1
+HGNC:11233,1,0,0,1,Baja,SPAST
+HGNC:11237,1,1,1,3,Alta,SPG7
+HGNC:11241,1,0,1,2,Media,SPI1
+HGNC:11247,0,0,0,0,Sin evidencia topologica,SPINT2
+HGNC:11254,1,0,0,1,Baja,SPOP
+HGNC:11256,0,0,0,0,Sin evidencia topologica,SPP2
+HGNC:11257,0,1,0,1,Baja,SPR
+HGNC:11269,0,0,0,0,Sin evidencia topologica,SPRY1
+HGNC:11272,1,0,0,1,Baja,SPTA1
+HGNC:11273,1,1,1,3,Alta,SPTAN1
+HGNC:11274,0,1,0,1,Baja,SPTB
+HGNC:11275,0,0,1,1,Baja,SPTBN1
+HGNC:11276,1,1,0,2,Media,SPTBN2
+HGNC:11277,0,0,0,0,Sin evidencia topologica,SPTLC1
+HGNC:11278,0,0,0,0,Sin evidencia topologica,SPTLC2
+HGNC:11280,1,0,1,2,Media,SQSTM1
+HGNC:11283,1,0,1,2,Media,SRC
+HGNC:11285,0,1,0,1,Baja,SRD5A2
+HGNC:11289,1,0,1,2,Media,SREBF1
+HGNC:11290,0,0,0,0,Sin evidencia topologica,SREBF2
+HGNC:11300,0,0,0,0,Sin evidencia topologica,SRP19
+HGNC:11301,1,0,0,1,Baja,SRP54
+HGNC:11303,1,0,0,1,Baja,SRP72
+HGNC:11307,0,0,0,0,Sin evidencia topologica,SRPRA
+HGNC:11311,1,0,0,1,Baja,SRY
+HGNC:11317,0,0,1,1,Baja,SSBP1
+HGNC:11325,0,0,0,0,Sin evidencia topologica,SSR3
+HGNC:11326,0,0,0,0,Sin evidencia topologica,SSR4
+HGNC:1133,1,1,1,3,Alta,BTK
+HGNC:11344,0,0,0,0,Sin evidencia topologica,ST14
+HGNC:11354,0,0,0,0,Sin evidencia topologica,STAG1
+HGNC:11355,1,0,1,2,Media,STAG2
+HGNC:11356,1,1,0,2,Media,STAG3
+HGNC:11359,1,0,0,1,Baja,STAR
+HGNC:11362,1,1,1,3,Alta,STAT1
+HGNC:11363,1,0,0,1,Baja,STAT2
+HGNC:11364,1,1,1,3,Alta,STAT3
+HGNC:11365,0,0,1,1,Baja,STAT4
+HGNC:11367,1,1,1,3,Alta,STAT5B
+HGNC:11368,1,0,1,2,Media,STAT6
+HGNC:11386,0,0,0,0,Sin evidencia topologica,STIM1
+HGNC:11389,1,1,1,3,Alta,STK11
+HGNC:11397,1,1,1,3,Alta,PLK4
+HGNC:11402,0,0,0,0,Sin evidencia topologica,SRPK3
+HGNC:11405,0,0,0,0,Sin evidencia topologica,BRSK2
+HGNC:11408,0,0,0,0,Sin evidencia topologica,STK4
+HGNC:11411,1,1,0,2,Media,CDKL5
+HGNC:11425,0,0,0,0,Sin evidencia topologica,STS
+HGNC:11427,1,0,1,2,Media,STUB1
+HGNC:11429,0,0,0,0,Sin evidencia topologica,STX11
+HGNC:11431,0,0,0,0,Sin evidencia topologica,STX16
+HGNC:11433,1,0,0,1,Baja,STX1A
+HGNC:11438,0,0,0,0,Sin evidencia topologica,STX3
+HGNC:11439,0,0,0,0,Sin evidencia topologica,STX4
+HGNC:1144,1,0,1,2,Media,BTRC
+HGNC:11440,0,0,0,0,Sin evidencia topologica,STX5
+HGNC:11444,1,0,1,2,Media,STXBP1
+HGNC:11445,0,0,0,0,Sin evidencia topologica,STXBP2
+HGNC:11446,0,0,0,0,Sin evidencia topologica,STXBP3
+HGNC:11448,1,1,1,3,Alta,SUCLA2
+HGNC:11449,1,1,1,3,Alta,SUCLG1
+HGNC:11459,1,0,0,1,Baja,SULT2B1
+HGNC:11460,1,0,0,1,Baja,SUOX
+HGNC:11465,1,0,1,2,Media,SUPT16H
+HGNC:11471,0,0,0,0,Sin evidencia topologica,SUPV3L1
+HGNC:11474,1,1,1,3,Alta,SURF1
+HGNC:1148,1,1,0,2,Media,BUB1
+HGNC:11480,0,0,0,0,Sin evidencia topologica,SVIL
+HGNC:1149,1,1,1,3,Alta,BUB1B
+HGNC:11491,1,0,1,2,Media,SYK
+HGNC:11494,1,0,1,2,Media,SYN1
+HGNC:11497,1,1,1,3,Alta,SYNGAP1
+HGNC:11503,0,1,0,1,Baja,SYNJ1
+HGNC:11506,1,0,1,2,Media,SYP
+HGNC:11509,1,0,1,2,Media,SYT1
+HGNC:11510,0,0,0,0,Sin evidencia topologica,SYT2
+HGNC:11515,0,0,0,0,Sin evidencia topologica,T
+HGNC:1152,0,0,0,0,Sin evidencia topologica,BVES
+HGNC:11521,1,0,0,1,Baja,TAC3
+HGNC:11528,1,0,0,1,Baja,TACR3
+HGNC:11529,1,1,1,3,Alta,EPCAM
+HGNC:11530,0,1,0,1,Baja,TACSTD2
+HGNC:11532,0,0,0,0,Sin evidencia topologica,TAF1A
+HGNC:11534,0,0,0,0,Sin evidencia topologica,TAF1C
+HGNC:11535,1,0,1,2,Media,TAF1
+HGNC:11536,0,1,0,1,Baja,TAF2
+HGNC:11537,0,0,0,0,Sin evidencia topologica,TAF4
+HGNC:11540,0,0,0,0,Sin evidencia topologica,TAF6
+HGNC:11546,0,0,0,0,Sin evidencia topologica,TAF13
+HGNC:11551,0,0,0,0,Sin evidencia topologica,BRF1
+HGNC:11559,1,0,1,2,Media,TALDO1
+HGNC:11566,0,0,0,0,Sin evidencia topologica,TAPBP
+HGNC:11571,1,0,1,2,Media,TARDBP
+HGNC:11572,0,0,0,0,Sin evidencia topologica,TARS
+HGNC:11573,0,0,0,0,Sin evidencia topologica,TAT
+HGNC:11577,0,1,0,1,Baja,TAZ
+HGNC:11578,0,0,0,0,Sin evidencia topologica,TBC1D1
+HGNC:11581,0,0,0,0,Sin evidencia topologica,TBCD
+HGNC:11582,0,1,0,1,Baja,TBCE
+HGNC:11584,1,1,1,3,Alta,TBK1
+HGNC:11585,0,0,0,0,Sin evidencia topologica,TBL1X
+HGNC:11590,0,0,0,0,Sin evidencia topologica,TBR1
+HGNC:11592,0,0,0,0,Sin evidencia topologica,TBX1
+HGNC:11594,0,0,0,0,Sin evidencia topologica,TBX15
+HGNC:11595,0,0,0,0,Sin evidencia topologica,TBX18
+HGNC:11596,0,0,0,0,Sin evidencia topologica,TBX19
+HGNC:11597,0,1,0,1,Baja,TBX2
+HGNC:11598,0,0,0,0,Sin evidencia topologica,TBX20
+HGNC:11599,0,0,1,1,Baja,TBX21
+HGNC:1160,1,0,0,1,Baja,TWNK
+HGNC:11600,0,0,0,0,Sin evidencia topologica,TBX22
+HGNC:11602,1,0,0,1,Baja,TBX3
+HGNC:11603,0,1,0,1,Baja,TBX4
+HGNC:11604,1,0,0,1,Baja,TBX5
+HGNC:11605,0,0,0,0,Sin evidencia topologica,TBX6
+HGNC:11608,0,0,0,0,Sin evidencia topologica,TBXA2R
+HGNC:11609,0,0,0,0,Sin evidencia topologica,TBXAS1
+HGNC:1161,0,0,0,0,Sin evidencia topologica,CEP55
+HGNC:11610,1,0,0,1,Baja,TCAP
+HGNC:11616,0,0,0,0,Sin evidencia topologica,TCEAL1
+HGNC:1162,0,0,0,0,Sin evidencia topologica,FRA10AC1
+HGNC:11621,1,0,0,1,Baja,HNF1A
+HGNC:11623,0,0,0,0,Sin evidencia topologica,TCF12
+HGNC:11630,1,0,0,1,Baja,HNF1B
+HGNC:11631,0,0,0,0,Sin evidencia topologica,TCF20
+HGNC:11633,0,1,1,2,Media,TCF3
+HGNC:11634,0,1,0,1,Baja,TCF4
+HGNC:11640,0,0,0,0,Sin evidencia topologica,TCF7L1
+HGNC:11641,1,0,1,2,Media,TCF7L2
+HGNC:11642,1,0,1,2,Media,ZEB1
+HGNC:11647,1,0,0,1,Baja,TCIRG1
+HGNC:1165,0,0,0,0,Sin evidencia topologica,DAGLA
+HGNC:11653,0,0,0,0,Sin evidencia topologica,TCN2
+HGNC:11654,1,0,0,1,Baja,TCOF1
+HGNC:11655,1,0,1,2,Media,TCP1
+HGNC:11699,0,0,0,0,Sin evidencia topologica,SERINC3
+HGNC:11714,0,0,0,0,Sin evidencia topologica,TEAD1
+HGNC:1172,0,0,0,0,Sin evidencia topologica,VPS51
+HGNC:11720,0,1,0,1,Baja,TECTA
+HGNC:11724,1,0,0,1,Baja,TEK
+HGNC:11727,0,1,0,1,Baja,TERC
+HGNC:11730,1,1,1,3,Alta,TERT
+HGNC:11740,0,0,0,0,Sin evidencia topologica,TF
+HGNC:11741,1,0,1,2,Media,TFAM
+HGNC:11742,1,1,1,3,Alta,TFAP2A
+HGNC:11743,0,1,0,1,Baja,TFAP2B
+HGNC:11752,0,1,0,1,Baja,TFE3
+HGNC:11758,0,0,0,0,Sin evidencia topologica,TFG
+HGNC:1176,0,0,0,0,Sin evidencia topologica,MRPL49
+HGNC:11760,0,0,0,0,Sin evidencia topologica,TFPI
+HGNC:11762,0,1,0,1,Baja,TFR2
+HGNC:11763,1,0,1,2,Media,TFRC
+HGNC:11764,0,0,0,0,Sin evidencia topologica,TG
+HGNC:11766,1,1,1,3,Alta,TGFB1
+HGNC:11768,1,0,1,2,Media,TGFB2
+HGNC:11769,1,0,1,2,Media,TGFB3
+HGNC:11771,1,1,0,2,Media,TGFBI
+HGNC:11772,1,0,1,2,Media,TGFBR1
+HGNC:11773,1,0,1,2,Media,TGFBR2
+HGNC:11776,0,0,0,0,Sin evidencia topologica,TGIF1
+HGNC:11777,1,1,0,2,Media,TGM1
+HGNC:11781,1,0,0,1,Baja,TGM5
+HGNC:11782,1,1,1,3,Alta,TH
+HGNC:11784,0,0,0,0,Sin evidencia topologica,THBD
+HGNC:11786,0,0,0,0,Sin evidencia topologica,THBS2
+HGNC:11795,0,0,0,0,Sin evidencia topologica,THPO
+HGNC:11796,1,0,0,1,Baja,THRA
+HGNC:11799,1,0,0,1,Baja,THRB
+HGNC:118,1,1,1,3,Alta,ACO2
+HGNC:11802,0,0,0,0,Sin evidencia topologica,TIA1
+HGNC:11805,0,0,0,0,Sin evidencia topologica,TIAM1
+HGNC:11809,0,0,0,0,Sin evidencia topologica,TIE1
+HGNC:1181,0,0,0,0,Sin evidencia topologica,MYRF
+HGNC:11817,0,1,0,1,Baja,TIMM8A
+HGNC:11822,1,0,0,1,Baja,TIMP3
+HGNC:11824,0,1,0,1,Baja,TINF2
+HGNC:11825,1,0,1,2,Media,NKX2-1
+HGNC:11828,0,0,0,0,Sin evidencia topologica,TJP2
+HGNC:11831,0,1,0,1,Baja,TK2
+HGNC:11834,1,0,1,2,Media,TKT
+HGNC:1184,0,0,0,0,Sin evidencia topologica,C12orf4
+HGNC:11842,1,0,0,1,Baja,TLK2
+HGNC:11843,0,0,0,0,Sin evidencia topologica,TLL1
+HGNC:11849,1,0,1,2,Media,TLR3
+HGNC:11850,1,0,1,2,Media,TLR4
+HGNC:11854,0,0,0,0,Sin evidencia topologica,TSPAN7
+HGNC:11866,0,0,0,0,Sin evidencia topologica,TMEFF1
+HGNC:11868,0,0,0,0,Sin evidencia topologica,TRAPPC10
+HGNC:11876,0,0,0,0,Sin evidencia topologica,TMPRSS2
+HGNC:11877,1,0,0,1,Baja,TMPRSS3
+HGNC:11891,0,0,0,0,Sin evidencia topologica,CLEC3B
+HGNC:11892,1,0,1,2,Media,TNF
+HGNC:11896,1,0,1,2,Media,TNFAIP3
+HGNC:119,1,1,1,3,Alta,ACOX1
+HGNC:11908,1,0,0,1,Baja,TNFRSF11A
+HGNC:11909,0,0,0,0,Sin evidencia topologica,TNFRSF11B
+HGNC:11916,1,1,1,3,Alta,TNFRSF1A
+HGNC:11918,0,0,0,0,Sin evidencia topologica,TNFRSF4
+HGNC:11919,1,0,1,2,Media,CD40
+HGNC:11920,0,0,1,1,Baja,FAS
+HGNC:11922,1,0,1,2,Media,CD27
+HGNC:11924,0,0,0,0,Sin evidencia topologica,TNFRSF9
+HGNC:11925,0,0,0,0,Sin evidencia topologica,TNFSF10
+HGNC:11926,1,0,1,2,Media,TNFSF11
+HGNC:11927,0,1,0,1,Baja,TNFSF12
+HGNC:11935,1,0,1,2,Media,CD40LG
+HGNC:11936,1,0,1,2,Media,FASLG
+HGNC:11937,0,0,0,0,Sin evidencia topologica,CD70
+HGNC:11943,0,0,0,0,Sin evidencia topologica,TNNC1
+HGNC:11944,0,0,0,0,Sin evidencia topologica,TNNC2
+HGNC:11945,0,0,0,0,Sin evidencia topologica,TNNI1
+HGNC:11946,0,0,0,0,Sin evidencia topologica,TNNI2
+HGNC:11947,1,1,1,3,Alta,TNNI3
+HGNC:11948,1,0,0,1,Baja,TNNT1
+HGNC:11949,1,1,1,3,Alta,TNNT2
+HGNC:11950,1,0,0,1,Baja,TNNT3
+HGNC:11953,0,0,0,0,Sin evidencia topologica,TNR
+HGNC:11957,1,1,1,3,Alta,MED12
+HGNC:11960,0,0,0,0,Sin evidencia topologica,GIGYF2
+HGNC:11963,0,0,0,0,Sin evidencia topologica,BHLHE22
+HGNC:11968,0,0,0,0,Sin evidencia topologica,CNPY3
+HGNC:11976,0,1,0,1,Baja,TNXB
+HGNC:11985,0,0,0,0,Sin evidencia topologica,TOMM70
+HGNC:11990,0,0,0,0,Sin evidencia topologica,TOP2B
+HGNC:11992,0,0,0,0,Sin evidencia topologica,TOP3A
+HGNC:11998,1,1,1,3,Alta,TP53
+HGNC:120,0,0,0,0,Sin evidencia topologica,ACOX2
+HGNC:12003,0,0,0,0,Sin evidencia topologica,TP73
+HGNC:12009,0,0,1,1,Baja,TPI1
+HGNC:12010,1,0,1,2,Media,TPM1
+HGNC:12011,1,0,0,1,Baja,TPM2
+HGNC:12012,1,1,1,3,Alta,TPM3
+HGNC:12013,0,0,0,0,Sin evidencia topologica,TPM4
+HGNC:12015,0,0,0,0,Sin evidencia topologica,TPO
+HGNC:12016,0,0,0,0,Sin evidencia topologica,TPP2
+HGNC:12029,0,0,0,0,Sin evidencia topologica,TRAC
+HGNC:12033,1,0,1,2,Media,TRAF3
+HGNC:12261,1,0,0,1,Baja,TRDN
+HGNC:12269,0,1,0,1,Baja,TREX1
+HGNC:1228,0,0,0,0,Sin evidencia topologica,SERPING1
+HGNC:12299,1,0,0,1,Baja,TRHR
+HGNC:12303,0,0,0,0,Sin evidencia topologica,TRIO
+HGNC:12305,0,0,0,0,Sin evidencia topologica,TRIP11
+HGNC:12306,1,0,0,1,Baja,TRIP12
+HGNC:12307,1,0,0,1,Baja,TRIP13
+HGNC:12309,0,0,0,0,Sin evidencia topologica,ZNHIT3
+HGNC:12310,0,0,0,0,Sin evidencia topologica,TRIP4
+HGNC:12313,0,0,0,0,Sin evidencia topologica,JMJD1C
+HGNC:1232,0,0,0,0,Sin evidencia topologica,EGLN1
+HGNC:12337,0,0,0,0,Sin evidencia topologica,TRPC5
+HGNC:12338,1,1,0,2,Media,TRPC6
+HGNC:12340,0,1,0,1,Baja,TRPS1
+HGNC:12347,1,0,1,2,Media,TRRAP
+HGNC:12362,1,0,0,1,Baja,TSC1
+HGNC:12363,1,1,1,3,Alta,TSC2
+HGNC:12367,1,1,1,3,Alta,TSFM
+HGNC:12370,1,1,0,2,Media,CEP41
+HGNC:12371,0,0,0,0,Sin evidencia topologica,RSPH1
+HGNC:12372,1,0,0,1,Baja,TSHB
+HGNC:12373,0,0,0,0,Sin evidencia topologica,TSHR
+HGNC:12382,0,0,0,0,Sin evidencia topologica,TSPYL1
+HGNC:12383,0,0,0,0,Sin evidencia topologica,EIPR1
+HGNC:12392,0,0,0,0,Sin evidencia topologica,DNAJC7
+HGNC:12399,1,1,0,2,Media,MYOT
+HGNC:124,1,0,0,1,Baja,ACP5
+HGNC:1240,0,0,0,0,Sin evidencia topologica,SUCO
+HGNC:12403,1,1,1,3,Alta,TTN
+HGNC:12404,1,1,0,2,Media,TTPA
+HGNC:12405,1,0,1,2,Media,TTR
+HGNC:12406,0,0,0,0,Sin evidencia topologica,TUB
+HGNC:12407,0,0,1,1,Baja,TUBA4A
+HGNC:1241,0,0,0,0,Sin evidencia topologica,C1QA
+HGNC:12410,1,0,0,1,Baja,TUBA8
+HGNC:12412,1,0,1,2,Media,TUBB2A
+HGNC:12417,1,1,0,2,Media,TUBG1
+HGNC:1242,0,0,0,0,Sin evidencia topologica,C1QB
+HGNC:12420,1,0,1,2,Media,TUFM
+HGNC:12422,0,0,0,0,Sin evidencia topologica,TUFT1
+HGNC:12423,1,1,0,2,Media,TULP1
+HGNC:12425,0,0,1,1,Baja,TULP3
+HGNC:12428,1,1,1,3,Alta,TWIST1
+HGNC:1243,0,0,1,1,Baja,C1QBP
+HGNC:12437,1,0,0,1,Baja,TXNRD1
+HGNC:12440,1,0,1,2,Media,TYK2
+HGNC:12442,1,1,0,2,Media,TYR
+HGNC:12449,0,1,1,2,Media,TYROBP
+HGNC:1245,0,0,0,0,Sin evidencia topologica,C1QC
+HGNC:12450,0,0,0,0,Sin evidencia topologica,TYRP1
+HGNC:1246,0,0,0,0,Sin evidencia topologica,C1R
+HGNC:12461,0,0,0,0,Sin evidencia topologica,UBAP1
+HGNC:12469,1,1,1,3,Alta,UBA1
+HGNC:1247,0,0,0,0,Sin evidencia topologica,C1S
+HGNC:12472,0,0,0,0,Sin evidencia topologica,UBE2A
+HGNC:1248,0,0,0,0,Sin evidencia topologica,C2
+HGNC:12496,1,1,1,3,Alta,UBE3A
+HGNC:12499,0,0,0,0,Sin evidencia topologica,UBE4A
+HGNC:12509,1,0,0,1,Baja,UBQLN2
+HGNC:12511,0,0,0,0,Sin evidencia topologica,UBTF
+HGNC:12513,1,0,1,2,Media,UCHL1
+HGNC:12518,0,0,0,0,Sin evidencia topologica,UCP2
+HGNC:12525,1,0,0,1,Baja,UGDH
+HGNC:12527,0,0,0,0,Sin evidencia topologica,UGP2
+HGNC:12530,0,0,0,0,Sin evidencia topologica,UGT1A1
+HGNC:12559,1,1,0,2,Media,UMOD
+HGNC:12563,1,0,0,1,Baja,UMPS
+HGNC:12565,0,0,0,0,Sin evidencia topologica,UNC119
+HGNC:12572,0,0,0,0,Sin evidencia topologica,UNG
+HGNC:12582,0,0,1,1,Baja,UQCRB
+HGNC:12585,1,0,1,2,Media,UQCRC1
+HGNC:12586,1,0,1,2,Media,UQCRC2
+HGNC:12587,1,0,1,2,Media,UQCRFS1
+HGNC:12590,0,0,1,1,Baja,UQCRH
+HGNC:12591,0,0,0,0,Sin evidencia topologica,UROD
+HGNC:12592,1,1,0,2,Media,UROS
+HGNC:12597,1,0,0,1,Baja,USH1C
+HGNC:1260,0,0,0,0,Sin evidencia topologica,C21orf2
+HGNC:12601,1,0,1,2,Media,USH2A
+HGNC:12605,0,1,0,1,Baja,CLRN1
+HGNC:12612,0,0,1,1,Baja,USP14
+HGNC:12616,0,0,0,0,Sin evidencia topologica,USP18
+HGNC:12630,1,0,1,2,Media,USP7
+HGNC:12632,1,0,1,2,Media,USP9X
+HGNC:12637,1,1,1,3,Alta,KDM6A
+HGNC:12642,0,1,0,1,Baja,VAMP1
+HGNC:12643,1,0,1,2,Media,VAMP2
+HGNC:12649,1,0,1,2,Media,VAPB
+HGNC:12651,1,0,1,2,Media,VARS
+HGNC:12660,0,0,0,0,Sin evidencia topologica,VAX1
+HGNC:12665,1,0,1,2,Media,VCL
+HGNC:12666,1,0,1,2,Media,VCP
+HGNC:12679,0,0,0,0,Sin evidencia topologica,VDR
+HGNC:1268,0,0,0,0,Sin evidencia topologica,TSPEAR
+HGNC:12682,0,0,0,0,Sin evidencia topologica,VEGFC
+HGNC:12687,0,1,1,2,Media,VHL
+HGNC:12692,0,0,1,1,Baja,VIM
+HGNC:12698,1,1,0,2,Media,VLDLR
+HGNC:12703,1,0,0,1,Baja,BEST1
+HGNC:12712,0,1,0,1,Baja,VPS33B
+HGNC:12713,0,0,0,0,Sin evidencia topologica,VPS41
+HGNC:12718,1,0,0,1,Baja,VRK1
+HGNC:12723,0,0,0,0,Sin evidencia topologica,VSX1
+HGNC:12726,1,1,1,3,Alta,VWF
+HGNC:12729,0,0,0,0,Sin evidencia topologica,WARS
+HGNC:12730,0,0,0,0,Sin evidencia topologica,WARS2
+HGNC:12731,0,1,1,2,Media,WAS
+HGNC:12732,0,0,0,0,Sin evidencia topologica,WASF1
+HGNC:12736,0,1,0,1,Baja,WIPF1
+HGNC:12738,0,0,0,0,Sin evidencia topologica,WBP2
+HGNC:12739,0,0,0,0,Sin evidencia topologica,WBP4
+HGNC:12754,0,0,0,0,Sin evidencia topologica,WDR1
+HGNC:12756,0,0,0,0,Sin evidencia topologica,WDR4
+HGNC:12757,1,0,1,2,Media,WDR5
+HGNC:12762,1,0,0,1,Baja,WFS1
+HGNC:12765,0,0,0,0,Sin evidencia topologica,FOXN1
+HGNC:12766,0,1,0,1,Baja,NSD2
+HGNC:12771,0,0,0,0,Sin evidencia topologica,WISP3
+HGNC:12774,1,0,1,2,Media,WNT1
+HGNC:12775,1,0,0,1,Baja,WNT10B
+HGNC:12776,0,0,0,0,Sin evidencia topologica,WNT11
+HGNC:12779,0,0,0,0,Sin evidencia topologica,WNT9B
+HGNC:12781,0,0,0,0,Sin evidencia topologica,WNT2B
+HGNC:12782,0,0,0,0,Sin evidencia topologica,WNT3
+HGNC:12783,1,0,0,1,Baja,WNT4
+HGNC:12784,1,1,1,3,Alta,WNT5A
+HGNC:12786,1,1,0,2,Media,WNT7A
+HGNC:12787,0,0,0,0,Sin evidencia topologica,WNT7B
+HGNC:12791,1,0,1,2,Media,WRN
+HGNC:12796,1,1,1,3,Alta,WT1
+HGNC:12799,1,0,1,2,Media,WWOX
+HGNC:12805,0,0,0,0,Sin evidencia topologica,XDH
+HGNC:12811,0,0,0,0,Sin evidencia topologica,XK
+HGNC:12814,0,1,0,1,Baja,XPA
+HGNC:12816,1,0,0,1,Baja,XPC
+HGNC:12825,1,0,1,2,Media,XPO1
+HGNC:12827,1,1,0,2,Media,XPR1
+HGNC:12828,0,0,0,0,Sin evidencia topologica,XRCC1
+HGNC:12829,1,0,0,1,Baja,XRCC2
+HGNC:12831,0,1,0,1,Baja,XRCC4
+HGNC:12840,1,0,1,2,Media,YARS
+HGNC:12843,1,0,0,1,Baja,YME1L1
+HGNC:12851,1,1,1,3,Alta,YWHAE
+HGNC:12852,1,0,1,2,Media,YWHAG
+HGNC:12856,1,0,1,2,Media,YY1
+HGNC:12858,1,1,1,3,Alta,ZAP70
+HGNC:12869,0,0,0,0,Sin evidencia topologica,ZFX
+HGNC:12872,0,0,0,0,Sin evidencia topologica,ZIC1
+HGNC:12873,1,1,0,2,Media,ZIC2
+HGNC:12874,1,0,0,1,Baja,ZIC3
+HGNC:12877,1,0,0,1,Baja,ZMPSTE24
+HGNC:129,1,1,1,3,Alta,ACTA1
+HGNC:12927,0,0,0,0,Sin evidencia topologica,ZNF142
+HGNC:12929,0,0,0,0,Sin evidencia topologica,PCGF2
+HGNC:12933,0,0,0,0,Sin evidencia topologica,ZNF148
+HGNC:12950,0,0,0,0,Sin evidencia topologica,SF1
+HGNC:12974,0,1,1,2,Media,RNF113A
+HGNC:1298,0,0,0,0,Sin evidencia topologica,SPATC1L
+HGNC:12989,0,0,0,0,Sin evidencia topologica,ZMYM2
+HGNC:12997,0,0,0,0,Sin evidencia topologica,ZSCAN10
+HGNC:130,1,1,1,3,Alta,ACTA2
+HGNC:1301,0,0,0,0,Sin evidencia topologica,C21orf59
+HGNC:13013,0,1,1,2,Media,KAT6A
+HGNC:13030,0,1,1,2,Media,ZBTB18
+HGNC:1304,0,0,0,0,Sin evidencia topologica,MRAP
+HGNC:13051,0,0,0,0,Sin evidencia topologica,ZPR1
+HGNC:13054,0,0,0,0,Sin evidencia topologica,ZMYM3
+HGNC:1307,0,0,0,0,Sin evidencia topologica,CBY1
+HGNC:13081,0,0,0,0,Sin evidencia topologica,SCAPER
+HGNC:13128,0,0,0,0,Sin evidencia topologica,ZNF711
+HGNC:13176,1,0,1,2,Media,IKZF1
+HGNC:13177,0,0,0,0,Sin evidencia topologica,IKZF2
+HGNC:13178,0,0,0,0,Sin evidencia topologica,IKZF3
+HGNC:1318,1,1,1,3,Alta,C3
+HGNC:132,1,1,1,3,Alta,ACTB
+HGNC:13201,0,0,0,0,Sin evidencia topologica,ADAMTS10
+HGNC:13202,0,0,0,0,Sin evidencia topologica,ADAMTS9
+HGNC:13203,0,0,1,1,Baja,AICDA
+HGNC:1321,1,0,0,1,Baja,TIMMDC1
+HGNC:13210,0,1,0,1,Baja,ARL6
+HGNC:13211,0,0,0,0,Sin evidencia topologica,ATP2C1
+HGNC:13221,0,0,0,0,Sin evidencia topologica,BCL11A
+HGNC:13222,1,0,0,1,Baja,BCL11B
+HGNC:1323,0,0,0,0,Sin evidencia topologica,C4A
+HGNC:1324,0,0,0,0,Sin evidencia topologica,C4B
+HGNC:13243,0,0,0,0,Sin evidencia topologica,LMBR1
+HGNC:13254,0,0,0,0,Sin evidencia topologica,FTSJ1
+HGNC:13273,0,0,0,0,Sin evidencia topologica,DUOX2
+HGNC:13281,0,1,0,1,Baja,ESPN
+HGNC:1329,0,0,0,0,Sin evidencia topologica,SLC30A9
+HGNC:1331,0,0,0,0,Sin evidencia topologica,C5
+HGNC:13315,1,1,0,2,Media,HDAC8
+HGNC:13339,0,0,0,0,Sin evidencia topologica,KIF4A
+HGNC:13345,0,0,0,0,Sin evidencia topologica,LPIN1
+HGNC:13356,1,1,0,2,Media,MCOLN1
+HGNC:1337,0,0,0,0,Sin evidencia topologica,KDM3B
+HGNC:13387,1,0,0,1,Baja,NEK8
+HGNC:1339,0,0,0,0,Sin evidencia topologica,C6
+HGNC:13394,1,0,0,1,Baja,NPHS2
+HGNC:13398,1,1,0,2,Media,NSDHL
+HGNC:13406,0,1,0,1,Baja,PCLO
+HGNC:13420,0,0,0,0,Sin evidencia topologica,PRUNE1
+HGNC:13429,0,0,1,1,Baja,RLIM
+HGNC:1343,0,0,0,0,Sin evidencia topologica,TRAF3IP2
+HGNC:13433,0,0,0,0,Sin evidencia topologica,ROBO3
+HGNC:13436,1,0,0,1,Baja,RPGRIP1
+HGNC:13444,1,0,0,1,Baja,SLC2A10
+HGNC:13446,0,0,0,0,Sin evidencia topologica,SLC2A9
+HGNC:13449,0,0,0,0,Sin evidencia topologica,SLITRK2
+HGNC:1346,0,0,0,0,Sin evidencia topologica,C7
+HGNC:13478,0,1,0,1,Baja,UBE3B
+HGNC:1348,0,0,0,0,Sin evidencia topologica,SAMD9
+HGNC:13481,0,0,0,0,Sin evidencia topologica,UNC93B1
+HGNC:13486,0,0,1,1,Baja,USP27X
+HGNC:13487,1,0,1,2,Media,VPS35
+HGNC:13488,0,0,0,0,Sin evidencia topologica,VPS4A
+HGNC:1349,0,1,0,1,Baja,SAMD9L
+HGNC:13503,0,1,0,1,Baja,ZBTB20
+HGNC:13506,0,0,0,0,Sin evidencia topologica,FEZF2
+HGNC:13517,0,1,0,1,Baja,CLIC5
+HGNC:1352,0,0,0,0,Sin evidencia topologica,C8A
+HGNC:13520,0,0,0,0,Sin evidencia topologica,MESD
+HGNC:13523,0,0,0,0,Sin evidencia topologica,CLEC4M
+HGNC:1353,0,0,0,0,Sin evidencia topologica,C8B
+HGNC:13530,0,0,0,0,Sin evidencia topologica,TMEM5
+HGNC:13533,0,1,0,1,Baja,ATP8A2
+HGNC:1354,0,0,0,0,Sin evidencia topologica,C8G
+HGNC:13540,0,0,0,0,Sin evidencia topologica,ATP9A
+HGNC:13552,0,0,0,0,Sin evidencia topologica,ATP11A
+HGNC:13554,0,0,0,0,Sin evidencia topologica,ATP11C
+HGNC:13556,0,0,0,0,Sin evidencia topologica,IFT122
+HGNC:13557,1,0,1,2,Media,ACE2
+HGNC:1356,1,1,0,2,Media,ERLIN2
+HGNC:13575,1,0,1,2,Media,BRD4
+HGNC:1358,0,0,0,0,Sin evidencia topologica,C9
+HGNC:13586,0,0,1,1,Baja,FBXO7
+HGNC:13590,1,0,0,1,Baja,FBXO11
+HGNC:13593,0,0,0,0,Sin evidencia topologica,FBXO22
+HGNC:13599,0,0,0,0,Sin evidencia topologica,FBXL3
+HGNC:13601,0,1,0,1,Baja,FBXL4
+HGNC:13606,0,0,0,0,Sin evidencia topologica,KDM2A
+HGNC:13607,0,0,0,0,Sin evidencia topologica,FBXW11
+HGNC:13610,0,0,0,0,Sin evidencia topologica,KDM2B
+HGNC:1362,0,0,0,0,Sin evidencia topologica,FRRS1L
+HGNC:13631,0,0,1,1,Baja,RPL36
+HGNC:13635,0,0,0,0,Sin evidencia topologica,PLVAP
+HGNC:13655,0,0,0,0,Sin evidencia topologica,SCUBE3
+HGNC:1366,1,0,0,1,Baja,ADAMTS13
+HGNC:13664,0,0,0,0,Sin evidencia topologica,MACF1
+HGNC:13666,0,1,0,1,Baja,AAAS
+HGNC:13681,0,1,0,1,Baja,DCHS1
+HGNC:13709,0,0,0,0,Sin evidencia topologica,DEGS1
+HGNC:13711,0,0,0,0,Sin evidencia topologica,POF1B
+HGNC:13717,0,0,0,0,Sin evidencia topologica,ENPP5
+HGNC:13723,1,1,1,3,Alta,CTCF
+HGNC:13726,1,0,1,2,Media,KMT2C
+HGNC:1373,0,1,0,1,Baja,CA2
+HGNC:13733,1,0,0,1,Baja,CDH23
+HGNC:13743,1,1,0,2,Media,ALOXE3
+HGNC:13753,0,0,0,0,Sin evidencia topologica,FSD1L
+HGNC:13760,0,0,0,0,Sin evidencia topologica,CYFIP2
+HGNC:13764,0,0,0,0,Sin evidencia topologica,RELT
+HGNC:1377,0,0,0,0,Sin evidencia topologica,CA5A
+HGNC:13771,1,0,0,1,Baja,SOST
+HGNC:13780,1,1,1,3,Alta,GFM1
+HGNC:13797,0,0,0,0,Sin evidencia topologica,PRX
+HGNC:13806,1,0,0,1,Baja,NEUROG3
+HGNC:13811,0,0,0,0,Sin evidencia topologica,SLC4A10
+HGNC:13818,1,0,0,1,Baja,SLC12A5
+HGNC:1382,0,1,0,1,Baja,CA8
+HGNC:13829,0,1,0,1,Baja,WNT10A
+HGNC:13830,1,0,0,1,Baja,CNTNAP2
+HGNC:13831,0,0,0,0,Sin evidencia topologica,WDR11
+HGNC:13841,0,0,0,0,Sin evidencia topologica,ADGRG6
+HGNC:1385,0,0,0,0,Sin evidencia topologica,CABP2
+HGNC:1386,1,0,0,1,Baja,CABP4
+HGNC:13867,0,0,1,1,Baja,SH3KBP1
+HGNC:13869,0,0,0,0,Sin evidencia topologica,LOXL3
+HGNC:13872,0,1,0,1,Baja,RIPOR2
+HGNC:13875,1,0,0,1,Baja,FOXP2
+HGNC:1388,1,1,1,3,Alta,CACNA1A
+HGNC:13886,0,0,0,0,Sin evidencia topologica,ABCG5
+HGNC:13887,0,0,0,0,Sin evidencia topologica,ABCG8
+HGNC:1389,1,0,0,1,Baja,CACNA1B
+HGNC:13890,1,0,1,2,Media,ITCH
+HGNC:1390,1,1,1,3,Alta,CACNA1C
+HGNC:13902,0,0,0,0,Sin evidencia topologica,SERPINB7
+HGNC:13907,0,0,0,0,Sin evidencia topologica,ATOH7
+HGNC:1391,1,0,0,1,Baja,CACNA1D
+HGNC:13917,1,0,1,2,Media,DDX39B
+HGNC:1392,0,0,0,0,Sin evidencia topologica,CACNA1E
+HGNC:13921,0,0,0,0,Sin evidencia topologica,ABHD16A
+HGNC:1393,1,0,0,1,Baja,CACNA1F
+HGNC:13937,0,0,0,0,Sin evidencia topologica,MPIG6B
+HGNC:1394,0,0,0,0,Sin evidencia topologica,CACNA1G
+HGNC:1395,0,0,0,0,Sin evidencia topologica,CACNA1H
+HGNC:1396,0,0,0,0,Sin evidencia topologica,CACNA1I
+HGNC:1397,1,0,0,1,Baja,CACNA1S
+HGNC:1399,1,0,0,1,Baja,CACNA2D1
+HGNC:13997,0,0,0,0,Sin evidencia topologica,PRDM12
+HGNC:13998,0,0,0,0,Sin evidencia topologica,PRDM13
+HGNC:13999,0,0,0,0,Sin evidencia topologica,PRDM15
+HGNC:1400,0,0,0,0,Sin evidencia topologica,CACNA2D2
+HGNC:14000,0,0,0,0,Sin evidencia topologica,PRDM16
+HGNC:14004,0,0,0,0,Sin evidencia topologica,ANO3
+HGNC:14006,0,0,0,0,Sin evidencia topologica,TRPV6
+HGNC:14015,0,0,0,0,Sin evidencia topologica,CELF4
+HGNC:14025,1,0,0,1,Baja,SLC5A7
+HGNC:14026,0,0,0,0,Sin evidencia topologica,CSMD1
+HGNC:14027,0,0,0,0,Sin evidencia topologica,MRPL39
+HGNC:1403,0,0,0,0,Sin evidencia topologica,CACNB3
+HGNC:1404,0,0,0,0,Sin evidencia topologica,CACNB4
+HGNC:14048,1,0,1,2,Media,MRPS16
+HGNC:14049,1,0,1,2,Media,MRPS14
+HGNC:14063,1,1,1,3,Alta,HDAC4
+HGNC:14064,0,0,1,1,Baja,HDAC6
+HGNC:14074,0,1,0,1,Baja,FMN2
+HGNC:14078,0,0,0,0,Sin evidencia topologica,BACH2
+HGNC:14082,0,1,1,2,Media,ANLN
+HGNC:14103,0,0,0,0,Sin evidencia topologica,ARHGEF10
+HGNC:14107,0,0,0,0,Sin evidencia topologica,PMEPA1
+HGNC:14121,0,0,0,0,Sin evidencia topologica,POLR3K
+HGNC:14124,0,0,0,0,Sin evidencia topologica,NPRL3
+HGNC:14135,0,0,0,0,Sin evidencia topologica,PIGQ
+HGNC:14153,1,0,0,1,Baja,CCDC78
+HGNC:14154,0,0,0,0,Sin evidencia topologica,LMF1
+HGNC:14198,0,1,0,1,Baja,ELAC2
+HGNC:14201,0,0,0,0,Sin evidencia topologica,JPH1
+HGNC:14202,0,0,0,0,Sin evidencia topologica,JPH2
+HGNC:1421,0,0,0,0,Sin evidencia topologica,SLC25A20
+HGNC:14211,0,1,0,1,Baja,BLNK
+HGNC:14214,0,0,0,0,Sin evidencia topologica,CIC
+HGNC:14234,1,1,0,2,Media,NSD1
+HGNC:1424,0,0,1,1,Baja,CAD
+HGNC:14244,0,1,0,1,Baja,RAB18
+HGNC:14245,0,0,0,0,Sin evidencia topologica,SNUPN
+HGNC:14253,0,0,0,0,Sin evidencia topologica,CERS1
+HGNC:14255,0,0,0,0,Sin evidencia topologica,BRPF1
+HGNC:14258,1,0,0,1,Baja,CD2AP
+HGNC:14262,0,1,0,1,Baja,AUTS2
+HGNC:14263,0,1,0,1,Baja,RAB23
+HGNC:14270,1,0,0,1,Baja,PCDH19
+HGNC:14280,0,0,0,0,Sin evidencia topologica,CIAO1
+HGNC:14282,0,0,0,0,Sin evidencia topologica,IRF2BPL
+HGNC:14283,0,0,0,0,Sin evidencia topologica,IKZF5
+HGNC:14287,0,0,0,0,Sin evidencia topologica,NLGN4X
+HGNC:14288,0,0,0,0,Sin evidencia topologica,NTNG2
+HGNC:14289,0,0,0,0,Sin evidencia topologica,NLGN3
+HGNC:14294,1,0,0,1,Baja,SHANK3
+HGNC:14295,0,0,0,0,Sin evidencia topologica,SHANK2
+HGNC:143,1,1,1,3,Alta,ACTC1
+HGNC:14304,0,0,0,0,Sin evidencia topologica,UNC45B
+HGNC:14312,0,1,0,1,Baja,CRIPT
+HGNC:14313,0,0,0,0,Sin evidencia topologica,IFT81
+HGNC:14315,0,0,0,0,Sin evidencia topologica,FCMR
+HGNC:14334,0,0,0,0,Sin evidencia topologica,MKL1
+HGNC:14341,0,1,0,1,Baja,EDARADD
+HGNC:14344,0,0,0,0,Sin evidencia topologica,C1QTNF5
+HGNC:14347,0,0,0,0,Sin evidencia topologica,BCAS3
+HGNC:14348,1,0,0,1,Baja,HTRA2
+HGNC:14357,0,0,0,0,Sin evidencia topologica,MMP21
+HGNC:14361,0,0,0,0,Sin evidencia topologica,IRX5
+HGNC:14372,0,0,0,0,Sin evidencia topologica,SCYL1
+HGNC:14373,0,0,0,0,Sin evidencia topologica,GLMN
+HGNC:14374,0,0,0,0,Sin evidencia topologica,NLRP1
+HGNC:14376,0,0,0,0,Sin evidencia topologica,ACP4
+HGNC:14377,1,1,1,3,Alta,NHP2
+HGNC:14378,1,1,0,2,Media,NOP10
+HGNC:14388,1,1,0,2,Media,GP6
+HGNC:144,1,0,1,2,Media,ACTG1
+HGNC:14406,0,0,0,0,Sin evidencia topologica,PTPN23
+HGNC:14409,0,0,0,0,Sin evidencia topologica,SLC25A19
+HGNC:14411,0,0,0,0,Sin evidencia topologica,SLC25A21
+HGNC:14415,1,1,0,2,Media,ELOVL4
+HGNC:14418,0,0,0,0,Sin evidencia topologica,ELOVL1
+HGNC:1442,0,0,1,1,Baja,CALM1
+HGNC:14430,0,0,0,0,Sin evidencia topologica,SLC13A3
+HGNC:14432,0,1,0,1,Baja,TMEM237
+HGNC:1445,1,0,1,2,Media,CALM2
+HGNC:14450,0,1,0,1,Baja,LPIN2
+HGNC:14467,0,0,0,0,Sin evidencia topologica,SLC26A7
+HGNC:1449,0,1,1,2,Media,CALM3
+HGNC:14495,1,0,1,2,Media,MRPS2
+HGNC:14499,1,0,1,2,Media,MRPS7
+HGNC:145,0,1,1,2,Media,ACTG2
+HGNC:14508,1,0,1,2,Media,MRPS22
+HGNC:14509,0,0,0,0,Sin evidencia topologica,MRPS23
+HGNC:14530,0,0,0,0,Sin evidencia topologica,SP6
+HGNC:14537,0,0,0,0,Sin evidencia topologica,NPC2
+HGNC:14539,0,0,0,0,Sin evidencia topologica,RNF213
+HGNC:14540,0,1,0,1,Baja,WNK1
+HGNC:14543,0,0,0,0,Sin evidencia topologica,WNK3
+HGNC:14544,0,0,0,0,Sin evidencia topologica,WNK4
+HGNC:14550,1,0,0,1,Baja,CDHR1
+HGNC:14561,0,0,0,0,Sin evidencia topologica,ARHGEF9
+HGNC:14562,0,0,0,0,Sin evidencia topologica,BET1
+HGNC:14579,0,1,0,1,Baja,VPS45
+HGNC:14581,1,0,1,2,Media,PINK1
+HGNC:14583,1,0,0,1,Baja,VPS11
+HGNC:14584,0,0,0,0,Sin evidencia topologica,VPS16
+HGNC:1460,1,0,1,2,Media,CAMK2A
+HGNC:14604,0,0,0,0,Sin evidencia topologica,AMN
+HGNC:1461,1,0,1,2,Media,CAMK2B
+HGNC:14615,0,0,0,0,Sin evidencia topologica,PAPPA2
+HGNC:1462,0,0,1,1,Baja,CAMK2D
+HGNC:14628,0,0,0,0,Sin evidencia topologica,CDCA7
+HGNC:14629,0,0,1,1,Baja,CDCA8
+HGNC:1463,0,0,1,1,Baja,CAMK2G
+HGNC:14630,0,1,0,1,Baja,CRELD1
+HGNC:14631,0,0,0,0,Sin evidencia topologica,ADAMTSL2
+HGNC:14637,1,1,0,2,Media,ABCA12
+HGNC:1464,0,0,0,0,Sin evidencia topologica,CAMK4
+HGNC:14673,0,0,0,0,Sin evidencia topologica,FYCO1
+HGNC:14674,1,0,0,1,Baja,PCDH15
+HGNC:14677,0,0,0,0,Sin evidencia topologica,DEAF1
+HGNC:14686,0,0,0,0,Sin evidencia topologica,JAM2
+HGNC:1476,0,0,0,0,Sin evidencia topologica,CAPN1
+HGNC:1480,0,0,0,0,Sin evidencia topologica,CAPN3
+HGNC:1481,0,0,0,0,Sin evidencia topologica,CAPNS1
+HGNC:1482,0,0,0,0,Sin evidencia topologica,CAPN5
+HGNC:14857,0,0,0,0,Sin evidencia topologica,COG5
+HGNC:14880,0,1,0,1,Baja,GTPBP3
+HGNC:14881,1,1,0,2,Media,ZEB2
+HGNC:14886,0,0,0,0,Sin evidencia topologica,DNAJB4
+HGNC:14888,1,0,0,1,Baja,DNAJB6
+HGNC:14889,1,0,0,1,Baja,DNAJB11
+HGNC:14896,0,0,0,0,Sin evidencia topologica,SPTBN4
+HGNC:14897,0,0,0,0,Sin evidencia topologica,ITPKC
+HGNC:1490,0,0,1,1,Baja,CAPZA2
+HGNC:1493,0,0,0,0,Sin evidencia topologica,CARS
+HGNC:14934,0,0,0,0,Sin evidencia topologica,SIRT6
+HGNC:14937,0,0,0,0,Sin evidencia topologica,PIGS
+HGNC:14938,0,0,0,0,Sin evidencia topologica,PIGT
+HGNC:1494,0,0,0,0,Sin evidencia topologica,ALX1
+HGNC:14944,0,0,0,0,Sin evidencia topologica,PPP1R3F
+HGNC:14951,0,0,0,0,Sin evidencia topologica,PPP1R15B
+HGNC:14957,1,0,1,2,Media,PUM1
+HGNC:14963,0,0,0,0,Sin evidencia topologica,GPR101
+HGNC:14966,1,0,1,2,Media,PXDN
+HGNC:1497,0,1,0,1,Baja,CASK
+HGNC:14974,1,0,0,1,Baja,SNX10
+HGNC:14977,0,1,0,1,Baja,SNX14
+HGNC:14988,0,0,0,0,Sin evidencia topologica,POFUT1
+HGNC:1499,1,0,1,2,Media,CASP1
+HGNC:1500,0,0,0,0,Sin evidencia topologica,CASP10
+HGNC:1503,0,0,0,0,Sin evidencia topologica,CASP2
+HGNC:1504,1,0,1,2,Media,CASP3
+HGNC:1509,1,1,1,3,Alta,CASP8
+HGNC:1512,0,1,0,1,Baja,CASQ1
+HGNC:1514,1,1,0,2,Media,CASR
+HGNC:1515,0,0,0,0,Sin evidencia topologica,CAST
+HGNC:1516,0,0,0,0,Sin evidencia topologica,CAT
+HGNC:1527,1,1,1,3,Alta,CAV1
+HGNC:1529,1,0,1,2,Media,CAV3
+HGNC:1530,0,0,0,0,Sin evidencia topologica,MICU1
+HGNC:1535,0,0,0,0,Sin evidencia topologica,RUNX1T1
+HGNC:1539,1,0,1,2,Media,CBFB
+HGNC:1541,1,1,1,3,Alta,CBL
+HGNC:1542,0,0,0,0,Sin evidencia topologica,CBLB
+HGNC:15446,1,0,1,2,Media,PRPF31
+HGNC:15454,0,1,0,1,Baja,SHOC2
+HGNC:15455,0,1,0,1,Baja,MBTPS2
+HGNC:15456,0,0,0,0,Sin evidencia topologica,MBTPS1
+HGNC:15459,0,1,0,1,Baja,P2RX2
+HGNC:1546,1,0,1,2,Media,SERPINH1
+HGNC:15464,0,0,0,0,Sin evidencia topologica,SPINK5
+HGNC:15465,0,0,0,0,Sin evidencia topologica,GPHN
+HGNC:15469,0,1,0,1,Baja,DNAJC6
+HGNC:15472,0,0,0,0,Sin evidencia topologica,ALDH1A2
+HGNC:15474,0,0,0,0,Sin evidencia topologica,SHANK1
+HGNC:15480,0,0,0,0,Sin evidencia topologica,DIAPH3
+HGNC:15492,0,0,0,0,Sin evidencia topologica,ANKH
+HGNC:1550,1,1,0,2,Media,CBS
+HGNC:15505,0,0,0,0,Sin evidencia topologica,MBOAT7
+HGNC:15506,1,0,0,1,Baja,TSEN34
+HGNC:15508,0,0,0,0,Sin evidencia topologica,PUS1
+HGNC:1551,0,0,0,0,Sin evidencia topologica,CBX1
+HGNC:15516,1,1,0,2,Media,XYLT1
+HGNC:15517,0,0,0,0,Sin evidencia topologica,XYLT2
+HGNC:15520,0,0,0,0,Sin evidencia topologica,LPAR6
+HGNC:15527,0,0,0,0,Sin evidencia topologica,KLB
+HGNC:15532,0,1,0,1,Baja,JAM3
+HGNC:15533,0,0,0,0,Sin evidencia topologica,SPRY4
+HGNC:15559,0,1,0,1,Baja,CHCHD10
+HGNC:15561,0,0,0,0,Sin evidencia topologica,IL36RN
+HGNC:15573,0,0,0,0,Sin evidencia topologica,SETBP1
+HGNC:15579,0,0,0,0,Sin evidencia topologica,TRIM8
+HGNC:15592,0,0,0,0,Sin evidencia topologica,SS18L1
+HGNC:15594,0,0,0,0,Sin evidencia topologica,DBR1
+HGNC:15597,1,0,0,1,Baja,HPS3
+HGNC:15598,0,1,0,1,Baja,HAMP
+HGNC:15625,0,0,0,0,Sin evidencia topologica,NBAS
+HGNC:15629,0,0,0,0,Sin evidencia topologica,B3GNT2
+HGNC:15631,1,0,1,2,Media,TLR7
+HGNC:15632,1,0,1,2,Media,TLR8
+HGNC:15646,0,0,0,0,Sin evidencia topologica,KLHL7
+HGNC:15663,0,0,0,0,Sin evidencia topologica,UGGT1
+HGNC:15672,0,0,0,0,Sin evidencia topologica,ALG9
+HGNC:15673,0,0,0,0,Sin evidencia topologica,PHIP
+HGNC:15685,0,1,0,1,Baja,B4GAT1
+HGNC:15710,1,0,0,1,Baja,LDB3
+HGNC:15714,1,1,1,3,Alta,LRPPRC
+HGNC:15717,1,0,0,1,Baja,GEMIN4
+HGNC:15718,1,0,0,1,Baja,APCDD1
+HGNC:15719,0,0,0,0,Sin evidencia topologica,OBSCN
+HGNC:1573,0,0,0,0,Sin evidencia topologica,KRIT1
+HGNC:15734,0,0,0,0,Sin evidencia topologica,KIRREL1
+HGNC:15736,0,0,0,0,Sin evidencia topologica,HID1
+HGNC:15751,0,0,0,0,Sin evidencia topologica,NAPB
+HGNC:15754,0,0,0,0,Sin evidencia topologica,MYL9
+HGNC:15761,0,1,0,1,Baja,OSBPL2
+HGNC:15762,0,0,0,0,Sin evidencia topologica,CRNKL1
+HGNC:15763,0,0,0,0,Sin evidencia topologica,POLR3F
+HGNC:15766,1,0,0,1,Baja,ADNP
+HGNC:15772,0,0,0,0,Sin evidencia topologica,ARFGEF1
+HGNC:15791,0,0,0,0,Sin evidencia topologica,PIGU
+HGNC:15802,0,0,0,0,Sin evidencia topologica,GATA5
+HGNC:15804,0,0,0,0,Sin evidencia topologica,OVOL2
+HGNC:15807,0,1,0,1,Baja,ZNF335
+HGNC:15808,0,0,0,0,Sin evidencia topologica,GZF1
+HGNC:15819,1,0,0,1,Baja,ANKRD1
+HGNC:15822,0,0,0,0,Sin evidencia topologica,OXR1
+HGNC:1583,1,0,0,1,Baja,CCND2
+HGNC:15832,1,0,0,1,Baja,BSCL2
+HGNC:15836,0,0,0,0,Sin evidencia topologica,PROKR2
+HGNC:15840,0,0,0,0,Sin evidencia topologica,KMT2B
+HGNC:15842,0,0,0,0,Sin evidencia topologica,ERBIN
+HGNC:15844,1,1,0,2,Media,HPS4
+HGNC:15853,1,0,0,1,Baja,ARFGEF2
+HGNC:15859,0,0,0,0,Sin evidencia topologica,TASP1
+HGNC:15860,1,0,0,1,Baja,PRPF6
+HGNC:15864,0,0,0,0,Sin evidencia topologica,RBCK1
+HGNC:15865,0,0,0,0,Sin evidencia topologica,KIZ
+HGNC:15868,1,1,0,2,Media,ABHD12
+HGNC:15888,1,1,0,2,Media,RTEL1
+HGNC:15889,1,0,0,1,Baja,FERMT1
+HGNC:15894,1,1,0,2,Media,PANK2
+HGNC:15899,1,1,0,2,Media,NDUFAF5
+HGNC:15901,1,0,0,1,Baja,IFT52
+HGNC:15908,0,0,0,0,Sin evidencia topologica,NAA20
+HGNC:1591,0,0,1,1,Baja,CCNF
+HGNC:15910,1,0,0,1,Baja,NFS1
+HGNC:15917,0,0,1,1,Baja,PLCB1
+HGNC:15924,1,1,0,2,Media,SALL4
+HGNC:15925,1,1,0,2,Media,SAMHD1
+HGNC:15927,0,0,0,0,Sin evidencia topologica,ERGIC3
+HGNC:15939,0,0,0,0,Sin evidencia topologica,WFDC2
+HGNC:15946,1,0,0,1,Baja,RP1L1
+HGNC:15954,1,0,0,1,Baja,TOE1
+HGNC:1596,0,0,0,0,Sin evidencia topologica,CCNK
+HGNC:15968,1,0,0,1,Baja,GDAP1
+HGNC:15974,0,0,0,0,Sin evidencia topologica,TRIM2
+HGNC:15975,0,0,0,0,Sin evidencia topologica,SASH3
+HGNC:15977,0,1,0,1,Baja,HES7
+HGNC:15979,0,0,1,1,Baja,TP63
+HGNC:15984,1,1,0,2,Media,APTX
+HGNC:15992,0,0,0,0,Sin evidencia topologica,ZNF341
+HGNC:15998,0,0,0,0,Sin evidencia topologica,NAV3
+HGNC:15999,1,0,0,1,Baja,SELENON
+HGNC:160,0,0,0,0,Sin evidencia topologica,ACTL6B
+HGNC:16002,0,1,0,1,Baja,MPLKIP
+HGNC:16007,0,0,0,0,Sin evidencia topologica,TRIM63
+HGNC:1603,1,0,1,2,Media,CCR2
+HGNC:16031,0,0,0,0,Sin evidencia topologica,RNF31
+HGNC:16035,1,0,0,1,Baja,STRC
+HGNC:16046,0,0,0,0,Sin evidencia topologica,UNC50
+HGNC:16050,0,0,0,0,Sin evidencia topologica,MED12L
+HGNC:16053,0,0,0,0,Sin evidencia topologica,CFAP52
+HGNC:16066,0,0,0,0,Sin evidencia topologica,ACER3
+HGNC:16067,1,0,0,1,Baja,MYOCD
+HGNC:16068,1,1,0,2,Media,PCNT
+HGNC:16075,0,0,0,0,Sin evidencia topologica,RAB33B
+HGNC:1608,1,0,1,2,Media,CCR7
+HGNC:16088,0,0,0,0,Sin evidencia topologica,SFXN4
+HGNC:16090,0,0,0,0,Sin evidencia topologica,PGRMC1
+HGNC:16110,0,0,0,0,Sin evidencia topologica,DDRGK1
+HGNC:16133,0,1,0,1,Baja,TBC1D20
+HGNC:16135,0,0,0,0,Sin evidencia topologica,FITM2
+HGNC:16147,1,0,0,1,Baja,MCM8
+HGNC:16148,0,0,0,0,Sin evidencia topologica,CRLS1
+HGNC:1615,0,0,1,1,Baja,CCT2
+HGNC:1616,1,0,1,2,Media,CCT3
+HGNC:16171,1,0,1,2,Media,CHMP4B
+HGNC:16175,0,0,0,0,Sin evidencia topologica,RSPO4
+HGNC:16187,0,1,0,1,Baja,SLC52A3
+HGNC:16197,0,0,0,0,Sin evidencia topologica,TP53RK
+HGNC:1620,1,0,1,2,Media,CCT6A
+HGNC:16205,0,0,0,0,Sin evidencia topologica,MGME1
+HGNC:1623,1,0,1,2,Media,CCT8
+HGNC:16232,0,0,1,1,Baja,COX4I2
+HGNC:16235,1,0,0,1,Baja,DNAJC5
+HGNC:16243,0,0,0,0,Sin evidencia topologica,MYLK2
+HGNC:16255,0,1,0,1,Baja,TGM6
+HGNC:16257,0,0,0,0,Sin evidencia topologica,TUBB1
+HGNC:16262,1,1,1,3,Alta,YAP1
+HGNC:16264,0,0,0,0,Sin evidencia topologica,TRAP1
+HGNC:16266,0,1,0,1,Baja,SLC19A3
+HGNC:16268,1,1,0,2,Media,PNPLA6
+HGNC:1628,0,0,0,0,Sin evidencia topologica,CD14
+HGNC:16287,0,1,0,1,Baja,NFU1
+HGNC:16297,0,0,0,0,Sin evidencia topologica,UPB1
+HGNC:163,0,0,1,1,Baja,ACTN1
+HGNC:1630,0,0,0,0,Sin evidencia topologica,CD151
+HGNC:16305,0,0,0,0,Sin evidencia topologica,ADAMTS15
+HGNC:1632,0,0,0,0,Sin evidencia topologica,CD164
+HGNC:1633,1,1,1,3,Alta,CD19
+HGNC:16352,0,0,0,0,Sin evidencia topologica,MRM2
+HGNC:16353,0,0,0,0,Sin evidencia topologica,MAGED2
+HGNC:16356,0,0,0,0,Sin evidencia topologica,USH1G
+HGNC:16361,1,1,0,2,Media,WHRN
+HGNC:16369,1,0,1,2,Media,PARK7
+HGNC:16378,1,1,0,2,Media,OTOA
+HGNC:16379,0,0,0,0,Sin evidencia topologica,TRIM22
+HGNC:16380,0,0,0,0,Sin evidencia topologica,TRIM32
+HGNC:16384,0,0,1,1,Baja,TRIM28
+HGNC:16391,0,0,0,0,Sin evidencia topologica,CARD9
+HGNC:16393,1,1,0,2,Media,CARD11
+HGNC:164,1,1,1,3,Alta,ACTN2
+HGNC:16400,1,1,1,3,Alta,NLRP3
+HGNC:16404,0,0,0,0,Sin evidencia topologica,IL17F
+HGNC:16406,0,0,0,0,Sin evidencia topologica,EFHC1
+HGNC:16410,0,0,0,0,Sin evidencia topologica,DNAJC30
+HGNC:16412,0,0,0,0,Sin evidencia topologica,NLRC4
+HGNC:16421,0,0,0,0,Sin evidencia topologica,SOX6
+HGNC:16429,1,1,0,2,Media,LIAS
+HGNC:16438,1,0,0,1,Baja,SLC4A11
+HGNC:16446,0,1,0,1,Baja,CARD14
+HGNC:16448,0,0,0,0,Sin evidencia topologica,ASRGL1
+HGNC:16461,0,0,0,0,Sin evidencia topologica,WBP11
+HGNC:16466,0,0,0,0,Sin evidencia topologica,SUFU
+HGNC:16472,1,0,0,1,Baja,SLC45A2
+HGNC:16491,0,0,0,0,Sin evidencia topologica,PIDD1
+HGNC:16493,0,0,0,0,Sin evidencia topologica,ZMIZ1
+HGNC:16499,0,0,0,0,Sin evidencia topologica,RAB39B
+HGNC:16510,0,0,0,0,Sin evidencia topologica,FBXO31
+HGNC:16512,0,0,0,0,Sin evidencia topologica,BSND
+HGNC:16513,1,1,0,2,Media,TMC1
+HGNC:16517,0,0,0,0,Sin evidencia topologica,TMPRSS6
+HGNC:16519,0,0,0,0,Sin evidencia topologica,RAB34
+HGNC:16524,0,0,0,0,Sin evidencia topologica,RAB14
+HGNC:1653,1,1,1,3,Alta,CD28
+HGNC:166,1,0,1,2,Media,ACTN4
+HGNC:16618,0,0,1,1,Baja,MRPS34
+HGNC:16627,1,1,1,3,Alta,CHEK2
+HGNC:16639,0,0,1,1,Baja,SRRM2
+HGNC:1664,1,0,1,2,Media,SCARB1
+HGNC:16644,1,0,0,1,Baja,IFITM5
+HGNC:16648,0,0,0,0,Sin evidencia topologica,PJA1
+HGNC:1665,0,1,1,2,Media,SCARB2
+HGNC:16650,0,0,0,0,Sin evidencia topologica,MRPL44
+HGNC:16687,1,0,0,1,Baja,EIF4ENIF1
+HGNC:16691,0,1,0,1,Baja,TUBGCP4
+HGNC:16692,0,0,0,0,Sin evidencia topologica,CD320
+HGNC:16695,0,1,0,1,Baja,BCAP31
+HGNC:16700,0,0,0,0,Sin evidencia topologica,ZFPM2
+HGNC:16709,0,0,0,0,Sin evidencia topologica,CALCRL
+HGNC:16712,1,0,1,2,Media,FBXW7
+HGNC:16716,0,0,0,0,Sin evidencia topologica,DHX30
+HGNC:16717,0,0,0,0,Sin evidencia topologica,DHX32
+HGNC:16719,0,0,0,0,Sin evidencia topologica,DHX34
+HGNC:16725,1,0,0,1,Baja,LRRC6
+HGNC:1673,0,0,0,0,Sin evidencia topologica,CD3D
+HGNC:16732,1,0,0,1,Baja,MCEE
+HGNC:1674,0,0,0,0,Sin evidencia topologica,CD3E
+HGNC:16740,0,0,0,0,Sin evidencia topologica,ZBTB11
+HGNC:16744,0,0,0,0,Sin evidencia topologica,CIZ1
+HGNC:1675,0,1,0,1,Baja,CD3G
+HGNC:16762,0,1,0,1,Baja,ZNF423
+HGNC:1677,0,0,1,1,Baja,CD247
+HGNC:1678,1,0,1,2,Media,CD4
+HGNC:16783,1,1,1,3,Alta,CDC73
+HGNC:16787,0,0,0,0,Sin evidencia topologica,EDEM3
+HGNC:16789,0,0,0,0,Sin evidencia topologica,NMNAT2
+HGNC:16791,0,0,0,0,Sin evidencia topologica,TSEN15
+HGNC:16803,0,0,0,0,Sin evidencia topologica,UBE3C
+HGNC:16806,1,0,1,2,Media,UBR5
+HGNC:16808,0,0,0,0,Sin evidencia topologica,UBR1
+HGNC:16812,1,0,0,1,Baja,COQ8A
+HGNC:16814,0,0,0,0,Sin evidencia topologica,DACH2
+HGNC:16816,0,0,0,0,Sin evidencia topologica,CHD5
+HGNC:16831,0,0,0,0,Sin evidencia topologica,TSPOAP1
+HGNC:16835,0,0,0,0,Sin evidencia topologica,TAOK2
+HGNC:16841,0,0,0,0,Sin evidencia topologica,LITAF
+HGNC:16850,0,0,0,0,Sin evidencia topologica,CTR9
+HGNC:16853,0,0,0,0,Sin evidencia topologica,IPO13
+HGNC:16859,0,0,0,0,Sin evidencia topologica,NOS1AP
+HGNC:16860,0,0,1,1,Baja,SART3
+HGNC:16872,0,0,0,0,Sin evidencia topologica,SLC35B2
+HGNC:16873,1,1,0,2,Media,FIG4
+HGNC:16877,1,1,1,3,Alta,MFN2
+HGNC:16882,1,0,0,1,Baja,HCN4
+HGNC:1689,0,0,0,0,Sin evidencia topologica,CD59
+HGNC:16892,0,1,0,1,Baja,CD96
+HGNC:16901,0,1,0,1,Baja,SPEG
+HGNC:16902,0,0,0,0,Sin evidencia topologica,BCKDK
+HGNC:16905,1,0,0,1,Baja,KLHL41
+HGNC:16912,0,1,0,1,Baja,EMG1
+HGNC:16915,0,1,0,1,Baja,HAX1
+HGNC:16918,0,0,1,1,Baja,SYNCRIP
+HGNC:16920,0,0,0,0,Sin evidencia topologica,CIB1
+HGNC:16922,0,0,0,0,Sin evidencia topologica,AGAP1
+HGNC:16931,0,0,0,0,Sin evidencia topologica,HYOU1
+HGNC:16933,0,0,0,0,Sin evidencia topologica,FEM1C
+HGNC:16935,1,0,1,2,Media,ATG7
+HGNC:16941,0,0,0,0,Sin evidencia topologica,SCGN
+HGNC:16947,0,0,0,0,Sin evidencia topologica,ERLIN1
+HGNC:16949,0,0,0,0,Sin evidencia topologica,FAM120C
+HGNC:16950,0,1,0,1,Baja,STAMBP
+HGNC:16951,0,0,0,0,Sin evidencia topologica,IVNS1ABP
+HGNC:16966,0,0,0,0,Sin evidencia topologica,ZMYND11
+HGNC:16974,0,1,0,1,Baja,SRCAP
+HGNC:16979,0,0,0,0,Sin evidencia topologica,CFHR4
+HGNC:1698,0,1,0,1,Baja,CD79A
+HGNC:16980,0,0,0,0,Sin evidencia topologica,CFHR3
+HGNC:1699,0,1,0,1,Baja,CD79B
+HGNC:16993,0,0,1,1,Baja,SEC61B
+HGNC:16999,0,1,0,1,Baja,CLP1
+HGNC:17009,1,1,0,2,Media,TRIOBP
+HGNC:1701,0,1,0,1,Baja,CD81
+HGNC:17019,0,0,0,0,Sin evidencia topologica,PRICKLE1
+HGNC:17022,1,0,0,1,Baja,HPS5
+HGNC:17028,0,0,0,0,Sin evidencia topologica,SNF8
+HGNC:17035,0,1,0,1,Baja,EXOSC8
+HGNC:17042,0,1,0,1,Baja,PUF60
+HGNC:17043,0,0,0,0,Sin evidencia topologica,NIPA1
+HGNC:17052,0,0,0,0,Sin evidencia topologica,SEC31A
+HGNC:17057,0,0,0,0,Sin evidencia topologica,CARD8
+HGNC:1706,1,0,1,2,Media,CD8A
+HGNC:17063,0,1,0,1,Baja,RAB3GAP1
+HGNC:17075,0,1,0,1,Baja,TAB2
+HGNC:17082,0,1,0,1,Baja,MLC1
+HGNC:17084,0,1,0,1,Baja,SYNE2
+HGNC:17085,0,0,0,0,Sin evidencia topologica,EXOC6B
+HGNC:17087,0,0,0,0,Sin evidencia topologica,ICOSLG
+HGNC:17089,1,0,0,1,Baja,SYNE1
+HGNC:17090,0,0,0,0,Sin evidencia topologica,ARHGEF18
+HGNC:17091,0,0,0,0,Sin evidencia topologica,NCSTN
+HGNC:17095,1,0,0,1,Baja,LARS2
+HGNC:17097,0,0,0,0,Sin evidencia topologica,EXOSC2
+HGNC:17098,1,0,1,2,Media,DICER1
+HGNC:171,0,0,0,0,Sin evidencia topologica,ACVR1
+HGNC:17101,1,0,1,2,Media,SUZ12
+HGNC:17103,1,0,0,1,Baja,TNPO3
+HGNC:17104,1,0,0,1,Baja,CDON
+HGNC:17109,0,0,0,0,Sin evidencia topologica,ADAMTS17
+HGNC:17110,0,0,0,0,Sin evidencia topologica,ADAMTS18
+HGNC:17111,0,0,0,0,Sin evidencia topologica,ADAMTS19
+HGNC:17123,0,0,0,0,Sin evidencia topologica,SLC9A7
+HGNC:17129,0,0,0,0,Sin evidencia topologica,SLC39A4
+HGNC:1713,1,0,0,1,Baja,CDAN1
+HGNC:17142,1,0,1,2,Media,OPTN
+HGNC:17145,0,0,0,0,Sin evidencia topologica,SNAPIN
+HGNC:17146,0,0,0,0,Sin evidencia topologica,ARL2BP
+HGNC:17151,0,0,0,0,Sin evidencia topologica,ORC6
+HGNC:17155,0,0,0,0,Sin evidencia topologica,RABGAP1
+HGNC:17168,0,1,0,1,Baja,RAB3GAP2
+HGNC:17175,1,0,0,1,Baja,PLCE1
+HGNC:1718,0,0,0,0,Sin evidencia topologica,CDC14A
+HGNC:17189,0,0,0,0,Sin evidencia topologica,OLFM2
+HGNC:17192,0,0,0,0,Sin evidencia topologica,TIRAP
+HGNC:17194,1,0,1,2,Media,NDUFA13
+HGNC:17198,0,0,0,0,Sin evidencia topologica,CHSY1
+HGNC:17208,0,0,0,0,Sin evidencia topologica,BICD2
+HGNC:17209,0,0,0,0,Sin evidencia topologica,STK36
+HGNC:17210,0,0,0,0,Sin evidencia topologica,DHX37
+HGNC:17211,0,0,0,0,Sin evidencia topologica,DHX38
+HGNC:17213,0,1,0,1,Baja,COLEC11
+HGNC:17229,0,0,0,0,Sin evidencia topologica,CFAP45
+HGNC:17233,0,0,0,0,Sin evidencia topologica,ELMO2
+HGNC:17258,0,0,0,0,Sin evidencia topologica,AGTPBP1
+HGNC:17264,1,0,1,2,Media,POLR1A
+HGNC:17271,0,0,0,0,Sin evidencia topologica,RRAS2
+HGNC:17272,0,1,0,1,Baja,CENPJ
+HGNC:17283,0,0,0,0,Sin evidencia topologica,RIMS2
+HGNC:17284,0,0,0,0,Sin evidencia topologica,POT1
+HGNC:17286,0,0,0,0,Sin evidencia topologica,EXOSC1
+HGNC:17288,0,0,0,0,Sin evidencia topologica,APOA5
+HGNC:17290,0,0,0,0,Sin evidencia topologica,IL27RA
+HGNC:17296,0,1,0,1,Baja,RRM2B
+HGNC:17298,0,0,0,0,Sin evidencia topologica,BRF2
+HGNC:17300,0,0,0,0,Sin evidencia topologica,TAF8
+HGNC:17317,1,0,0,1,Baja,TIMM22
+HGNC:17321,1,0,0,1,Baja,SP7
+HGNC:17327,0,0,0,0,Sin evidencia topologica,WAC
+HGNC:17328,0,1,0,1,Baja,DTNBP1
+HGNC:1733,1,0,0,1,Baja,CDK13
+HGNC:17340,1,0,1,2,Media,PRPF8
+HGNC:17341,1,1,0,2,Media,TRNT1
+HGNC:17342,0,0,0,0,Sin evidencia topologica,BRWD3
+HGNC:17347,0,0,0,0,Sin evidencia topologica,DDX23
+HGNC:17348,0,0,0,0,Sin evidencia topologica,PRPF3
+HGNC:17349,0,0,0,0,Sin evidencia topologica,PRPF4
+HGNC:17350,0,0,0,0,Sin evidencia topologica,CDC40
+HGNC:17358,0,1,0,1,Baja,TPK1
+HGNC:17359,0,0,0,0,Sin evidencia topologica,NUP54
+HGNC:1736,1,0,1,2,Media,CDC42
+HGNC:17366,0,0,0,0,Sin evidencia topologica,AASS
+HGNC:17367,1,0,0,1,Baja,IFT57
+HGNC:1738,0,0,0,0,Sin evidencia topologica,CDC42BPB
+HGNC:1739,1,0,1,2,Media,CDC45
+HGNC:17397,1,0,0,1,Baja,BANF1
+HGNC:174,0,1,0,1,Baja,ACVR2B
+HGNC:17412,0,0,0,0,Sin evidencia topologica,CLCF1
+HGNC:17416,0,1,0,1,Baja,ADGRV1
+HGNC:1742,1,1,0,2,Media,LRBA
+HGNC:17433,0,0,0,0,Sin evidencia topologica,CHP1
+HGNC:17435,0,0,0,0,Sin evidencia topologica,SLC12A9
+HGNC:1744,1,0,1,2,Media,CDC6
+HGNC:17474,0,0,0,0,Sin evidencia topologica,ESAM
+HGNC:1748,1,0,1,2,Media,CDH1
+HGNC:17485,0,0,0,0,Sin evidencia topologica,PPP2R3C
+HGNC:17493,0,0,0,0,Sin evidencia topologica,GMNN
+HGNC:17494,1,1,0,2,Media,GJC2
+HGNC:175,1,0,0,1,Baja,ACVRL1
+HGNC:1750,0,0,0,0,Sin evidencia topologica,CDH11
+HGNC:17513,0,0,0,0,Sin evidencia topologica,HOMER2
+HGNC:17550,0,0,0,0,Sin evidencia topologica,KREMEN1
+HGNC:17556,0,0,0,0,Sin evidencia topologica,MED16
+HGNC:17574,0,0,0,0,Sin evidencia topologica,ALPK3
+HGNC:17575,0,0,0,0,Sin evidencia topologica,SPEN
+HGNC:17582,0,1,0,1,Baja,KAT6B
+HGNC:1759,1,0,1,2,Media,CDH2
+HGNC:17597,0,0,0,0,Sin evidencia topologica,NCDN
+HGNC:17601,0,0,0,0,Sin evidencia topologica,CADM3
+HGNC:17616,1,1,0,2,Media,IL17RD
+HGNC:17619,1,1,0,2,Media,NDE1
+HGNC:1762,0,1,0,1,Baja,CDH3
+HGNC:1763,0,0,0,0,Sin evidencia topologica,CDH4
+HGNC:17637,0,0,0,0,Sin evidencia topologica,PERP
+HGNC:17641,0,0,0,0,Sin evidencia topologica,DCLRE1B
+HGNC:17642,0,0,0,0,Sin evidencia topologica,DCLRE1C
+HGNC:17646,0,0,0,0,Sin evidencia topologica,NGLY1
+HGNC:17648,0,0,0,0,Sin evidencia topologica,POPDC2
+HGNC:17649,0,0,0,0,Sin evidencia topologica,POPDC3
+HGNC:17652,0,0,0,0,Sin evidencia topologica,PORCN
+HGNC:17663,0,0,0,0,Sin evidencia topologica,PITRM1
+HGNC:17686,0,0,0,0,Sin evidencia topologica,RIC1
+HGNC:17693,0,0,0,0,Sin evidencia topologica,DHRS3
+HGNC:17697,0,1,0,1,Baja,SARS2
+HGNC:177,0,1,0,1,Baja,ACY1
+HGNC:1770,0,0,0,0,Sin evidencia topologica,CDK10
+HGNC:17722,0,0,0,0,Sin evidencia topologica,SPRED2
+HGNC:1773,1,0,1,2,Media,CDK4
+HGNC:17735,0,0,0,0,Sin evidencia topologica,TMEM63B
+HGNC:1774,1,0,1,2,Media,CDK5
+HGNC:17754,0,0,0,0,Sin evidencia topologica,THSD1
+HGNC:17755,0,1,0,1,Baja,TNFRSF13C
+HGNC:17759,0,0,0,0,Sin evidencia topologica,PDSS1
+HGNC:17761,1,0,1,2,Media,TREM2
+HGNC:17768,0,0,0,0,Sin evidencia topologica,TDP2
+HGNC:17770,0,0,0,0,Sin evidencia topologica,RALGAPA1
+HGNC:17772,0,0,0,0,Sin evidencia topologica,TXN2
+HGNC:1779,0,0,0,0,Sin evidencia topologica,CDK8
+HGNC:17797,0,0,0,0,Sin evidencia topologica,MAP3K20
+HGNC:1780,1,0,1,2,Media,CDK9
+HGNC:17800,0,0,0,0,Sin evidencia topologica,FARSB
+HGNC:17810,0,0,0,0,Sin evidencia topologica,AMOT
+HGNC:17811,0,0,0,0,Sin evidencia topologica,AMOTL1
+HGNC:17814,0,0,0,0,Sin evidencia topologica,SLF2
+HGNC:17820,0,0,0,0,Sin evidencia topologica,NT5C3A
+HGNC:17825,0,0,0,0,Sin evidencia topologica,PLA2G16
+HGNC:1784,0,0,1,1,Baja,CDKN1A
+HGNC:1785,1,0,1,2,Media,CDKN1B
+HGNC:17851,0,0,0,0,Sin evidencia topologica,REXO2
+HGNC:17859,1,0,0,1,Baja,NUP188
+HGNC:1786,0,1,0,1,Baja,CDKN1C
+HGNC:17861,0,0,0,0,Sin evidencia topologica,TRAF3IP1
+HGNC:17866,0,0,0,0,Sin evidencia topologica,HAVCR1
+HGNC:17869,0,0,0,0,Sin evidencia topologica,AFF4
+HGNC:1787,1,1,1,3,Alta,CDKN2A
+HGNC:17870,1,0,0,1,Baja,INVS
+HGNC:17877,0,1,0,1,Baja,NMNAT1
+HGNC:1788,0,0,0,0,Sin evidencia topologica,CDKN2B
+HGNC:1789,1,0,0,1,Baja,CDKN2C
+HGNC:17893,0,0,0,0,Sin evidencia topologica,PGAP2
+HGNC:17896,1,0,1,2,Media,PRPF19
+HGNC:17904,1,0,1,2,Media,DROSHA
+HGNC:17928,0,1,0,1,Baja,PSMC3IP
+HGNC:17933,0,0,0,0,Sin evidencia topologica,KAT8
+HGNC:17935,0,0,0,0,Sin evidencia topologica,CD207
+HGNC:17939,0,0,0,0,Sin evidencia topologica,SLC45A1
+HGNC:17944,0,1,0,1,Baja,EXOSC3
+HGNC:17950,0,0,0,0,Sin evidencia topologica,BORCS5
+HGNC:17964,0,0,0,0,Sin evidencia topologica,RDH11
+HGNC:17966,1,1,0,2,Media,CEP83
+HGNC:17967,0,0,0,0,Sin evidencia topologica,IRAK4
+HGNC:17975,1,0,0,1,Baja,REEP2
+HGNC:17978,0,0,0,0,Sin evidencia topologica,B3GALT6
+HGNC:17985,0,0,0,0,Sin evidencia topologica,ROBO4
+HGNC:17989,0,0,0,0,Sin evidencia topologica,SLC22A12
+HGNC:17992,0,0,0,0,Sin evidencia topologica,TRPM3
+HGNC:17993,0,1,0,1,Baja,TRPM4
+HGNC:17994,0,0,0,0,Sin evidencia topologica,TRPM7
+HGNC:17995,0,0,0,0,Sin evidencia topologica,TRPM6
+HGNC:17996,0,0,0,0,Sin evidencia topologica,NAGS
+HGNC:17997,1,0,0,1,Baja,FKRP
+HGNC:18000,0,0,0,0,Sin evidencia topologica,PHF5A
+HGNC:18005,0,0,0,0,Sin evidencia topologica,GIMAP5
+HGNC:18008,0,0,0,0,Sin evidencia topologica,NXN
+HGNC:18010,0,0,0,0,Sin evidencia topologica,GDAP2
+HGNC:18016,0,0,0,0,Sin evidencia topologica,NUP133
+HGNC:1802,0,0,0,0,Sin evidencia topologica,CDSN
+HGNC:18021,0,0,0,0,Sin evidencia topologica,TMC6
+HGNC:18025,1,0,1,2,Media,COA6
+HGNC:18028,0,0,0,0,Sin evidencia topologica,OSGEP
+HGNC:18037,1,0,0,1,Baja,ARID2
+HGNC:18039,1,0,1,2,Media,KDM5B
+HGNC:18040,1,1,1,3,Alta,ARID1B
+HGNC:18044,1,0,0,1,Baja,SLC38A3
+HGNC:1805,0,0,0,0,Sin evidencia topologica,CDX1
+HGNC:18053,0,0,0,0,Sin evidencia topologica,PKD1L1
+HGNC:1806,0,0,0,0,Sin evidencia topologica,CDX2
+HGNC:18060,0,1,0,1,Baja,ARX
+HGNC:18062,1,0,0,1,Baja,GPT2
+HGNC:18063,0,0,0,0,Sin evidencia topologica,STARD7
+HGNC:18078,0,0,0,0,Sin evidencia topologica,ZBTB7A
+HGNC:18083,0,0,0,0,Sin evidencia topologica,TRPV4
+HGNC:18084,0,0,0,0,Sin evidencia topologica,TRPV3
+HGNC:18085,0,0,0,0,Sin evidencia topologica,TMEM199
+HGNC:18111,0,1,0,1,Baja,CCDC50
+HGNC:18116,0,0,1,1,Baja,KHDRBS1
+HGNC:18118,0,0,0,0,Sin evidencia topologica,RSF1
+HGNC:18119,0,1,0,1,Baja,SPATA5
+HGNC:18121,0,1,0,1,Baja,MFRP
+HGNC:18122,1,1,0,2,Media,SOX17
+HGNC:18124,0,0,0,0,Sin evidencia topologica,P2RY12
+HGNC:18126,1,0,0,1,Baja,ZNRF3
+HGNC:18127,0,1,0,1,Baja,TUBGCP6
+HGNC:18141,0,0,0,0,Sin evidencia topologica,DCDC2
+HGNC:18143,0,0,0,0,Sin evidencia topologica,DAAM2
+HGNC:18145,1,1,0,2,Media,PHF6
+HGNC:18150,0,0,0,0,Sin evidencia topologica,MYO18B
+HGNC:18153,0,1,0,1,Baja,TNFRSF13B
+HGNC:18155,0,0,0,0,Sin evidencia topologica,TXNRD2
+HGNC:18163,0,0,0,0,Sin evidencia topologica,IFNE
+HGNC:18169,0,0,0,0,Sin evidencia topologica,FKBP10
+HGNC:18171,0,0,0,0,Sin evidencia topologica,CD244
+HGNC:18179,0,0,0,0,Sin evidencia topologica,VPS33A
+HGNC:18183,0,0,0,0,Sin evidencia topologica,GIPC3
+HGNC:18188,0,0,0,0,Sin evidencia topologica,TMCO1
+HGNC:18234,0,0,0,0,Sin evidencia topologica,MOCOS
+HGNC:18243,0,0,0,0,Sin evidencia topologica,RCBTB1
+HGNC:18248,0,0,0,0,Sin evidencia topologica,ELP2
+HGNC:18249,0,0,0,0,Sin evidencia topologica,KCTD1
+HGNC:18267,0,0,0,0,Sin evidencia topologica,FMNL2
+HGNC:18270,0,0,0,0,Sin evidencia topologica,HHAT
+HGNC:18276,1,0,1,2,Media,SEC61A1
+HGNC:18286,1,0,0,1,Baja,RAX2
+HGNC:18292,1,1,0,2,Media,CFC1
+HGNC:18294,1,1,0,2,Media,ALG1
+HGNC:18305,0,0,0,0,Sin evidencia topologica,ATP6AP2
+HGNC:18308,0,0,0,0,Sin evidencia topologica,TMLHE
+HGNC:18318,1,1,1,3,Alta,ASXL1
+HGNC:18324,1,1,0,2,Media,HSD3B7
+HGNC:1833,0,0,1,1,Baja,CEBPA
+HGNC:18340,1,1,0,2,Media,WDR19
+HGNC:18345,0,0,0,0,Sin evidencia topologica,FAM46A
+HGNC:18348,0,0,0,0,Sin evidencia topologica,TICAM1
+HGNC:18358,0,0,0,0,Sin evidencia topologica,IL17RC
+HGNC:1836,0,0,0,0,Sin evidencia topologica,CEBPE
+HGNC:18362,0,1,0,1,Baja,IMPG2
+HGNC:18365,0,0,0,0,Sin evidencia topologica,IFNL3
+HGNC:18374,1,0,0,1,Baja,HPSE2
+HGNC:1839,1,1,0,2,Media,ADA2
+HGNC:18398,0,0,0,0,Sin evidencia topologica,SMARCAD1
+HGNC:18399,0,0,0,0,Sin evidencia topologica,DHRSX
+HGNC:18410,0,0,0,0,Sin evidencia topologica,ZNF292
+HGNC:18416,0,0,0,0,Sin evidencia topologica,FICD
+HGNC:18420,1,1,1,3,Alta,SETD2
+HGNC:18423,0,0,0,0,Sin evidencia topologica,DEPDC5
+HGNC:18437,0,0,1,1,Baja,HAVCR2
+HGNC:18451,0,0,0,0,Sin evidencia topologica,MCFD2
+HGNC:18453,0,0,0,0,Sin evidencia topologica,NAXE
+HGNC:18454,0,0,0,0,Sin evidencia topologica,PROK1
+HGNC:18455,0,0,0,0,Sin evidencia topologica,PROK2
+HGNC:18466,1,0,0,1,Baja,RNASEH1
+HGNC:18475,0,1,0,1,Baja,ZDHHC9
+HGNC:1848,0,0,0,0,Sin evidencia topologica,CEL
+HGNC:18481,0,1,0,1,Baja,ATP6V0A2
+HGNC:18483,1,0,0,1,Baja,LIPH
+HGNC:1850,0,0,0,0,Sin evidencia topologica,CELSR1
+HGNC:18505,1,0,0,1,Baja,RNF43
+HGNC:18514,0,1,0,1,Baja,SPART
+HGNC:18518,1,1,0,2,Media,RNASEH2A
+HGNC:18525,0,0,0,0,Sin evidencia topologica,CYS1
+HGNC:18531,0,0,0,0,Sin evidencia topologica,LRRC7
+HGNC:18533,0,0,0,0,Sin evidencia topologica,USP48
+HGNC:18539,0,0,0,0,Sin evidencia topologica,STX1B
+HGNC:18540,0,0,0,0,Sin evidencia topologica,CPT1C
+HGNC:18541,0,0,0,0,Sin evidencia topologica,KMT2E
+HGNC:18550,1,1,0,2,Media,IER3IP1
+HGNC:18561,0,0,0,0,Sin evidencia topologica,BLOC1S5
+HGNC:1857,1,1,0,2,Media,CENPF
+HGNC:18576,1,1,0,2,Media,CCNO
+HGNC:1859,0,0,0,0,Sin evidencia topologica,CEP250
+HGNC:18591,0,0,0,0,Sin evidencia topologica,NEK9
+HGNC:18592,0,0,0,0,Sin evidencia topologica,NEK10
+HGNC:18599,0,0,0,0,Sin evidencia topologica,TUBGCP2
+HGNC:186,0,1,0,1,Baja,ADA
+HGNC:18603,0,1,0,1,Baja,COL25A1
+HGNC:18608,0,0,0,0,Sin evidencia topologica,LRRK1
+HGNC:18610,0,0,0,0,Sin evidencia topologica,KSR2
+HGNC:18618,1,0,1,2,Media,LRRK2
+HGNC:18619,0,0,0,0,Sin evidencia topologica,COG3
+HGNC:18620,0,1,0,1,Baja,COG4
+HGNC:18621,0,0,0,0,Sin evidencia topologica,COG6
+HGNC:18622,0,0,0,0,Sin evidencia topologica,COG7
+HGNC:18623,0,0,0,0,Sin evidencia topologica,COG8
+HGNC:18625,0,0,0,0,Sin evidencia topologica,FKBP14
+HGNC:18626,1,1,0,2,Media,IFT27
+HGNC:18628,0,0,0,0,Sin evidencia topologica,STAB1
+HGNC:18640,0,0,0,0,Sin evidencia topologica,LDLRAP1
+HGNC:18647,0,0,0,0,Sin evidencia topologica,RTN4IP1
+HGNC:18648,0,0,0,0,Sin evidencia topologica,DPP9
+HGNC:18654,1,1,0,2,Media,RTTN
+HGNC:18662,0,0,0,0,Sin evidencia topologica,RAX
+HGNC:18666,0,0,0,0,Sin evidencia topologica,RNPC3
+HGNC:18667,0,1,1,2,Media,PMPCA
+HGNC:18669,0,0,0,0,Sin evidencia topologica,MPP5
+HGNC:18672,0,0,0,0,Sin evidencia topologica,CDK5RAP2
+HGNC:18674,1,0,1,2,Media,DDX41
+HGNC:18683,1,0,1,2,Media,EIF4A3
+HGNC:18688,0,0,0,0,Sin evidencia topologica,CRB2
+HGNC:18697,0,0,0,0,Sin evidencia topologica,ASCC3
+HGNC:18704,0,1,0,1,Baja,NAA10
+HGNC:18708,0,1,0,1,Baja,GRIP1
+HGNC:18711,0,0,0,0,Sin evidencia topologica,LGI3
+HGNC:18712,0,0,0,0,Sin evidencia topologica,LGI4
+HGNC:18744,1,0,0,1,Baja,DNAI2
+HGNC:18746,0,1,0,1,Baja,SLURP1
+HGNC:1875,1,0,1,2,Media,CFL2
+HGNC:18750,0,0,0,0,Sin evidencia topologica,RIN2
+HGNC:18756,0,0,0,0,Sin evidencia topologica,RHOBTB2
+HGNC:18758,1,0,0,1,Baja,BBS7
+HGNC:18786,0,0,0,0,Sin evidencia topologica,FAM50A
+HGNC:18791,0,0,0,0,Sin evidencia topologica,ZFP57
+HGNC:18798,0,0,0,0,Sin evidencia topologica,SLC44A1
+HGNC:188,0,0,0,0,Sin evidencia topologica,ADAM10
+HGNC:18801,0,1,0,1,Baja,POGZ
+HGNC:18802,1,1,0,2,Media,ATPAF2
+HGNC:18806,0,0,0,0,Sin evidencia topologica,CAMTA1
+HGNC:18817,1,0,0,1,Baja,HPS6
+HGNC:18825,0,0,0,0,Sin evidencia topologica,SERINC5
+HGNC:18828,0,1,0,1,Baja,NDUFAF1
+HGNC:18838,0,0,0,0,Sin evidencia topologica,PPP1R13L
+HGNC:1884,1,0,1,2,Media,CFTR
+HGNC:18855,0,0,0,0,Sin evidencia topologica,CREB3L3
+HGNC:18856,0,0,0,0,Sin evidencia topologica,CREB3L1
+HGNC:18858,0,0,0,0,Sin evidencia topologica,PIGM
+HGNC:18865,1,0,0,1,Baja,KCNT1
+HGNC:18866,0,0,0,0,Sin evidencia topologica,KCNT2
+HGNC:18871,0,1,0,1,Baja,MMAA
+HGNC:18873,1,1,1,3,Alta,IFIH1
+HGNC:18874,0,0,0,0,Sin evidencia topologica,LAT
+HGNC:18884,0,0,0,0,Sin evidencia topologica,TDP1
+HGNC:18957,0,0,0,0,Sin evidencia topologica,MAGI2
+HGNC:18969,0,1,0,1,Baja,IL31RA
+HGNC:18971,0,0,0,0,Sin evidencia topologica,AP1S3
+HGNC:18985,0,0,0,0,Sin evidencia topologica,DCXR
+HGNC:18986,1,1,0,2,Media,GBA2
+HGNC:18994,0,0,0,0,Sin evidencia topologica,BRSK1
+HGNC:19009,0,0,0,0,Sin evidencia topologica,CLUAP1
+HGNC:19034,0,0,0,0,Sin evidencia topologica,MAST1
+HGNC:19036,0,0,0,0,Sin evidencia topologica,MAST3
+HGNC:19037,0,0,0,0,Sin evidencia topologica,MAST4
+HGNC:19041,1,0,0,1,Baja,COQ8B
+HGNC:19042,0,0,0,0,Sin evidencia topologica,MASTL
+HGNC:19048,1,0,0,1,Baja,ASPM
+HGNC:19070,0,0,0,0,Sin evidencia topologica,THOC1
+HGNC:19073,0,0,0,0,Sin evidencia topologica,THOC2
+HGNC:1908,0,1,0,1,Baja,VPS13A
+HGNC:19082,0,1,0,1,Baja,NALCN
+HGNC:19087,0,0,0,0,Sin evidencia topologica,EBF3
+HGNC:19088,1,0,0,1,Baja,ASH1L
+HGNC:19089,0,0,0,0,Sin evidencia topologica,SLC30A5
+HGNC:1910,0,0,0,0,Sin evidencia topologica,CHAF1A
+HGNC:19100,0,0,0,0,Sin evidencia topologica,IL23R
+HGNC:19102,1,0,1,2,Media,DDX58
+HGNC:19104,1,1,0,2,Media,NPHP4
+HGNC:1912,0,0,0,0,Sin evidencia topologica,CHAT
+HGNC:19125,1,0,0,1,Baja,FGD4
+HGNC:19129,1,1,0,2,Media,PSAT1
+HGNC:1913,0,0,0,0,Sin evidencia topologica,RCC1
+HGNC:19133,0,0,0,0,Sin evidencia topologica,HS6ST2
+HGNC:19139,1,1,0,2,Media,POMGNT1
+HGNC:19141,0,0,0,0,Sin evidencia topologica,TTBK2
+HGNC:1915,1,0,0,1,Baja,CHD1
+HGNC:1917,0,0,0,0,Sin evidencia topologica,CHD2
+HGNC:1918,1,0,1,2,Media,CHD3
+HGNC:19181,1,0,1,2,Media,KIF14
+HGNC:19182,0,0,0,0,Sin evidencia topologica,SASH1
+HGNC:19185,1,1,0,2,Media,FRAS1
+HGNC:19189,0,1,0,1,Baja,DOCK6
+HGNC:1919,1,0,1,2,Media,CHD4
+HGNC:19190,0,0,0,0,Sin evidencia topologica,DOCK7
+HGNC:19191,1,1,0,2,Media,DOCK8
+HGNC:19192,1,0,0,1,Baja,DOCK4
+HGNC:19222,0,0,0,0,Sin evidencia topologica,WSB2
+HGNC:19237,0,0,0,0,Sin evidencia topologica,NANS
+HGNC:19246,1,0,0,1,Baja,TERF2IP
+HGNC:19261,0,0,0,0,Sin evidencia topologica,MTO1
+HGNC:19263,0,0,0,0,Sin evidencia topologica,LMAN2L
+HGNC:19274,0,0,0,0,Sin evidencia topologica,TTC5
+HGNC:19286,0,0,0,0,Sin evidencia topologica,SCYL2
+HGNC:19297,0,0,0,0,Sin evidencia topologica,TNK2
+HGNC:19304,0,0,0,0,Sin evidencia topologica,SCAF4
+HGNC:19306,0,0,0,0,Sin evidencia topologica,SLC30A7
+HGNC:19316,0,1,0,1,Baja,P3H1
+HGNC:19317,0,0,0,0,Sin evidencia topologica,P3H2
+HGNC:19321,1,0,0,1,Baja,NKX6-2
+HGNC:19331,0,0,0,0,Sin evidencia topologica,MMAB
+HGNC:19338,0,0,0,0,Sin evidencia topologica,CDK19
+HGNC:19344,0,0,0,0,Sin evidencia topologica,DENND5A
+HGNC:19347,0,0,0,0,Sin evidencia topologica,CUX2
+HGNC:19349,0,0,0,0,Sin evidencia topologica,KIF21A
+HGNC:19353,1,1,1,3,Alta,SIN3A
+HGNC:19354,0,0,0,0,Sin evidencia topologica,SIN3B
+HGNC:19358,1,0,0,1,Baja,ALG12
+HGNC:19366,0,0,0,0,Sin evidencia topologica,PANK4
+HGNC:19368,1,1,0,2,Media,HYDIN
+HGNC:1937,0,0,0,0,Sin evidencia topologica,CHKA
+HGNC:1938,0,1,0,1,Baja,CHKB
+HGNC:19383,0,0,1,1,Baja,SOCS1
+HGNC:1939,0,1,0,1,Baja,CHL1
+HGNC:1940,0,0,0,0,Sin evidencia topologica,CHM
+HGNC:19405,0,0,0,0,Sin evidencia topologica,PGBD5
+HGNC:19412,1,0,0,1,Baja,ZMYND10
+HGNC:19439,0,0,0,0,Sin evidencia topologica,KCNK18
+HGNC:19440,1,0,0,1,Baja,SBDS
+HGNC:195,0,1,0,1,Baja,ADAM17
+HGNC:1950,0,0,0,0,Sin evidencia topologica,CHRM1
+HGNC:1952,0,1,0,1,Baja,CHRM3
+HGNC:1955,1,1,0,2,Media,CHRNA1
+HGNC:1956,0,0,0,0,Sin evidencia topologica,CHRNA2
+HGNC:1957,0,0,0,0,Sin evidencia topologica,CHRNA3
+HGNC:1958,0,0,0,0,Sin evidencia topologica,CHRNA4
+HGNC:1961,0,0,0,0,Sin evidencia topologica,CHRNB1
+HGNC:1962,0,0,0,0,Sin evidencia topologica,CHRNB2
+HGNC:1965,1,1,0,2,Media,CHRND
+HGNC:1966,1,1,0,2,Media,CHRNE
+HGNC:19661,0,0,0,0,Sin evidencia topologica,TNNI3K
+HGNC:1967,1,1,0,2,Media,CHRNG
+HGNC:1968,1,1,0,2,Media,LYST
+HGNC:19685,0,0,0,0,Sin evidencia topologica,SEPHS1
+HGNC:19687,1,1,0,2,Media,EIF2AK4
+HGNC:19688,0,0,0,0,Sin evidencia topologica,NECTIN4
+HGNC:19689,0,1,0,1,Baja,RD3
+HGNC:19691,0,0,0,0,Sin evidencia topologica,MECR
+HGNC:19693,0,0,0,0,Sin evidencia topologica,COQ4
+HGNC:19698,0,0,0,0,Sin evidencia topologica,KCNV2
+HGNC:19701,0,0,0,0,Sin evidencia topologica,CNKSR2
+HGNC:19706,0,0,0,0,Sin evidencia topologica,ADAMTSL4
+HGNC:19708,0,0,0,0,Sin evidencia topologica,LDHD
+HGNC:1971,0,1,0,1,Baja,CHST3
+HGNC:19711,0,0,0,0,Sin evidencia topologica,DISP1
+HGNC:19714,1,0,0,1,Baja,DDHD1
+HGNC:19721,0,1,0,1,Baja,CANT1
+HGNC:19737,0,0,0,0,Sin evidencia topologica,TNS2
+HGNC:1974,0,0,1,1,Baja,CHUK
+HGNC:19743,1,1,0,2,Media,POMT2
+HGNC:19744,0,0,0,0,Sin evidencia topologica,SRGAP3
+HGNC:19747,1,1,0,2,Media,EVC2
+HGNC:1975,1,0,0,1,Baja,VSX2
+HGNC:19750,0,0,0,0,Sin evidencia topologica,TTC7A
+HGNC:19829,0,0,0,0,Sin evidencia topologica,FAM177A1
+HGNC:19849,0,0,0,0,Sin evidencia topologica,C14orf39
+HGNC:1985,1,0,1,2,Media,CIT
+HGNC:19857,0,0,0,0,Sin evidencia topologica,ISCA2
+HGNC:19869,0,0,0,0,Sin evidencia topologica,SCARF2
+HGNC:1987,0,0,0,0,Sin evidencia topologica,CITED2
+HGNC:19880,0,0,0,0,Sin evidencia topologica,EMILIN1
+HGNC:1989,0,0,0,0,Sin evidencia topologica,TBCB
+HGNC:19902,0,0,0,0,Sin evidencia topologica,RRAGC
+HGNC:19903,0,0,0,0,Sin evidencia topologica,RRAGD
+HGNC:19904,0,0,0,0,Sin evidencia topologica,ZNF407
+HGNC:19916,0,0,0,0,Sin evidencia topologica,KIF24
+HGNC:19918,0,0,0,0,Sin evidencia topologica,KIAA1161
+HGNC:19943,0,0,0,0,Sin evidencia topologica,TRAPPC4
+HGNC:19946,0,0,0,0,Sin evidencia topologica,CAMSAP1
+HGNC:19954,0,1,0,1,Baja,SLC25A22
+HGNC:19957,1,1,0,2,Media,TECPR2
+HGNC:19958,0,0,0,0,Sin evidencia topologica,KIAA0391
+HGNC:19959,0,0,0,0,Sin evidencia topologica,TOGARAM1
+HGNC:19960,1,1,0,2,Media,KIAA0586
+HGNC:19963,0,0,0,0,Sin evidencia topologica,TTLL5
+HGNC:19966,0,0,0,0,Sin evidencia topologica,UNC79
+HGNC:19967,0,0,0,0,Sin evidencia topologica,CCDC88C
+HGNC:19977,1,1,0,2,Media,RDH12
+HGNC:19980,0,0,0,0,Sin evidencia topologica,GNPNAT1
+HGNC:19986,1,1,1,3,Alta,CYCS
+HGNC:19988,0,0,0,0,Sin evidencia topologica,ANAPC1
+HGNC:19998,0,0,0,0,Sin evidencia topologica,TNPO2
+HGNC:20,1,0,0,1,Baja,AARS
+HGNC:20001,0,0,0,0,Sin evidencia topologica,PCSK9
+HGNC:2001,0,0,0,0,Sin evidencia topologica,GREM1
+HGNC:20039,0,0,0,0,Sin evidencia topologica,CAP2
+HGNC:20041,0,0,0,0,Sin evidencia topologica,ZNF408
+HGNC:20043,0,0,0,0,Sin evidencia topologica,GEMIN5
+HGNC:20073,0,0,1,1,Baja,SNX27
+HGNC:20074,0,0,0,0,Sin evidencia topologica,PAN2
+HGNC:20080,0,0,0,0,Sin evidencia topologica,USP45
+HGNC:20083,0,0,0,0,Sin evidencia topologica,DDX53
+HGNC:20087,1,1,0,2,Media,TTC8
+HGNC:20093,0,0,0,0,Sin evidencia topologica,ADSSL1
+HGNC:201,0,0,0,0,Sin evidencia topologica,ADAM22
+HGNC:20105,0,0,0,0,Sin evidencia topologica,FLVCR2
+HGNC:20127,0,0,0,0,Sin evidencia topologica,C14orf80
+HGNC:20134,0,0,0,0,Sin evidencia topologica,GLRX5
+HGNC:20145,1,1,0,2,Media,GPR143
+HGNC:20151,0,1,0,1,Baja,SLC17A8
+HGNC:20153,1,0,1,2,Media,CHD8
+HGNC:20157,0,0,1,1,Baja,HECTD1
+HGNC:2016,0,0,0,0,Sin evidencia topologica,CLCA2
+HGNC:20165,0,0,0,0,Sin evidencia topologica,NYNRIN
+HGNC:20174,0,0,0,0,Sin evidencia topologica,INTS13
+HGNC:20184,0,0,0,0,Sin evidencia topologica,JKAMP
+HGNC:20185,0,0,0,0,Sin evidencia topologica,TMEM260
+HGNC:20188,0,1,0,1,Baja,DNAAF2
+HGNC:2019,0,0,0,0,Sin evidencia topologica,CLCN1
+HGNC:20192,0,0,0,0,Sin evidencia topologica,AP5M1
+HGNC:20193,1,1,0,2,Media,HFM1
+HGNC:20194,1,1,1,3,Alta,POLR1C
+HGNC:20197,1,1,0,2,Media,SLC35C1
+HGNC:2020,0,0,0,0,Sin evidencia topologica,CLCN2
+HGNC:20202,0,0,0,0,Sin evidencia topologica,CACNA2D4
+HGNC:20207,1,1,0,2,Media,B3GLCT
+HGNC:2021,0,0,0,0,Sin evidencia topologica,CLCN3
+HGNC:20213,0,0,0,0,Sin evidencia topologica,COX16
+HGNC:20218,0,0,0,0,Sin evidencia topologica,TMEM251
+HGNC:2022,0,0,0,0,Sin evidencia topologica,CLCN4
+HGNC:20226,0,0,0,0,Sin evidencia topologica,KIF26A
+HGNC:2023,1,1,0,2,Media,CLCN5
+HGNC:20233,1,1,0,2,Media,COQ6
+HGNC:2024,1,0,0,1,Baja,CLCN6
+HGNC:20249,0,0,0,0,Sin evidencia topologica,SPRED1
+HGNC:2025,0,1,0,1,Baja,CLCN7
+HGNC:2026,0,0,0,0,Sin evidencia topologica,CLCNKA
+HGNC:20266,0,0,0,0,Sin evidencia topologica,ALG5
+HGNC:2027,1,0,0,1,Baja,CLCNKB
+HGNC:20278,0,1,0,1,Baja,NUBPL
+HGNC:20286,0,0,0,0,Sin evidencia topologica,TRIT1
+HGNC:20305,1,0,0,1,Baja,SLC34A3
+HGNC:20311,0,1,0,1,Baja,CHAMP1
+HGNC:20313,0,0,0,0,Sin evidencia topologica,PKHD1L1
+HGNC:20318,0,1,0,1,Baja,SMOC1
+HGNC:2032,0,0,0,0,Sin evidencia topologica,CLDN1
+HGNC:20323,0,0,0,0,Sin evidencia topologica,SMOC2
+HGNC:20324,0,1,0,1,Baja,TGDS
+HGNC:2033,0,0,0,0,Sin evidencia topologica,CLDN10
+HGNC:20330,0,0,0,0,Sin evidencia topologica,POMP
+HGNC:20340,0,0,0,0,Sin evidencia topologica,PRICKLE2
+HGNC:20344,0,0,0,0,Sin evidencia topologica,UBR7
+HGNC:20347,1,0,0,1,Baja,VIPAS39
+HGNC:2035,0,0,0,0,Sin evidencia topologica,CLDN14
+HGNC:20356,0,0,0,0,Sin evidencia topologica,GON7
+HGNC:20361,0,0,0,0,Sin evidencia topologica,SPTSSA
+HGNC:20367,0,0,0,0,Sin evidencia topologica,FRY
+HGNC:2037,1,1,0,2,Media,CLDN16
+HGNC:20371,0,1,1,2,Media,NDUFA11
+HGNC:20372,0,0,1,1,Baja,NDUFB11
+HGNC:20373,1,1,0,2,Media,SPG21
+HGNC:20376,0,1,0,1,Baja,SUMF1
+HGNC:20390,0,0,0,0,Sin evidencia topologica,SQOR
+HGNC:2040,0,0,0,0,Sin evidencia topologica,CLDN19
+HGNC:20406,0,0,0,0,Sin evidencia topologica,KRT6C
+HGNC:20422,0,0,0,0,Sin evidencia topologica,POLR1D
+HGNC:20423,1,1,0,2,Media,SPATA7
+HGNC:20439,0,0,0,0,Sin evidencia topologica,UPF3B
+HGNC:20444,0,1,0,1,Baja,MBD5
+HGNC:20449,0,0,0,0,Sin evidencia topologica,PADI6
+HGNC:20454,1,0,1,2,Media,POLR1B
+HGNC:20456,0,0,0,0,Sin evidencia topologica,TRAF7
+HGNC:20465,0,0,1,1,Baja,SMC5
+HGNC:2047,0,0,0,0,Sin evidencia topologica,CLDN5
+HGNC:20470,0,0,0,0,Sin evidencia topologica,LSM7
+HGNC:20472,0,0,0,0,Sin evidencia topologica,LSM1
+HGNC:20473,1,1,0,2,Media,BRIP1
+HGNC:20474,0,0,0,0,Sin evidencia topologica,TMC8
+HGNC:20492,0,0,0,0,Sin evidencia topologica,APOPT1
+HGNC:20499,0,1,0,1,Baja,L2HGDH
+HGNC:20509,0,0,0,0,Sin evidencia topologica,ZC3H14
+HGNC:2051,0,0,0,0,Sin evidencia topologica,CLDN9
+HGNC:20561,0,0,0,0,Sin evidencia topologica,RHBDF1
+HGNC:20580,0,0,0,0,Sin evidencia topologica,CYP2R1
+HGNC:20581,0,0,0,0,Sin evidencia topologica,CYP26B1
+HGNC:20582,0,0,0,0,Sin evidencia topologica,CYP2U1
+HGNC:20597,0,0,0,0,Sin evidencia topologica,UFM1
+HGNC:20603,1,0,0,1,Baja,DHDDS
+HGNC:20609,0,0,1,1,Baja,AIMP2
+HGNC:20611,1,0,0,1,Baja,SLC24A5
+HGNC:20626,1,1,0,2,Media,CHD7
+HGNC:20637,0,0,0,0,Sin evidencia topologica,DPYSL5
+HGNC:20651,0,0,0,0,Sin evidencia topologica,SLC37A3
+HGNC:20652,0,0,0,0,Sin evidencia topologica,TXNDC15
+HGNC:20661,0,0,0,0,Sin evidencia topologica,SLC25A26
+HGNC:20662,0,0,0,0,Sin evidencia topologica,SLC25A24
+HGNC:20670,0,0,0,0,Sin evidencia topologica,TWIST2
+HGNC:20672,0,0,0,0,Sin evidencia topologica,PHF8
+HGNC:20718,0,0,0,0,Sin evidencia topologica,OTUD7A
+HGNC:2073,1,0,0,1,Baja,TPP1
+HGNC:20730,0,0,0,0,Sin evidencia topologica,ARMC9
+HGNC:20731,0,0,1,1,Baja,GNB4
+HGNC:2074,1,0,0,1,Baja,CLN3
+HGNC:20748,0,1,0,1,Baja,FANCL
+HGNC:20751,0,0,0,0,Sin evidencia topologica,WDFY3
+HGNC:20758,0,0,0,0,Sin evidencia topologica,ZFYVE19
+HGNC:20759,0,0,0,0,Sin evidencia topologica,RBSN
+HGNC:2076,0,0,0,0,Sin evidencia topologica,CLN5
+HGNC:20761,1,1,0,2,Media,ZFYVE26
+HGNC:20766,1,1,1,3,Alta,TUBA1A
+HGNC:20767,0,0,0,0,Sin evidencia topologica,PDLIM3
+HGNC:2077,0,1,0,1,Baja,CLN6
+HGNC:20771,0,0,1,1,Baja,TUBB4B
+HGNC:20772,1,1,1,3,Alta,TUBB3
+HGNC:20774,1,0,1,2,Media,TUBB4A
+HGNC:20778,1,1,1,3,Alta,TUBB
+HGNC:20788,0,0,0,0,Sin evidencia topologica,RHBDF2
+HGNC:20789,0,0,0,0,Sin evidencia topologica,ATG4D
+HGNC:2079,0,0,0,0,Sin evidencia topologica,CLN8
+HGNC:20800,0,0,0,0,Sin evidencia topologica,SLC35D1
+HGNC:20816,0,0,0,0,Sin evidencia topologica,PHF12
+HGNC:2084,1,1,1,3,Alta,CLPP
+HGNC:20842,0,0,0,0,Sin evidencia topologica,FOXP4
+HGNC:20844,0,0,0,0,Sin evidencia topologica,GPR156
+HGNC:20856,0,0,0,0,Sin evidencia topologica,THAP1
+HGNC:20858,0,0,0,0,Sin evidencia topologica,SLC39A14
+HGNC:20859,0,0,0,0,Sin evidencia topologica,SLC39A13
+HGNC:20862,0,1,0,1,Baja,SLC39A8
+HGNC:20889,1,0,0,1,Baja,LRIG2
+HGNC:20893,0,0,0,0,Sin evidencia topologica,BCOR
+HGNC:20898,0,0,0,0,Sin evidencia topologica,PGM2L1
+HGNC:20914,0,0,0,0,Sin evidencia topologica,BLOC1S3
+HGNC:20917,1,0,0,1,Baja,ALPK1
+HGNC:2092,1,0,1,2,Media,CLTC
+HGNC:20932,0,0,0,0,Sin evidencia topologica,POLD3
+HGNC:20967,0,0,0,0,Sin evidencia topologica,NACC1
+HGNC:20973,0,0,0,0,Sin evidencia topologica,ADGRL1
+HGNC:20990,0,0,0,0,Sin evidencia topologica,PHACTR1
+HGNC:21014,0,0,0,0,Sin evidencia topologica,ANTXR1
+HGNC:21015,0,0,0,0,Sin evidencia topologica,FILIP1
+HGNC:21020,0,0,0,0,Sin evidencia topologica,QRSL1
+HGNC:21022,1,1,0,2,Media,AARS2
+HGNC:21024,1,1,1,3,Alta,CUL7
+HGNC:21033,0,1,0,1,Baja,HACE1
+HGNC:21034,1,1,0,2,Media,NDUFAF4
+HGNC:21042,0,0,0,0,Sin evidencia topologica,NUS1
+HGNC:21054,1,1,0,2,Media,RSPH3
+HGNC:21057,0,0,0,0,Sin evidencia topologica,RSPH9
+HGNC:21061,0,1,0,1,Baja,SERAC1
+HGNC:21062,0,1,0,1,Baja,FARS2
+HGNC:21066,0,0,0,0,Sin evidencia topologica,TBC1D7
+HGNC:21071,1,0,0,1,Baja,IYD
+HGNC:21082,0,1,1,2,Media,SEC63
+HGNC:21086,0,0,0,0,Sin evidencia topologica,MIB1
+HGNC:21143,0,0,0,0,Sin evidencia topologica,ZBTB24
+HGNC:21144,0,0,0,0,Sin evidencia topologica,DSE
+HGNC:21150,0,0,0,0,Sin evidencia topologica,RNF125
+HGNC:21157,1,0,0,1,Baja,GTF2H5
+HGNC:21173,0,0,0,0,Sin evidencia topologica,LTV1
+HGNC:21176,0,0,0,0,Sin evidencia topologica,RMND1
+HGNC:21197,1,1,0,2,Media,FA2H
+HGNC:21205,0,0,0,0,Sin evidencia topologica,LINGO1
+HGNC:21208,0,0,0,0,Sin evidencia topologica,WDR26
+HGNC:21213,0,0,0,0,Sin evidencia topologica,ARFGEF3
+HGNC:21219,0,0,0,0,Sin evidencia topologica,ICK
+HGNC:21237,1,0,0,1,Baja,UQCC2
+HGNC:21244,0,0,0,0,Sin evidencia topologica,LEMD2
+HGNC:21246,0,1,0,1,Baja,PNPLA1
+HGNC:21253,1,1,0,2,Media,LHFPL5
+HGNC:21269,0,0,0,0,Sin evidencia topologica,NLRP5
+HGNC:21290,0,0,0,0,Sin evidencia topologica,PTCRA
+HGNC:21296,0,0,0,0,Sin evidencia topologica,EPS8L2
+HGNC:21304,0,0,0,0,Sin evidencia topologica,ADPRHL2
+HGNC:21305,0,0,0,0,Sin evidencia topologica,KCTD3
+HGNC:21307,1,1,0,2,Media,DSG4
+HGNC:21308,0,0,0,0,Sin evidencia topologica,ELOVL5
+HGNC:21316,0,1,0,1,Baja,ANKRD11
+HGNC:21317,0,0,0,0,Sin evidencia topologica,DYM
+HGNC:2135,1,1,0,2,Media,SBF2
+HGNC:21350,1,1,0,2,Media,PDHX
+HGNC:21355,0,0,0,0,Sin evidencia topologica,MLIP
+HGNC:21365,0,0,0,0,Sin evidencia topologica,LYRM4
+HGNC:21378,0,0,0,0,Sin evidencia topologica,OGFRL1
+HGNC:21390,0,0,0,0,Sin evidencia topologica,RIPPLY2
+HGNC:21396,0,1,0,1,Baja,ABHD5
+HGNC:21406,1,1,0,2,Media,RARS2
+HGNC:21420,0,0,0,0,Sin evidencia topologica,CDK20
+HGNC:21424,1,0,0,1,Baja,IFT74
+HGNC:21474,0,1,0,1,Baja,INPP5E
+HGNC:21478,0,0,0,0,Sin evidencia topologica,RFX6
+HGNC:2148,1,0,0,1,Baja,CNGA1
+HGNC:21484,1,0,0,1,Baja,MCM9
+HGNC:21485,0,0,0,0,Sin evidencia topologica,TBC1D32
+HGNC:21493,0,0,0,0,Sin evidencia topologica,DNAAF4
+HGNC:21495,0,0,0,0,Sin evidencia topologica,KIF12
+HGNC:21497,1,1,1,3,Alta,ACAD9
+HGNC:21498,0,0,0,0,Sin evidencia topologica,ATG16L1
+HGNC:2150,0,0,0,0,Sin evidencia topologica,CNGA3
+HGNC:2151,1,0,0,1,Baja,CNGB1
+HGNC:21528,0,1,0,1,Baja,DIABLO
+HGNC:2153,1,0,0,1,Baja,CNGB3
+HGNC:21537,0,0,0,0,Sin evidencia topologica,SYCP2L
+HGNC:21555,1,0,0,1,Baja,EYS
+HGNC:21558,0,1,0,1,Baja,RSPH4A
+HGNC:21575,1,1,0,2,Media,AHI1
+HGNC:21576,0,0,0,0,Sin evidencia topologica,NHLRC1
+HGNC:2158,1,0,0,1,Baja,CNP
+HGNC:216,0,0,0,0,Sin evidencia topologica,ADAM9
+HGNC:21606,0,1,0,1,Baja,MPC1
+HGNC:21610,0,0,0,0,Sin evidencia topologica,LNPK
+HGNC:21625,0,0,0,0,Sin evidencia topologica,ANO1
+HGNC:21637,1,1,0,2,Media,SATB2
+HGNC:21638,0,0,0,0,Sin evidencia topologica,CEP85L
+HGNC:21641,0,0,0,0,Sin evidencia topologica,TSPAN12
+HGNC:21642,0,1,0,1,Baja,VARS2
+HGNC:21645,0,0,1,1,Baja,CHCHD2
+HGNC:21648,1,0,0,1,Baja,TOMM7
+HGNC:21652,1,0,0,1,Baja,OSTM1
+HGNC:21653,0,0,0,0,Sin evidencia topologica,TOPORS
+HGNC:21679,0,0,0,0,Sin evidencia topologica,RSPO1
+HGNC:21684,0,0,0,0,Sin evidencia topologica,ZNF462
+HGNC:21686,0,1,0,1,Baja,RNASET2
+HGNC:21698,0,1,0,1,Baja,RNF216
+HGNC:21699,1,0,0,1,Baja,CERKL
+HGNC:21701,0,0,0,0,Sin evidencia topologica,BRAT1
+HGNC:21708,0,0,0,0,Sin evidencia topologica,CCM2
+HGNC:2171,0,1,0,1,Baja,CNTN1
+HGNC:2172,0,0,0,0,Sin evidencia topologica,CNTN2
+HGNC:21729,0,0,0,0,Sin evidencia topologica,IRF2BP2
+HGNC:21732,0,1,0,1,Baja,ANTXR2
+HGNC:21734,0,1,0,1,Baja,LHX4
+HGNC:21751,0,0,0,0,Sin evidencia topologica,KBTBD2
+HGNC:218,1,0,0,1,Baja,ADAMTS2
+HGNC:2180,0,0,0,0,Sin evidencia topologica,COCH
+HGNC:2183,0,1,0,1,Baja,VPS13B
+HGNC:2185,1,0,0,1,Baja,COL10A1
+HGNC:2186,1,1,0,2,Media,COL11A1
+HGNC:21862,0,0,0,0,Sin evidencia topologica,WDR60
+HGNC:21868,0,0,0,0,Sin evidencia topologica,COA1
+HGNC:21869,1,1,0,2,Media,AGK
+HGNC:2187,1,1,0,2,Media,COL11A2
+HGNC:21876,0,0,0,0,Sin evidencia topologica,RINT1
+HGNC:2188,0,1,0,1,Baja,COL12A1
+HGNC:21882,0,0,0,0,Sin evidencia topologica,TTC26
+HGNC:219,0,0,0,0,Sin evidencia topologica,ADAMTS3
+HGNC:2190,0,1,0,1,Baja,COL13A1
+HGNC:21904,0,0,0,0,Sin evidencia topologica,NCAPG2
+HGNC:2194,1,1,0,2,Media,COL17A1
+HGNC:2195,1,0,1,2,Media,COL18A1
+HGNC:21957,0,0,0,0,Sin evidencia topologica,KCTD7
+HGNC:2197,1,1,1,3,Alta,COL1A1
+HGNC:2198,1,1,1,3,Alta,COL1A2
+HGNC:2200,1,0,1,2,Media,COL2A1
+HGNC:2201,1,1,1,3,Alta,COL3A1
+HGNC:2202,0,1,0,1,Baja,COL4A1
+HGNC:2203,1,0,0,1,Baja,COL4A2
+HGNC:2204,1,1,0,2,Media,COL4A3
+HGNC:22048,0,0,0,0,Sin evidencia topologica,NANOS3
+HGNC:2205,0,0,0,0,Sin evidencia topologica,COL4A3BP
+HGNC:2206,1,1,0,2,Media,COL4A4
+HGNC:2207,0,0,0,0,Sin evidencia topologica,COL4A5
+HGNC:2208,0,0,0,0,Sin evidencia topologica,COL4A6
+HGNC:22082,0,1,0,1,Baja,VMA21
+HGNC:2209,1,1,1,3,Alta,COL5A1
+HGNC:2210,1,1,0,2,Media,COL5A2
+HGNC:2211,1,1,1,3,Alta,COL6A1
+HGNC:2212,1,0,1,2,Media,COL6A2
+HGNC:2213,0,1,0,1,Baja,COL6A3
+HGNC:2214,0,0,0,0,Sin evidencia topologica,COL7A1
+HGNC:22140,0,1,1,2,Media,FAM20C
+HGNC:2216,1,0,0,1,Baja,COL8A2
+HGNC:2217,0,0,0,0,Sin evidencia topologica,COL9A1
+HGNC:2218,0,0,0,0,Sin evidencia topologica,COL9A2
+HGNC:2219,0,0,0,0,Sin evidencia topologica,COL9A3
+HGNC:22197,1,0,0,1,Baja,AP5Z1
+HGNC:2220,0,0,0,0,Sin evidencia topologica,COLEC10
+HGNC:22203,0,0,0,0,Sin evidencia topologica,PHF14
+HGNC:22208,0,0,0,0,Sin evidencia topologica,NUDCD3
+HGNC:22219,0,0,0,0,Sin evidencia topologica,KIAA1549
+HGNC:2226,1,1,0,2,Media,COLQ
+HGNC:2227,1,0,0,1,Baja,COMP
+HGNC:2230,0,0,0,0,Sin evidencia topologica,COPA
+HGNC:2231,0,0,1,1,Baja,COPB1
+HGNC:2232,0,0,0,0,Sin evidencia topologica,COPB2
+HGNC:22407,0,0,0,0,Sin evidencia topologica,TMEM106B
+HGNC:2244,0,0,0,0,Sin evidencia topologica,COQ7
+HGNC:22448,1,0,0,1,Baja,NOBOX
+HGNC:22474,0,0,0,0,Sin evidencia topologica,MED13
+HGNC:225,1,1,1,3,Alta,ADAR
+HGNC:2252,1,0,0,1,Baja,CORO1A
+HGNC:226,0,0,0,0,Sin evidencia topologica,ADARB1
+HGNC:2260,1,1,0,2,Media,COX10
+HGNC:2261,1,0,0,1,Baja,COX11
+HGNC:2263,1,1,1,3,Alta,COX15
+HGNC:2265,1,0,1,2,Media,COX4I1
+HGNC:2267,1,0,1,2,Media,COX5A
+HGNC:2269,0,0,1,1,Baja,COX5B
+HGNC:2277,0,0,1,1,Baja,COX6A1
+HGNC:22788,0,1,0,1,Baja,FEZF1
+HGNC:2279,0,0,1,1,Baja,COX6A2
+HGNC:2280,0,1,1,2,Media,COX6B1
+HGNC:2285,0,0,1,1,Baja,COX6C
+HGNC:2287,0,0,0,0,Sin evidencia topologica,COX7A1
+HGNC:2291,0,1,1,2,Media,COX7B
+HGNC:2292,0,0,1,1,Baja,COX7C
+HGNC:22923,0,1,0,1,Baja,GMPPA
+HGNC:22932,1,1,0,2,Media,GMPPB
+HGNC:22938,0,0,0,0,Sin evidencia topologica,NLRP12
+HGNC:2294,0,0,1,1,Baja,COX8A
+HGNC:22944,0,0,0,0,Sin evidencia topologica,NLRP6
+HGNC:22947,0,0,0,0,Sin evidencia topologica,NLRP7
+HGNC:22948,0,0,0,0,Sin evidencia topologica,NLRP2
+HGNC:2295,0,1,0,1,Baja,CP
+HGNC:22954,0,0,0,0,Sin evidencia topologica,POGLUT1
+HGNC:22962,1,0,0,1,Baja,MED13L
+HGNC:22965,0,1,0,1,Baja,PEX26
+HGNC:22986,0,0,0,0,Sin evidencia topologica,COL27A1
+HGNC:23,0,0,0,0,Sin evidencia topologica,ABAT
+HGNC:23015,0,1,0,1,Baja,FAM20A
+HGNC:23019,0,0,0,0,Sin evidencia topologica,ZRSR2
+HGNC:23026,0,0,0,0,Sin evidencia topologica,GNPTG
+HGNC:2303,0,0,0,0,Sin evidencia topologica,CPE
+HGNC:23038,0,0,0,0,Sin evidencia topologica,LMBRD1
+HGNC:23041,0,1,0,1,Baja,PDSS2
+HGNC:23056,1,1,0,2,Media,ALG3
+HGNC:23066,0,0,0,0,Sin evidencia topologica,TRAPPC6B
+HGNC:23068,0,0,0,0,Sin evidencia topologica,TRAPPC2
+HGNC:23088,0,0,0,0,Sin evidencia topologica,SLC10A7
+HGNC:23089,0,1,0,1,Baja,SLC13A5
+HGNC:2309,0,0,0,0,Sin evidencia topologica,CPLX1
+HGNC:23094,0,0,0,0,Sin evidencia topologica,SLC16A12
+HGNC:23096,0,1,0,1,Baja,SLC29A3
+HGNC:23109,0,1,0,1,Baja,FAT4
+HGNC:23111,0,0,0,0,Sin evidencia topologica,DCHS2
+HGNC:23136,0,0,0,0,Sin evidencia topologica,SCNM1
+HGNC:23140,0,0,0,0,Sin evidencia topologica,ANGPTL6
+HGNC:23141,0,0,0,0,Sin evidencia topologica,TRMT5
+HGNC:23145,0,0,0,0,Sin evidencia topologica,MAFA
+HGNC:23147,0,0,0,0,Sin evidencia topologica,UNC13D
+HGNC:23150,0,0,0,0,Sin evidencia topologica,UNC13A
+HGNC:23151,0,1,0,1,Baja,FERMT3
+HGNC:23156,1,0,1,2,Media,U2AF2
+HGNC:23157,1,0,0,1,Baja,ALG6
+HGNC:23159,0,0,0,0,Sin evidencia topologica,ALG2
+HGNC:23161,1,0,0,1,Baja,ALG8
+HGNC:23166,1,0,1,2,Media,PNPT1
+HGNC:23168,1,0,1,2,Media,FANCM
+HGNC:23170,1,0,0,1,Baja,WDHD1
+HGNC:23198,1,0,0,1,Baja,CYP4V2
+HGNC:2321,0,1,0,1,Baja,CPOX
+HGNC:23212,0,1,1,2,Media,MYH14
+HGNC:23213,0,0,0,0,Sin evidencia topologica,PIGW
+HGNC:23214,0,0,0,0,Sin evidencia topologica,EXOC7
+HGNC:23215,0,1,0,1,Baja,PIGO
+HGNC:23216,1,1,0,2,Media,ZNF469
+HGNC:23218,0,0,0,0,Sin evidencia topologica,GCC2
+HGNC:23228,0,0,0,0,Sin evidencia topologica,CPAMD8
+HGNC:2323,0,1,0,1,Baja,CPS1
+HGNC:23230,0,0,0,0,Sin evidencia topologica,UBA5
+HGNC:23246,0,1,0,1,Baja,MYPN
+HGNC:23247,0,0,0,0,Sin evidencia topologica,DNAL1
+HGNC:2326,0,0,0,0,Sin evidencia topologica,CPSF3
+HGNC:2328,0,0,0,0,Sin evidencia topologica,CPT1A
+HGNC:23287,0,1,0,1,Baja,ETHE1
+HGNC:23297,0,0,0,0,Sin evidencia topologica,KCTD15
+HGNC:2330,1,0,0,1,Baja,CPT2
+HGNC:23338,1,0,0,1,Baja,ACBD5
+HGNC:23339,0,0,0,0,Sin evidencia topologica,ACBD6
+HGNC:23352,0,0,0,0,Sin evidencia topologica,PIBF1
+HGNC:23357,0,0,0,0,Sin evidencia topologica,MCTS1
+HGNC:2336,0,1,0,1,Baja,CR2
+HGNC:23377,0,0,0,0,Sin evidencia topologica,FOCAD
+HGNC:23386,0,0,0,0,Sin evidencia topologica,MYCBP2
+HGNC:23399,0,0,0,0,Sin evidencia topologica,FREM1
+HGNC:234,0,0,0,0,Sin evidencia topologica,ADCY3
+HGNC:2340,0,0,0,0,Sin evidencia topologica,CRADD
+HGNC:23405,1,1,0,2,Media,LRMDA
+HGNC:23406,1,1,0,2,Media,DOLK
+HGNC:23419,0,0,0,0,Sin evidencia topologica,KIF1BP
+HGNC:2342,0,0,0,0,Sin evidencia topologica,CRAT
+HGNC:2343,0,1,0,1,Baja,CRB1
+HGNC:23452,0,0,0,0,Sin evidencia topologica,LIPN
+HGNC:2348,1,0,1,2,Media,CREBBP
+HGNC:23483,0,0,0,0,Sin evidencia topologica,DOCK11
+HGNC:23503,0,0,0,0,Sin evidencia topologica,SLITRK6
+HGNC:23511,1,0,0,1,Baja,TBATA
+HGNC:23529,0,0,0,0,Sin evidencia topologica,NSUN6
+HGNC:23537,1,1,0,2,Media,DHTKD1
+HGNC:23564,0,0,0,0,Sin evidencia topologica,MIR17HG
+HGNC:23573,0,1,0,1,Baja,MORC2
+HGNC:23575,0,0,0,0,Sin evidencia topologica,ANKRD17
+HGNC:2359,0,0,0,0,Sin evidencia topologica,CRIM1
+HGNC:23594,0,0,0,0,Sin evidencia topologica,VPS13C
+HGNC:23595,0,0,0,0,Sin evidencia topologica,VPS13D
+HGNC:236,0,0,0,0,Sin evidencia topologica,ADCY5
+HGNC:23625,0,0,0,0,Sin evidencia topologica,RUSC2
+HGNC:23639,0,0,0,0,Sin evidencia topologica,TTC37
+HGNC:2364,0,1,0,1,Baja,CRLF1
+HGNC:2365,0,0,0,0,Sin evidencia topologica,CRMP1
+HGNC:23656,0,0,0,0,Sin evidencia topologica,TIMM50
+HGNC:23657,1,0,0,1,Baja,GNE
+HGNC:23663,0,0,0,0,Sin evidencia topologica,VKORC1
+HGNC:23688,0,0,0,0,Sin evidencia topologica,BCL9L
+HGNC:23694,0,0,0,0,Sin evidencia topologica,GPR161
+HGNC:23697,0,0,0,0,Sin evidencia topologica,PHLDB1
+HGNC:237,0,0,0,0,Sin evidencia topologica,ADCY6
+HGNC:23700,0,0,0,0,Sin evidencia topologica,TTC12
+HGNC:23719,1,1,0,2,Media,PGAP3
+HGNC:2372,0,0,0,0,Sin evidencia topologica,MED23
+HGNC:23724,0,0,0,0,Sin evidencia topologica,ARHGAP19
+HGNC:23734,0,0,0,0,Sin evidencia topologica,PTF1A
+HGNC:2375,0,1,0,1,Baja,MED17
+HGNC:23752,0,1,0,1,Baja,CERS3
+HGNC:2377,0,0,0,0,Sin evidencia topologica,MED27
+HGNC:23785,0,1,0,1,Baja,PIKFYVE
+HGNC:23787,0,0,0,0,Sin evidencia topologica,TMEM63C
+HGNC:2379,1,0,0,1,Baja,CRTAP
+HGNC:23791,1,0,0,1,Baja,INF2
+HGNC:23794,0,0,0,0,Sin evidencia topologica,PACS2
+HGNC:23801,0,0,0,0,Sin evidencia topologica,SIPA1L3
+HGNC:23805,0,0,1,1,Baja,ASXL2
+HGNC:23807,0,0,0,0,Sin evidencia topologica,THUMPD1
+HGNC:2383,1,1,0,2,Media,CRX
+HGNC:23837,0,0,0,0,Sin evidencia topologica,ANO4
+HGNC:23845,1,1,1,3,Alta,SLX4
+HGNC:2388,1,0,0,1,Baja,CRYAA
+HGNC:2389,0,1,0,1,Baja,CRYAB
+HGNC:2394,0,0,0,0,Sin evidencia topologica,CRYBA1
+HGNC:2396,1,1,0,2,Media,CRYBA4
+HGNC:2397,1,0,0,1,Baja,CRYBB1
+HGNC:2398,1,1,0,2,Media,CRYBB2
+HGNC:23987,0,1,1,2,Media,NDUFA12
+HGNC:23994,0,0,0,0,Sin evidencia topologica,ERI1
+HGNC:2400,1,0,0,1,Baja,CRYBB3
+HGNC:24008,0,0,0,0,Sin evidencia topologica,MIA3
+HGNC:24011,0,0,0,0,Sin evidencia topologica,ABI2
+HGNC:24035,0,0,0,0,Sin evidencia topologica,APPL1
+HGNC:24036,0,1,0,1,Baja,APC2
+HGNC:24039,0,0,0,0,Sin evidencia topologica,CLMP
+HGNC:24040,0,0,0,0,Sin evidencia topologica,ADIPOR1
+HGNC:24054,1,0,0,1,Baja,KNL1
+HGNC:24063,0,0,0,0,Sin evidencia topologica,GALM
+HGNC:24097,0,0,0,0,Sin evidencia topologica,ARAP3
+HGNC:2410,0,1,0,1,Baja,CRYGC
+HGNC:24102,0,0,0,0,Sin evidencia topologica,ARSG
+HGNC:2411,1,0,0,1,Baja,CRYGD
+HGNC:24113,1,0,0,1,Baja,ATP13A3
+HGNC:24116,0,1,0,1,Baja,RNASEH2C
+HGNC:24123,0,1,0,1,Baja,B9D1
+HGNC:24124,0,0,1,1,Baja,ACTL6A
+HGNC:24128,0,0,0,0,Sin evidencia topologica,TM2D3
+HGNC:24152,0,0,0,0,Sin evidencia topologica,RSRC1
+HGNC:24154,0,0,0,0,Sin evidencia topologica,BMPER
+HGNC:24156,0,0,0,0,Sin evidencia topologica,PHF21A
+HGNC:2417,0,0,0,0,Sin evidencia topologica,CRYGS
+HGNC:2418,0,1,0,1,Baja,CRYM
+HGNC:24200,0,0,0,0,Sin evidencia topologica,FAM111B
+HGNC:24212,1,0,0,1,Baja,CISD2
+HGNC:24229,1,0,0,1,Baja,CIDEC
+HGNC:24245,1,0,0,1,Baja,DRC1
+HGNC:24247,0,1,0,1,Baja,GLYCTK
+HGNC:24249,1,1,0,2,Media,YARS2
+HGNC:24259,0,0,0,0,Sin evidencia topologica,TPRKB
+HGNC:24265,0,1,0,1,Baja,PTRH2
+HGNC:24268,0,0,0,0,Sin evidencia topologica,ASCC1
+HGNC:24270,0,0,0,0,Sin evidencia topologica,DPH5
+HGNC:24281,0,0,0,0,Sin evidencia topologica,OTUD6B
+HGNC:24283,0,0,0,0,Sin evidencia topologica,KMT5B
+HGNC:24284,0,0,0,0,Sin evidencia topologica,TRAPPC12
+HGNC:24286,0,0,0,0,Sin evidencia topologica,RRP7A
+HGNC:24290,0,0,0,0,Sin evidencia topologica,CSGALNACT1
+HGNC:243,0,0,0,0,Sin evidencia topologica,ADD1
+HGNC:24305,1,0,0,1,Baja,NCAPD2
+HGNC:24316,1,0,0,1,Baja,TACO1
+HGNC:2433,1,1,1,3,Alta,CSF1R
+HGNC:24338,0,0,0,0,Sin evidencia topologica,C1GALT1C1
+HGNC:24342,0,0,1,1,Baja,CCP110
+HGNC:24349,1,0,0,1,Baja,CCDC186
+HGNC:2435,0,0,0,0,Sin evidencia topologica,CSF2RA
+HGNC:2436,1,0,0,1,Baja,CSF2RB
+HGNC:2439,1,0,0,1,Baja,CSF3R
+HGNC:24415,0,0,0,0,Sin evidencia topologica,BOLA3
+HGNC:24460,0,0,0,0,Sin evidencia topologica,EIF3M
+HGNC:24464,0,1,0,1,Baja,CHST14
+HGNC:24488,0,0,0,0,Sin evidencia topologica,POC1A
+HGNC:24496,0,0,0,0,Sin evidencia topologica,NEPRO
+HGNC:245,0,0,0,0,Sin evidencia topologica,ADD3
+HGNC:24502,1,0,0,1,Baja,WDR62
+HGNC:24515,0,0,0,0,Sin evidencia topologica,MPC2
+HGNC:24519,0,1,0,1,Baja,TCTN3
+HGNC:2452,1,0,0,1,Baja,CSNK1D
+HGNC:24525,1,0,0,1,Baja,MMACHC
+HGNC:24526,0,0,0,0,Sin evidencia topologica,ATL3
+HGNC:24529,0,1,0,1,Baja,TMEM98
+HGNC:24537,1,0,0,1,Baja,CHMP2B
+HGNC:24539,0,0,0,0,Sin evidencia topologica,NECAP1
+HGNC:2454,0,0,0,0,Sin evidencia topologica,CSNK1G1
+HGNC:24552,0,0,0,0,Sin evidencia topologica,TKFC
+HGNC:24555,0,0,0,0,Sin evidencia topologica,INTS1
+HGNC:24564,1,0,0,1,Baja,C2CD3
+HGNC:24565,0,1,0,1,Baja,KANSL1
+HGNC:2457,1,0,1,2,Media,CSNK2A1
+HGNC:24576,1,0,0,1,Baja,CDT1
+HGNC:24579,1,1,0,2,Media,CIB2
+HGNC:24587,0,1,0,1,Baja,FAM126A
+HGNC:24592,1,1,0,2,Media,STEAP3
+HGNC:24595,0,1,0,1,Baja,DYNC2LI1
+HGNC:2460,0,0,0,0,Sin evidencia topologica,CSNK2B
+HGNC:24600,0,0,0,0,Sin evidencia topologica,ANKS1B
+HGNC:24613,0,0,0,0,Sin evidencia topologica,NRROS
+HGNC:24614,1,0,0,1,Baja,EEFSEC
+HGNC:24624,1,1,0,2,Media,SIL1
+HGNC:2464,0,0,0,0,Sin evidencia topologica,VCAN
+HGNC:24641,0,0,0,0,Sin evidencia topologica,C16orf62
+HGNC:24650,0,1,0,1,Baja,EHMT1
+HGNC:24662,0,0,0,0,Sin evidencia topologica,EXOSC5
+HGNC:24668,0,0,0,0,Sin evidencia topologica,CFHR5
+HGNC:24669,1,0,0,1,Baja,FIGLA
+HGNC:24671,0,0,0,0,Sin evidencia topologica,FLAD1
+HGNC:24678,0,1,0,1,Baja,FTO
+HGNC:2468,1,1,1,3,Alta,SMC3
+HGNC:24682,0,1,0,1,Baja,FLVCR1
+HGNC:24713,0,0,0,0,Sin evidencia topologica,QRICH1
+HGNC:24715,0,0,0,0,Sin evidencia topologica,TBC1D8B
+HGNC:24717,0,0,0,0,Sin evidencia topologica,PTCD3
+HGNC:24718,0,0,0,0,Sin evidencia topologica,TMX3
+HGNC:2472,1,1,0,2,Media,CSRP3
+HGNC:24725,0,0,0,0,Sin evidencia topologica,FAM111A
+HGNC:24731,1,0,0,1,Baja,NHLRC2
+HGNC:2475,0,0,0,0,Sin evidencia topologica,CST3
+HGNC:24750,0,0,0,0,Sin evidencia topologica,ZNF699
+HGNC:24783,0,0,0,0,Sin evidencia topologica,LRIT3
+HGNC:24797,0,0,0,0,Sin evidencia topologica,FAM83H
+HGNC:2481,0,0,0,0,Sin evidencia topologica,CSTA
+HGNC:2482,0,0,0,0,Sin evidencia topologica,CSTB
+HGNC:24824,0,0,0,0,Sin evidencia topologica,FZR1
+HGNC:2484,0,0,0,0,Sin evidencia topologica,CSTF2
+HGNC:24846,0,0,0,0,Sin evidencia topologica,GAS2L2
+HGNC:24856,0,0,0,0,Sin evidencia topologica,CCDC47
+HGNC:24858,0,0,0,0,Sin evidencia topologica,MFF
+HGNC:24861,0,1,0,1,Baja,G6PC3
+HGNC:24862,0,1,0,1,Baja,MOGS
+HGNC:24866,0,1,0,1,Baja,CEP104
+HGNC:24870,0,0,0,0,Sin evidencia topologica,GLT8D1
+HGNC:24877,0,0,0,0,Sin evidencia topologica,YIPF5
+HGNC:2488,1,1,0,2,Media,NKX2-5
+HGNC:24912,1,1,1,3,Alta,LARP7
+HGNC:24928,0,0,0,0,Sin evidencia topologica,VPS37A
+HGNC:24929,0,0,0,0,Sin evidencia topologica,PSMG2
+HGNC:24931,0,0,0,0,Sin evidencia topologica,ZC4H2
+HGNC:2494,1,1,1,3,Alta,CTBP1
+HGNC:24945,0,0,0,0,Sin evidencia topologica,GPIHBP1
+HGNC:24948,0,0,0,0,Sin evidencia topologica,DOT1L
+HGNC:24959,0,0,0,0,Sin evidencia topologica,GSX2
+HGNC:24968,0,0,0,0,Sin evidencia topologica,EXOC2
+HGNC:24969,0,0,0,0,Sin evidencia topologica,NPRL2
+HGNC:2498,0,0,0,0,Sin evidencia topologica,CTDP1
+HGNC:24990,0,0,0,0,Sin evidencia topologica,COA3
+HGNC:24997,0,0,0,0,Sin evidencia topologica,WDR91
+HGNC:2500,1,0,1,2,Media,CTGF
+HGNC:25006,0,0,0,0,Sin evidencia topologica,METTL5
+HGNC:25009,1,1,0,2,Media,UBE2T
+HGNC:2501,0,0,0,0,Sin evidencia topologica,CTH
+HGNC:25018,0,0,0,0,Sin evidencia topologica,TMEM216
+HGNC:25033,0,0,0,0,Sin evidencia topologica,LRTOMT
+HGNC:2505,1,1,1,3,Alta,CTLA4
+HGNC:25056,0,0,0,0,Sin evidencia topologica,KLHL20
+HGNC:25068,0,0,0,0,Sin evidencia topologica,GATC
+HGNC:25070,0,1,0,1,Baja,ACD
+HGNC:25072,0,0,0,0,Sin evidencia topologica,WDR45B
+HGNC:25075,0,0,0,0,Sin evidencia topologica,LRRC8C
+HGNC:25088,0,0,0,0,Sin evidencia topologica,SGO1
+HGNC:2509,0,0,0,0,Sin evidencia topologica,CTNNA1
+HGNC:25094,0,0,0,0,Sin evidencia topologica,MTSS1L
+HGNC:25099,0,0,0,0,Sin evidencia topologica,PRMT9
+HGNC:2510,0,0,0,0,Sin evidencia topologica,CTNNA2
+HGNC:25104,0,0,0,0,Sin evidencia topologica,AP5B1
+HGNC:25118,0,0,0,0,Sin evidencia topologica,OTULIN
+HGNC:25123,0,0,0,0,Sin evidencia topologica,PKDCC
+HGNC:25126,0,0,0,0,Sin evidencia topologica,NAF1
+HGNC:25133,0,1,0,1,Baja,MARS2
+HGNC:25135,1,0,0,1,Baja,LRSAM1
+HGNC:2514,1,1,1,3,Alta,CTNNB1
+HGNC:2515,1,0,0,1,Baja,CTNND1
+HGNC:25151,0,0,0,0,Sin evidencia topologica,ADAT3
+HGNC:25155,0,0,0,0,Sin evidencia topologica,HOGA1
+HGNC:2516,0,1,0,1,Baja,CTNND2
+HGNC:2518,0,0,0,0,Sin evidencia topologica,CTNS
+HGNC:25186,0,0,0,0,Sin evidencia topologica,TMEM240
+HGNC:25187,0,0,0,0,Sin evidencia topologica,TAMM41
+HGNC:25189,0,0,0,0,Sin evidencia topologica,ALKBH8
+HGNC:2519,0,0,1,1,Baja,CTPS1
+HGNC:25198,0,1,0,1,Baja,SLC25A46
+HGNC:25203,0,0,0,0,Sin evidencia topologica,TMEM65
+HGNC:25221,0,0,0,0,Sin evidencia topologica,MMADHC
+HGNC:25223,1,1,0,2,Media,COQ2
+HGNC:25228,0,0,0,0,Sin evidencia topologica,SGSM3
+HGNC:25230,0,1,0,1,Baja,AHDC1
+HGNC:25239,0,0,0,0,Sin evidencia topologica,ARSK
+HGNC:25240,0,0,0,0,Sin evidencia topologica,ANO6
+HGNC:25244,1,0,0,1,Baja,CCDC39
+HGNC:25265,0,0,0,0,Sin evidencia topologica,ZCCHC8
+HGNC:2527,0,0,1,1,Baja,CTSB
+HGNC:2528,0,1,0,1,Baja,CTSC
+HGNC:25280,1,0,0,1,Baja,TTC25
+HGNC:25287,0,0,0,0,Sin evidencia topologica,LMBRD2
+HGNC:2529,1,1,1,3,Alta,CTSD
+HGNC:25295,0,0,0,0,Sin evidencia topologica,FAM57B
+HGNC:253,0,0,0,0,Sin evidencia topologica,ADH5
+HGNC:25302,0,1,0,1,Baja,COQ9
+HGNC:25305,0,0,0,0,Sin evidencia topologica,NSRP1
+HGNC:2531,1,1,0,2,Media,CTSF
+HGNC:25355,0,0,0,0,Sin evidencia topologica,SLC30A10
+HGNC:25356,0,0,1,1,Baja,SPRTN
+HGNC:25358,0,0,0,0,Sin evidencia topologica,RNF170
+HGNC:2536,1,1,0,2,Media,CTSK
+HGNC:25360,0,0,0,0,Sin evidencia topologica,DDX59
+HGNC:25363,0,0,0,0,Sin evidencia topologica,TMEM222
+HGNC:25367,0,1,1,2,Media,CCDC8
+HGNC:25380,0,0,0,0,Sin evidencia topologica,TMEM163
+HGNC:25382,1,0,0,1,Baja,TMEM126A
+HGNC:25386,0,0,0,0,Sin evidencia topologica,PDE12
+HGNC:25394,0,0,0,0,Sin evidencia topologica,SAMD7
+HGNC:25396,0,1,0,1,Baja,FREM2
+HGNC:25402,0,0,0,0,Sin evidencia topologica,OTUD5
+HGNC:25403,0,1,0,1,Baja,SASS6
+HGNC:25416,0,0,0,0,Sin evidencia topologica,ATXN7L3
+HGNC:25419,1,1,1,3,Alta,ARL13B
+HGNC:25428,0,0,0,0,Sin evidencia topologica,KIAA1217
+HGNC:25430,1,0,0,1,Baja,LRRC56
+HGNC:25439,0,0,0,0,Sin evidencia topologica,TANGO2
+HGNC:25440,0,0,0,0,Sin evidencia topologica,TMTC2
+HGNC:25443,0,0,0,0,Sin evidencia topologica,C19orf12
+HGNC:25455,1,0,0,1,Baja,TSR2
+HGNC:25461,0,0,0,0,Sin evidencia topologica,PUS3
+HGNC:2548,0,0,0,0,Sin evidencia topologica,CUBN
+HGNC:25481,0,0,0,0,Sin evidencia topologica,TRMU
+HGNC:25491,0,0,0,0,Sin evidencia topologica,FRMD4A
+HGNC:2550,0,0,0,0,Sin evidencia topologica,CELF2
+HGNC:25507,0,0,0,0,Sin evidencia topologica,VAC14
+HGNC:25516,0,0,0,0,Sin evidencia topologica,ARHGEF40
+HGNC:25519,1,0,0,1,Baja,ANO10
+HGNC:25522,0,1,0,1,Baja,WRAP53
+HGNC:25523,0,1,0,1,Baja,CCDC88A
+HGNC:25525,0,0,0,0,Sin evidencia topologica,NDC1
+HGNC:25527,0,0,0,0,Sin evidencia topologica,ANKZF1
+HGNC:2553,1,0,1,2,Media,CUL3
+HGNC:25532,0,1,0,1,Baja,MTPAP
+HGNC:25535,0,0,0,0,Sin evidencia topologica,TMEM38B
+HGNC:25536,0,0,0,0,Sin evidencia topologica,DALRD3
+HGNC:25538,1,1,1,3,Alta,DARS2
+HGNC:25539,0,0,0,0,Sin evidencia topologica,RFWD3
+HGNC:25543,0,0,0,0,Sin evidencia topologica,SHQ1
+HGNC:25544,0,0,0,0,Sin evidencia topologica,MSL2
+HGNC:2555,1,0,1,2,Media,CUL4B
+HGNC:25551,0,0,0,0,Sin evidencia topologica,SMG8
+HGNC:25552,0,0,0,0,Sin evidencia topologica,RNF220
+HGNC:25554,0,0,0,0,Sin evidencia topologica,SLC25A36
+HGNC:25557,0,0,0,0,Sin evidencia topologica,PRMT7
+HGNC:25566,1,0,0,1,Baja,SETD5
+HGNC:25567,0,0,1,1,Baja,ATAD3A
+HGNC:25568,1,1,1,3,Alta,FANCI
+HGNC:2557,1,0,0,1,Baja,CUX1
+HGNC:25576,0,0,0,0,Sin evidencia topologica,NAXD
+HGNC:2558,1,0,0,1,Baja,CX3CR1
+HGNC:25583,0,0,0,0,Sin evidencia topologica,ARMC4
+HGNC:2559,0,0,0,0,Sin evidencia topologica,CXADR
+HGNC:25590,0,0,0,0,Sin evidencia topologica,OGDHL
+HGNC:25598,0,0,0,0,Sin evidencia topologica,TYW1
+HGNC:25604,1,0,0,1,Baja,C7orf43
+HGNC:25608,0,1,0,1,Baja,VPS53
+HGNC:2561,1,0,1,2,Media,CXCR4
+HGNC:25613,1,0,0,1,Baja,CWF19L1
+HGNC:25622,0,0,0,0,Sin evidencia topologica,TBC1D23
+HGNC:25640,0,0,0,0,Sin evidencia topologica,UFSP2
+HGNC:25657,0,0,0,0,Sin evidencia topologica,BCORL1
+HGNC:25660,1,0,0,1,Baja,TTC21B
+HGNC:25662,0,0,0,0,Sin evidencia topologica,AAGAB
+HGNC:2567,1,1,1,3,Alta,OFD1
+HGNC:25671,0,0,0,0,Sin evidencia topologica,RNASEH2B
+HGNC:25676,0,1,0,1,Baja,GORAB
+HGNC:25678,0,0,0,0,Sin evidencia topologica,EFCAB1
+HGNC:2568,0,0,0,0,Sin evidencia topologica,MAMLD1
+HGNC:25686,0,0,0,0,Sin evidencia topologica,PPCS
+HGNC:25695,0,0,0,0,Sin evidencia topologica,CARS2
+HGNC:257,0,0,0,0,Sin evidencia topologica,ADK
+HGNC:2570,0,1,0,1,Baja,CYB5A
+HGNC:25705,0,0,0,0,Sin evidencia topologica,KCTD17
+HGNC:25712,0,0,0,0,Sin evidencia topologica,PGAP1
+HGNC:25716,0,0,0,0,Sin evidencia topologica,COA7
+HGNC:25720,0,0,0,0,Sin evidencia topologica,GPATCH3
+HGNC:25726,0,1,0,1,Baja,LAS1L
+HGNC:25727,0,0,0,0,Sin evidencia topologica,CEP76
+HGNC:25737,0,0,0,0,Sin evidencia topologica,NHEJ1
+HGNC:25740,1,0,0,1,Baja,CEP78
+HGNC:25751,0,1,0,1,Baja,TRAPPC11
+HGNC:25763,0,0,0,0,Sin evidencia topologica,SMG9
+HGNC:25764,0,0,0,0,Sin evidencia topologica,RMI1
+HGNC:2577,0,0,0,0,Sin evidencia topologica,CYBA
+HGNC:25774,1,1,0,2,Media,TCTN2
+HGNC:25777,0,0,0,0,Sin evidencia topologica,RFX7
+HGNC:2578,1,0,1,2,Media,CYBB
+HGNC:25784,0,0,0,0,Sin evidencia topologica,DCAF17
+HGNC:25786,1,1,0,2,Media,REEP1
+HGNC:25789,0,0,0,0,Sin evidencia topologica,EFL1
+HGNC:2579,1,0,1,2,Media,CYC1
+HGNC:25790,0,0,0,0,Sin evidencia topologica,FASTKD5
+HGNC:25792,0,1,0,1,Baja,USB1
+HGNC:25799,1,0,0,1,Baja,GUF1
+HGNC:25801,1,0,0,1,Baja,C5orf42
+HGNC:25808,1,0,0,1,Baja,FAM161A
+HGNC:25812,0,0,0,0,Sin evidencia topologica,SRD5A3
+HGNC:25815,0,0,1,1,Baja,CEP63
+HGNC:25821,0,0,0,0,Sin evidencia topologica,ZNF668
+HGNC:25835,0,0,0,0,Sin evidencia topologica,THSD4
+HGNC:25839,0,0,0,0,Sin evidencia topologica,GRHL3
+HGNC:25843,0,1,0,1,Baja,ZNF750
+HGNC:25851,0,0,0,0,Sin evidencia topologica,GINS3
+HGNC:25875,0,0,0,0,Sin evidencia topologica,NAA60
+HGNC:25896,0,1,0,1,Baja,ORAI1
+HGNC:25897,0,1,0,1,Baja,MFSD2A
+HGNC:2590,1,1,0,2,Media,CYP11A1
+HGNC:25902,0,0,0,0,Sin evidencia topologica,POMGNT2
+HGNC:25903,0,0,0,0,Sin evidencia topologica,ATAD1
+HGNC:25907,0,0,0,0,Sin evidencia topologica,CEP89
+HGNC:2591,0,0,0,0,Sin evidencia topologica,CYP11B1
+HGNC:2592,1,0,0,1,Baja,CYP11B2
+HGNC:25928,1,1,0,2,Media,WDR73
+HGNC:2593,0,0,0,0,Sin evidencia topologica,CYP17A1
+HGNC:2594,1,0,0,1,Baja,CYP19A1
+HGNC:25941,0,0,1,1,Baja,TET2
+HGNC:25947,0,0,0,0,Sin evidencia topologica,KLHL24
+HGNC:25956,0,0,0,0,Sin evidencia topologica,VPS50
+HGNC:25964,1,1,0,2,Media,RETREG1
+HGNC:25966,0,0,0,0,Sin evidencia topologica,ESRP1
+HGNC:2597,1,0,0,1,Baja,CYP1B1
+HGNC:25973,0,0,0,0,Sin evidencia topologica,GON4L
+HGNC:25979,0,0,0,0,Sin evidencia topologica,MIEF1
+HGNC:25980,0,0,0,0,Sin evidencia topologica,TRMT1
+HGNC:25985,0,0,0,0,Sin evidencia topologica,PIGG
+HGNC:25994,0,1,0,1,Baja,NSUN2
+HGNC:2600,0,0,0,0,Sin evidencia topologica,CYP21A2
+HGNC:26001,0,0,0,0,Sin evidencia topologica,PQLC2
+HGNC:26002,0,0,0,0,Sin evidencia topologica,CASZ1
+HGNC:26006,1,1,0,2,Media,TTC19
+HGNC:26013,0,1,0,1,Baja,DNAAF5
+HGNC:26019,0,0,0,0,Sin evidencia topologica,IMPAD1
+HGNC:2602,0,1,0,1,Baja,CYP24A1
+HGNC:26022,0,0,0,0,Sin evidencia topologica,TRMT10C
+HGNC:26026,0,0,0,0,Sin evidencia topologica,SOHLH2
+HGNC:26031,0,1,0,1,Baja,PIGV
+HGNC:26033,0,0,0,0,Sin evidencia topologica,PUS7
+HGNC:26034,0,0,0,0,Sin evidencia topologica,SDHAF2
+HGNC:26038,0,0,0,0,Sin evidencia topologica,TMEM127
+HGNC:2605,1,1,0,2,Media,CYP27A1
+HGNC:26050,1,1,0,2,Media,TMEM70
+HGNC:26052,0,0,0,0,Sin evidencia topologica,INTS11
+HGNC:26053,0,0,0,0,Sin evidencia topologica,THG1L
+HGNC:26054,0,0,0,0,Sin evidencia topologica,SLC25A38
+HGNC:26058,0,0,0,0,Sin evidencia topologica,LAGE3
+HGNC:2606,0,0,0,0,Sin evidencia topologica,CYP27B1
+HGNC:26087,0,0,0,0,Sin evidencia topologica,HEATR3
+HGNC:26090,1,0,0,1,Baja,CCDC40
+HGNC:26113,0,1,0,1,Baja,TCTN1
+HGNC:26141,0,0,0,0,Sin evidencia topologica,C19orf44
+HGNC:26144,1,0,1,2,Media,PALB2
+HGNC:26147,0,0,0,0,Sin evidencia topologica,AGBL5
+HGNC:26152,0,0,0,0,Sin evidencia topologica,ESRP2
+HGNC:26158,0,0,0,0,Sin evidencia topologica,ELMOD3
+HGNC:26162,0,0,0,0,Sin evidencia topologica,PYROXD1
+HGNC:26169,0,1,0,1,Baja,CTC1
+HGNC:26171,0,0,0,0,Sin evidencia topologica,FAAP100
+HGNC:26178,0,0,0,0,Sin evidencia topologica,FHOD3
+HGNC:26182,0,0,0,0,Sin evidencia topologica,COLGALT1
+HGNC:26190,0,0,0,0,Sin evidencia topologica,MTMR14
+HGNC:26193,0,1,0,1,Baja,CSPP1
+HGNC:26200,0,0,0,0,Sin evidencia topologica,STN1
+HGNC:26208,0,0,0,0,Sin evidencia topologica,NSUN3
+HGNC:26219,0,0,0,0,Sin evidencia topologica,FUZ
+HGNC:26222,1,1,0,2,Media,FAR1
+HGNC:26223,0,0,0,0,Sin evidencia topologica,TEFM
+HGNC:26239,0,0,0,0,Sin evidencia topologica,CXorf56
+HGNC:26255,0,0,0,0,Sin evidencia topologica,C3orf52
+HGNC:26256,0,0,0,0,Sin evidencia topologica,NDNF
+HGNC:26257,0,0,0,0,Sin evidencia topologica,PDZD7
+HGNC:26262,0,1,0,1,Baja,TTI2
+HGNC:26267,0,1,0,1,Baja,POMK
+HGNC:26270,0,1,0,1,Baja,PIEZO2
+HGNC:26274,0,1,0,1,Baja,NARS2
+HGNC:26282,0,0,0,0,Sin evidencia topologica,CCDC82
+HGNC:26291,0,0,0,0,Sin evidencia topologica,BBS10
+HGNC:26293,0,0,0,0,Sin evidencia topologica,SPEF2
+HGNC:26300,0,0,0,0,Sin evidencia topologica,C4orf26
+HGNC:26321,0,0,0,0,Sin evidencia topologica,ASPRV1
+HGNC:26361,0,1,0,1,Baja,HEPACAM
+HGNC:2637,0,0,0,0,Sin evidencia topologica,CYP3A4
+HGNC:26383,0,0,0,0,Sin evidencia topologica,DAW1
+HGNC:26384,0,0,0,0,Sin evidencia topologica,IGSF10
+HGNC:26392,0,0,0,0,Sin evidencia topologica,PTCHD1
+HGNC:26401,0,1,0,1,Baja,MARVELD2
+HGNC:26404,0,0,0,0,Sin evidencia topologica,NADK2
+HGNC:26406,0,0,0,0,Sin evidencia topologica,SCLT1
+HGNC:26440,0,0,0,0,Sin evidencia topologica,FAAH2
+HGNC:26444,0,0,0,0,Sin evidencia topologica,UROC1
+HGNC:26456,0,0,0,0,Sin evidencia topologica,CFAP54
+HGNC:26460,0,0,0,0,Sin evidencia topologica,JAKMIP1
+HGNC:2649,0,0,0,0,Sin evidencia topologica,CYP51A1
+HGNC:26504,0,1,0,1,Baja,AGBL1
+HGNC:26517,0,0,0,0,Sin evidencia topologica,C12orf66
+HGNC:2652,1,1,0,2,Media,CYP7B1
+HGNC:26521,1,0,0,1,Baja,LOXHD1
+HGNC:26527,0,1,0,1,Baja,HGSNAT
+HGNC:26530,1,1,0,2,Media,CFAP53
+HGNC:26551,0,0,0,0,Sin evidencia topologica,DZIP1L
+HGNC:26558,0,1,0,1,Baja,HYLS1
+HGNC:26560,0,0,0,0,Sin evidencia topologica,CCDC114
+HGNC:26576,0,0,0,0,Sin evidencia topologica,KY
+HGNC:26582,0,0,0,0,Sin evidencia topologica,UNC80
+HGNC:26594,0,1,0,1,Baja,DOK7
+HGNC:26600,0,1,0,1,Baja,WDR81
+HGNC:26611,0,0,0,0,Sin evidencia topologica,HECTD4
+HGNC:26623,0,0,0,0,Sin evidencia topologica,TMEM17
+HGNC:26624,0,0,0,0,Sin evidencia topologica,KDF1
+HGNC:26648,1,1,0,2,Media,BBS12
+HGNC:2665,0,0,0,0,Sin evidencia topologica,CD55
+HGNC:26658,0,0,1,1,Baja,POC5
+HGNC:2666,1,1,0,2,Media,DAG1
+HGNC:26661,0,1,0,1,Baja,RNF168
+HGNC:26690,1,0,0,1,Baja,CEP120
+HGNC:26703,0,0,0,0,Sin evidencia topologica,SYNE4
+HGNC:26708,0,0,0,0,Sin evidencia topologica,CFAP47
+HGNC:26724,1,0,0,1,Baja,ANKS6
+HGNC:2673,0,0,0,0,Sin evidencia topologica,DAP3
+HGNC:26730,0,0,0,0,Sin evidencia topologica,C1orf127
+HGNC:26768,0,0,0,0,Sin evidencia topologica,GPATCH11
+HGNC:2678,0,0,0,0,Sin evidencia topologica,DARS
+HGNC:26780,0,0,0,0,Sin evidencia topologica,DAND5
+HGNC:26784,1,0,0,1,Baja,C12orf65
+HGNC:26789,0,0,0,0,Sin evidencia topologica,LACC1
+HGNC:26790,0,0,0,0,Sin evidencia topologica,WDR72
+HGNC:26798,0,0,0,0,Sin evidencia topologica,ARL14EP
+HGNC:26799,0,0,0,0,Sin evidencia topologica,C2orf69
+HGNC:26801,1,0,0,1,Baja,COX18
+HGNC:26810,0,0,0,0,Sin evidencia topologica,EGFLAM
+HGNC:26820,1,0,0,1,Baja,CYP4F22
+HGNC:26821,0,0,0,0,Sin evidencia topologica,CCDC141
+HGNC:26837,0,1,0,1,Baja,AMER1
+HGNC:26877,0,1,0,1,Baja,CKAP2L
+HGNC:26887,0,0,0,0,Sin evidencia topologica,TAPT1
+HGNC:2689,0,0,0,0,Sin evidencia topologica,DBH
+HGNC:26894,1,1,0,2,Media,TPRN
+HGNC:26899,0,0,0,0,Sin evidencia topologica,TMTC3
+HGNC:26901,0,1,0,1,Baja,OTOGL
+HGNC:26921,0,0,0,0,Sin evidencia topologica,PARP6
+HGNC:26922,0,0,0,0,Sin evidencia topologica,ERCC6L2
+HGNC:26923,0,0,0,0,Sin evidencia topologica,NCLN
+HGNC:26926,0,0,0,0,Sin evidencia topologica,JAGN1
+HGNC:26927,1,1,0,2,Media,FOXRED1
+HGNC:26929,0,0,0,0,Sin evidencia topologica,C15orf41
+HGNC:26933,0,0,0,0,Sin evidencia topologica,SPOUT1
+HGNC:26938,1,0,0,1,Baja,HIKESHI
+HGNC:26941,0,0,0,0,Sin evidencia topologica,UFC1
+HGNC:26944,0,1,0,1,Baja,TMEM138
+HGNC:26953,0,0,0,0,Sin evidencia topologica,KIAA1109
+HGNC:26955,0,0,0,0,Sin evidencia topologica,ZBTB47
+HGNC:26956,0,0,0,0,Sin evidencia topologica,INO80
+HGNC:26965,0,0,0,0,Sin evidencia topologica,PTPMT1
+HGNC:26970,1,1,0,2,Media,COX20
+HGNC:26974,0,0,0,0,Sin evidencia topologica,PDZD8
+HGNC:2698,1,0,0,1,Baja,DBT
+HGNC:26988,0,0,0,0,Sin evidencia topologica,METTL23
+HGNC:26992,0,0,0,0,Sin evidencia topologica,SPNS2
+HGNC:2701,0,1,0,1,Baja,DCC
+HGNC:27015,0,0,0,0,Sin evidencia topologica,CMPK2
+HGNC:27030,0,0,0,0,Sin evidencia topologica,DNAJC21
+HGNC:27040,0,0,0,0,Sin evidencia topologica,SPIN4
+HGNC:27049,0,0,1,1,Baja,PLEKHA7
+HGNC:2705,0,1,1,2,Media,DCN
+HGNC:2707,1,0,1,2,Media,ACE
+HGNC:27089,0,0,0,0,Sin evidencia topologica,CARMIL2
+HGNC:2709,0,0,0,0,Sin evidencia topologica,DCT
+HGNC:2711,1,0,1,2,Media,DCTN1
+HGNC:2714,1,1,0,2,Media,DCX
+HGNC:2717,1,0,1,2,Media,DDB1
+HGNC:2718,0,0,0,0,Sin evidencia topologica,DDB2
+HGNC:2719,0,0,0,0,Sin evidencia topologica,DDC
+HGNC:27230,0,1,0,1,Baja,ESCO2
+HGNC:27232,1,0,0,1,Baja,C8orf37
+HGNC:2728,1,0,0,1,Baja,DDOST
+HGNC:27288,0,0,0,0,Sin evidencia topologica,ACSF3
+HGNC:2730,0,0,0,0,Sin evidencia topologica,DDR1
+HGNC:27302,0,1,0,1,Baja,IBA57
+HGNC:2731,0,1,0,1,Baja,DDR2
+HGNC:27310,1,1,0,2,Media,FLCN
+HGNC:27337,1,0,0,1,Baja,ANO5
+HGNC:27344,0,0,0,0,Sin evidencia topologica,TMEM218
+HGNC:2736,0,1,0,1,Baja,DDX11
+HGNC:27365,0,0,0,0,Sin evidencia topologica,TECRL
+HGNC:27375,0,0,0,0,Sin evidencia topologica,MSRB3
+HGNC:2739,0,0,0,0,Sin evidencia topologica,DHX16
+HGNC:2740,0,0,1,1,Baja,DDX17
+HGNC:27405,0,0,0,0,Sin evidencia topologica,NPNT
+HGNC:27424,1,0,0,1,Baja,RBM20
+HGNC:2745,1,0,1,2,Media,DDX3X
+HGNC:2747,0,0,1,1,Baja,DDX6
+HGNC:2750,1,0,1,2,Media,DHX9
+HGNC:27561,1,1,0,2,Media,TSEN54
+HGNC:2760,0,0,0,0,Sin evidencia topologica,DEF6
+HGNC:27609,0,0,0,0,Sin evidencia topologica,EMC10
+HGNC:2761,0,0,0,0,Sin evidencia topologica,DEFA1
+HGNC:2770,0,1,0,1,Baja,DES
+HGNC:2771,0,0,0,0,Sin evidencia topologica,CFD
+HGNC:27845,1,0,0,1,Baja,SOHLH1
+HGNC:27960,0,0,0,0,Sin evidencia topologica,SLC6A19
+HGNC:27962,0,0,0,0,Sin evidencia topologica,TMEM173
+HGNC:2799,0,0,0,0,Sin evidencia topologica,GRHL2
+HGNC:28005,0,0,0,0,Sin evidencia topologica,CTU2
+HGNC:28018,0,0,0,0,Sin evidencia topologica,NIPAL4
+HGNC:28027,0,1,0,1,Baja,WDPCP
+HGNC:28052,0,1,0,1,Baja,XPNPEP3
+HGNC:28072,1,0,0,1,Baja,LYRM7
+HGNC:28086,1,1,0,2,Media,NDUFAF2
+HGNC:28093,0,1,0,1,Baja,BBIP1
+HGNC:2810,0,0,0,0,Sin evidencia topologica,DFNA5
+HGNC:28100,0,0,0,0,Sin evidencia topologica,MMGT1
+HGNC:28127,0,0,0,0,Sin evidencia topologica,RSG1
+HGNC:28128,0,0,0,0,Sin evidencia topologica,TMEM107
+HGNC:28178,0,0,0,0,Sin evidencia topologica,CCDC115
+HGNC:28188,0,0,0,0,Sin evidencia topologica,C11orf70
+HGNC:28209,0,0,0,0,Sin evidencia topologica,CEP19
+HGNC:28213,0,0,0,0,Sin evidencia topologica,PIGY
+HGNC:28214,0,0,0,0,Sin evidencia topologica,FRMD5
+HGNC:28216,1,1,0,2,Media,COX14
+HGNC:28242,1,0,0,1,Baja,HPDL
+HGNC:28261,0,0,0,0,Sin evidencia topologica,TBCK
+HGNC:28281,0,0,0,0,Sin evidencia topologica,TMEM263
+HGNC:28287,1,0,0,1,Baja,ALG14
+HGNC:28295,0,0,0,0,Sin evidencia topologica,CCDC32
+HGNC:28296,1,0,0,1,Baja,WDR34
+HGNC:28302,0,0,0,0,Sin evidencia topologica,LRRC45
+HGNC:28303,0,0,0,0,Sin evidencia topologica,CCDC151
+HGNC:28313,0,0,0,0,Sin evidencia topologica,TET3
+HGNC:28330,0,0,0,0,Sin evidencia topologica,TMEM167A
+HGNC:28338,0,0,0,0,Sin evidencia topologica,DENND5B
+HGNC:28358,0,0,0,0,Sin evidencia topologica,D2HGDH
+HGNC:28369,0,0,0,0,Sin evidencia topologica,THOC6
+HGNC:28380,0,0,0,0,Sin evidencia topologica,SLC25A42
+HGNC:28395,0,0,0,0,Sin evidencia topologica,SGMS2
+HGNC:28396,1,1,0,2,Media,TMEM67
+HGNC:28403,0,0,0,0,Sin evidencia topologica,TRMT10A
+HGNC:28422,1,0,0,1,Baja,TSEN2
+HGNC:28423,0,1,0,1,Baja,STAC3
+HGNC:2843,0,1,0,1,Baja,DGAT1
+HGNC:28434,0,0,0,0,Sin evidencia topologica,FAM58A
+HGNC:28467,0,0,0,0,Sin evidencia topologica,FAAP24
+HGNC:28472,0,0,1,1,Baja,TMEM43
+HGNC:28482,0,0,0,0,Sin evidencia topologica,TCTEX1D2
+HGNC:28486,0,0,0,0,Sin evidencia topologica,MFSD8
+HGNC:28497,0,0,0,0,Sin evidencia topologica,TMEM151A
+HGNC:28510,1,0,0,1,Baja,GLIS3
+HGNC:2852,1,1,0,2,Media,DGKE
+HGNC:28526,0,0,0,0,Sin evidencia topologica,EOGT
+HGNC:28532,0,0,0,0,Sin evidencia topologica,KIAA0825
+HGNC:28570,0,0,0,0,Sin evidencia topologica,PIH1D3
+HGNC:2858,0,1,0,1,Baja,DGUOK
+HGNC:28583,0,0,0,0,Sin evidencia topologica,RSPO2
+HGNC:2859,0,1,0,1,Baja,DHCR24
+HGNC:28596,1,0,0,1,Baja,B3GALNT2
+HGNC:2860,0,0,0,0,Sin evidencia topologica,DHCR7
+HGNC:2861,1,0,0,1,Baja,DHFR
+HGNC:28625,1,1,0,2,Media,NDUFAF6
+HGNC:28636,0,1,0,1,Baja,B9D2
+HGNC:28648,0,0,0,0,Sin evidencia topologica,DIS3L2
+HGNC:2865,1,0,0,1,Baja,DHH
+HGNC:28660,0,0,0,0,Sin evidencia topologica,ISCA1
+HGNC:28662,0,0,0,0,Sin evidencia topologica,DOHH
+HGNC:28669,0,0,0,0,Sin evidencia topologica,STKLD1
+HGNC:2867,1,1,0,2,Media,DHODH
+HGNC:28672,0,0,0,0,Sin evidencia topologica,C17orf62
+HGNC:2869,0,0,0,0,Sin evidencia topologica,DHPS
+HGNC:28706,0,0,0,0,Sin evidencia topologica,SAMD11
+HGNC:28722,0,0,0,0,Sin evidencia topologica,COQ5
+HGNC:2873,0,0,0,0,Sin evidencia topologica,CYB5R3
+HGNC:28741,1,1,0,2,Media,ILDR1
+HGNC:2876,0,1,0,1,Baja,DIAPH1
+HGNC:28762,0,0,0,0,Sin evidencia topologica,SPATA5L1
+HGNC:28769,0,0,0,0,Sin evidencia topologica,DRAM2
+HGNC:28833,1,0,0,1,Baja,OLA1
+HGNC:28844,0,0,0,0,Sin evidencia topologica,FBXO38
+HGNC:28845,0,1,0,1,Baja,MED25
+HGNC:28852,1,0,0,1,Baja,SYCE1
+HGNC:28858,0,0,0,0,Sin evidencia topologica,P4HTM
+HGNC:28862,1,0,0,1,Baja,NIPBL
+HGNC:28870,0,0,0,0,Sin evidencia topologica,MDFIC
+HGNC:28880,0,0,0,0,Sin evidencia topologica,MAGT1
+HGNC:28881,0,0,0,0,Sin evidencia topologica,PATJ
+HGNC:28883,1,0,1,2,Media,PPA2
+HGNC:28887,0,1,0,1,Baja,LEMD3
+HGNC:289,0,0,0,0,Sin evidencia topologica,GRK2
+HGNC:2890,1,1,1,3,Alta,DKC1
+HGNC:28900,0,0,0,0,Sin evidencia topologica,PNPLA8
+HGNC:28905,0,0,0,0,Sin evidencia topologica,YRDC
+HGNC:28908,0,0,0,0,Sin evidencia topologica,DNAJC12
+HGNC:28909,0,1,0,1,Baja,CCDC22
+HGNC:28912,0,1,0,1,Baja,WDR45
+HGNC:28913,0,0,1,1,Baja,HSCB
+HGNC:28927,0,0,0,0,Sin evidencia topologica,KRT71
+HGNC:28929,1,0,0,1,Baja,KRT74
+HGNC:28949,1,1,1,3,Alta,IQCB1
+HGNC:2895,1,1,0,2,Media,EDAR
+HGNC:28952,0,0,1,1,Baja,NCAPD3
+HGNC:28957,0,0,1,1,Baja,EMC1
+HGNC:28958,0,0,0,0,Sin evidencia topologica,NUP93
+HGNC:2896,1,1,1,3,Alta,DLAT
+HGNC:2897,0,0,0,0,Sin evidencia topologica,DLC1
+HGNC:2898,1,1,1,3,Alta,DLD
+HGNC:28980,0,0,0,0,Sin evidencia topologica,GINS1
+HGNC:28983,0,0,0,0,Sin evidencia topologica,TMEM94
+HGNC:28984,0,1,0,1,Baja,WASHC5
+HGNC:28993,0,1,0,1,Baja,PIEZO1
+HGNC:29,0,0,1,1,Baja,ABCA1
+HGNC:2900,0,0,0,0,Sin evidencia topologica,DLG1
+HGNC:29002,0,0,0,0,Sin evidencia topologica,FCHO1
+HGNC:29007,0,0,0,0,Sin evidencia topologica,FRMPD4
+HGNC:2901,1,0,0,1,Baja,DLG2
+HGNC:29010,1,0,0,1,Baja,SETD1A
+HGNC:29012,1,0,1,2,Media,KDM6B
+HGNC:29013,0,0,1,1,Baja,CLEC16A
+HGNC:29017,0,0,0,0,Sin evidencia topologica,PLEKHM1
+HGNC:2902,0,0,0,0,Sin evidencia topologica,DLG3
+HGNC:29021,1,1,1,3,Alta,CEP290
+HGNC:29022,0,1,0,1,Baja,SPECC1L
+HGNC:29029,0,0,0,0,Sin evidencia topologica,TTI1
+HGNC:2903,1,0,1,2,Media,DLG4
+HGNC:29035,0,0,0,0,Sin evidencia topologica,PPIP5K2
+HGNC:2904,0,0,0,0,Sin evidencia topologica,DLG5
+HGNC:29040,0,0,0,0,Sin evidencia topologica,SZT2
+HGNC:29043,0,0,0,0,Sin evidencia topologica,DSTYK
+HGNC:29046,0,0,0,0,Sin evidencia topologica,FBXO28
+HGNC:29059,0,0,0,0,Sin evidencia topologica,IQSEC2
+HGNC:29068,0,0,0,0,Sin evidencia topologica,KIAA0556
+HGNC:29071,0,0,0,0,Sin evidencia topologica,VWA8
+HGNC:29077,1,1,1,3,Alta,IFT140
+HGNC:29079,1,0,1,2,Media,KDM1A
+HGNC:2908,1,0,0,1,Baja,DLL1
+HGNC:29086,0,1,1,2,Media,CEP135
+HGNC:2909,0,0,0,0,Sin evidencia topologica,DLL3
+HGNC:29090,0,1,0,1,Baja,SMCHD1
+HGNC:29092,0,1,1,2,Media,OBSL1
+HGNC:29099,0,0,0,0,Sin evidencia topologica,TELO2
+HGNC:291,1,1,1,3,Alta,ADSL
+HGNC:2910,0,0,0,0,Sin evidencia topologica,DLL4
+HGNC:29101,0,1,0,1,Baja,ANKLE2
+HGNC:29105,0,0,0,0,Sin evidencia topologica,PLEKHG5
+HGNC:29106,1,1,0,2,Media,DDHD2
+HGNC:29110,0,0,0,0,Sin evidencia topologica,KIAA0753
+HGNC:29112,0,0,0,0,Sin evidencia topologica,IQSEC1
+HGNC:29118,0,0,0,0,Sin evidencia topologica,TMEM63A
+HGNC:29121,0,0,0,0,Sin evidencia topologica,MTCL1
+HGNC:29127,0,0,0,0,Sin evidencia topologica,FRYL
+HGNC:29134,0,0,0,0,Sin evidencia topologica,DENND3
+HGNC:29136,0,0,0,0,Sin evidencia topologica,KDM4B
+HGNC:29141,1,0,0,1,Baja,WDR47
+HGNC:29150,0,0,0,0,Sin evidencia topologica,DIP2C
+HGNC:2916,1,1,0,2,Media,DLX3
+HGNC:29160,0,1,0,1,Baja,FASTKD2
+HGNC:29162,0,0,0,0,Sin evidencia topologica,FAM149B1
+HGNC:29165,0,0,0,0,Sin evidencia topologica,SIK3
+HGNC:29168,1,1,1,3,Alta,RPGRIP1L
+HGNC:2917,0,0,0,0,Sin evidencia topologica,DLX4
+HGNC:29170,0,1,0,1,Baja,FAN1
+HGNC:29171,1,0,0,1,Baja,IQCE
+HGNC:29174,0,1,0,1,Baja,WASHC4
+HGNC:2918,0,0,0,0,Sin evidencia topologica,DLX5
+HGNC:29182,1,1,0,2,Media,CEP164
+HGNC:29183,0,0,0,0,Sin evidencia topologica,TBC1D2B
+HGNC:29185,0,0,0,0,Sin evidencia topologica,PLCH1
+HGNC:29186,0,0,0,0,Sin evidencia topologica,ANKRD26
+HGNC:29187,0,0,0,0,Sin evidencia topologica,SETD1B
+HGNC:29190,0,0,0,0,Sin evidencia topologica,TNRC6B
+HGNC:29203,0,0,0,0,Sin evidencia topologica,TBC1D24
+HGNC:29204,0,0,0,0,Sin evidencia topologica,SVBP
+HGNC:29205,0,0,0,0,Sin evidencia topologica,ERGIC1
+HGNC:29215,0,0,0,0,Sin evidencia topologica,SHROOM4
+HGNC:29216,0,0,0,0,Sin evidencia topologica,ARHGAP31
+HGNC:29217,1,0,0,1,Baja,PRR12
+HGNC:29239,1,0,0,1,Baja,INTU
+HGNC:29242,0,1,0,1,Baja,SH3PXD2B
+HGNC:29250,1,1,0,2,Media,WDR35
+HGNC:29253,1,1,0,2,Media,CC2D2A
+HGNC:29255,0,0,0,0,Sin evidencia topologica,USP53
+HGNC:29259,0,0,0,0,Sin evidencia topologica,TAOK1
+HGNC:29262,0,0,0,0,Sin evidencia topologica,IFT80
+HGNC:29271,0,0,0,0,Sin evidencia topologica,ZNFX1
+HGNC:29273,0,0,0,0,Sin evidencia topologica,HEATR5B
+HGNC:29277,0,0,0,0,Sin evidencia topologica,ZNF687
+HGNC:2928,1,1,1,3,Alta,DMD
+HGNC:29298,0,1,0,1,Baja,CEP152
+HGNC:29300,0,0,0,0,Sin evidencia topologica,KANK2
+HGNC:29304,0,0,0,0,Sin evidencia topologica,UVSSA
+HGNC:29308,0,0,0,0,Sin evidencia topologica,FBRSL1
+HGNC:29314,0,0,0,0,Sin evidencia topologica,CACHD1
+HGNC:29316,1,1,0,2,Media,ZSWIM6
+HGNC:2932,0,0,0,0,Sin evidencia topologica,DMP1
+HGNC:29331,0,1,0,1,Baja,EPG5
+HGNC:2934,0,0,0,0,Sin evidencia topologica,DMRT1
+HGNC:29347,0,0,0,0,Sin evidencia topologica,KLHL15
+HGNC:29357,0,0,0,0,Sin evidencia topologica,ASXL3
+HGNC:29361,0,0,0,0,Sin evidencia topologica,SELENOI
+HGNC:29366,0,0,0,0,Sin evidencia topologica,CEP295
+HGNC:29368,0,0,0,0,Sin evidencia topologica,CFAP74
+HGNC:2938,0,0,0,0,Sin evidencia topologica,DMXL2
+HGNC:2939,1,0,1,2,Media,DNA2
+HGNC:2940,0,0,0,0,Sin evidencia topologica,DNAH1
+HGNC:29401,1,0,0,1,Baja,MYSM1
+HGNC:29415,0,0,0,0,Sin evidencia topologica,ZNF526
+HGNC:29418,0,0,0,0,Sin evidencia topologica,FNIP1
+HGNC:29419,1,0,0,1,Baja,EARS2
+HGNC:2942,1,1,0,2,Media,DNAH11
+HGNC:29420,0,1,0,1,Baja,RSPRY1
+HGNC:29426,0,1,0,1,Baja,CCBE1
+HGNC:29427,1,0,0,1,Baja,SH3TC2
+HGNC:29433,0,1,0,1,Baja,NEXMIF
+HGNC:29434,0,0,1,1,Baja,RC3H1
+HGNC:29442,0,0,0,0,Sin evidencia topologica,KIF21B
+HGNC:29450,0,0,0,0,Sin evidencia topologica,GLIS2
+HGNC:29456,0,0,0,0,Sin evidencia topologica,TOR1AIP1
+HGNC:29478,0,0,0,0,Sin evidencia topologica,ROGDI
+HGNC:2950,1,1,0,2,Media,DNAH5
+HGNC:29500,0,0,0,0,Sin evidencia topologica,FUK
+HGNC:29501,1,0,0,1,Baja,GPSM2
+HGNC:29502,1,0,0,1,Baja,DFNB59
+HGNC:29508,0,0,0,0,Sin evidencia topologica,KIDINS220
+HGNC:2951,0,0,0,0,Sin evidencia topologica,DNAH6
+HGNC:29514,0,0,0,0,Sin evidencia topologica,GLDN
+HGNC:29515,0,0,0,0,Sin evidencia topologica,PLEKHG2
+HGNC:2952,0,0,1,1,Baja,DNAH8
+HGNC:29521,0,0,0,0,Sin evidencia topologica,C12orf57
+HGNC:29523,0,0,0,0,Sin evidencia topologica,CFAP20
+HGNC:29529,1,1,0,2,Media,TBL1XR1
+HGNC:2953,1,0,0,1,Baja,DNAH9
+HGNC:29536,0,0,0,0,Sin evidencia topologica,MAPKBP1
+HGNC:2954,1,1,0,2,Media,DNAI1
+HGNC:29557,1,0,0,1,Baja,NEXN
+HGNC:29561,0,0,0,0,Sin evidencia topologica,ARV1
+HGNC:29569,1,1,0,2,Media,LIPT1
+HGNC:29572,0,0,0,0,Sin evidencia topologica,LSR
+HGNC:2959,0,1,0,1,Baja,DNASE1L3
+HGNC:29594,0,1,1,2,Media,UQCRQ
+HGNC:2960,0,0,0,0,Sin evidencia topologica,DNASE2
+HGNC:29605,0,0,0,0,Sin evidencia topologica,SH2B3
+HGNC:2961,1,1,1,3,Alta,DYNC1H1
+HGNC:29619,0,0,0,0,Sin evidencia topologica,MPEG1
+HGNC:2962,0,1,0,1,Baja,DYNC2H1
+HGNC:29622,0,0,0,0,Sin evidencia topologica,MCAT
+HGNC:29623,0,0,0,0,Sin evidencia topologica,MAN2B2
+HGNC:2963,1,0,0,1,Baja,DYNC1I1
+HGNC:29634,0,1,0,1,Baja,MEGF10
+HGNC:29636,0,0,0,0,Sin evidencia topologica,MNS1
+HGNC:2964,1,0,0,1,Baja,DYNC1I2
+HGNC:29643,0,0,0,0,Sin evidencia topologica,MLPH
+HGNC:29659,0,0,0,0,Sin evidencia topologica,MESP2
+HGNC:29666,0,1,0,1,Baja,MTFMT
+HGNC:29669,0,0,0,0,Sin evidencia topologica,IFT43
+HGNC:29670,0,0,0,0,Sin evidencia topologica,GNPTAB
+HGNC:29673,0,0,0,0,Sin evidencia topologica,MFAP5
+HGNC:29675,0,0,0,0,Sin evidencia topologica,CLCC1
+HGNC:29678,0,0,0,0,Sin evidencia topologica,MSTO1
+HGNC:29679,0,0,0,0,Sin evidencia topologica,PAM16
+HGNC:29682,0,0,0,0,Sin evidencia topologica,GFM2
+HGNC:29683,0,0,0,0,Sin evidencia topologica,SLC25A32
+HGNC:29685,1,0,0,1,Baja,IARS2
+HGNC:2972,1,0,0,1,Baja,DNM1
+HGNC:2973,1,1,1,3,Alta,DNM1L
+HGNC:2974,1,1,1,3,Alta,DNM2
+HGNC:2976,1,1,1,3,Alta,DNMT1
+HGNC:2978,1,0,1,2,Media,DNMT3A
+HGNC:2979,1,1,1,3,Alta,DNMT3B
+HGNC:29796,0,1,0,1,Baja,LAMTOR2
+HGNC:29812,0,1,0,1,Baja,DCPS
+HGNC:29819,0,0,0,0,Sin evidencia topologica,MKL2
+HGNC:29824,0,0,0,0,Sin evidencia topologica,MYLPF
+HGNC:29826,0,0,0,0,Sin evidencia topologica,MYLK3
+HGNC:29832,1,0,0,1,Baja,NADSYN1
+HGNC:29853,1,0,0,1,Baja,HECW2
+HGNC:29861,0,0,0,0,Sin evidencia topologica,CHRDL1
+HGNC:29866,0,0,0,0,Sin evidencia topologica,NFASC
+HGNC:29873,0,0,0,0,Sin evidencia topologica,NKAP
+HGNC:29877,0,0,0,0,Sin evidencia topologica,UBAP2L
+HGNC:2988,0,0,0,0,Sin evidencia topologica,DOCK2
+HGNC:29882,0,0,0,0,Sin evidencia topologica,ISCU
+HGNC:2989,0,0,0,0,Sin evidencia topologica,DOCK3
+HGNC:29905,0,0,0,0,Sin evidencia topologica,CSDE1
+HGNC:29914,0,1,0,1,Baja,NUP107
+HGNC:29917,0,0,0,0,Sin evidencia topologica,MDM1
+HGNC:29918,1,1,0,2,Media,NDUFAF3
+HGNC:2993,0,0,0,0,Sin evidencia topologica,DONSON
+HGNC:29932,1,0,0,1,Baja,COASY
+HGNC:29937,0,1,0,1,Baja,CCDC65
+HGNC:29941,0,0,0,0,Sin evidencia topologica,GATAD1
+HGNC:29944,0,0,0,0,Sin evidencia topologica,TENM3
+HGNC:29947,0,0,0,0,Sin evidencia topologica,TRAK1
+HGNC:2995,1,1,0,2,Media,DPAGT1
+HGNC:29958,1,0,0,1,Baja,SDR9C7
+HGNC:29980,0,0,0,0,Sin evidencia topologica,FOXR1
+HGNC:30000,0,0,0,0,Sin evidencia topologica,BBS9
+HGNC:3003,0,0,0,0,Sin evidencia topologica,DPH1
+HGNC:30031,0,0,0,0,Sin evidencia topologica,PI4K2A
+HGNC:30032,1,0,0,1,Baja,PACS1
+HGNC:3004,0,0,0,0,Sin evidencia topologica,DPH2
+HGNC:3005,1,1,0,2,Media,DPM1
+HGNC:3006,1,1,0,2,Media,DPM2
+HGNC:3007,1,0,0,1,Baja,DPM3
+HGNC:30071,0,0,0,0,Sin evidencia topologica,KIAA0319L
+HGNC:30074,1,1,1,3,Alta,POLR3A
+HGNC:30076,0,0,0,0,Sin evidencia topologica,POLR3C
+HGNC:30078,0,0,0,0,Sin evidencia topologica,REEP6
+HGNC:3009,0,0,0,0,Sin evidencia topologica,DPP4
+HGNC:30100,0,0,0,0,Sin evidencia topologica,PSENEN
+HGNC:3012,1,1,0,2,Media,DPYD
+HGNC:30129,0,0,0,0,Sin evidencia topologica,POP1
+HGNC:3013,0,0,0,0,Sin evidencia topologica,DPYS
+HGNC:3014,1,0,0,1,Baja,DPYSL2
+HGNC:30162,0,0,0,0,Sin evidencia topologica,EXOC3L2
+HGNC:30168,0,0,0,0,Sin evidencia topologica,PDIA6
+HGNC:30171,1,0,0,1,Baja,HSPB8
+HGNC:30172,0,0,0,0,Sin evidencia topologica,STRADA
+HGNC:3018,1,0,0,1,Baja,SLC26A3
+HGNC:30185,0,1,0,1,Baja,CRBN
+HGNC:30203,0,0,0,0,Sin evidencia topologica,WDR83OS
+HGNC:30207,0,0,0,0,Sin evidencia topologica,ARHGAP29
+HGNC:30212,0,0,0,0,Sin evidencia topologica,TANC2
+HGNC:30213,1,1,0,2,Media,ATP13A2
+HGNC:30220,0,1,0,1,Baja,RFT1
+HGNC:30224,0,1,0,1,Baja,SLC52A2
+HGNC:30227,0,0,0,0,Sin evidencia topologica,SPPL2A
+HGNC:30228,0,0,0,0,Sin evidencia topologica,PREPL
+HGNC:30237,0,0,0,0,Sin evidencia topologica,CC2D1A
+HGNC:30238,0,0,0,0,Sin evidencia topologica,WLS
+HGNC:30242,0,0,0,0,Sin evidencia topologica,TUSC3
+HGNC:30249,0,0,0,0,Sin evidencia topologica,QSOX2
+HGNC:30260,1,0,0,1,Baja,PNPO
+HGNC:30262,0,1,0,1,Baja,PYCR2
+HGNC:3029,0,0,0,0,Sin evidencia topologica,DRG1
+HGNC:30299,0,0,0,0,Sin evidencia topologica,LRIF1
+HGNC:303,0,0,0,0,Sin evidencia topologica,AEBP1
+HGNC:3032,0,0,0,0,Sin evidencia topologica,DRP2
+HGNC:30322,0,0,0,0,Sin evidencia topologica,ARHGEF28
+HGNC:3033,0,0,0,0,Sin evidencia topologica,ATN1
+HGNC:30343,0,0,0,0,Sin evidencia topologica,DNAJC13
+HGNC:30348,1,1,1,3,Alta,POLR3B
+HGNC:30349,0,0,0,0,Sin evidencia topologica,POLR3H
+HGNC:3036,0,1,0,1,Baja,DSC2
+HGNC:3037,0,0,0,0,Sin evidencia topologica,DSC3
+HGNC:30372,1,0,0,1,Baja,KLHL40
+HGNC:30373,0,0,0,0,Sin evidencia topologica,DNMBP
+HGNC:30386,0,0,0,0,Sin evidencia topologica,SCAMP5
+HGNC:30391,1,1,0,2,Media,IFT172
+HGNC:3040,0,0,0,0,Sin evidencia topologica,RCAN1
+HGNC:30402,0,0,0,0,Sin evidencia topologica,SENP7
+HGNC:30414,0,0,0,0,Sin evidencia topologica,TMEM147
+HGNC:30417,0,1,0,1,Baja,SH2B1
+HGNC:30422,0,0,0,0,Sin evidencia topologica,SHROOM3
+HGNC:30450,0,0,0,0,Sin evidencia topologica,NAPRT
+HGNC:30452,0,0,0,0,Sin evidencia topologica,FAM92A
+HGNC:3046,0,0,0,0,Sin evidencia topologica,PIGP
+HGNC:3048,1,1,0,2,Media,DSG1
+HGNC:3049,1,1,0,2,Media,DSG2
+HGNC:30492,0,0,0,0,Sin evidencia topologica,DNAAF3
+HGNC:30497,1,1,0,2,Media,KIF7
+HGNC:30500,1,1,0,2,Media,PRRT2
+HGNC:30511,0,0,0,0,Sin evidencia topologica,YIF1B
+HGNC:30512,0,0,0,0,Sin evidencia topologica,WDR44
+HGNC:3052,1,1,0,2,Media,DSP
+HGNC:30521,0,1,0,1,Baja,SLC46A1
+HGNC:30528,1,0,0,1,Baja,DNAJC19
+HGNC:30535,0,0,1,1,Baja,NUDCD2
+HGNC:30539,0,1,0,1,Baja,DNAAF1
+HGNC:3054,0,1,0,1,Baja,DSPP
+HGNC:30546,1,0,0,1,Baja,FDX2
+HGNC:30551,0,0,0,0,Sin evidencia topologica,TXNL4A
+HGNC:30563,0,0,0,0,Sin evidencia topologica,PARS2
+HGNC:3057,0,0,0,0,Sin evidencia topologica,DTNA
+HGNC:30578,0,0,0,0,Sin evidencia topologica,EXPH5
+HGNC:30587,0,0,1,1,Baja,SNIP1
+HGNC:30594,0,0,0,0,Sin evidencia topologica,UNC45A
+HGNC:30595,0,0,0,0,Sin evidencia topologica,PPP1R21
+HGNC:30605,0,1,0,1,Baja,SEPSECS
+HGNC:3061,0,0,0,0,Sin evidencia topologica,DTYMK
+HGNC:30650,0,0,0,0,Sin evidencia topologica,STRA6
+HGNC:30661,0,0,0,0,Sin evidencia topologica,UBA2
+HGNC:30664,1,1,0,2,Media,CLPB
+HGNC:30677,0,0,0,0,Sin evidencia topologica,GPKOW
+HGNC:30682,0,0,0,0,Sin evidencia topologica,EHBP1L1
+HGNC:30684,0,0,0,0,Sin evidencia topologica,TAX1BP3
+HGNC:30690,0,0,0,0,Sin evidencia topologica,SP9
+HGNC:30700,0,0,0,0,Sin evidencia topologica,TSHZ3
+HGNC:30718,1,0,0,1,Baja,DNAJB13
+HGNC:3072,0,0,0,0,Sin evidencia topologica,DUSP6
+HGNC:30739,0,0,0,0,Sin evidencia topologica,TMX2
+HGNC:30740,0,0,0,0,Sin evidencia topologica,TARS2
+HGNC:30760,0,1,0,1,Baja,TMEM165
+HGNC:30764,0,1,0,1,Baja,TRAIP
+HGNC:30765,0,0,0,0,Sin evidencia topologica,TNIK
+HGNC:30778,0,0,0,0,Sin evidencia topologica,GATAD2B
+HGNC:3078,0,0,0,0,Sin evidencia topologica,DUT
+HGNC:30782,0,0,0,0,Sin evidencia topologica,NAA15
+HGNC:30791,0,0,0,0,Sin evidencia topologica,UBIAD1
+HGNC:30794,0,1,0,1,Baja,CEP57
+HGNC:30800,1,0,0,1,Baja,TMIE
+HGNC:30801,0,0,0,0,Sin evidencia topologica,AJAP1
+HGNC:30802,0,1,0,1,Baja,PNPLA2
+HGNC:30812,0,0,0,0,Sin evidencia topologica,SGO2
+HGNC:30829,0,0,1,1,Baja,TUBB2B
+HGNC:30831,0,0,0,0,Sin evidencia topologica,TDRD7
+HGNC:30832,0,1,0,1,Baja,TRAPPC9
+HGNC:30836,0,0,0,0,Sin evidencia topologica,POC1B
+HGNC:30839,0,0,0,0,Sin evidencia topologica,KRT25
+HGNC:3084,1,1,1,3,Alta,DVL1
+HGNC:30846,0,0,0,0,Sin evidencia topologica,TMPRSS7
+HGNC:30858,1,1,1,3,Alta,EFTUD2
+HGNC:30859,0,0,1,1,Baja,SNRNP200
+HGNC:3086,1,0,1,2,Media,DVL2
+HGNC:30860,0,0,0,0,Sin evidencia topologica,LSM11
+HGNC:3087,0,0,0,0,Sin evidencia topologica,DVL3
+HGNC:30879,0,0,0,0,Sin evidencia topologica,ITFG2
+HGNC:30881,1,1,0,2,Media,ALG13
+HGNC:30883,1,1,0,2,Media,TMEM126B
+HGNC:30887,0,0,0,0,Sin evidencia topologica,TRAPPC2L
+HGNC:30889,1,0,0,1,Baja,USMG5
+HGNC:30892,1,0,1,2,Media,HUWE1
+HGNC:3091,1,1,1,3,Alta,DYRK1A
+HGNC:30910,0,0,0,0,Sin evidencia topologica,VWA1
+HGNC:30914,0,0,0,0,Sin evidencia topologica,WDR48
+HGNC:3092,0,0,0,0,Sin evidencia topologica,DYRK1B
+HGNC:30922,0,1,0,1,Baja,LINS1
+HGNC:30935,0,0,0,0,Sin evidencia topologica,YY1AP1
+HGNC:30939,0,0,0,0,Sin evidencia topologica,ZFHX4
+HGNC:3097,1,1,0,2,Media,DYSF
+HGNC:30972,0,1,0,1,Baja,SECISBP2
+HGNC:3098,1,0,0,1,Baja,TOR1A
+HGNC:30988,0,0,0,0,Sin evidencia topologica,BNC2
+HGNC:31042,0,0,0,0,Sin evidencia topologica,GREB1L
+HGNC:3122,0,0,0,0,Sin evidencia topologica,LEFTY2
+HGNC:3128,0,0,0,0,Sin evidencia topologica,GPR183
+HGNC:31326,0,0,0,0,Sin evidencia topologica,ATXN2L
+HGNC:3133,1,1,0,2,Media,EBP
+HGNC:31371,0,0,0,0,Sin evidencia topologica,GPR179
+HGNC:31399,0,0,0,0,Sin evidencia topologica,SLC6A17
+HGNC:31406,1,0,0,1,Baja,WDR37
+HGNC:3146,0,1,0,1,Baja,ECE1
+HGNC:3147,0,0,0,0,Sin evidencia topologica,ECEL1
+HGNC:3148,0,0,0,0,Sin evidencia topologica,TYMP
+HGNC:315,1,1,1,3,Alta,AFG3L2
+HGNC:3151,1,1,1,3,Alta,ECHS1
+HGNC:3153,0,1,0,1,Baja,ECM1
+HGNC:31555,0,0,0,0,Sin evidencia topologica,MIR184
+HGNC:3157,0,0,0,0,Sin evidencia topologica,EDA
+HGNC:31582,0,0,0,0,Sin evidencia topologica,MIR204
+HGNC:31648,0,0,0,0,Sin evidencia topologica,MIR96
+HGNC:31658,0,0,0,0,Sin evidencia topologica,TMEM72
+HGNC:31673,1,0,0,1,Baja,GRXCR1
+HGNC:3169,0,1,0,1,Baja,S1PR2
+HGNC:31708,0,0,0,0,Sin evidencia topologica,LRP12
+HGNC:31750,0,0,0,0,Sin evidencia topologica,SAMD12
+HGNC:3176,1,0,1,2,Media,EDN1
+HGNC:3178,1,1,0,2,Media,EDN3
+HGNC:3179,0,0,0,0,Sin evidencia topologica,EDNRA
+HGNC:318,0,1,0,1,Baja,AGA
+HGNC:3180,1,0,0,1,Baja,EDNRB
+HGNC:31814,0,0,0,0,Sin evidencia topologica,LINGO4
+HGNC:3188,1,0,1,2,Media,EED
+HGNC:319,1,0,1,2,Media,ACAN
+HGNC:3192,1,1,0,2,Media,EEF1A2
+HGNC:31923,1,1,0,2,Media,LCA5
+HGNC:31928,1,1,0,2,Media,NBEAL2
+HGNC:31948,0,0,0,0,Sin evidencia topologica,CEACAM16
+HGNC:32,0,0,0,0,Sin evidencia topologica,ABCA2
+HGNC:3208,0,0,1,1,Baja,EEF1B2
+HGNC:321,0,0,0,0,Sin evidencia topologica,AGL
+HGNC:3211,0,0,1,1,Baja,EEF1D
+HGNC:3214,1,0,1,2,Media,EEF2
+HGNC:3218,0,0,0,0,Sin evidencia topologica,EFEMP1
+HGNC:3219,1,1,0,2,Media,EFEMP2
+HGNC:32225,0,0,0,0,Sin evidencia topologica,WIPI2
+HGNC:3226,0,1,0,1,Baja,EFNB1
+HGNC:3230,0,0,0,0,Sin evidencia topologica,CELSR3
+HGNC:3233,0,1,0,1,Baja,MEGF8
+HGNC:32331,0,0,0,0,Sin evidencia topologica,C1orf194
+HGNC:3236,1,1,1,3,Alta,EGFR
+HGNC:3239,0,0,0,0,Sin evidencia topologica,EGR2
+HGNC:32434,0,0,0,0,Sin evidencia topologica,SLC38A8
+HGNC:32456,1,1,0,2,Media,ALG11
+HGNC:3247,1,0,0,1,Baja,EHHADH
+HGNC:325,0,1,0,1,Baja,AGPAT2
+HGNC:32528,0,0,0,0,Sin evidencia topologica,PRCD
+HGNC:3255,1,1,1,3,Alta,EIF2AK3
+HGNC:32554,0,0,0,0,Sin evidencia topologica,FAM83G
+HGNC:3257,1,0,0,1,Baja,EIF2B1
+HGNC:3258,1,0,0,1,Baja,EIF2B2
+HGNC:3259,1,0,0,1,Baja,EIF2B3
+HGNC:326,0,0,0,0,Sin evidencia topologica,AGPAT3
+HGNC:3260,0,0,0,0,Sin evidencia topologica,EIF2B4
+HGNC:3261,0,0,0,0,Sin evidencia topologica,EIF2B5
+HGNC:3262,1,0,1,2,Media,AGO1
+HGNC:3263,1,0,1,2,Media,AGO2
+HGNC:32669,0,0,0,0,Sin evidencia topologica,TRIM71
+HGNC:3267,1,0,1,2,Media,EIF2S3
+HGNC:32672,0,0,0,0,Sin evidencia topologica,WDR83
+HGNC:32687,0,0,0,0,Sin evidencia topologica,MED11
+HGNC:32689,0,0,0,0,Sin evidencia topologica,SLFN14
+HGNC:32695,0,0,0,0,Sin evidencia topologica,SKOR2
+HGNC:32698,0,0,0,0,Sin evidencia topologica,DUOXA2
+HGNC:327,0,0,0,0,Sin evidencia topologica,AGPS
+HGNC:32700,0,0,0,0,Sin evidencia topologica,CCDC103
+HGNC:3271,0,0,1,1,Baja,EIF3A
+HGNC:3275,1,0,1,2,Media,EIF3F
+HGNC:328,0,0,1,1,Baja,AGR2
+HGNC:3280,1,0,1,2,Media,EIF3B
+HGNC:3284,1,0,1,2,Media,EIF4A2
+HGNC:329,1,0,1,2,Media,AGRN
+HGNC:32949,0,0,0,0,Sin evidencia topologica,SMPD4
+HGNC:32952,0,1,0,1,Baja,SNORD118
+HGNC:3296,1,0,1,2,Media,EIF4G1
+HGNC:33,1,0,0,1,Baja,ABCA3
+HGNC:3300,1,0,1,2,Media,EIF5A
+HGNC:3309,1,0,0,1,Baja,ELANE
+HGNC:33154,0,0,0,0,Sin evidencia topologica,ELFN1
+HGNC:33188,0,0,0,0,Sin evidencia topologica,AMTN
+HGNC:3319,0,0,0,0,Sin evidencia topologica,ELF4
+HGNC:33230,0,0,0,0,Sin evidencia topologica,ZNF808
+HGNC:3327,1,0,1,2,Media,ELN
+HGNC:33276,1,0,0,1,Baja,FLG2
+HGNC:333,1,0,1,2,Media,AGT
+HGNC:3330,0,0,0,0,Sin evidencia topologica,EML1
+HGNC:3331,0,0,1,1,Baja,EMD
+HGNC:3332,0,0,0,0,Sin evidencia topologica,MARK2
+HGNC:3334,0,0,0,0,Sin evidencia topologica,EMP2
+HGNC:3341,0,1,0,1,Baja,EMX2
+HGNC:3342,0,0,0,0,Sin evidencia topologica,EN1
+HGNC:3344,1,0,0,1,Baja,ENAM
+HGNC:3349,1,0,1,2,Media,ENG
+HGNC:33499,0,0,0,0,Sin evidencia topologica,ATRIP
+HGNC:3354,1,1,1,3,Alta,ENO3
+HGNC:33551,0,0,0,0,Sin evidencia topologica,NDUFAF8
+HGNC:3356,1,0,0,1,Baja,ENPP1
+HGNC:336,1,0,1,2,Media,AGTR1
+HGNC:3363,0,1,1,2,Media,ENTPD1
+HGNC:33702,0,0,0,0,Sin evidencia topologica,C19orf70
+HGNC:33720,0,0,0,0,Sin evidencia topologica,CFAP221
+HGNC:3373,1,0,1,2,Media,EP300
+HGNC:3374,0,0,1,1,Baja,EPAS1
+HGNC:3377,0,0,0,0,Sin evidencia topologica,EPB41
+HGNC:33778,0,0,0,0,Sin evidencia topologica,MYMK
+HGNC:3378,0,0,0,0,Sin evidencia topologica,EPB41L1
+HGNC:33782,0,0,0,0,Sin evidencia topologica,PTRHD1
+HGNC:33784,0,0,0,0,Sin evidencia topologica,AGMO
+HGNC:3380,0,0,0,0,Sin evidencia topologica,EPB41L3
+HGNC:3381,1,0,0,1,Baja,EPB42
+HGNC:33848,0,1,0,1,Baja,COA5
+HGNC:3386,1,0,1,2,Media,EPHA2
+HGNC:33862,0,0,0,0,Sin evidencia topologica,GRXCR2
+HGNC:33867,0,1,0,1,Baja,SDHAF1
+HGNC:3388,0,0,0,0,Sin evidencia topologica,EPHA4
+HGNC:33882,0,0,0,0,Sin evidencia topologica,INPP5K
+HGNC:3390,0,0,0,0,Sin evidencia topologica,EPHA7
+HGNC:33914,0,0,0,0,Sin evidencia topologica,KIAA1024L
+HGNC:3393,0,0,0,0,Sin evidencia topologica,EPHB2
+HGNC:33939,0,0,0,0,Sin evidencia topologica,CLRN2
+HGNC:3395,0,0,0,0,Sin evidencia topologica,EPHB4
+HGNC:34,1,0,1,2,Media,ABCA4
+HGNC:3401,0,0,0,0,Sin evidencia topologica,EPHX1
+HGNC:34016,0,1,0,1,Baja,RNU4ATAC
+HGNC:341,1,0,0,1,Baja,AGXT
+HGNC:3413,0,0,0,0,Sin evidencia topologica,EPM2A
+HGNC:3415,1,0,1,2,Media,EPO
+HGNC:3416,1,0,0,1,Baja,EPOR
+HGNC:3418,1,0,1,2,Media,EPRS
+HGNC:3420,0,0,0,0,Sin evidencia topologica,EPS8
+HGNC:3424,0,0,0,0,Sin evidencia topologica,ERAL1
+HGNC:343,1,0,0,1,Baja,AHCY
+HGNC:3431,1,0,1,2,Media,ERBB3
+HGNC:3432,1,0,1,2,Media,ERBB4
+HGNC:3433,1,1,0,2,Media,ERCC1
+HGNC:3434,1,1,1,3,Alta,ERCC2
+HGNC:3435,1,0,1,2,Media,ERCC3
+HGNC:3436,1,0,0,1,Baja,ERCC4
+HGNC:3437,0,1,0,1,Baja,ERCC5
+HGNC:3438,0,1,0,1,Baja,ERCC6
+HGNC:34383,1,0,0,1,Baja,C2orf71
+HGNC:3439,1,1,0,2,Media,ERCC8
+HGNC:34399,0,1,0,1,Baja,UQCC3
+HGNC:3444,0,0,0,0,Sin evidencia topologica,ERF
+HGNC:3446,0,0,0,0,Sin evidencia topologica,ERG
+HGNC:3468,0,0,1,1,Baja,ESR2
+HGNC:3473,0,1,0,1,Baja,ESRRB
+HGNC:348,0,0,0,0,Sin evidencia topologica,AHR
+HGNC:3481,1,0,1,2,Media,ETFA
+HGNC:3482,1,0,1,2,Media,ETFB
+HGNC:3483,1,0,0,1,Baja,ETFDH
+HGNC:3491,0,0,0,0,Sin evidencia topologica,ETV2
+HGNC:3495,0,1,1,2,Media,ETV6
+HGNC:3496,0,0,0,0,Sin evidencia topologica,MPZL2
+HGNC:3497,1,1,0,2,Media,EVC
+HGNC:3498,0,0,0,0,Sin evidencia topologica,MECOM
+HGNC:3508,0,0,1,1,Baja,EWSR1
+HGNC:3512,0,1,0,1,Baja,EXT1
+HGNC:35123,0,0,0,0,Sin evidencia topologica,FOXI3
+HGNC:35126,0,0,0,0,Sin evidencia topologica,BHLHA9
+HGNC:3513,0,1,0,1,Baja,EXT2
+HGNC:3518,0,0,0,0,Sin evidencia topologica,EXTL3
+HGNC:3519,1,0,0,1,Baja,EYA1
+HGNC:3522,1,0,0,1,Baja,EYA4
+HGNC:3526,0,0,0,0,Sin evidencia topologica,EZH1
+HGNC:3527,1,1,1,3,Alta,EZH2
+HGNC:3528,1,0,0,1,Baja,F10
+HGNC:3529,0,0,0,0,Sin evidencia topologica,F11
+HGNC:3530,0,0,0,0,Sin evidencia topologica,F12
+HGNC:3531,0,1,0,1,Baja,F13A1
+HGNC:3534,0,0,0,0,Sin evidencia topologica,F13B
+HGNC:3535,1,1,1,3,Alta,F2
+HGNC:3537,0,0,0,0,Sin evidencia topologica,F2R
+HGNC:3541,0,0,1,1,Baja,F3
+HGNC:3542,1,0,0,1,Baja,F5
+HGNC:3544,1,0,0,1,Baja,F7
+HGNC:3546,0,1,0,1,Baja,F8
+HGNC:3551,0,0,0,0,Sin evidencia topologica,F9
+HGNC:357,0,0,0,0,Sin evidencia topologica,AIM2
+HGNC:3571,0,0,0,0,Sin evidencia topologica,ACSL4
+HGNC:3573,0,0,0,0,Sin evidencia topologica,FADD
+HGNC:3579,0,0,0,0,Sin evidencia topologica,FAH
+HGNC:358,0,0,0,0,Sin evidencia topologica,AIP
+HGNC:3581,0,0,0,0,Sin evidencia topologica,BPTF
+HGNC:3582,1,1,0,2,Media,FANCA
+HGNC:3583,0,1,0,1,Baja,FANCB
+HGNC:3584,0,1,0,1,Baja,FANCC
+HGNC:3585,1,1,1,3,Alta,FANCD2
+HGNC:3586,1,1,1,3,Alta,FANCE
+HGNC:3587,1,1,0,2,Media,FANCF
+HGNC:3588,1,1,0,2,Media,FANCG
+HGNC:359,1,1,0,2,Media,AIPL1
+HGNC:3592,1,0,0,1,Baja,FARSA
+HGNC:3595,0,0,0,0,Sin evidencia topologica,FAT1
+HGNC:3596,0,0,0,0,Sin evidencia topologica,FAT2
+HGNC:360,0,0,0,0,Sin evidencia topologica,AIRE
+HGNC:3600,0,0,0,0,Sin evidencia topologica,FBLN1
+HGNC:3602,0,0,0,0,Sin evidencia topologica,FBLN5
+HGNC:3603,1,1,1,3,Alta,FBN1
+HGNC:3604,1,1,0,2,Media,FBN2
+HGNC:3606,1,1,0,2,Media,FBP1
+HGNC:361,1,0,0,1,Baja,AK1
+HGNC:3616,1,0,1,2,Media,FCGR2A
+HGNC:3619,1,0,1,2,Media,FCGR3A
+HGNC:362,1,1,1,3,Alta,AK2
+HGNC:3622,1,1,0,2,Media,FKTN
+HGNC:3625,0,0,0,0,Sin evidencia topologica,FCN3
+HGNC:3629,1,0,0,1,Baja,FDFT1
+HGNC:3631,0,0,0,0,Sin evidencia topologica,FDPS
+HGNC:3642,1,0,0,1,Baja,FDXR
+HGNC:3647,0,0,0,0,Sin evidencia topologica,FECH
+HGNC:3649,0,0,0,0,Sin evidencia topologica,FEM1B
+HGNC:3659,0,0,0,0,Sin evidencia topologica,FEZ1
+HGNC:3661,1,1,1,3,Alta,FGA
+HGNC:3662,1,0,0,1,Baja,FGB
+HGNC:3663,0,1,0,1,Baja,FGD1
+HGNC:3666,1,0,1,2,Media,FGF10
+HGNC:3668,0,0,0,0,Sin evidencia topologica,FGF12
+HGNC:3670,1,0,1,2,Media,FGF13
+HGNC:3671,0,0,0,0,Sin evidencia topologica,FGF14
+HGNC:3672,1,0,1,2,Media,FGF16
+HGNC:3673,0,0,1,1,Baja,FGF17
+HGNC:3677,1,0,1,2,Media,FGF20
+HGNC:3680,1,0,0,1,Baja,FGF23
+HGNC:3681,1,0,1,2,Media,FGF3
+HGNC:3682,1,0,1,2,Media,FGF4
+HGNC:3683,0,0,1,1,Baja,FGF5
+HGNC:3686,1,0,1,2,Media,FGF8
+HGNC:3687,1,0,1,2,Media,FGF9
+HGNC:3688,1,0,1,2,Media,FGFR1
+HGNC:3689,1,0,1,2,Media,FGFR2
+HGNC:3690,1,0,1,2,Media,FGFR3
+HGNC:3694,0,0,0,0,Sin evidencia topologica,FGG
+HGNC:3696,0,0,0,0,Sin evidencia topologica,FGL2
+HGNC:3700,1,0,1,2,Media,FH
+HGNC:3702,0,1,0,1,Baja,FHL1
+HGNC:3705,0,0,0,0,Sin evidencia topologica,FIBP
+HGNC:3706,1,1,0,2,Media,ATP8B1
+HGNC:37216,1,0,0,1,Baja,LIPT2
+HGNC:37227,1,0,0,1,Baja,KBTBD13
+HGNC:37234,0,0,0,0,Sin evidencia topologica,TMEM231
+HGNC:3724,0,0,0,0,Sin evidencia topologica,FKBP8
+HGNC:37247,0,0,0,0,Sin evidencia topologica,BORCS8
+HGNC:37276,1,0,0,1,Baja,ISPD
+HGNC:3748,1,0,0,1,Baja,FLG
+HGNC:3749,0,0,0,0,Sin evidencia topologica,FLI1
+HGNC:3750,0,1,0,1,Baja,FLII
+HGNC:3754,1,1,1,3,Alta,FLNA
+HGNC:3755,1,0,0,1,Baja,FLNB
+HGNC:3756,1,1,1,3,Alta,FLNC
+HGNC:3765,0,0,1,1,Baja,FLT3
+HGNC:3766,1,0,1,2,Media,FLT3LG
+HGNC:3767,1,0,0,1,Baja,FLT4
+HGNC:3771,0,0,0,0,Sin evidencia topologica,FMO3
+HGNC:3775,1,0,1,2,Media,FMR1
+HGNC:3776,0,0,0,0,Sin evidencia topologica,AFF2
+HGNC:3778,1,1,1,3,Alta,FN1
+HGNC:3791,0,0,0,0,Sin evidencia topologica,FOLR1
+HGNC:3798,0,0,0,0,Sin evidencia topologica,FOSL2
+HGNC:3800,1,0,1,2,Media,FOXC1
+HGNC:3801,0,0,0,0,Sin evidencia topologica,FOXC2
+HGNC:3806,1,0,0,1,Baja,FOXE1
+HGNC:3808,1,0,0,1,Baja,FOXE3
+HGNC:3809,0,0,0,0,Sin evidencia topologica,FOXF1
+HGNC:3810,0,0,0,0,Sin evidencia topologica,FOXF2
+HGNC:3811,1,1,0,2,Media,FOXG1
+HGNC:3815,0,0,0,0,Sin evidencia topologica,FOXI1
+HGNC:3816,1,0,0,1,Baja,FOXJ1
+HGNC:3818,0,0,1,1,Baja,FOXM1
+HGNC:3823,0,0,0,0,Sin evidencia topologica,FOXP1
+HGNC:3826,0,0,0,0,Sin evidencia topologica,FPR1
+HGNC:3827,0,0,0,0,Sin evidencia topologica,FPR2
+HGNC:38705,1,0,0,1,Baja,ZNF865
+HGNC:388,1,1,0,2,Media,AKR1D1
+HGNC:391,1,1,1,3,Alta,AKT1
+HGNC:392,1,0,1,2,Media,AKT2
+HGNC:393,1,1,1,3,Alta,AKT3
+HGNC:3942,1,0,1,2,Media,MTOR
+HGNC:39433,0,0,0,0,Sin evidencia topologica,PRSS56
+HGNC:395,1,0,0,1,Baja,ALAD
+HGNC:3951,1,0,0,1,Baja,FXN
+HGNC:3964,0,1,0,1,Baja,FSHB
+HGNC:3969,0,0,0,0,Sin evidencia topologica,FSHR
+HGNC:397,1,1,0,2,Media,ALAS2
+HGNC:3974,0,1,0,1,Baja,FTCD
+HGNC:3976,0,0,1,1,Baja,FTH1
+HGNC:3999,0,1,1,2,Media,FTL
+HGNC:40028,0,0,0,0,Sin evidencia topologica,UBAP1L
+HGNC:40038,1,1,0,2,Media,PET100
+HGNC:40045,0,0,0,0,Sin evidencia topologica,PET117
+HGNC:40050,1,0,0,1,Baja,MCIDAS
+HGNC:4006,1,1,0,2,Media,FUCA1
+HGNC:4010,1,0,1,2,Media,FUS
+HGNC:4013,0,0,0,0,Sin evidencia topologica,FUT2
+HGNC:4019,0,0,0,0,Sin evidencia topologica,FUT8
+HGNC:4021,0,0,0,0,Sin evidencia topologica,KDSR
+HGNC:4023,0,0,1,1,Baja,FXR1
+HGNC:4026,1,0,0,1,Baja,FXYD2
+HGNC:403,1,0,1,2,Media,ALDH3A2
+HGNC:4035,0,0,0,0,Sin evidencia topologica,ACKR1
+HGNC:4036,0,0,0,0,Sin evidencia topologica,FYB1
+HGNC:4040,0,1,0,1,Baja,FZD2
+HGNC:4042,0,0,0,0,Sin evidencia topologica,FZD4
+HGNC:4043,0,0,0,0,Sin evidencia topologica,FZD5
+HGNC:4044,0,0,0,0,Sin evidencia topologica,FZD6
+HGNC:4053,1,0,1,2,Media,ISG15
+HGNC:4056,0,0,0,0,Sin evidencia topologica,G6PC
+HGNC:4057,1,1,1,3,Alta,G6PD
+HGNC:406,1,0,0,1,Baja,ALDH4A1
+HGNC:4061,1,0,0,1,Baja,SLC37A4
+HGNC:4065,0,1,0,1,Baja,GAA
+HGNC:4070,0,0,0,0,Sin evidencia topologica,GABBR1
+HGNC:4075,1,0,0,1,Baja,GABRA1
+HGNC:4076,0,0,0,0,Sin evidencia topologica,GABRA2
+HGNC:4077,0,0,0,0,Sin evidencia topologica,GABRA3
+HGNC:4078,0,0,0,0,Sin evidencia topologica,GABRA4
+HGNC:4079,0,0,0,0,Sin evidencia topologica,GABRA5
+HGNC:408,1,0,0,1,Baja,ALDH5A1
+HGNC:4081,0,0,0,0,Sin evidencia topologica,GABRB1
+HGNC:4082,0,0,0,0,Sin evidencia topologica,GABRB2
+HGNC:4083,1,0,0,1,Baja,GABRB3
+HGNC:4084,0,1,0,1,Baja,GABRD
+HGNC:4087,1,0,0,1,Baja,GABRG2
+HGNC:409,0,0,0,0,Sin evidencia topologica,ALDH1A3
+HGNC:4092,1,0,1,2,Media,GAD1
+HGNC:4115,1,0,0,1,Baja,GALC
+HGNC:4116,0,1,0,1,Baja,GALE
+HGNC:4117,0,0,0,0,Sin evidencia topologica,B4GALNT1
+HGNC:4118,1,0,0,1,Baja,GALK1
+HGNC:4122,1,1,0,2,Media,GALNS
+HGNC:4124,0,0,0,0,Sin evidencia topologica,GALNT2
+HGNC:4125,0,0,0,0,Sin evidencia topologica,GALNT3
+HGNC:4135,0,0,0,0,Sin evidencia topologica,GALT
+HGNC:4136,0,1,0,1,Baja,GAMT
+HGNC:4137,0,1,1,2,Media,GAN
+HGNC:4138,1,0,0,1,Baja,GANAB
+HGNC:414,0,1,1,2,Media,ALDOA
+HGNC:4161,0,0,0,0,Sin evidencia topologica,LRRC32
+HGNC:4162,0,0,0,0,Sin evidencia topologica,GARS
+HGNC:4166,0,0,0,0,Sin evidencia topologica,GAS8
+HGNC:417,0,1,0,1,Baja,ALDOB
+HGNC:4170,1,1,1,3,Alta,GATA1
+HGNC:4171,1,0,1,2,Media,GATA2
+HGNC:4172,1,1,1,3,Alta,GATA3
+HGNC:4173,1,1,1,3,Alta,GATA4
+HGNC:4174,1,1,0,2,Media,GATA6
+HGNC:4175,0,0,0,0,Sin evidencia topologica,GATM
+HGNC:4177,1,1,1,3,Alta,GBA
+HGNC:4180,1,0,0,1,Baja,GBE1
+HGNC:4181,0,0,0,0,Sin evidencia topologica,GBF1
+HGNC:4187,0,0,0,0,Sin evidencia topologica,GC
+HGNC:4189,1,0,0,1,Baja,GCDH
+HGNC:4193,1,1,0,2,Media,GCH1
+HGNC:4195,1,1,0,2,Media,GCK
+HGNC:4198,0,0,0,0,Sin evidencia topologica,GCM2
+HGNC:42,1,0,0,1,Baja,ABCB11
+HGNC:4200,0,0,0,0,Sin evidencia topologica,BLOC1S1
+HGNC:4204,1,0,0,1,Baja,GCNT2
+HGNC:4206,0,0,0,0,Sin evidencia topologica,OPN1MW
+HGNC:4208,0,0,0,0,Sin evidencia topologica,GCSH
+HGNC:4214,0,1,0,1,Baja,GDF1
+HGNC:4216,0,0,0,0,Sin evidencia topologica,GDF11
+HGNC:4217,0,1,0,1,Baja,GDF2
+HGNC:4218,0,0,0,0,Sin evidencia topologica,GDF3
+HGNC:4220,1,0,0,1,Baja,GDF5
+HGNC:4221,0,1,0,1,Baja,GDF6
+HGNC:4224,0,0,0,0,Sin evidencia topologica,GDF9
+HGNC:4226,1,0,0,1,Baja,GDI1
+HGNC:4232,0,0,1,1,Baja,GDNF
+HGNC:4235,1,0,1,2,Media,GFAP
+HGNC:4236,0,1,0,1,Baja,GFER
+HGNC:4237,0,0,0,0,Sin evidencia topologica,GFI1
+HGNC:4238,0,1,0,1,Baja,GFI1B
+HGNC:4241,0,0,0,0,Sin evidencia topologica,GFPT1
+HGNC:4243,0,0,0,0,Sin evidencia topologica,GFRA1
+HGNC:4247,0,0,0,0,Sin evidencia topologica,GGCX
+HGNC:4249,0,0,0,0,Sin evidencia topologica,GGPS1
+HGNC:4261,0,0,0,0,Sin evidencia topologica,GH1
+HGNC:4263,0,1,0,1,Baja,GHR
+HGNC:4266,1,0,0,1,Baja,GHRHR
+HGNC:4267,0,0,0,0,Sin evidencia topologica,GHSR
+HGNC:4268,0,0,0,0,Sin evidencia topologica,GIF
+HGNC:427,1,0,1,2,Media,ALK
+HGNC:4274,1,0,1,2,Media,GJA1
+HGNC:4277,1,0,0,1,Baja,GJA3
+HGNC:4278,0,0,0,0,Sin evidencia topologica,GJA4
+HGNC:428,1,1,0,2,Media,ALMS1
+HGNC:4281,1,1,0,2,Media,GJA8
+HGNC:4283,1,1,0,2,Media,GJB1
+HGNC:4284,1,0,0,1,Baja,GJB2
+HGNC:4285,1,1,0,2,Media,GJB3
+HGNC:4286,0,1,0,1,Baja,GJB4
+HGNC:4288,0,1,0,1,Baja,GJB6
+HGNC:4289,0,0,0,0,Sin evidencia topologica,GK
+HGNC:4296,1,0,0,1,Baja,GLA
+HGNC:4298,0,1,1,2,Media,GLB1
+HGNC:43,0,0,0,0,Sin evidencia topologica,TAP1
+HGNC:430,1,1,0,2,Media,ALOX12B
+HGNC:4311,0,0,0,0,Sin evidencia topologica,GCLC
+HGNC:4313,1,0,0,1,Baja,GLDC
+HGNC:4315,0,0,0,0,Sin evidencia topologica,GLE1
+HGNC:4317,1,0,1,2,Media,GLI1
+HGNC:4318,1,1,1,3,Alta,GLI2
+HGNC:4319,1,1,1,3,Alta,GLI3
+HGNC:4326,0,0,0,0,Sin evidencia topologica,GLRA1
+HGNC:4327,0,0,0,0,Sin evidencia topologica,GLRA2
+HGNC:4329,0,0,0,0,Sin evidencia topologica,GLRB
+HGNC:4331,0,0,0,0,Sin evidencia topologica,GLS
+HGNC:4332,0,0,0,0,Sin evidencia topologica,BICRA
+HGNC:4335,1,0,1,2,Media,GLUD1
+HGNC:4341,1,0,1,2,Media,GLUL
+HGNC:43444,0,0,0,0,Sin evidencia topologica,MYZAP
+HGNC:4367,0,0,0,0,Sin evidencia topologica,GM2A
+HGNC:437,0,0,0,0,Sin evidencia topologica,ALPI
+HGNC:4379,0,0,1,1,Baja,GNA11
+HGNC:438,1,1,0,2,Media,ALPL
+HGNC:4382,0,0,0,0,Sin evidencia topologica,GNA14
+HGNC:4384,0,0,1,1,Baja,GNAI1
+HGNC:4385,0,0,1,1,Baja,GNAI2
+HGNC:4387,0,0,1,1,Baja,GNAI3
+HGNC:4388,1,0,0,1,Baja,GNAL
+HGNC:4389,1,0,1,2,Media,GNAO1
+HGNC:4390,1,0,1,2,Media,GNAQ
+HGNC:4392,1,1,1,3,Alta,GNAS
+HGNC:4393,0,0,0,0,Sin evidencia topologica,GNAT1
+HGNC:4394,1,0,0,1,Baja,GNAT2
+HGNC:4396,0,0,1,1,Baja,GNB1
+HGNC:4398,0,0,1,1,Baja,GNB2
+HGNC:44,0,0,0,0,Sin evidencia topologica,TAP2
+HGNC:4400,0,0,1,1,Baja,GNB3
+HGNC:4401,0,0,1,1,Baja,GNB5
+HGNC:4415,0,0,0,0,Sin evidencia topologica,GNMT
+HGNC:4416,1,1,0,2,Media,GNPAT
+HGNC:4419,1,0,0,1,Baja,GNRH1
+HGNC:4421,1,0,0,1,Baja,GNRHR
+HGNC:4422,1,0,0,1,Baja,GNS
+HGNC:4425,0,0,0,0,Sin evidencia topologica,GOLGA2
+HGNC:443,1,1,0,2,Media,ALS2
+HGNC:4431,0,0,0,0,Sin evidencia topologica,GOSR2
+HGNC:4433,1,0,1,2,Media,GOT2
+HGNC:4439,1,1,0,2,Media,GP1BA
+HGNC:4440,1,0,0,1,Baja,GP1BB
+HGNC:4444,1,1,0,2,Media,GP9
+HGNC:4446,0,0,0,0,Sin evidencia topologica,GPAA1
+HGNC:445,1,1,1,3,Alta,SETX
+HGNC:4451,1,1,1,3,Alta,GPC3
+HGNC:4452,0,0,0,0,Sin evidencia topologica,GPC4
+HGNC:4454,0,0,0,0,Sin evidencia topologica,GPC6
+HGNC:4455,1,0,0,1,Baja,GPD1
+HGNC:4458,1,1,1,3,Alta,GPI
+HGNC:4462,0,0,0,0,Sin evidencia topologica,GPNMB
+HGNC:44662,0,0,0,0,Sin evidencia topologica,CCER2
+HGNC:449,0,1,0,1,Baja,ALX3
+HGNC:45,1,0,0,1,Baja,ABCB4
+HGNC:450,0,1,0,1,Baja,ALX4
+HGNC:4507,1,0,0,1,Baja,GABBR2
+HGNC:451,1,1,0,2,Media,AMACR
+HGNC:4510,0,0,0,0,Sin evidencia topologica,KISS1R
+HGNC:4512,0,1,0,1,Baja,ADGRG1
+HGNC:4519,0,0,0,0,Sin evidencia topologica,GPR68
+HGNC:452,1,0,0,1,Baja,AMBN
+HGNC:4524,0,0,0,0,Sin evidencia topologica,PROKR1
+HGNC:4540,0,0,1,1,Baja,CXCR3
+HGNC:4556,0,0,1,1,Baja,GPX4
+HGNC:4570,1,1,0,2,Media,GRHPR
+HGNC:4571,1,0,1,2,Media,GRIA1
+HGNC:4572,1,0,1,2,Media,GRIA2
+HGNC:4573,0,0,0,0,Sin evidencia topologica,GRIA3
+HGNC:4574,1,0,0,1,Baja,GRIA4
+HGNC:4576,0,1,0,1,Baja,GRID2
+HGNC:4580,1,0,0,1,Baja,GRIK2
+HGNC:4584,1,0,1,2,Media,GRIN1
+HGNC:4585,1,0,1,2,Media,GRIN2A
+HGNC:4586,1,0,1,2,Media,GRIN2B
+HGNC:4588,0,0,0,0,Sin evidencia topologica,GRIN2D
+HGNC:4591,0,0,0,0,Sin evidencia topologica,ARHGAP35
+HGNC:4593,1,0,0,1,Baja,GRM1
+HGNC:4598,0,0,0,0,Sin evidencia topologica,GRM6
+HGNC:4599,0,0,0,0,Sin evidencia topologica,GRM7
+HGNC:4601,1,1,0,2,Media,GRN
+HGNC:461,1,1,0,2,Media,AMELX
+HGNC:4612,0,0,0,0,Sin evidencia topologica,GSC
+HGNC:4620,1,0,1,2,Media,GSN
+HGNC:4622,0,0,0,0,Sin evidencia topologica,GSPT2
+HGNC:4623,1,0,1,2,Media,GSR
+HGNC:4624,0,0,0,0,Sin evidencia topologica,GSS
+HGNC:463,0,0,0,0,Sin evidencia topologica,AMFR
+HGNC:464,1,0,0,1,Baja,AMH
+HGNC:4643,0,0,0,0,Sin evidencia topologica,GSTZ1
+HGNC:465,0,0,0,0,Sin evidencia topologica,AMHR2
+HGNC:4651,0,0,0,0,Sin evidencia topologica,GTF2E2
+HGNC:4659,0,0,0,0,Sin evidencia topologica,GTF2I
+HGNC:4662,0,0,0,0,Sin evidencia topologica,GTF3A
+HGNC:4666,0,0,0,0,Sin evidencia topologica,GTF3C3
+HGNC:4668,0,0,0,0,Sin evidencia topologica,GTF3C5
+HGNC:4669,0,0,0,0,Sin evidencia topologica,GTPBP1
+HGNC:467,0,0,0,0,Sin evidencia topologica,AMMECR1
+HGNC:4670,0,0,0,0,Sin evidencia topologica,GTPBP2
+HGNC:4678,0,0,0,0,Sin evidencia topologica,GUCA1A
+HGNC:4679,1,0,0,1,Baja,GUCA1B
+HGNC:4685,0,0,0,0,Sin evidencia topologica,GUCY1A3
+HGNC:4688,0,0,0,0,Sin evidencia topologica,GUCY2C
+HGNC:4689,1,1,0,2,Media,GUCY2D
+HGNC:469,0,1,0,1,Baja,AMPD2
+HGNC:4693,0,0,0,0,Sin evidencia topologica,GUK1
+HGNC:4696,1,0,0,1,Baja,GUSB
+HGNC:4699,1,0,0,1,Baja,GYG1
+HGNC:47,0,0,0,0,Sin evidencia topologica,ABCB6
+HGNC:4706,1,0,0,1,Baja,GYS1
+HGNC:4707,1,0,0,1,Baja,GYS2
+HGNC:4713,0,1,0,1,Baja,H19
+HGNC:4718,0,0,0,0,Sin evidencia topologica,HIST1H1E
+HGNC:473,0,0,0,0,Sin evidencia topologica,AMT
+HGNC:4740,0,0,0,0,Sin evidencia topologica,H2AFY
+HGNC:4764,0,0,1,1,Baja,H3F3A
+HGNC:4765,1,0,1,2,Media,H3F3B
+HGNC:4785,0,0,0,0,Sin evidencia topologica,HIST1H4J
+HGNC:4787,0,0,0,0,Sin evidencia topologica,HIST1H4C
+HGNC:4790,0,0,0,0,Sin evidencia topologica,HIST1H4E
+HGNC:4793,0,0,0,0,Sin evidencia topologica,HIST1H4I
+HGNC:4796,0,0,0,0,Sin evidencia topologica,HAAO
+HGNC:4799,1,0,0,1,Baja,HADH
+HGNC:48,0,0,0,0,Sin evidencia topologica,ABCB7
+HGNC:4800,0,0,1,1,Baja,HSD17B10
+HGNC:4801,1,1,1,3,Alta,HADHA
+HGNC:4803,1,1,1,3,Alta,HADHB
+HGNC:4816,1,0,0,1,Baja,HARS
+HGNC:4817,0,1,0,1,Baja,HARS2
+HGNC:4823,0,1,0,1,Baja,HBA1
+HGNC:4824,0,1,0,1,Baja,HBA2
+HGNC:4827,1,1,0,2,Media,HBB
+HGNC:4829,0,0,0,0,Sin evidencia topologica,HBD
+HGNC:483,0,1,0,1,Baja,ANG
+HGNC:4831,0,1,0,1,Baja,HBG1
+HGNC:4832,0,1,0,1,Baja,HBG2
+HGNC:4837,0,1,0,1,Baja,HCCS
+HGNC:4838,0,0,0,0,Sin evidencia topologica,SERPIND1
+HGNC:4839,0,0,0,0,Sin evidencia topologica,HCFC1
+HGNC:484,0,0,0,0,Sin evidencia topologica,ANGPT1
+HGNC:4845,0,1,0,1,Baja,HCN1
+HGNC:4846,0,0,0,0,Sin evidencia topologica,HCN2
+HGNC:485,0,0,0,0,Sin evidencia topologica,ANGPT2
+HGNC:4851,1,1,1,3,Alta,HTT
+HGNC:4853,1,0,1,2,Media,HDAC2
+HGNC:4854,1,0,1,2,Media,HDAC3
+HGNC:4861,0,0,0,0,Sin evidencia topologica,HELLS
+HGNC:4862,0,0,0,0,Sin evidencia topologica,NCKAP1L
+HGNC:4867,0,0,0,0,Sin evidencia topologica,HERC1
+HGNC:4868,0,0,1,1,Baja,HERC2
+HGNC:4877,1,1,0,2,Media,HESX1
+HGNC:4878,0,0,0,0,Sin evidencia topologica,HEXA
+HGNC:4879,0,0,0,0,Sin evidencia topologica,HEXB
+HGNC:4881,0,0,0,0,Sin evidencia topologica,HEY2
+HGNC:4883,0,0,0,0,Sin evidencia topologica,CFH
+HGNC:4886,1,0,0,1,Baja,HFE
+HGNC:4887,0,0,0,0,Sin evidencia topologica,HFE2
+HGNC:4888,0,0,0,0,Sin evidencia topologica,CFHR1
+HGNC:4890,0,0,0,0,Sin evidencia topologica,CFHR2
+HGNC:4892,0,0,0,0,Sin evidencia topologica,HGD
+HGNC:4893,1,1,1,3,Alta,HGF
+HGNC:4908,0,1,0,1,Baja,HIBCH
+HGNC:491,0,0,0,0,Sin evidencia topologica,ANGPTL3
+HGNC:4912,0,0,0,0,Sin evidencia topologica,HINT1
+HGNC:4916,0,0,0,0,Sin evidencia topologica,HIRA
+HGNC:492,0,1,0,1,Baja,ANK1
+HGNC:4921,0,0,0,0,Sin evidencia topologica,HIVEP2
+HGNC:4922,0,1,0,1,Baja,HK1
+HGNC:4927,0,0,0,0,Sin evidencia topologica,SLC39A7
+HGNC:493,1,0,0,1,Baja,ANK2
+HGNC:4932,0,0,0,0,Sin evidencia topologica,HLA-B
+HGNC:494,1,0,0,1,Baja,ANK3
+HGNC:4947,0,0,0,0,Sin evidencia topologica,HLA-DRA
+HGNC:4948,0,0,0,0,Sin evidencia topologica,HLA-DRB1
+HGNC:496,0,1,0,1,Baja,RIPK4
+HGNC:497,0,0,0,0,Sin evidencia topologica,TRPA1
+HGNC:4976,1,1,0,2,Media,HLCS
+HGNC:4979,0,0,0,0,Sin evidencia topologica,MNX1
+HGNC:4982,1,0,0,1,Baja,HMBS
+HGNC:4983,0,0,1,1,Baja,HMGB1
+HGNC:5004,0,1,0,1,Baja,HMGB3
+HGNC:5005,1,1,0,2,Media,HMGCL
+HGNC:5006,1,0,1,2,Media,HMGCR
+HGNC:5007,0,0,0,0,Sin evidencia topologica,HMGCS1
+HGNC:5008,0,0,0,0,Sin evidencia topologica,HMGCS2
+HGNC:5009,0,1,0,1,Baja,HMGA2
+HGNC:5013,0,1,1,2,Media,HMOX1
+HGNC:5017,0,0,0,0,Sin evidencia topologica,HMX1
+HGNC:5022,0,0,1,1,Baja,FOXA2
+HGNC:5024,1,1,1,3,Alta,HNF4A
+HGNC:5028,0,0,0,0,Sin evidencia topologica,HNMT
+HGNC:5031,1,0,1,2,Media,HNRNPA1
+HGNC:5033,1,0,1,2,Media,HNRNPA2B1
+HGNC:5035,1,0,1,2,Media,HNRNPC
+HGNC:5036,1,0,1,2,Media,HNRNPD
+HGNC:5037,0,0,0,0,Sin evidencia topologica,HNRNPDL
+HGNC:5041,1,0,1,2,Media,HNRNPH1
+HGNC:5042,0,0,0,0,Sin evidencia topologica,HNRNPH2
+HGNC:5044,1,0,1,2,Media,HNRNPK
+HGNC:5047,0,0,1,1,Baja,HNRNPR
+HGNC:5048,1,0,1,2,Media,HNRNPU
+HGNC:5099,0,0,0,0,Sin evidencia topologica,HOXA1
+HGNC:51,0,0,0,0,Sin evidencia topologica,ABCC1
+HGNC:5101,0,0,0,0,Sin evidencia topologica,HOXA11
+HGNC:5102,0,0,0,0,Sin evidencia topologica,HOXA13
+HGNC:5103,0,0,0,0,Sin evidencia topologica,HOXA2
+HGNC:5111,0,0,0,0,Sin evidencia topologica,HOXB1
+HGNC:5125,1,0,0,1,Baja,HOXC13
+HGNC:5136,0,0,0,0,Sin evidencia topologica,HOXD13
+HGNC:5144,0,0,0,0,Sin evidencia topologica,HPCA
+HGNC:5147,1,0,0,1,Baja,HPD
+HGNC:5154,0,0,0,0,Sin evidencia topologica,HPGD
+HGNC:5157,1,0,1,2,Media,HPRT1
+HGNC:5163,0,1,0,1,Baja,HPS1
+HGNC:5172,0,1,0,1,Baja,HR
+HGNC:5173,1,1,1,3,Alta,HRAS
+HGNC:5181,0,0,0,0,Sin evidencia topologica,HRG
+HGNC:5193,0,0,0,0,Sin evidencia topologica,HS2ST1
+HGNC:5209,0,1,0,1,Baja,HSD11B2
+HGNC:5212,1,0,0,1,Baja,HSD17B3
+HGNC:5213,1,1,0,2,Media,HSD17B4
+HGNC:5218,0,0,0,0,Sin evidencia topologica,HSD3B2
+HGNC:5227,1,0,0,1,Baja,HSF4
+HGNC:5228,0,0,0,0,Sin evidencia topologica,DNAJB2
+HGNC:5234,0,0,1,1,Baja,HSPA1L
+HGNC:52391,0,0,0,0,Sin evidencia topologica,MYMX
+HGNC:5244,1,0,1,2,Media,HSPA9
+HGNC:5246,0,0,1,1,Baja,HSPB1
+HGNC:5261,1,1,1,3,Alta,HSPD1
+HGNC:5273,1,1,1,3,Alta,HSPG2
+HGNC:5275,1,0,1,2,Media,KAT5
+HGNC:53,1,0,0,1,Baja,ABCC2
+HGNC:5318,0,0,0,0,Sin evidencia topologica,TNC
+HGNC:5320,0,0,0,0,Sin evidencia topologica,HYAL1
+HGNC:5321,0,0,0,0,Sin evidencia topologica,HYAL2
+HGNC:5330,1,0,1,2,Media,IARS
+HGNC:5331,1,0,1,2,Media,NOD2
+HGNC:535,0,0,0,0,Sin evidencia topologica,ANXA11
+HGNC:5351,1,1,1,3,Alta,ICOS
+HGNC:5358,1,0,1,2,Media,IRF8
+HGNC:53647,0,0,0,0,Sin evidencia topologica,AL117258.1
+HGNC:5381,0,0,0,0,Sin evidencia topologica,IDE
+HGNC:5382,1,0,1,2,Media,IDH1
+HGNC:5383,1,0,1,2,Media,IDH2
+HGNC:5384,1,0,1,2,Media,IDH3A
+HGNC:5385,1,0,1,2,Media,IDH3B
+HGNC:5386,0,0,1,1,Baja,IDH3G
+HGNC:5389,0,0,0,0,Sin evidencia topologica,IDS
+HGNC:5391,0,1,0,1,Baja,IDUA
+HGNC:5394,0,1,0,1,Baja,CFI
+HGNC:5401,0,0,0,0,Sin evidencia topologica,SP110
+HGNC:5414,0,0,0,0,Sin evidencia topologica,IFITM3
+HGNC:5417,1,0,1,2,Media,IFNA1
+HGNC:5432,1,0,1,2,Media,IFNAR1
+HGNC:5433,0,0,0,0,Sin evidencia topologica,IFNAR2
+HGNC:5438,1,0,1,2,Media,IFNG
+HGNC:5439,1,0,0,1,Baja,IFNGR1
+HGNC:5440,0,0,0,0,Sin evidencia topologica,IFNGR2
+HGNC:5461,0,1,0,1,Baja,IGBP1
+HGNC:5464,1,0,1,2,Media,IGF1
+HGNC:5465,1,0,1,2,Media,IGF1R
+HGNC:5466,1,0,1,2,Media,IGF2
+HGNC:5468,0,0,0,0,Sin evidencia topologica,IGFALS
+HGNC:5476,0,0,0,0,Sin evidencia topologica,IGFBP7
+HGNC:554,0,0,0,0,Sin evidencia topologica,AP1B1
+HGNC:5541,0,1,0,1,Baja,IGHM
+HGNC:5542,1,1,0,2,Media,IGHMBP2
+HGNC:555,0,0,0,0,Sin evidencia topologica,AP1G1
+HGNC:559,0,0,0,0,Sin evidencia topologica,AP1S1
+HGNC:560,0,1,0,1,Baja,AP1S2
+HGNC:564,1,0,1,2,Media,AP2M1
+HGNC:565,0,1,1,2,Media,AP2S1
+HGNC:566,1,1,0,2,Media,AP3B1
+HGNC:567,0,0,0,0,Sin evidencia topologica,AP3B2
+HGNC:568,0,0,0,0,Sin evidencia topologica,AP3D1
+HGNC:57,1,0,0,1,Baja,ABCC6
+HGNC:5716,0,0,0,0,Sin evidencia topologica,IGKC
+HGNC:572,1,1,0,2,Media,AP4B1
+HGNC:5724,1,0,1,2,Media,RBPJ
+HGNC:573,1,1,0,2,Media,AP4E1
+HGNC:574,0,1,0,1,Baja,AP4M1
+HGNC:575,1,1,0,2,Media,AP4S1
+HGNC:583,0,1,1,2,Media,APC
+HGNC:5870,0,1,0,1,Baja,IGLL1
+HGNC:588,0,0,0,0,Sin evidencia topologica,ATG12
+HGNC:589,0,0,1,1,Baja,ATG5
+HGNC:59,1,1,0,2,Media,ABCC8
+HGNC:592,1,0,1,2,Media,XIAP
+HGNC:5948,0,0,0,0,Sin evidencia topologica,IGSF1
+HGNC:5956,1,0,0,1,Baja,IHH
+HGNC:5959,1,1,0,2,Media,ELP1
+HGNC:5960,1,0,1,2,Media,IKBKB
+HGNC:5961,1,1,1,3,Alta,IKBKG
+HGNC:5962,1,0,1,2,Media,IL10
+HGNC:5964,1,0,0,1,Baja,IL10RA
+HGNC:5965,0,0,0,0,Sin evidencia topologica,IL10RB
+HGNC:5967,0,0,0,0,Sin evidencia topologica,IL11RA
+HGNC:5970,0,0,0,0,Sin evidencia topologica,IL12B
+HGNC:5971,0,0,0,0,Sin evidencia topologica,IL12RB1
+HGNC:5972,0,0,0,0,Sin evidencia topologica,IL12RB2
+HGNC:5981,1,0,1,2,Media,IL17A
+HGNC:5985,0,0,0,0,Sin evidencia topologica,IL17RA
+HGNC:5986,1,0,1,2,Media,IL18
+HGNC:5987,0,0,0,0,Sin evidencia topologica,IL18BP
+HGNC:5993,1,0,1,2,Media,IL1R1
+HGNC:5996,0,0,0,0,Sin evidencia topologica,IL1RAPL1
+HGNC:5997,0,0,0,0,Sin evidencia topologica,IL1RAPL2
+HGNC:60,1,0,0,1,Baja,ABCC9
+HGNC:600,0,1,1,2,Media,APOA1
+HGNC:6000,1,1,0,2,Media,IL1RN
+HGNC:6005,0,1,0,1,Baja,IL21
+HGNC:6006,0,0,0,0,Sin evidencia topologica,IL21R
+HGNC:6008,1,1,1,3,Alta,IL2RA
+HGNC:6009,1,0,0,1,Baja,IL2RB
+HGNC:601,0,0,0,0,Sin evidencia topologica,APOA2
+HGNC:6010,1,1,1,3,Alta,IL2RG
+HGNC:6011,1,0,1,2,Media,IL3
+HGNC:6018,1,0,1,2,Media,IL6
+HGNC:6019,0,0,0,0,Sin evidencia topologica,IL6R
+HGNC:602,0,0,0,0,Sin evidencia topologica,APOA4
+HGNC:6021,0,0,0,0,Sin evidencia topologica,IL6ST
+HGNC:6023,1,0,1,2,Media,IL7
+HGNC:6024,1,0,1,2,Media,IL7R
+HGNC:6025,1,0,1,2,Media,CXCL8
+HGNC:6027,0,0,0,0,Sin evidencia topologica,CXCR2
+HGNC:6029,0,0,0,0,Sin evidencia topologica,IL9
+HGNC:603,1,0,1,2,Media,APOB
+HGNC:6036,0,0,0,0,Sin evidencia topologica,FOXK2
+HGNC:6038,0,0,1,1,Baja,ILF3
+HGNC:6052,1,1,0,2,Media,IMPDH1
+HGNC:6053,0,0,1,1,Baja,IMPDH2
+HGNC:6055,0,0,0,0,Sin evidencia topologica,IMPG1
+HGNC:6074,0,0,0,0,Sin evidencia topologica,INPP4A
+HGNC:6080,0,1,0,1,Baja,INPPL1
+HGNC:6081,1,0,1,2,Media,INS
+HGNC:609,0,0,0,0,Sin evidencia topologica,APOC2
+HGNC:6091,0,1,1,2,Media,INSR
+HGNC:61,0,0,0,0,Sin evidencia topologica,ABCD1
+HGNC:610,0,0,0,0,Sin evidencia topologica,APOC3
+HGNC:6106,1,0,1,2,Media,FOXP3
+HGNC:6107,0,1,0,1,Baja,PDX1
+HGNC:6112,0,0,1,1,Baja,IRAK1
+HGNC:6115,1,0,0,1,Baja,IREB2
+HGNC:6116,1,0,1,2,Media,IRF1
+HGNC:6117,0,0,0,0,Sin evidencia topologica,IRF2
+HGNC:6118,1,0,1,2,Media,IRF3
+HGNC:6119,1,0,1,2,Media,IRF4
+HGNC:6120,0,0,0,0,Sin evidencia topologica,IRF5
+HGNC:6121,0,0,0,0,Sin evidencia topologica,IRF6
+HGNC:6122,1,0,1,2,Media,IRF7
+HGNC:6128,0,0,0,0,Sin evidencia topologica,IRS4
+HGNC:613,1,0,1,2,Media,APOE
+HGNC:6131,0,0,0,0,Sin evidencia topologica,IRF9
+HGNC:6132,1,0,1,2,Media,ISL1
+HGNC:6138,1,1,1,3,Alta,ITGA2B
+HGNC:6139,0,0,0,0,Sin evidencia topologica,ITGA3
+HGNC:6142,0,0,1,1,Baja,ITGA6
+HGNC:6143,0,1,0,1,Baja,ITGA7
+HGNC:6144,0,0,0,0,Sin evidencia topologica,ITGA8
+HGNC:6149,1,0,1,2,Media,ITGAM
+HGNC:6150,1,0,1,2,Media,ITGAV
+HGNC:6153,1,0,1,2,Media,ITGB1
+HGNC:6155,1,0,1,2,Media,ITGB2
+HGNC:6156,1,1,1,3,Alta,ITGB3
+HGNC:6158,0,0,0,0,Sin evidencia topologica,ITGB4
+HGNC:6161,0,1,0,1,Baja,ITGB6
+HGNC:6171,1,1,0,2,Media,ITK
+HGNC:6172,0,1,0,1,Baja,STT3A
+HGNC:6174,0,0,1,1,Baja,ITM2B
+HGNC:6176,0,0,0,0,Sin evidencia topologica,ITPA
+HGNC:6179,0,0,0,0,Sin evidencia topologica,ITPKB
+HGNC:618,1,0,0,1,Baja,APOL1
+HGNC:6180,1,1,1,3,Alta,ITPR1
+HGNC:6182,0,0,1,1,Baja,ITPR3
+HGNC:6183,1,0,0,1,Baja,ITSN1
+HGNC:6186,0,0,0,0,Sin evidencia topologica,IVD
+HGNC:6188,1,1,1,3,Alta,JAG1
+HGNC:6189,0,0,0,0,Sin evidencia topologica,JAG2
+HGNC:6190,1,0,1,2,Media,JAK1
+HGNC:6192,0,1,1,2,Media,JAK2
+HGNC:6193,0,1,1,2,Media,JAK3
+HGNC:6196,1,0,0,1,Baja,JARID2
+HGNC:620,1,0,1,2,Media,APP
+HGNC:6207,1,0,1,2,Media,JUP
+HGNC:621,0,0,0,0,Sin evidencia topologica,NAE1
+HGNC:6211,0,0,0,0,Sin evidencia topologica,ANOS1
+HGNC:6215,1,0,1,2,Media,KARS
+HGNC:6217,0,0,0,0,Sin evidencia topologica,KATNB1
+HGNC:6218,1,1,0,2,Media,KCNA1
+HGNC:6220,1,0,0,1,Baja,KCNA2
+HGNC:6221,0,0,1,1,Baja,KCNA3
+HGNC:6224,0,0,0,0,Sin evidencia topologica,KCNA5
+HGNC:6231,0,0,0,0,Sin evidencia topologica,KCNB1
+HGNC:6232,0,0,0,0,Sin evidencia topologica,KCNB2
+HGNC:6233,1,0,0,1,Baja,KCNC1
+HGNC:6234,0,0,0,0,Sin evidencia topologica,KCNC2
+HGNC:6235,1,1,0,2,Media,KCNC3
+HGNC:6238,0,0,0,0,Sin evidencia topologica,KCND2
+HGNC:6239,1,1,0,2,Media,KCND3
+HGNC:6240,0,0,0,0,Sin evidencia topologica,KCNE1
+HGNC:6242,0,0,0,0,Sin evidencia topologica,KCNE2
+HGNC:6250,0,0,0,0,Sin evidencia topologica,KCNH1
+HGNC:6251,0,0,0,0,Sin evidencia topologica,KCNH2
+HGNC:6254,0,0,0,0,Sin evidencia topologica,KCNH5
+HGNC:6255,1,1,0,2,Media,KCNJ1
+HGNC:6256,1,0,0,1,Baja,KCNJ10
+HGNC:6257,1,1,0,2,Media,KCNJ11
+HGNC:6259,0,1,0,1,Baja,KCNJ13
+HGNC:626,1,1,0,2,Media,APRT
+HGNC:6262,0,0,0,0,Sin evidencia topologica,KCNJ16
+HGNC:6263,1,0,0,1,Baja,KCNJ2
+HGNC:6265,0,0,0,0,Sin evidencia topologica,KCNJ4
+HGNC:6266,0,0,0,0,Sin evidencia topologica,KCNJ5
+HGNC:6267,0,0,0,0,Sin evidencia topologica,KCNJ6
+HGNC:6269,0,0,0,0,Sin evidencia topologica,KCNJ8
+HGNC:6278,0,0,0,0,Sin evidencia topologica,KCNK3
+HGNC:6279,0,0,0,0,Sin evidencia topologica,KCNK4
+HGNC:6283,0,0,0,0,Sin evidencia topologica,KCNK9
+HGNC:6284,1,0,0,1,Baja,KCNMA1
+HGNC:6291,0,0,0,0,Sin evidencia topologica,KCNN2
+HGNC:6292,0,0,0,0,Sin evidencia topologica,KCNN3
+HGNC:6293,0,1,0,1,Baja,KCNN4
+HGNC:6294,1,0,0,1,Baja,KCNQ1
+HGNC:6295,0,0,0,0,Sin evidencia topologica,KCNQ1OT1
+HGNC:6296,1,1,1,3,Alta,KCNQ2
+HGNC:6297,1,0,0,1,Baja,KCNQ3
+HGNC:6298,1,0,0,1,Baja,KCNQ4
+HGNC:6299,0,0,0,0,Sin evidencia topologica,KCNQ5
+HGNC:6305,0,0,0,0,Sin evidencia topologica,KDELR2
+HGNC:6307,1,0,1,2,Media,KDR
+HGNC:6308,0,0,0,0,Sin evidencia topologica,KEL
+HGNC:6309,0,1,0,1,Baja,KERA
+HGNC:6317,0,0,0,0,Sin evidencia topologica,KIF1C
+HGNC:6318,1,0,0,1,Baja,KIF2A
+HGNC:6320,0,0,0,0,Sin evidencia topologica,KIF3B
+HGNC:6323,1,0,1,2,Media,KIF5A
+HGNC:6324,1,0,1,2,Media,KIF5B
+HGNC:6325,1,0,0,1,Baja,KIF5C
+HGNC:633,0,0,0,0,Sin evidencia topologica,AQP1
+HGNC:634,1,0,0,1,Baja,AQP2
+HGNC:6342,1,1,1,3,Alta,KIT
+HGNC:6343,0,1,1,2,Media,KITLG
+HGNC:6345,1,0,0,1,Baja,KLF1
+HGNC:6347,0,0,0,0,Sin evidencia topologica,KLF2
+HGNC:6350,0,0,0,0,Sin evidencia topologica,KLF7
+HGNC:6354,0,0,0,0,Sin evidencia topologica,KLHL3
+HGNC:6365,0,0,0,0,Sin evidencia topologica,KLK4
+HGNC:6371,1,0,0,1,Baja,KLKB1
+HGNC:638,0,0,0,0,Sin evidencia topologica,AQP5
+HGNC:6383,1,0,1,2,Media,KNG1
+HGNC:6388,1,0,1,2,Media,KIF11
+HGNC:6391,0,0,0,0,Sin evidencia topologica,KIF22
+HGNC:6392,1,0,1,2,Media,KIF23
+HGNC:6396,0,0,0,0,Sin evidencia topologica,KPNA3
+HGNC:6404,0,0,0,0,Sin evidencia topologica,KPTN
+HGNC:6407,1,1,1,3,Alta,KRAS
+HGNC:6408,1,0,0,1,Baja,MAFB
+HGNC:6412,1,1,0,2,Media,KRT1
+HGNC:6413,1,1,0,2,Media,KRT10
+HGNC:6414,1,0,0,1,Baja,KRT12
+HGNC:6416,1,1,1,3,Alta,KRT14
+HGNC:6423,0,1,0,1,Baja,KRT16
+HGNC:6427,0,1,0,1,Baja,KRT17
+HGNC:6439,1,0,0,1,Baja,KRT2
+HGNC:644,1,1,1,3,Alta,AR
+HGNC:6440,0,0,0,0,Sin evidencia topologica,KRT3
+HGNC:6442,1,1,1,3,Alta,KRT5
+HGNC:6443,1,1,0,2,Media,KRT6A
+HGNC:6444,0,0,0,0,Sin evidencia topologica,KRT6B
+HGNC:6447,0,0,0,0,Sin evidencia topologica,KRT9
+HGNC:6458,0,0,0,0,Sin evidencia topologica,KRT81
+HGNC:646,0,0,0,0,Sin evidencia topologica,ARAF
+HGNC:6460,0,0,0,0,Sin evidencia topologica,KRT83
+HGNC:6462,0,1,0,1,Baja,KRT85
+HGNC:6463,0,0,0,0,Sin evidencia topologica,KRT86
+HGNC:6469,0,1,0,1,Baja,KYNU
+HGNC:6470,1,0,0,1,Baja,L1CAM
+HGNC:6473,0,0,0,0,Sin evidencia topologica,AFF3
+HGNC:6481,0,0,0,0,Sin evidencia topologica,LAMA1
+HGNC:6482,1,1,0,2,Media,LAMA2
+HGNC:6483,0,0,0,0,Sin evidencia topologica,LAMA3
+HGNC:6485,0,0,0,0,Sin evidencia topologica,LAMA5
+HGNC:6486,0,1,0,1,Baja,LAMB1
+HGNC:6487,0,1,0,1,Baja,LAMB2
+HGNC:649,0,0,0,0,Sin evidencia topologica,ARCN1
+HGNC:6490,0,0,0,0,Sin evidencia topologica,LAMB3
+HGNC:6493,0,1,0,1,Baja,LAMC2
+HGNC:6494,0,0,0,0,Sin evidencia topologica,LAMC3
+HGNC:6501,1,1,1,3,Alta,LAMP2
+HGNC:6502,0,0,1,1,Baja,RPSA
+HGNC:6511,1,1,0,2,Media,LARGE1
+HGNC:6512,1,0,1,2,Media,LARS
+HGNC:6518,0,0,0,0,Sin evidencia topologica,LBR
+HGNC:652,1,0,1,2,Media,ARF1
+HGNC:6522,0,0,0,0,Sin evidencia topologica,LCAT
+HGNC:6524,1,0,1,2,Media,LCK
+HGNC:6529,0,0,0,0,Sin evidencia topologica,LCP2
+HGNC:6530,0,0,0,0,Sin evidencia topologica,LCT
+HGNC:6532,0,0,0,0,Sin evidencia topologica,LDB1
+HGNC:6535,1,0,1,2,Media,LDHA
+HGNC:654,0,0,0,0,Sin evidencia topologica,ARF3
+HGNC:6545,0,0,0,0,Sin evidencia topologica,COG1
+HGNC:6547,0,0,1,1,Baja,LDLR
+HGNC:6551,1,0,1,2,Media,LEF1
+HGNC:6553,1,0,1,2,Media,LEP
+HGNC:6554,1,1,0,2,Media,LEPR
+HGNC:6556,0,0,0,0,Sin evidencia topologica,LETM1
+HGNC:6560,0,0,0,0,Sin evidencia topologica,LFNG
+HGNC:6572,0,0,0,0,Sin evidencia topologica,LGI1
+HGNC:6584,0,0,0,0,Sin evidencia topologica,LHB
+HGNC:6585,0,0,0,0,Sin evidencia topologica,LHCGR
+HGNC:6594,1,0,0,1,Baja,LHX2
+HGNC:6595,1,1,0,2,Media,LHX3
+HGNC:6597,0,0,0,0,Sin evidencia topologica,LIFR
+HGNC:6598,0,0,0,0,Sin evidencia topologica,LIG1
+HGNC:6600,0,0,0,0,Sin evidencia topologica,LIG3
+HGNC:6601,1,1,0,2,Media,LIG4
+HGNC:6605,0,0,0,0,Sin evidencia topologica,LILRB1
+HGNC:6610,1,0,0,1,Baja,LIM2
+HGNC:6617,0,0,0,0,Sin evidencia topologica,LIPA
+HGNC:6619,0,0,0,0,Sin evidencia topologica,LIPC
+HGNC:6621,0,0,0,0,Sin evidencia topologica,LIPE
+HGNC:6629,0,0,0,0,Sin evidencia topologica,LLGL2
+HGNC:663,1,0,1,2,Media,ARG1
+HGNC:6631,0,0,0,0,Sin evidencia topologica,LMAN1
+HGNC:6636,1,0,1,2,Media,LMNA
+HGNC:6637,1,0,1,2,Media,LMNB1
+HGNC:6638,1,0,0,1,Baja,LMNB2
+HGNC:6647,0,0,0,0,Sin evidencia topologica,LMOD1
+HGNC:6648,0,0,0,0,Sin evidencia topologica,LMOD2
+HGNC:6649,0,0,0,0,Sin evidencia topologica,LMOD3
+HGNC:6653,0,0,0,0,Sin evidencia topologica,LMX1A
+HGNC:6654,0,0,0,0,Sin evidencia topologica,LMX1B
+HGNC:6663,1,0,0,1,Baja,LOR
+HGNC:6664,1,0,1,2,Media,LOX
+HGNC:667,1,0,1,2,Media,RHOA
+HGNC:6677,0,1,0,1,Baja,LPL
+HGNC:668,0,0,0,0,Sin evidencia topologica,RHOB
+HGNC:6685,1,1,0,2,Media,LRAT
+HGNC:6694,0,1,1,2,Media,LRP2
+HGNC:6696,0,0,0,0,Sin evidencia topologica,LRP4
+HGNC:6697,1,1,1,3,Alta,LRP5
+HGNC:6698,0,0,0,0,Sin evidencia topologica,LRP6
+HGNC:6701,0,0,0,0,Sin evidencia topologica,LRPAP1
+HGNC:6708,0,0,0,0,Sin evidencia topologica,LSS
+HGNC:6714,0,0,0,0,Sin evidencia topologica,LTBP1
+HGNC:6715,1,0,0,1,Baja,LTBP2
+HGNC:6716,0,0,0,0,Sin evidencia topologica,LTBP3
+HGNC:6717,0,0,0,0,Sin evidencia topologica,LTBP4
+HGNC:6735,1,0,1,2,Media,LYN
+HGNC:6740,1,1,0,2,Media,LYZ
+HGNC:6741,0,1,0,1,Baja,LZTFL1
+HGNC:6742,1,1,0,2,Media,LZTR1
+HGNC:6743,0,0,0,0,Sin evidencia topologica,CAPRIN1
+HGNC:6757,0,0,0,0,Sin evidencia topologica,MAB21L1
+HGNC:6758,0,0,0,0,Sin evidencia topologica,MAB21L2
+HGNC:6764,1,0,0,1,Baja,MAD2L2
+HGNC:6766,0,0,0,0,Sin evidencia topologica,MADD
+HGNC:6768,1,0,1,2,Media,SMAD2
+HGNC:6769,1,0,1,2,Media,SMAD3
+HGNC:6770,1,1,1,3,Alta,SMAD4
+HGNC:6771,0,0,0,0,Sin evidencia topologica,SMAD5
+HGNC:6772,1,0,0,1,Baja,SMAD6
+HGNC:6774,0,1,0,1,Baja,SMAD9
+HGNC:6776,1,1,0,2,Media,MAF
+HGNC:678,1,1,0,2,Media,ARHGDIA
+HGNC:6783,1,1,0,2,Media,MAG
+HGNC:68,0,0,0,0,Sin evidencia topologica,ABCD4
+HGNC:681,0,0,0,0,Sin evidencia topologica,ARHGEF1
+HGNC:6814,0,1,0,1,Baja,MAGEL2
+HGNC:6816,0,0,0,0,Sin evidencia topologica,MAK
+HGNC:6817,0,0,0,0,Sin evidencia topologica,MAL
+HGNC:6819,0,0,0,0,Sin evidencia topologica,MALT1
+HGNC:6823,1,0,0,1,Baja,MAN1B1
+HGNC:6826,1,1,0,2,Media,MAN2B1
+HGNC:6827,0,0,0,0,Sin evidencia topologica,MAN2C1
+HGNC:6831,0,0,0,0,Sin evidencia topologica,MANBA
+HGNC:6833,1,0,0,1,Baja,MAOA
+HGNC:6836,1,0,1,2,Media,MAP1B
+HGNC:6840,1,1,1,3,Alta,MAP2K1
+HGNC:6842,0,1,0,1,Baja,MAP2K2
+HGNC:6848,1,0,0,1,Baja,MAP3K1
+HGNC:6853,0,0,0,0,Sin evidencia topologica,MAP3K14
+HGNC:6855,0,0,0,0,Sin evidencia topologica,MAP3K3
+HGNC:6859,0,0,1,1,Baja,MAP3K7
+HGNC:686,0,0,0,0,Sin evidencia topologica,RHOH
+HGNC:6866,0,0,0,0,Sin evidencia topologica,MAP4K4
+HGNC:6871,1,1,1,3,Alta,MAPK1
+HGNC:6884,0,0,0,0,Sin evidencia topologica,MAPK8IP3
+HGNC:6888,0,0,0,0,Sin evidencia topologica,MAPKAPK3
+HGNC:6889,0,0,0,0,Sin evidencia topologica,MAPKAPK5
+HGNC:689,0,0,0,0,Sin evidencia topologica,ARIH1
+HGNC:6891,0,1,0,1,Baja,MAPRE2
+HGNC:6893,1,0,1,2,Media,MAPT
+HGNC:6898,1,0,1,2,Media,MARS
+HGNC:6901,0,1,0,1,Baja,MASP1
+HGNC:6902,0,1,0,1,Baja,MASP2
+HGNC:6903,0,0,0,0,Sin evidencia topologica,MAT1A
+HGNC:6909,0,0,0,0,Sin evidencia topologica,MATN3
+HGNC:6912,0,0,0,0,Sin evidencia topologica,MATR3
+HGNC:6913,1,0,0,1,Baja,MAX
+HGNC:6919,0,0,0,0,Sin evidencia topologica,MBD4
+HGNC:6922,0,0,0,0,Sin evidencia topologica,MBL2
+HGNC:6930,1,0,0,1,Baja,MC2R
+HGNC:6932,0,0,0,0,Sin evidencia topologica,MC4R
+HGNC:6936,0,1,0,1,Baja,MCCC1
+HGNC:6937,1,0,0,1,Baja,MCCC2
+HGNC:6938,0,1,0,1,Baja,CHST6
+HGNC:694,1,0,0,1,Baja,ARL3
+HGNC:6946,0,0,0,0,Sin evidencia topologica,MCM3AP
+HGNC:6947,0,0,1,1,Baja,MCM4
+HGNC:6950,1,0,1,2,Media,MCM7
+HGNC:6953,0,0,0,0,Sin evidencia topologica,CD46
+HGNC:6954,1,0,0,1,Baja,MCPH1
+HGNC:697,1,0,0,1,Baja,ARL6IP1
+HGNC:6971,1,0,1,2,Media,MDH2
+HGNC:6990,1,1,1,3,Alta,MECP2
+HGNC:6996,1,1,0,2,Media,MEF2C
+HGNC:6998,0,0,0,0,Sin evidencia topologica,MEFV
+HGNC:7001,0,0,0,0,Sin evidencia topologica,MEIS2
+HGNC:7010,1,1,1,3,Alta,MEN1
+HGNC:7013,0,0,0,0,Sin evidencia topologica,MEOX1
+HGNC:7027,0,0,0,0,Sin evidencia topologica,MERTK
+HGNC:7029,1,0,1,2,Media,MET
+HGNC:704,0,0,0,0,Sin evidencia topologica,ARPC1B
+HGNC:7045,0,0,0,0,Sin evidencia topologica,MGAT2
+HGNC:7060,0,0,0,0,Sin evidencia topologica,MGP
+HGNC:7067,0,1,0,1,Baja,CIITA
+HGNC:707,0,0,0,0,Sin evidencia topologica,ARPC4
+HGNC:708,0,0,0,0,Sin evidencia topologica,ARPC5
+HGNC:7090,0,0,0,0,Sin evidencia topologica,MICA
+HGNC:7095,0,0,0,0,Sin evidencia topologica,MID1
+HGNC:7097,0,0,0,0,Sin evidencia topologica,MIF
+HGNC:710,0,0,0,0,Sin evidencia topologica,ARR3
+HGNC:7102,0,0,0,0,Sin evidencia topologica,MINPP1
+HGNC:7103,1,0,0,1,Baja,MIP
+HGNC:7104,0,0,0,0,Sin evidencia topologica,MIPEP
+HGNC:7105,1,1,1,3,Alta,MITF
+HGNC:7108,0,1,0,1,Baja,MKKS
+HGNC:7121,1,1,0,2,Media,MKS1
+HGNC:7127,1,1,1,3,Alta,MLH1
+HGNC:713,0,1,0,1,Baja,ARSA
+HGNC:7132,1,1,1,3,Alta,KMT2A
+HGNC:7133,1,1,1,3,Alta,KMT2D
+HGNC:714,1,0,0,1,Baja,ARSB
+HGNC:7146,0,0,0,0,Sin evidencia topologica,TRPM1
+HGNC:7150,0,1,0,1,Baja,MLYCD
+HGNC:7154,0,0,1,1,Baja,MME
+HGNC:7159,1,0,0,1,Baja,MMP13
+HGNC:7161,0,0,0,0,Sin evidencia topologica,MMP15
+HGNC:7166,1,0,1,2,Media,MMP2
+HGNC:7167,1,0,0,1,Baja,MMP20
+HGNC:7176,1,0,1,2,Media,MMP9
+HGNC:7179,0,0,0,0,Sin evidencia topologica,ALDH6A1
+HGNC:7180,0,0,0,0,Sin evidencia topologica,MN1
+HGNC:719,0,0,0,0,Sin evidencia topologica,ARSE
+HGNC:7190,0,0,0,0,Sin evidencia topologica,MOCS1
+HGNC:7193,0,0,0,0,Sin evidencia topologica,MOCS2
+HGNC:7197,0,0,0,0,Sin evidencia topologica,MOG
+HGNC:7207,1,1,0,2,Media,MPDU1
+HGNC:7208,0,0,0,0,Sin evidencia topologica,MPDZ
+HGNC:7216,0,0,0,0,Sin evidencia topologica,MPI
+HGNC:7217,0,0,0,0,Sin evidencia topologica,MPL
+HGNC:7218,1,0,1,2,Media,MPO
+HGNC:7224,1,1,0,2,Media,MPV17
+HGNC:7225,0,1,0,1,Baja,MPZ
+HGNC:7227,0,0,0,0,Sin evidencia topologica,MRAS
+HGNC:7228,0,0,1,1,Baja,MRC1
+HGNC:7230,1,0,1,2,Media,MRE11
+HGNC:7237,0,0,0,0,Sin evidencia topologica,MRVI1
+HGNC:7315,0,1,0,1,Baja,MS4A1
+HGNC:7323,0,0,0,0,Sin evidencia topologica,SEPT9
+HGNC:7325,1,1,1,3,Alta,MSH2
+HGNC:7326,1,0,0,1,Baja,MSH3
+HGNC:7327,0,0,0,0,Sin evidencia topologica,MSH4
+HGNC:7328,0,0,0,0,Sin evidencia topologica,MSH5
+HGNC:7329,1,1,1,3,Alta,MSH6
+HGNC:735,0,1,0,1,Baja,ASAH1
+HGNC:7370,0,0,0,0,Sin evidencia topologica,MSL3
+HGNC:7373,0,0,1,1,Baja,MSN
+HGNC:7391,1,0,0,1,Baja,MSX1
+HGNC:7392,1,0,1,2,Media,MSX2
+HGNC:7413,0,0,0,0,Sin evidencia topologica,MTAP
+HGNC:7414,1,0,1,2,Media,MT-ATP6
+HGNC:7415,0,0,0,0,Sin evidencia topologica,MT-ATP8
+HGNC:7419,1,0,1,2,Media,MT-CO1
+HGNC:7421,1,0,1,2,Media,MT-CO2
+HGNC:7422,1,0,1,2,Media,MT-CO3
+HGNC:7427,1,0,1,2,Media,MT-CYB
+HGNC:7432,0,0,0,0,Sin evidencia topologica,MTHFD1
+HGNC:7436,1,0,0,1,Baja,MTHFR
+HGNC:7437,0,0,0,0,Sin evidencia topologica,MTHFS
+HGNC:7448,1,0,0,1,Baja,MTM1
+HGNC:7450,0,0,0,0,Sin evidencia topologica,MTMR2
+HGNC:7455,1,0,1,2,Media,MT-ND1
+HGNC:7456,1,0,1,2,Media,MT-ND2
+HGNC:7458,1,0,1,2,Media,MT-ND3
+HGNC:7459,1,0,1,2,Media,MT-ND4
+HGNC:746,0,0,0,0,Sin evidencia topologica,ASL
+HGNC:7460,0,0,1,1,Baja,MT-ND4L
+HGNC:7461,1,0,1,2,Media,MT-ND5
+HGNC:7462,0,0,1,1,Baja,MT-ND6
+HGNC:7467,1,0,0,1,Baja,MTTP
+HGNC:7468,1,1,0,2,Media,MTR
+HGNC:7473,0,0,0,0,Sin evidencia topologica,MTRR
+HGNC:7477,0,0,0,0,Sin evidencia topologica,MT-TC
+HGNC:7479,0,0,0,0,Sin evidencia topologica,MT-TE
+HGNC:7481,0,0,0,0,Sin evidencia topologica,MT-TF
+HGNC:7487,0,0,0,0,Sin evidencia topologica,MT-TH
+HGNC:7488,0,0,0,0,Sin evidencia topologica,MT-TI
+HGNC:7489,0,0,0,0,Sin evidencia topologica,MT-TK
+HGNC:7490,0,1,0,1,Baja,MT-TL1
+HGNC:7495,0,0,0,0,Sin evidencia topologica,MT-TQ
+HGNC:7497,0,0,0,0,Sin evidencia topologica,MT-TS1
+HGNC:7498,0,0,0,0,Sin evidencia topologica,MT-TS2
+HGNC:7499,0,0,0,0,Sin evidencia topologica,MT-TT
+HGNC:7500,0,0,0,0,Sin evidencia topologica,MT-TV
+HGNC:7501,0,0,0,0,Sin evidencia topologica,MT-TW
+HGNC:7506,0,0,0,0,Sin evidencia topologica,MTX2
+HGNC:7508,0,0,1,1,Baja,MUC1
+HGNC:7516,0,0,0,0,Sin evidencia topologica,MUC5B
+HGNC:752,0,0,0,0,Sin evidencia topologica,ASNA1
+HGNC:7523,0,0,1,1,Baja,TRIM37
+HGNC:7525,1,1,0,2,Media,MUSK
+HGNC:7526,1,0,0,1,Baja,MUT
+HGNC:7527,1,0,0,1,Baja,MUTYH
+HGNC:7529,0,0,0,0,Sin evidencia topologica,MVD
+HGNC:753,0,1,0,1,Baja,ASNS
+HGNC:7530,1,1,0,2,Media,MVK
+HGNC:7533,0,0,0,0,Sin evidencia topologica,MX2
+HGNC:7546,0,0,0,0,Sin evidencia topologica,MYBBP1A
+HGNC:7549,0,0,0,0,Sin evidencia topologica,MYBPC1
+HGNC:7551,1,0,0,1,Baja,MYBPC3
+HGNC:7559,1,0,1,2,Media,MYCN
+HGNC:756,0,0,0,0,Sin evidencia topologica,ASPA
+HGNC:7562,1,1,1,3,Alta,MYD88
+HGNC:7565,0,0,0,0,Sin evidencia topologica,MYF5
+HGNC:7567,0,0,0,0,Sin evidencia topologica,MYH1
+HGNC:7568,0,0,0,0,Sin evidencia topologica,MYH10
+HGNC:7569,1,0,1,2,Media,MYH11
+HGNC:757,0,0,0,0,Sin evidencia topologica,ASPH
+HGNC:7572,0,0,0,0,Sin evidencia topologica,MYH2
+HGNC:7573,1,1,0,2,Media,MYH3
+HGNC:7576,1,0,1,2,Media,MYH6
+HGNC:7577,1,1,1,3,Alta,MYH7
+HGNC:7578,0,0,0,0,Sin evidencia topologica,MYH8
+HGNC:7579,1,1,1,3,Alta,MYH9
+HGNC:758,1,0,1,2,Media,ASS1
+HGNC:7582,0,0,0,0,Sin evidencia topologica,MYL1
+HGNC:7583,1,0,1,2,Media,MYL2
+HGNC:7584,1,0,0,1,Baja,MYL3
+HGNC:7590,0,0,0,0,Sin evidencia topologica,MYLK
+HGNC:7594,1,1,0,2,Media,MYO15A
+HGNC:7599,1,0,0,1,Baja,MYO1E
+HGNC:76,1,0,1,2,Media,ABL1
+HGNC:7601,1,0,0,1,Baja,MYO3A
+HGNC:7602,0,1,0,1,Baja,MYO5A
+HGNC:7603,1,1,0,2,Media,MYO5B
+HGNC:7605,1,1,1,3,Alta,MYO6
+HGNC:7606,1,1,0,2,Media,MYO7A
+HGNC:7608,0,0,0,0,Sin evidencia topologica,MYO9A
+HGNC:7610,1,0,0,1,Baja,MYOC
+HGNC:7611,1,0,1,2,Media,MYOD1
+HGNC:7618,0,0,0,0,Sin evidencia topologica,PPP1R12A
+HGNC:7622,0,0,0,0,Sin evidencia topologica,MYT1
+HGNC:7623,0,0,0,0,Sin evidencia topologica,MYT1L
+HGNC:7631,0,1,0,1,Baja,NAGA
+HGNC:7632,1,0,0,1,Baja,NAGLU
+HGNC:7643,0,0,0,0,Sin evidencia topologica,NARS
+HGNC:7648,0,0,0,0,Sin evidencia topologica,NBEA
+HGNC:7652,0,1,0,1,Baja,NBN
+HGNC:7660,0,0,0,0,Sin evidencia topologica,NCF1
+HGNC:7661,0,0,0,0,Sin evidencia topologica,NCF2
+HGNC:7662,0,1,0,1,Baja,NCF4
+HGNC:7666,0,0,0,0,Sin evidencia topologica,NCKAP1
+HGNC:7677,0,0,0,0,Sin evidencia topologica,NSMCE3
+HGNC:7678,0,1,0,1,Baja,NDP
+HGNC:7679,0,0,0,0,Sin evidencia topologica,NDRG1
+HGNC:7680,0,0,0,0,Sin evidencia topologica,NDST1
+HGNC:7683,0,1,1,2,Media,NDUFA1
+HGNC:7684,1,1,1,3,Alta,NDUFA10
+HGNC:7685,1,1,1,3,Alta,NDUFA2
+HGNC:7686,0,0,1,1,Baja,NDUFA3
+HGNC:7687,1,0,1,2,Media,NDUFA4
+HGNC:7688,1,0,1,2,Media,NDUFA5
+HGNC:7690,1,0,1,2,Media,NDUFA6
+HGNC:7691,0,0,1,1,Baja,NDUFA7
+HGNC:7692,1,0,1,2,Media,NDUFA8
+HGNC:7693,1,1,1,3,Alta,NDUFA9
+HGNC:7694,1,0,1,2,Media,NDUFAB1
+HGNC:7695,0,0,0,0,Sin evidencia topologica,NDUFB1
+HGNC:7696,1,0,1,2,Media,NDUFB10
+HGNC:7697,0,0,1,1,Baja,NDUFB2
+HGNC:7698,0,1,1,2,Media,NDUFB3
+HGNC:7699,0,0,1,1,Baja,NDUFB4
+HGNC:7700,0,0,1,1,Baja,NDUFB5
+HGNC:7701,0,0,1,1,Baja,NDUFB6
+HGNC:7702,1,0,1,2,Media,NDUFB7
+HGNC:7703,1,0,1,2,Media,NDUFB8
+HGNC:7704,1,1,1,3,Alta,NDUFB9
+HGNC:7705,0,0,0,0,Sin evidencia topologica,NDUFC1
+HGNC:7706,0,0,1,1,Baja,NDUFC2
+HGNC:7707,1,1,1,3,Alta,NDUFS1
+HGNC:7708,1,1,1,3,Alta,NDUFS2
+HGNC:7710,1,1,1,3,Alta,NDUFS3
+HGNC:7711,1,1,1,3,Alta,NDUFS4
+HGNC:7712,0,0,1,1,Baja,NDUFS5
+HGNC:7713,1,1,1,3,Alta,NDUFS6
+HGNC:7714,1,1,1,3,Alta,NDUFS7
+HGNC:7715,1,1,1,3,Alta,NDUFS8
+HGNC:7716,1,1,1,3,Alta,NDUFV1
+HGNC:7717,1,1,1,3,Alta,NDUFV2
+HGNC:7719,0,0,1,1,Baja,NDUFV3
+HGNC:7720,0,0,0,0,Sin evidencia topologica,NEB
+HGNC:7728,1,0,1,2,Media,NEDD4L
+HGNC:773,0,0,0,0,Sin evidencia topologica,ASTN1
+HGNC:7737,1,0,0,1,Baja,NEFH
+HGNC:7739,1,1,1,3,Alta,NEFL
+HGNC:7744,1,0,0,1,Baja,NEK1
+HGNC:775,0,1,0,1,Baja,SERPINC1
+HGNC:7758,0,1,0,1,Baja,NEU1
+HGNC:7762,1,0,0,1,Baja,NEUROD1
+HGNC:7763,0,0,0,0,Sin evidencia topologica,NEUROD2
+HGNC:7764,0,0,0,0,Sin evidencia topologica,NEUROG1
+HGNC:7765,1,1,1,3,Alta,NF1
+HGNC:777,0,0,0,0,Sin evidencia topologica,ZFHX3
+HGNC:7773,1,0,0,1,Baja,NF2
+HGNC:7774,0,0,0,0,Sin evidencia topologica,NFAT5
+HGNC:7782,1,0,1,2,Media,NFE2L2
+HGNC:7784,0,0,0,0,Sin evidencia topologica,NFIA
+HGNC:7785,0,0,0,0,Sin evidencia topologica,NFIB
+HGNC:7788,0,1,0,1,Baja,NFIX
+HGNC:779,0,0,0,0,Sin evidencia topologica,ATCAY
+HGNC:7794,1,1,1,3,Alta,NFKB1
+HGNC:7795,1,0,0,1,Baja,NFKB2
+HGNC:7797,1,0,1,2,Media,NFKBIA
+HGNC:7801,0,0,0,0,Sin evidencia topologica,TONSL
+HGNC:7808,1,0,1,2,Media,NGF
+HGNC:7820,0,0,0,0,Sin evidencia topologica,NHS
+HGNC:7821,0,0,0,0,Sin evidencia topologica,NID1
+HGNC:7835,0,0,0,0,Sin evidencia topologica,NKX2-2
+HGNC:785,0,0,0,0,Sin evidencia topologica,ATF3
+HGNC:7853,0,0,0,0,Sin evidencia topologica,NME5
+HGNC:7863,0,0,0,0,Sin evidencia topologica,NNT
+HGNC:7865,0,1,0,1,Baja,NODAL
+HGNC:7866,1,0,0,1,Baja,NOG
+HGNC:7871,0,0,1,1,Baja,NONO
+HGNC:7873,0,0,1,1,Baja,NOS2
+HGNC:7876,0,0,1,1,Baja,NOS3
+HGNC:7877,0,0,0,0,Sin evidencia topologica,CNOT1
+HGNC:7878,0,0,0,0,Sin evidencia topologica,CNOT2
+HGNC:7879,0,0,0,0,Sin evidencia topologica,CNOT3
+HGNC:7881,1,0,1,2,Media,NOTCH1
+HGNC:7882,1,1,1,3,Alta,NOTCH2
+HGNC:7883,1,1,1,3,Alta,NOTCH3
+HGNC:7887,0,0,0,0,Sin evidencia topologica,NOVA2
+HGNC:7892,0,1,0,1,Baja,PNP
+HGNC:7897,1,1,0,2,Media,NPC1
+HGNC:79,0,0,0,0,Sin evidencia topologica,ABO
+HGNC:7905,1,1,0,2,Media,NPHP1
+HGNC:7907,1,1,0,2,Media,NPHP3
+HGNC:7908,1,0,0,1,Baja,NPHS1
+HGNC:791,0,0,0,0,Sin evidencia topologica,ATF6
+HGNC:7910,1,0,1,2,Media,NPM1
+HGNC:794,1,0,1,2,Media,ATIC
+HGNC:7944,0,0,0,0,Sin evidencia topologica,NPR2
+HGNC:7945,0,0,0,0,Sin evidencia topologica,NPR3
+HGNC:795,1,0,1,2,Media,ATM
+HGNC:7952,0,0,0,0,Sin evidencia topologica,NPTX1
+HGNC:7960,1,0,0,1,Baja,NR0B1
+HGNC:7967,1,0,0,1,Baja,NR1H4
+HGNC:797,0,0,0,0,Sin evidencia topologica,ATOH1
+HGNC:7974,1,0,0,1,Baja,NR2E3
+HGNC:7975,1,0,0,1,Baja,NR2F1
+HGNC:7976,1,0,0,1,Baja,NR2F2
+HGNC:7978,0,0,1,1,Baja,NR3C1
+HGNC:7979,1,1,0,2,Media,NR3C2
+HGNC:7981,0,0,0,0,Sin evidencia topologica,NR4A2
+HGNC:7983,1,1,0,2,Media,NR5A1
+HGNC:7985,0,0,0,0,Sin evidencia topologica,NR6A1
+HGNC:7988,0,0,0,0,Sin evidencia topologica,NRAP
+HGNC:7989,1,1,1,3,Alta,NRAS
+HGNC:799,0,0,1,1,Baja,ATP1A1
+HGNC:7994,0,0,0,0,Sin evidencia topologica,NRCAM
+HGNC:7995,0,0,0,0,Sin evidencia topologica,NRDC
+HGNC:7997,0,0,0,0,Sin evidencia topologica,NRG1
+HGNC:7999,0,0,0,0,Sin evidencia topologica,NRG3
+HGNC:800,1,1,0,2,Media,ATP1A2
+HGNC:8002,1,0,0,1,Baja,NRL
+HGNC:8008,1,0,1,2,Media,NRXN1
+HGNC:801,1,1,0,2,Media,ATP1A3
+HGNC:8011,0,0,0,0,Sin evidencia topologica,CNTNAP1
+HGNC:8016,1,0,1,2,Media,NSF
+HGNC:8021,0,0,1,1,Baja,NT5E
+HGNC:8022,0,1,0,1,Baja,NT5C2
+HGNC:8028,1,0,0,1,Baja,NTHL1
+HGNC:8029,0,0,0,0,Sin evidencia topologica,NTN1
+HGNC:8031,1,0,1,2,Media,NTRK1
+HGNC:8032,1,0,1,2,Media,NTRK2
+HGNC:8049,0,0,0,0,Sin evidencia topologica,NUDT2
+HGNC:8053,0,0,0,0,Sin evidencia topologica,NUDT6
+HGNC:8064,0,0,0,0,Sin evidencia topologica,NUP214
+HGNC:8066,0,0,0,0,Sin evidencia topologica,NUP62
+HGNC:8067,0,0,0,0,Sin evidencia topologica,NUP88
+HGNC:8068,0,0,1,1,Baja,NUP98
+HGNC:8079,0,0,0,0,Sin evidencia topologica,FRMD7
+HGNC:8082,0,0,0,0,Sin evidencia topologica,NYX
+HGNC:8086,0,0,0,0,Sin evidencia topologica,OAS1
+HGNC:8091,1,0,0,1,Baja,OAT
+HGNC:8101,1,1,0,2,Media,OCA2
+HGNC:8104,1,1,1,3,Alta,OCLN
+HGNC:8108,0,1,0,1,Baja,OCRL
+HGNC:8109,0,0,0,0,Sin evidencia topologica,ODC1
+HGNC:811,1,0,0,1,Baja,ATP2A1
+HGNC:812,0,0,1,1,Baja,ATP2A2
+HGNC:8124,1,1,1,3,Alta,OGDH
+HGNC:8127,1,0,0,1,Baja,OGT
+HGNC:8138,0,0,0,0,Sin evidencia topologica,ONECUT1
+HGNC:814,0,0,0,0,Sin evidencia topologica,ATP2B1
+HGNC:8140,0,0,0,0,Sin evidencia topologica,OPA1
+HGNC:8142,0,1,0,1,Baja,OPA3
+HGNC:8148,0,1,0,1,Baja,OPHN1
+HGNC:8149,0,0,0,0,Sin evidencia topologica,OPLAH
+HGNC:815,0,0,0,0,Sin evidencia topologica,ATP2B2
+HGNC:8157,0,1,0,1,Baja,SIGMAR1
+HGNC:816,0,0,0,0,Sin evidencia topologica,ATP2B3
+HGNC:823,1,0,1,2,Media,ATP5A1
+HGNC:830,1,0,1,2,Media,ATP5B
+HGNC:833,1,0,1,2,Media,ATP5C1
+HGNC:837,1,0,1,2,Media,ATP5D
+HGNC:838,0,0,1,1,Baja,ATP5E
+HGNC:84,1,0,1,2,Media,ACACA
+HGNC:841,1,0,1,2,Media,ATP5G1
+HGNC:842,1,0,1,2,Media,ATP5G2
+HGNC:843,1,0,1,2,Media,ATP5G3
+HGNC:846,0,0,1,1,Baja,ATP5I
+HGNC:847,0,0,1,1,Baja,ATP5J
+HGNC:8487,1,1,0,2,Media,ORC1
+HGNC:8490,0,0,0,0,Sin evidencia topologica,ORC4
+HGNC:850,1,0,1,2,Media,ATP5O
+HGNC:8507,0,1,0,1,Baja,OSMR
+HGNC:851,1,0,0,1,Baja,ATP6V1A
+HGNC:8512,1,1,0,2,Media,OTC
+HGNC:8514,0,0,0,0,Sin evidencia topologica,CLDN11
+HGNC:8515,1,0,0,1,Baja,OTOF
+HGNC:8516,0,0,0,0,Sin evidencia topologica,OTOG
+HGNC:8522,1,1,1,3,Alta,OTX2
+HGNC:8526,1,0,1,2,Media,OXA1L
+HGNC:8527,0,0,0,0,Sin evidencia topologica,OXCT1
+HGNC:853,1,1,0,2,Media,ATP6V1B1
+HGNC:8533,0,0,0,0,Sin evidencia topologica,P2RX1
+HGNC:854,0,0,0,0,Sin evidencia topologica,ATP6V1B2
+HGNC:8548,1,1,1,3,Alta,P4HB
+HGNC:8549,1,1,0,2,Media,BLOC1S6
+HGNC:855,0,0,0,0,Sin evidencia topologica,ATP6V0C
+HGNC:8554,1,0,1,2,Media,PABPC1
+HGNC:8565,0,1,0,1,Baja,PABPN1
+HGNC:8568,0,0,1,1,Baja,FURIN
+HGNC:857,0,0,0,0,Sin evidencia topologica,ATP6V1E1
+HGNC:8572,0,0,0,0,Sin evidencia topologica,PACSIN3
+HGNC:8574,1,1,0,2,Media,PAFAH1B1
+HGNC:8582,0,0,0,0,Sin evidencia topologica,PAH
+HGNC:8583,1,0,1,2,Media,SERPINE1
+HGNC:8587,0,0,0,0,Sin evidencia topologica,PAICS
+HGNC:8590,1,0,1,2,Media,PAK1
+HGNC:8591,1,0,1,2,Media,PAK2
+HGNC:8592,0,0,0,0,Sin evidencia topologica,PAK3
+HGNC:8604,0,0,0,0,Sin evidencia topologica,PAPSS2
+HGNC:8607,1,0,1,2,Media,PRKN
+HGNC:8609,1,1,0,2,Media,PARN
+HGNC:8615,0,0,0,0,Sin evidencia topologica,PAX1
+HGNC:8616,1,1,0,2,Media,PAX2
+HGNC:8617,1,1,1,3,Alta,PAX3
+HGNC:8618,0,0,0,0,Sin evidencia topologica,PAX4
+HGNC:8619,0,0,0,0,Sin evidencia topologica,PAX5
+HGNC:8620,1,1,1,3,Alta,PAX6
+HGNC:8621,1,0,0,1,Baja,PAX7
+HGNC:8622,0,0,0,0,Sin evidencia topologica,PAX8
+HGNC:8623,0,0,0,0,Sin evidencia topologica,PAX9
+HGNC:8632,0,0,0,0,Sin evidencia topologica,PBX1
+HGNC:8636,1,1,1,3,Alta,PC
+HGNC:8638,0,0,1,1,Baja,KAT2B
+HGNC:8646,0,0,0,0,Sin evidencia topologica,PCBD1
+HGNC:8648,1,0,1,2,Media,PCBP2
+HGNC:865,0,0,0,0,Sin evidencia topologica,ATP6V0A1
+HGNC:8653,1,1,0,2,Media,PCCA
+HGNC:8654,1,1,0,2,Media,PCCB
+HGNC:8657,0,0,0,0,Sin evidencia topologica,PCDH12
+HGNC:866,0,1,0,1,Baja,ATP6V0A4
+HGNC:868,0,0,0,0,Sin evidencia topologica,ATP6AP1
+HGNC:869,0,0,0,0,Sin evidencia topologica,ATP7A
+HGNC:87,0,0,0,0,Sin evidencia topologica,ACAD8
+HGNC:870,0,0,0,0,Sin evidencia topologica,ATP7B
+HGNC:8717,0,0,0,0,Sin evidencia topologica,PCDHGC4
+HGNC:8724,1,0,0,1,Baja,PCK1
+HGNC:8725,0,0,0,0,Sin evidencia topologica,PCK2
+HGNC:8734,0,0,0,0,Sin evidencia topologica,NUP85
+HGNC:8740,0,1,0,1,Baja,CHMP1A
+HGNC:8743,1,0,0,1,Baja,PCSK1
+HGNC:8749,0,0,0,0,Sin evidencia topologica,CDK16
+HGNC:8754,0,0,0,0,Sin evidencia topologica,PCYT1A
+HGNC:8756,0,0,0,0,Sin evidencia topologica,PCYT2
+HGNC:8761,0,0,0,0,Sin evidencia topologica,PDCD10
+HGNC:8762,0,0,0,0,Sin evidencia topologica,PDCD2
+HGNC:8766,0,0,0,0,Sin evidencia topologica,PDCD6IP
+HGNC:8768,1,1,1,3,Alta,AIFM1
+HGNC:877,1,0,1,2,Media,ALDH7A1
+HGNC:8772,0,0,0,0,Sin evidencia topologica,PDE10A
+HGNC:8775,0,0,0,0,Sin evidencia topologica,PDE1B
+HGNC:8777,0,0,0,0,Sin evidencia topologica,PDE2A
+HGNC:8778,0,0,0,0,Sin evidencia topologica,PDE3A
+HGNC:8783,0,0,0,0,Sin evidencia topologica,PDE4D
+HGNC:8785,1,0,0,1,Baja,PDE6A
+HGNC:8786,1,1,1,3,Alta,PDE6B
+HGNC:8787,0,0,0,0,Sin evidencia topologica,PDE6C
+HGNC:8788,0,0,0,0,Sin evidencia topologica,PDE6D
+HGNC:8789,1,0,0,1,Baja,PDE6G
+HGNC:8790,0,0,0,0,Sin evidencia topologica,PDE6H
+HGNC:8800,0,0,1,1,Baja,PDGFB
+HGNC:8803,1,0,1,2,Media,PDGFRA
+HGNC:8804,1,0,1,2,Media,PDGFRB
+HGNC:8806,1,1,1,3,Alta,PDHA1
+HGNC:8808,1,0,1,2,Media,PDHB
+HGNC:8811,0,0,0,0,Sin evidencia topologica,PDK3
+HGNC:8818,1,0,0,1,Baja,SLC26A4
+HGNC:8819,0,0,0,0,Sin evidencia topologica,PDXK
+HGNC:882,1,1,1,3,Alta,ATR
+HGNC:8820,0,0,0,0,Sin evidencia topologica,PDYN
+HGNC:8824,0,0,0,0,Sin evidencia topologica,SERPINF1
+HGNC:8840,0,1,0,1,Baja,PEPD
+HGNC:8849,0,0,0,0,Sin evidencia topologica,GATB
+HGNC:8850,0,1,0,1,Baja,PEX1
+HGNC:8851,0,1,0,1,Baja,PEX10
+HGNC:8853,0,1,0,1,Baja,PEX11B
+HGNC:8854,1,1,0,2,Media,PEX12
+HGNC:8855,0,1,0,1,Baja,PEX13
+HGNC:8856,1,1,0,2,Media,PEX14
+HGNC:8857,0,1,0,1,Baja,PEX16
+HGNC:8858,1,1,0,2,Media,PEX3
+HGNC:8859,1,1,0,2,Media,PEX6
+HGNC:886,1,1,1,3,Alta,ATRX
+HGNC:8860,0,1,0,1,Baja,PEX7
+HGNC:8864,0,0,0,0,Sin evidencia topologica,CFP
+HGNC:8877,1,0,0,1,Baja,PFKM
+HGNC:888,1,1,0,2,Media,KIF1A
+HGNC:8881,0,0,1,1,Baja,PFN1
+HGNC:8889,1,0,0,1,Baja,PGAM2
+HGNC:8896,1,1,1,3,Alta,PGK1
+HGNC:89,1,1,1,3,Alta,ACADM
+HGNC:890,0,1,0,1,Baja,AUH
+HGNC:8905,1,0,1,2,Media,PGM1
+HGNC:8907,0,1,0,1,Baja,PGM3
+HGNC:8918,0,1,0,1,Baja,PHEX
+HGNC:8923,1,1,1,3,Alta,PHGDH
+HGNC:8925,0,1,0,1,Baja,PHKA1
+HGNC:8926,0,1,0,1,Baja,PHKA2
+HGNC:8927,0,0,0,0,Sin evidencia topologica,PHKB
+HGNC:8931,0,0,0,0,Sin evidencia topologica,PHKG2
+HGNC:8940,1,1,0,2,Media,PHYH
+HGNC:8941,0,0,1,1,Baja,SERPINA1
+HGNC:8943,0,0,0,0,Sin evidencia topologica,SERPINI1
+HGNC:8950,0,0,0,0,Sin evidencia topologica,SERPINB6
+HGNC:8952,0,0,0,0,Sin evidencia topologica,SERPINB8
+HGNC:8957,1,0,0,1,Baja,PIGA
+HGNC:8959,0,0,0,0,Sin evidencia topologica,PIGB
+HGNC:8960,0,0,0,0,Sin evidencia topologica,PIGC
+HGNC:8964,0,0,0,0,Sin evidencia topologica,PIGH
+HGNC:8965,0,0,0,0,Sin evidencia topologica,PIGK
+HGNC:8966,1,0,0,1,Baja,PIGL
+HGNC:8967,1,1,0,2,Media,PIGN
+HGNC:897,0,1,0,1,Baja,AVPR2
+HGNC:8971,0,0,0,0,Sin evidencia topologica,PIK3C2A
+HGNC:8975,1,1,1,3,Alta,PIK3CA
+HGNC:8977,0,1,1,2,Media,PIK3CD
+HGNC:8978,0,0,1,1,Baja,PIK3CG
+HGNC:8979,1,1,1,3,Alta,PIK3R1
+HGNC:8980,0,1,1,2,Media,PIK3R2
+HGNC:8983,0,0,0,0,Sin evidencia topologica,PI4KA
+HGNC:8996,0,0,0,0,Sin evidencia topologica,PIP5K1C
+HGNC:8999,0,0,0,0,Sin evidencia topologica,PISD
+HGNC:90,1,1,0,2,Media,ACADS
+HGNC:9004,0,0,0,0,Sin evidencia topologica,PITX1
+HGNC:9005,1,0,0,1,Baja,PITX2
+HGNC:9006,1,0,0,1,Baja,PITX3
+HGNC:9008,1,1,0,2,Media,PKD1
+HGNC:9009,1,0,0,1,Baja,PKD2
+HGNC:9016,1,0,0,1,Baja,PKHD1
+HGNC:9020,1,0,0,1,Baja,PKLR
+HGNC:9023,1,1,0,2,Media,PKP1
+HGNC:9024,1,0,0,1,Baja,PKP2
+HGNC:903,1,1,1,3,Alta,AXIN1
+HGNC:9035,0,0,0,0,Sin evidencia topologica,PLA2G4A
+HGNC:9038,0,0,0,0,Sin evidencia topologica,PLA2G5
+HGNC:9039,1,1,0,2,Media,PLA2G6
+HGNC:904,1,0,1,2,Media,AXIN2
+HGNC:9043,0,0,0,0,Sin evidencia topologica,PLAA
+HGNC:9045,0,0,0,0,Sin evidencia topologica,PLAG1
+HGNC:9051,1,1,0,2,Media,PLAT
+HGNC:9052,1,1,1,3,Alta,PLAU
+HGNC:9059,0,0,0,0,Sin evidencia topologica,PLCB4
+HGNC:9065,0,0,1,1,Baja,PLCG1
+HGNC:9066,0,1,1,2,Media,PLCG2
+HGNC:9067,0,0,0,0,Sin evidencia topologica,PLD1
+HGNC:9069,1,0,1,2,Media,PLEC
+HGNC:9071,1,0,1,2,Media,PLG
+HGNC:9075,0,0,0,0,Sin evidencia topologica,SERPINF2
+HGNC:9076,0,0,0,0,Sin evidencia topologica,PLIN1
+HGNC:9077,1,0,1,2,Media,PLK1
+HGNC:9080,0,1,0,1,Baja,PLN
+HGNC:9081,1,1,0,2,Media,PLOD1
+HGNC:9082,1,0,0,1,Baja,PLOD2
+HGNC:9083,0,0,0,0,Sin evidencia topologica,PLOD3
+HGNC:9086,1,1,0,2,Media,PLP1
+HGNC:9090,0,0,0,0,Sin evidencia topologica,PLS1
+HGNC:9091,1,0,0,1,Baja,PLS3
+HGNC:9099,0,0,0,0,Sin evidencia topologica,PLXNA1
+HGNC:91,0,1,0,1,Baja,ACADSB
+HGNC:9100,0,0,0,0,Sin evidencia topologica,PLXNA2
+HGNC:9101,0,0,0,0,Sin evidencia topologica,PLXNA3
+HGNC:9104,0,0,0,0,Sin evidencia topologica,PLXNB2
+HGNC:9107,0,0,0,0,Sin evidencia topologica,PLXND1
+HGNC:9115,1,1,0,2,Media,PMM2
+HGNC:9117,0,0,0,0,Sin evidencia topologica,PMP2
+HGNC:9118,0,1,0,1,Baja,PMP22
+HGNC:9119,1,0,1,2,Media,PMPCB
+HGNC:9122,1,1,0,2,Media,PMS2
+HGNC:9126,0,0,0,0,Sin evidencia topologica,GIGYF1
+HGNC:9137,0,0,0,0,Sin evidencia topologica,EXOSC9
+HGNC:914,1,0,1,2,Media,B2M
+HGNC:9141,0,0,0,0,Sin evidencia topologica,PMVK
+HGNC:9142,0,1,0,1,Baja,PRRX1
+HGNC:9143,1,0,0,1,Baja,PHOX2B
+HGNC:9153,0,0,0,0,Sin evidencia topologica,PNKD
+HGNC:9154,0,1,0,1,Baja,PNKP
+HGNC:9171,0,0,0,0,Sin evidencia topologica,PODXL
+HGNC:9173,0,0,0,0,Sin evidencia topologica,POLA1
+HGNC:9175,1,0,1,2,Media,POLD1
+HGNC:9176,0,0,0,0,Sin evidencia topologica,POLD2
+HGNC:9177,1,1,1,3,Alta,POLE
+HGNC:9178,0,0,0,0,Sin evidencia topologica,POLE2
+HGNC:9179,1,1,0,2,Media,POLG
+HGNC:9180,1,1,0,2,Media,POLG2
+HGNC:9181,0,0,0,0,Sin evidencia topologica,POLH
+HGNC:9187,1,0,1,2,Media,POLR2A
+HGNC:9189,0,0,1,1,Baja,POLR2C
+HGNC:92,1,1,1,3,Alta,ACADVL
+HGNC:9200,0,0,0,0,Sin evidencia topologica,POLRMT
+HGNC:9201,1,0,1,2,Media,POMC
+HGNC:9202,1,1,0,2,Media,POMT1
+HGNC:9208,0,1,0,1,Baja,POR
+HGNC:9210,1,1,0,2,Media,POU1F1
+HGNC:9215,1,0,0,1,Baja,POU3F2
+HGNC:9216,0,0,0,0,Sin evidencia topologica,POU3F3
+HGNC:9217,1,0,0,1,Baja,POU3F4
+HGNC:9218,0,0,0,0,Sin evidencia topologica,POU4F1
+HGNC:9220,1,0,0,1,Baja,POU4F3
+HGNC:9221,0,0,1,1,Baja,POU5F1
+HGNC:923,0,1,0,1,Baja,B3GAT3
+HGNC:9236,1,1,1,3,Alta,PPARG
+HGNC:924,1,0,0,1,Baja,B4GALT1
+HGNC:9247,0,0,0,0,Sin evidencia topologica,PPFIA3
+HGNC:9249,0,0,0,0,Sin evidencia topologica,PPFIBP1
+HGNC:9251,0,0,0,0,Sin evidencia topologica,CTSA
+HGNC:9255,1,0,1,2,Media,PPIB
+HGNC:9260,0,0,0,0,Sin evidencia topologica,PPIL1
+HGNC:9277,0,1,0,1,Baja,PPM1D
+HGNC:9279,0,1,0,1,Baja,PDP1
+HGNC:9280,0,0,0,0,Sin evidencia topologica,PPOX
+HGNC:9282,1,0,1,2,Media,PPP1CB
+HGNC:9299,1,0,1,2,Media,PPP2CA
+HGNC:93,1,0,1,2,Media,ACAT1
+HGNC:930,1,0,0,1,Baja,B4GALT7
+HGNC:9302,1,1,1,3,Alta,PPP2R1A
+HGNC:9305,0,0,0,0,Sin evidencia topologica,PPP2R2B
+HGNC:9308,0,0,0,0,Sin evidencia topologica,PTPA
+HGNC:9311,0,0,0,0,Sin evidencia topologica,PPP2R5C
+HGNC:9312,0,0,0,0,Sin evidencia topologica,PPP2R5D
+HGNC:9314,0,0,0,0,Sin evidencia topologica,PPP3CA
+HGNC:932,1,0,0,1,Baja,BAAT
+HGNC:9325,0,1,0,1,Baja,PPT1
+HGNC:9330,0,1,0,1,Baja,PQBP1
+HGNC:9349,0,1,0,1,Baja,PRDM5
+HGNC:9350,0,0,0,0,Sin evidencia topologica,PRDM6
+HGNC:9354,0,0,1,1,Baja,PRDX3
+HGNC:9359,0,0,0,0,Sin evidencia topologica,SLC26A5
+HGNC:9360,1,0,1,2,Media,PRF1
+HGNC:9364,0,0,0,0,Sin evidencia topologica,PRG4
+HGNC:9369,0,0,0,0,Sin evidencia topologica,PRIM1
+HGNC:9380,1,0,1,2,Media,PRKACA
+HGNC:9381,1,0,1,2,Media,PRKACB
+HGNC:9386,1,1,0,2,Media,PRKAG2
+HGNC:9388,1,1,1,3,Alta,PRKAR1A
+HGNC:939,1,1,1,3,Alta,BAG3
+HGNC:9390,0,0,0,0,Sin evidencia topologica,PRKAR1B
+HGNC:9397,0,0,0,0,Sin evidencia topologica,ZMYND8
+HGNC:9399,0,1,1,2,Media,PRKCD
+HGNC:9402,1,1,1,3,Alta,PRKCG
+HGNC:9404,0,0,0,0,Sin evidencia topologica,PRKCI
+HGNC:9407,0,0,0,0,Sin evidencia topologica,PRKD1
+HGNC:9411,1,1,0,2,Media,PRKCSH
+HGNC:9413,1,0,1,2,Media,PRKDC
+HGNC:9414,0,0,0,0,Sin evidencia topologica,PRKG1
+HGNC:9416,0,0,0,0,Sin evidencia topologica,PRKG2
+HGNC:9437,1,0,1,2,Media,EIF2AK2
+HGNC:9438,0,1,0,1,Baja,PRKRA
+HGNC:9439,0,0,0,0,Sin evidencia topologica,DNAJC3
+HGNC:9449,1,1,0,2,Media,PRNP
+HGNC:9451,0,0,0,0,Sin evidencia topologica,PROC
+HGNC:9452,0,0,0,0,Sin evidencia topologica,PROCR
+HGNC:9453,0,0,0,0,Sin evidencia topologica,PRODH
+HGNC:9454,1,0,1,2,Media,PROM1
+HGNC:9455,1,1,0,2,Media,PROP1
+HGNC:9456,1,0,0,1,Baja,PROS1
+HGNC:9457,0,0,0,0,Sin evidencia topologica,PLPBP
+HGNC:9460,0,0,0,0,Sin evidencia topologica,PROZ
+HGNC:9461,0,0,0,0,Sin evidencia topologica,PRPH
+HGNC:9462,1,1,0,2,Media,PRPS1
+HGNC:947,1,0,0,1,Baja,BAIAP2
+HGNC:9475,1,0,0,1,Baja,PRSS1
+HGNC:9476,0,1,0,1,Baja,HTRA1
+HGNC:9477,0,0,0,0,Sin evidencia topologica,PRSS12
+HGNC:9479,0,1,1,2,Media,LONP1
+HGNC:9490,0,1,0,1,Baja,TMPRSS15
+HGNC:9498,0,1,0,1,Baja,PSAP
+HGNC:95,1,1,0,2,Media,SLC33A1
+HGNC:950,0,1,1,2,Media,BAP1
+HGNC:9508,1,1,1,3,Alta,PSEN1
+HGNC:9509,1,0,0,1,Baja,PSEN2
+HGNC:951,0,0,0,0,Sin evidencia topologica,NKX3-2
+HGNC:952,0,0,1,1,Baja,BARD1
+HGNC:9529,0,0,0,0,Sin evidencia topologica,PSKH1
+HGNC:9532,0,0,1,1,Baja,PSMA3
+HGNC:9538,0,0,0,0,Sin evidencia topologica,PSMB10
+HGNC:9541,0,0,1,1,Baja,PSMB4
+HGNC:9545,1,1,0,2,Media,PSMB8
+HGNC:9546,0,0,0,0,Sin evidencia topologica,PSMB9
+HGNC:9549,1,0,1,2,Media,PSMC3
+HGNC:9552,1,0,1,2,Media,PSMC5
+HGNC:9557,0,0,1,1,Baja,PSMD12
+HGNC:9571,1,0,0,1,Baja,PSMF1
+HGNC:9577,0,1,0,1,Baja,PSPH
+HGNC:9580,1,0,0,1,Baja,PSTPIP1
+HGNC:9583,1,0,1,2,Media,PTBP1
+HGNC:9585,1,1,1,3,Alta,PTCH1
+HGNC:9586,0,0,0,0,Sin evidencia topologica,PTCH2
+HGNC:9587,0,1,0,1,Baja,PTDSS1
+HGNC:9588,1,1,1,3,Alta,PTEN
+HGNC:9604,0,0,0,0,Sin evidencia topologica,PTGS1
+HGNC:9606,0,0,0,0,Sin evidencia topologica,PTH
+HGNC:9607,1,0,0,1,Baja,PTHLH
+HGNC:9608,1,1,0,2,Media,PTH1R
+HGNC:963,0,0,0,0,Sin evidencia topologica,BAZ2B
+HGNC:9639,0,0,0,0,Sin evidencia topologica,HACD1
+HGNC:9642,0,0,1,1,Baja,PTPN1
+HGNC:9644,1,1,1,3,Alta,PTPN11
+HGNC:9646,0,0,0,0,Sin evidencia topologica,PTPN13
+HGNC:9647,1,0,0,1,Baja,PTPN14
+HGNC:9650,0,0,0,0,Sin evidencia topologica,PTPN2
+HGNC:9656,0,0,0,0,Sin evidencia topologica,PTPN4
+HGNC:966,1,1,0,2,Media,BBS1
+HGNC:9666,1,0,1,2,Media,PTPRC
+HGNC:967,1,1,0,2,Media,BBS2
+HGNC:9673,0,0,0,0,Sin evidencia topologica,PTPRJ
+HGNC:9678,0,0,0,0,Sin evidencia topologica,PTPRO
+HGNC:9679,0,0,0,0,Sin evidencia topologica,PTPRQ
+HGNC:9688,1,0,0,1,Baja,CAVIN1
+HGNC:9689,0,1,0,1,Baja,PTS
+HGNC:969,1,1,0,2,Media,BBS4
+HGNC:9692,0,0,0,0,Sin evidencia topologica,PTX3
+HGNC:970,0,1,0,1,Baja,BBS5
+HGNC:9701,0,0,0,0,Sin evidencia topologica,PURA
+HGNC:9705,0,0,0,0,Sin evidencia topologica,PVR
+HGNC:9706,1,1,0,2,Media,NECTIN1
+HGNC:9713,0,1,0,1,Baja,PEX19
+HGNC:9717,1,1,0,2,Media,PEX2
+HGNC:9719,1,1,0,2,Media,PEX5
+HGNC:9721,0,1,0,1,Baja,PYCR1
+HGNC:9722,1,1,1,3,Alta,ALDH18A1
+HGNC:9725,1,0,0,1,Baja,PYGL
+HGNC:9726,1,0,0,1,Baja,PYGM
+HGNC:9751,1,0,1,2,Media,QARS
+HGNC:9752,1,1,0,2,Media,QDPR
+HGNC:9758,1,0,1,2,Media,RAB1A
+HGNC:9760,1,0,1,2,Media,RAB11A
+HGNC:9761,1,0,0,1,Baja,RAB11B
+HGNC:9766,1,0,0,1,Baja,RAB27A
+HGNC:9768,0,0,0,0,Sin evidencia topologica,RAB28
+HGNC:977,1,0,0,1,Baja,BCAT2
+HGNC:9772,0,0,0,0,Sin evidencia topologica,RAB32
+HGNC:9777,0,0,0,0,Sin evidencia topologica,RAB3A
+HGNC:9784,0,0,0,0,Sin evidencia topologica,RAB5B
+HGNC:9785,0,0,0,0,Sin evidencia topologica,RAB5C
+HGNC:9788,0,1,1,2,Media,RAB7A
+HGNC:9801,1,0,1,2,Media,RAC1
+HGNC:9802,1,0,1,2,Media,RAC2
+HGNC:9803,0,0,0,0,Sin evidencia topologica,RAC3
+HGNC:9811,1,1,1,3,Alta,RAD21
+HGNC:9816,0,1,1,2,Media,RAD50
+HGNC:9817,1,0,1,2,Media,RAD51
+HGNC:9820,1,1,0,2,Media,RAD51C
+HGNC:9823,1,0,0,1,Baja,RAD51D
+HGNC:9829,1,1,1,3,Alta,RAF1
+HGNC:9831,1,1,1,3,Alta,RAG1
+HGNC:9832,1,1,0,2,Media,RAG2
+HGNC:9834,0,1,0,1,Baja,RAI1
+HGNC:9839,0,0,0,0,Sin evidencia topologica,RALA
+HGNC:9848,1,0,1,2,Media,RANBP2
+HGNC:9853,0,0,0,0,Sin evidencia topologica,IPO8
+HGNC:9857,0,1,0,1,Baja,RAP1B
+HGNC:9859,0,0,0,0,Sin evidencia topologica,RAP1GDS1
+HGNC:986,1,0,0,1,Baja,BCKDHA
+HGNC:9863,1,1,0,2,Media,RAPSN
+HGNC:9865,0,0,0,0,Sin evidencia topologica,RARB
+HGNC:987,1,0,0,1,Baja,BCKDHB
+HGNC:9870,1,0,1,2,Media,RARS
+HGNC:9871,1,0,1,2,Media,RASA1
+HGNC:9872,0,1,0,1,Baja,RASA2
+HGNC:9878,0,0,0,0,Sin evidencia topologica,RASGRP1
+HGNC:9879,0,0,0,0,Sin evidencia topologica,RASGRP2
+HGNC:9884,0,1,1,2,Media,RB1
+HGNC:9886,1,0,0,1,Baja,KDM5A
+HGNC:9888,1,0,1,2,Media,RBBP5
+HGNC:989,0,1,0,1,Baja,BCL10
+HGNC:9891,1,1,0,2,Media,RBBP8
+HGNC:9894,0,0,0,0,Sin evidencia topologica,RBL2
+HGNC:9896,0,1,0,1,Baja,RBM10
+HGNC:9905,1,1,1,3,Alta,RBM8A
+HGNC:9906,0,0,0,0,Sin evidencia topologica,RBFOX2
+HGNC:9921,0,0,0,0,Sin evidencia topologica,RBP3
+HGNC:9922,0,0,0,0,Sin evidencia topologica,RBP4
+HGNC:9936,0,0,0,0,Sin evidencia topologica,OPN1LW
+HGNC:9940,0,0,0,0,Sin evidencia topologica,RDH5
+HGNC:9942,1,0,0,1,Baja,PRPH2
+HGNC:9944,0,1,0,1,Baja,RDX
+HGNC:9949,1,0,1,2,Media,RECQL4
+HGNC:9954,1,0,1,2,Media,REL
+HGNC:9955,1,0,1,2,Media,RELA
+HGNC:9956,1,0,0,1,Baja,RELB
+HGNC:9957,1,0,0,1,Baja,RELN
+HGNC:9958,1,1,1,3,Alta,REN
+HGNC:9962,1,0,1,2,Media,UPF1
+HGNC:9964,0,0,0,0,Sin evidencia topologica,DPF2
+HGNC:9965,0,1,0,1,Baja,RERE
+HGNC:9966,0,0,1,1,Baja,REST
+HGNC:9967,1,1,1,3,Alta,RET
+HGNC:9972,0,0,1,1,Baja,RFC4
+HGNC:9984,0,0,0,0,Sin evidencia topologica,RFX3
+HGNC:9985,0,0,0,0,Sin evidencia topologica,RFX4
+HGNC:9986,0,1,0,1,Baja,RFX5
+HGNC:9987,0,1,0,1,Baja,RFXANK
+HGNC:9988,0,1,0,1,Baja,RFXAP
+HGNC:9990,0,0,0,0,Sin evidencia topologica,RGR
+HGNC:9998,0,0,0,0,Sin evidencia topologica,RGS2

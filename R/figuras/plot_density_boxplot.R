@@ -14,8 +14,11 @@ canal_labels <- c(
   physicalBIOGRID = "physicalBIOGRID"
 )
 
+# Coma decimal en los ejes, como en el texto de la memoria.
+options(OutDec = ",")
+
 dir.create("results/figures", recursive = TRUE, showWarnings = FALSE)
-png("results/figures/densidad_por_canal.png", width = 2100, height = 1300, res = 220)
+png("results/figures/densidad_por_canal.png", width = 5727, height = 3545, res = 600, type = "cairo")
 par(mar = c(7, 4.5, 1.5, 1.5))
 boxplot(
   density ~ canal, data = df,

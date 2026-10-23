@@ -8,7 +8,7 @@ Este repositorio contiene el código que produce los resultados y los propios re
 
 ## Pipeline
 
-Cinco scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee la salida de la fase anterior.
+Seis scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee la salida de la fase anterior.
 
 | Fase | Script | Qué hace | Salida (`outputs/`) |
 |---|---|---|---|
@@ -16,7 +16,8 @@ Cinco scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee
 | 2 | `construccion_redes.R` | Para cada panel con al menos 10 genes construye 7 redes (5 canales de STRING v12 y 2 redes de GLOWgenes) y calcula grado, intermediación y cercanía de cada gen. | `fase_2/` |
 | 3 | `clasificacion_topologica.R` | Clasifica cada gen como central, intermedio o periférico dentro de cada red (percentiles 80 y 20 de una puntuación compuesta). | `fase_3/` |
 | 4 | `integracion_clinvar.R` | Cuenta las variantes patogénicas, benignas y VUS de cada gen a partir de ClinVar. | `fase_4/` |
-| 5 | `analisis_estadistico.R` | Contraste por panel (chi-cuadrado y Wilcoxon gen a gen, con corrección FDR) y modelo pooled con confusores (longitud del gen, cobertura, pLI/LOEUF). | `fase_5/` |
+| 5 | `analisis_estadistico.R` | Contraste por panel (Wilcoxon gen a gen, con corrección FDR) y modelo pooled con confusores (longitud exónica, número de variantes clasificadas, pLI/LOEUF). | `fase_5/` |
+| 6 | `priorizacion_vus.R` | Puntúa cada gen con tres votos (centralidad en la red de confianza combinada, centralidad en `phenotypeHPOext` y conectividad con genes de enfermedad en STRING), asigna el nivel de prioridad resultante a las VUS de ClinVar y lo valida frente a las reclasificaciones ocurridas entre enero de 2025 y agosto de 2026. | `fase_6/` |
 
 ## Estructura del repositorio
 
@@ -24,7 +25,7 @@ Cinco scripts de `R/`, uno por fase, que se ejecutan en este orden. Cada uno lee
 R/                       un script por fase
 R/figuras/               scripts de las figuras de la memoria
 tests/testthat/          un fichero de tests por fase
-outputs/fase_1 ... fase_5/   CSV generados por cada fase
+outputs/fase_1 ... fase_6/   CSV generados por cada fase
 ```
 
 ## Versión y paquetes
@@ -50,6 +51,7 @@ source("R/construccion_redes.R");       main()   # Fase 2
 source("R/clasificacion_topologica.R"); main()   # Fase 3
 source("R/integracion_clinvar.R");      main()   # Fase 4
 source("R/analisis_estadistico.R");     main()   # Fase 5
+source("R/priorizacion_vus.R");         main()   # Fase 6
 ```
 
 Los resultados se escriben en `data/processed/fase_N/` y las descargas en `data/raw/`; ninguna de las dos carpetas forma parte del repositorio. Los CSV publicados en `outputs/` son los de la ejecución usada en la memoria.
@@ -59,7 +61,7 @@ Para la **ejecución de la Fase 2**, se deben descargar manualmente las dos rede
 
 ## Tests
 
-Hay 199 bloques `test_that()` (430 comprobaciones), repartidos de la siguiente manera:
+Hay 209 bloques `test_that()` (442 comprobaciones), repartidos de la siguiente manera:
 
 | Fichero | Bloques |
 |---|---|
@@ -67,21 +69,33 @@ Hay 199 bloques `test_that()` (430 comprobaciones), repartidos de la siguiente m
 | `test_construccion_redes.R` | 39 |
 | `test_clasificacion_topologica.R` | 11 |
 | `test_integracion_clinvar.R` | 42 |
-| `test_analisis_estadistico.R` | 89 |
+| `test_analisis_estadistico.R` | 69 |
+| `test_priorizacion_vus.R` | 30 |
 
 Los tests localizan la raíz del proyecto buscando la carpeta `.git`, por lo que se deben ejecutar desde un **clon** del repositorio (`git clone`).
 
 
 ## Figuras
 
-Los dos scripts de `R/figuras/` regeneran las figuras de la memoria en `results/figures/`. Se ejecutan desde la raíz del proyecto y leen los CSV de `data/processed/`.
+Los scripts de `R/figuras/` regeneran las figuras de la memoria en `results/figures/`. Se ejecutan desde la raíz del proyecto y leen los CSV de `data/processed/`. La Figura 1 (esquema del pipeline) no tiene script, porque se dibujó directamente en la memoria.
 
-- `plot_density_boxplot.R`.
-- `plot_panel_network.R`.
+| Figura | Script |
+|---|---|
+| 2 | `plot_panel_disease_group.R` |
+| 3 | `plot_top_genes_paneles.R` |
+| 4 | `plot_network_size.R` |
+| 5 | `plot_density_boxplot.R` |
+| 6 | `plot_roles_por_canal.R` |
+| 7 | `plot_panel_network.R` |
+| 8 | `plot_clinvar_coverage.R` |
+| 9 | `plot_confounder_forest.R` |
+| 10 | `plot_auc_wilcoxon.R` |
+| 11 | `plot_wilcoxon_disease_group.R` |
+| 12 | `plot_fase6_validacion.R` |
 
 ## Resultados publicados
 
-`outputs/` contiene todos los CSV de las cinco fases **salvo** `clinvar_gene_variants_long.csv` (aproximadamente 480 MB sin comprimir). Ese fichero, junto con un zip con todos los outputs, se encuentra en la sección **Releases** de este repositorio.
+`outputs/` contiene todos los CSV de las seis fases **salvo** los dos que superan el tamaño admitido por GitHub, `clinvar_gene_variants_long.csv` (Fase 4, aproximadamente 480 MB sin comprimir) y `vus_priorizadas.csv` (Fase 6, aproximadamente 260 MB sin comprimir). Ambos ficheros, comprimidos, junto con un zip con todos los outputs, se encuentran en la sección **Releases** de este repositorio.
 
 ## Fuentes de datos
 
@@ -91,6 +105,7 @@ Los dos scripts de `R/figuras/` regeneran las figuras de la memoria en `results/
 | STRING | v12 | 5 redes de interacción (canales de evidencia) |
 | GLOWgenes | GLOWgenesNets v1 | Redes de similitud fenotípica (HPO) y de interacción física (BioGRID) |
 | ClinVar | `variant_summary.txt.gz`, 31 de agosto de 2026 | Clasificación clínica de las variantes |
+| ClinVar (archivo histórico) | `variant_summary_2025-01.txt.gz` | Validación de la priorización de VUS (Fase 6) |
 | GENCODE | release 50 | Longitud de los genes |
 | gnomAD | v4.1 (respaldo: v2.1.1 para los cromosomas X e Y) | Restricción a la pérdida de función (pLI, LOEUF) |
 

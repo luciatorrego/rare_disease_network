@@ -1,0 +1,11 @@
+nivel_prioridad,resultado_gen,n_genes
+Alta,benigna,73
+Baja,benigna,379
+Media,benigna,260
+Sin datos de topologia,benigna,8
+Sin evidencia topologica,benigna,576
+Alta,patogenica,171
+Baja,patogenica,434
+Media,patogenica,325
+Sin datos de topologia,patogenica,1
+Sin evidencia topologica,patogenica,394
